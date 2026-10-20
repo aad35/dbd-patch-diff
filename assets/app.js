@@ -133,7 +133,8 @@ async function viewPatches(q) {
         </div>
       </a>`;
     }).join("")}
-    <p class="src">データ元: Steam の Dead by Daylight 公式お知らせ（日本語版パッチノート）。強化・弱体化の判定はプログラムによる自動判定のため、正確でない場合があります。最終更新: ${esc(index.updatedAt.slice(0, 10))}</p>`;
+    <p class="src">データ元: Steam の Dead by Daylight 公式お知らせ（日本語版パッチノート）。強化・弱体化の判定はプログラムによる自動判定のため、正確でない場合があります。最終更新: ${esc(index.updatedAt.slice(0, 10))}<br>
+      当サイトは非公式のファンサイトです。<a href="privacy.html">プライバシーポリシー・免責事項</a></p>`;
 }
 
 // ---- 画面: パッチ詳細（カテゴリ別タブ） ----
