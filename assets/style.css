@@ -212,6 +212,8 @@ details.full ul { margin: 6px 0 0; padding-left: 20px; font-size: 13px; line-hei
   background: #15161a; border-top: 1px solid var(--border);
   display: flex; align-items: center; justify-content: center;
 }
+/* 忍者AdMax のスマホ用広告枠は PC では何も出さないので、空のときは枠ごと隠す */
+.ad-slot:not(:has(div, iframe, img, .ad-placeholder)) { display: none; }
 .ad-placeholder { font-size: 11px; color: #5d626d; border: 1px dashed #3a3e47; padding: 6px 14px; border-radius: 6px; }
 
 .loading { color: var(--muted); font-size: 13px; text-align: center; padding: 40px 0; }
