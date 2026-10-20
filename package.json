@@ -1,0 +1,16 @@
+{
+  "name": "dbd-patch-diff",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "serve": "node scripts/serve.mjs",
+    "images": "node scripts/images.mjs",
+    "fetch": "node scripts/fetch.mjs",
+    "build": "node scripts/build.mjs",
+    "update": "node scripts/fetch.mjs && node scripts/build.mjs",
+    "test": "node --test \"scripts/**/*.test.mjs\""
+  }
+}

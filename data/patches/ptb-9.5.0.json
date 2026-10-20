@@ -1,0 +1,2571 @@
+{
+ "id": "ptb-9.5.0",
+ "version": "9.5.0",
+ "kind": "ptb",
+ "title": "PTB 9.5.0 | パッチノート",
+ "date": "2026-02-24",
+ "url": "https://store.steampowered.com/news/app/381210/view/505102352007563353",
+ "changes": [
+  {
+   "entity": "新しいマップ：トリックスターの妄想",
+   "cat": "system",
+   "section": "新しいマップ：トリックスターの妄想",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "「眠らない界隈」が新しい領域として登場",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "「眠らない界隈」が新しい領域として登場"
+   ]
+  },
+  {
+   "entity": "新しい生存者のパーク：",
+   "cat": "survivor",
+   "section": "新しい生存者：クォン・テヨン",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "フロー状態 発電機の修理が完了するたびに、トークンを1個得る（5個まで）",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "トークン1個につき：",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "トーテムを浄化または清める速度が8/9/10%上昇する",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "治療する速度が8/9/10%上昇する",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "生存者をフックから救助する速度が8/9/10%上昇する",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "フロー状態 発電機の修理が完了するたびに、トークンを1個得る（5個まで）",
+    "トークン1個につき：",
+    "トーテムを浄化または清める速度が8/9/10%上昇する",
+    "治療する速度が8/9/10%上昇する",
+    "生存者をフックから救助する速度が8/9/10%上昇する"
+   ]
+  },
+  {
+   "entity": "秘密の場所",
+   "cat": "survivor",
+   "section": "新しい生存者：クォン・テヨン",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "他の生存者を治療中、自分とその生存者が「忍び」を得る",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "オブセッションの治療を完了したとき、オブセッションが「忍び」を20/25/30秒間得る",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "儀式開始時、自分がオブセッションになる確率が低下する",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "他の生存者を治療中、自分とその生存者が「忍び」を得る",
+    "オブセッションの治療を完了したとき、オブセッションが「忍び」を20/25/30秒間得る",
+    "儀式開始時、自分がオブセッションになる確率が低下する"
+   ]
+  },
+  {
+   "entity": "先読み",
+   "cat": "survivor",
+   "section": "新しい生存者：クォン・テヨン",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "あなたが殺人鬼の脅威範囲内にいるか、殺人鬼に追跡されている間：",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "最も近い5つのパレットと窓のオーラがあなたに視える",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "パレットを倒す速度が50%上昇する",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "パレットを倒すと、30/25/20秒のクールダウンが発生する",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "あなたが殺人鬼の脅威範囲内にいるか、殺人鬼に追跡されている間：",
+    "最も近い5つのパレットと窓のオーラがあなたに視える",
+    "パレットを倒す速度が50%上昇する",
+    "パレットを倒すと、30/25/20秒のクールダウンが発生する"
+   ]
+  },
+  {
+   "entity": "要約",
+   "cat": "killer",
+   "section": "殺人鬼のアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "トリックスターはナイフを命中させたり生存者を負傷させるなど異なるアクションを連続させることでスタイルポイントを獲得する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "トリックスターはスタイルポイントが一定数貯まるとスタイルランクが上がる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "スタイルランクが上がるごとにトリックスターのナイフを投げる速度やロッカーでナイフを補充する速度が上昇する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "メインイベントは最高のスタイルランクに達したときのみ発動できる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "スタイルポイントとスタイルランクの進行状況は、トリックスター専用にデザインされた新しいUIで表示される",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "トリックスターはナイフを命中させたり生存者を負傷させるなど異なるアクションを連続させることでスタイルポイントを獲得する",
+    "トリックスターはスタイルポイントが一定数貯まるとスタイルランクが上がる",
+    "スタイルランクが上がるごとにトリックスターのナイフを投げる速度やロッカーでナイフを補充する速度が上昇する",
+    "メインイベントは最高のスタイルランクに達したときのみ発動できる",
+    "スタイルポイントとスタイルランクの進行状況は、トリックスター専用にデザインされた新しいUIで表示される"
+   ]
+  },
+  {
+   "entity": "基本能力",
+   "cat": "killer",
+   "section": "殺人鬼のアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "トリックスターの移動速度が4.4メートル/秒に低下",
+     "after": "4.4メートル/秒",
+     "before": "4.6メートル/秒",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "ナイフの数が36本に減少",
+     "after": "36",
+     "before": "44",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "脅威範囲が24メートルに縮小",
+     "after": "24メートル",
+     "before": "32メートル",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "投げモードに入るのにかかる時間が0.3秒に減少",
+     "after": "0.3秒",
+     "before": "0.35秒",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "投げモードから出るのにかかる時間が1.15秒に減少",
+     "after": "1.15秒",
+     "before": "1.25秒",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "ナイフを投げる間隔が0.33秒に増加",
+     "after": "0.33秒",
+     "before": "0.3秒",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "投げモード中の基本移動速度が3.68メートル/秒に低下",
+     "after": "3.68メートル/秒",
+     "before": "3.86メートル/秒",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "トリックスターの移動速度が4.4メートル/秒に低下（変更前：4.6メートル/秒）",
+    "ナイフの数が36本に減少（変更前：44）",
+    "脅威範囲が24メートルに縮小（変更前：32メートル）",
+    "投げモードに入るのにかかる時間が0.3秒に減少（変更前：0.35秒）",
+    "投げモードから出るのにかかる時間が1.15秒に減少（変更前：1.25秒）",
+    "ナイフを投げる間隔が0.33秒に増加（変更前：0.3秒）",
+    "投げモード中の基本移動速度が3.68メートル/秒に低下（変更前：3.86メートル/秒）",
+    "ナイフを連続で8本投げたあと、投げモード中の移動速度が3.53メートル/秒に低下する",
+    "ナイフを連続で16本投げたあと、投げモード中の移動速度が3.16メートル/秒に低下する",
+    "ナイフを投げるほどナイフを投げる速度が上昇：",
+    "ナイフを連続で8本投げたあと、ナイフを投げる速度が50%上昇する",
+    "ナイフを連続で16本投げたあと、ナイフを投げる速度が100%上昇する"
+   ]
+  },
+  {
+   "entity": "裂傷",
+   "cat": "killer",
+   "section": "殺人鬼のアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "裂傷は整数でのみカウントされる",
+     "after": null,
+     "before": "小数で減少",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "裂傷メーターの上限が6に減少",
+     "after": "6",
+     "before": "8",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "裂傷メーターが減り始めるまでの時間が12秒に減少",
+     "after": "12秒",
+     "before": "15秒",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "裂傷メーターの各ユニットが減少するのにかかる時間が3秒に増加",
+     "after": "3秒",
+     "before": "2秒",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "裂傷は整数でのみカウントされる（変更前：小数で減少）",
+    "裂傷メーターの上限が6に減少（変更前：8）",
+    "裂傷メーターが減り始めるまでの時間が12秒に減少（変更前：15秒）",
+    "裂傷メーターの各ユニットが減少するのにかかる時間が3秒に増加（変更前：2秒）",
+    "裂傷効果の表示方法を変更",
+    "ナイフが当たり裂傷が増えた瞬間に、その生存者の体の上に視覚効果が表示され、生存者と殺人鬼の両方に見える",
+    "生存者の画面に表示されていた裂傷の「カットマーク」を削除"
+   ]
+  },
+  {
+   "entity": "スタイルポイント",
+   "cat": "killer",
+   "section": "殺人鬼のアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "トリックスターはコンボアクションを行うと、スタイルポイントを獲得する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "続けて行った2つのアクションが異なる際にコンボアクションとみなされる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "以下のアクションからは1スタイルポイントを獲得：",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ナイフを生存者に命中させる（最初のヒットのみ）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "生存者を負傷させる（裂傷または通常攻撃により）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "生存者をフックに吊るす",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "倒されたパレットを通常破壊する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "破壊可能な壁を通常破壊する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "発電機にダメージを与える",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "恵みのトーテムを鎮圧する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "以下のアクションからは2スタイルポイントを獲得：",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "4メートル以上の場所から生存者にナイフを4本命中させる（ナイフを外すことなく、または投げモードから出ることなく）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "16メートル以上の場所から生存者にナイフを命中させる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "生存者を妨害する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "以下のアクションからは3スタイルポイントを獲得：",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ナイフを小さな隙間を通して生存者に命中させる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "トリックスターはコンボアクションを行うと、スタイルポイントを獲得する",
+    "続けて行った2つのアクションが異なる際にコンボアクションとみなされる",
+    "以下のアクションからは1スタイルポイントを獲得：",
+    "ナイフを生存者に命中させる（最初のヒットのみ）",
+    "生存者を負傷させる（裂傷または通常攻撃により）",
+    "生存者をフックに吊るす",
+    "倒されたパレットを通常破壊する",
+    "破壊可能な壁を通常破壊する",
+    "発電機にダメージを与える",
+    "恵みのトーテムを鎮圧する",
+    "以下のアクションからは2スタイルポイントを獲得：",
+    "4メートル以上の場所から生存者にナイフを4本命中させる（ナイフを外すことなく、または投げモードから出ることなく）",
+    "16メートル以上の場所から生存者にナイフを命中させる",
+    "生存者を妨害する",
+    "以下のアクションからは3スタイルポイントを獲得：",
+    "ナイフを小さな隙間を通して生存者に命中させる"
+   ]
+  },
+  {
+   "entity": "スタイルランク",
+   "cat": "killer",
+   "section": "殺人鬼のアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "スタイルランクには6つの段階がある。Eランクから始まり、D、C、B、A、Sランクまで",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "各スタイルランクで、ナイフ投げの最大速度とロッカーでのナイフ補充速度のボーナスが設定されている",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ランクが高くなるほど、この速度ボーナスが大きくなる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ランクが高くなるほど、そのランク到達に必要なスタイルポイントが多くなる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ランクが高くなるほど、そのコンボタイマーが短くなる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "コンボタイマーが切れると、ランクは一つ前のランクに下がる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "スタイルポイントを獲得すると、現スタイルランクのコンボタイマーがリセットされる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "スタイルランクのコンボタイマーは、トリックスターが生存者や物体にアクションを行っている間は一時停止される",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "スタイルランクには6つの段階がある。Eランクから始まり、D、C、B、A、Sランクまで",
+    "各スタイルランクで、ナイフ投げの最大速度とロッカーでのナイフ補充速度のボーナスが設定されている",
+    "ランクが高くなるほど、この速度ボーナスが大きくなる",
+    "ランクが高くなるほど、そのランク到達に必要なスタイルポイントが多くなる",
+    "ランクが高くなるほど、そのコンボタイマーが短くなる",
+    "コンボタイマーが切れると、ランクは一つ前のランクに下がる",
+    "スタイルポイントを獲得すると、現スタイルランクのコンボタイマーがリセットされる",
+    "スタイルランクのコンボタイマーは、トリックスターが生存者や物体にアクションを行っている間は一時停止される"
+   ]
+  },
+  {
+   "entity": "Sランク",
+   "cat": "killer",
+   "section": "殺人鬼のアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Sランクに達したとき：",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "殺人鬼の本能により、トリックスターの44メートル以内にいる生存者の位置が4.4秒間判明する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "全ての生存者が通知を受ける",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Sランクの間：",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "トリックスターが44メートルの脅威範囲を得る",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "「子守唄」が聞こえなくなる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "裂傷メーターの減少速度が50%低下する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ナイフ投げ速度とロッカーでのナイフ補充速度が最大限まで上昇する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "メインイベントが発動可能になる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Sランクのコンボタイマーは66秒",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Sランクのコンボタイマーは、A以下のスタイルランクのように一時停止・リセットされない",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Sランクは常に、Eランクにリセットする（タイマーが切れたとき、またはメインイベントが終わったとき）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Sランクに達したとき：",
+    "殺人鬼の本能により、トリックスターの44メートル以内にいる生存者の位置が4.4秒間判明する",
+    "全ての生存者が通知を受ける",
+    "Sランクの間：",
+    "トリックスターが44メートルの脅威範囲を得る",
+    "「子守唄」が聞こえなくなる",
+    "裂傷メーターの減少速度が50%低下する",
+    "ナイフ投げ速度とロッカーでのナイフ補充速度が最大限まで上昇する",
+    "メインイベントが発動可能になる",
+    "Sランクのコンボタイマーは66秒",
+    "Sランクのコンボタイマーは、A以下のスタイルランクのように一時停止・リセットされない",
+    "Sランクは常に、Eランクにリセットする（タイマーが切れたとき、またはメインイベントが終わったとき）"
+   ]
+  },
+  {
+   "entity": "メインイベント",
+   "cat": "killer",
+   "section": "殺人鬼のアップデート",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "メインイベントは8秒持続する",
+     "after": "8秒",
+     "before": "6秒",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "アビリティ発動のボタンを押すとメインイベントが発動する",
+    "メインイベントは8秒持続する（変更前：6秒）",
+    "トリックスターはデフォルトのナイフ投げ速度の1.67倍の速度でナイフを投げる",
+    "注：これはナイフの連射速度またはスタイルランクのナイフ投げ速度に影響されない",
+    "トリックスターの近くにいる生存者は通知を受ける",
+    "メインイベント発動中：",
+    "Sランクタイマーが一時停止する",
+    "ナイフが生存者に命中した分だけボーナスのスタイルポイントを獲得する",
+    "トリックスターはアビリティ発動のボタンを押してメインイベントをキャンセルできる",
+    "メインイベント終了時：",
+    "トリックスターの特殊能力は4秒のクールダウンに入る",
+    "SランクはEランクにリセットする",
+    "メインイベント中に獲得したボーナスのスタイルポイントに応じて、スタイルランクが上がる"
+   ]
+  },
+  {
+   "entity": "トリックスターのアドオン",
+   "cat": "killer",
+   "section": "殺人鬼のアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "思い出のナイフ（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ナイフを構えている間、照準が表示される",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "トリック用ポーチ",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "所持できるナイフの上限数が4本増加する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "儀式開始時に所持するナイフ数が4本追加される",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "死の声部のコード（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "DランクからAランクまで、スタイルランクが低下するまでの時間が20%増加する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "烈火のケーブル（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "メインイベントを発動したあとの名演のクールダウンが10%短縮する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ジウンのサイン（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "メインイベントの持続時間が33%増加する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "幸運のナイフ（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ナイフが8回命中するごとに、いずれかのランダムなボーナスが発生する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "裂傷を追加で100%与える",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "3%の迅速を3秒間得る",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "追加でスタイルポイントを得る",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "檻の心のシューズ（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "投げモード中の移動速度が1%上昇する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "テキーラ・ムーンロック（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "スタイルランクが上がったあと、8秒間ナイフを投げる速度が10%上昇する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "血まみれのボア（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "裂傷メーターが減る速度が10%低下する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "シングル曲『狙いうち』（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "裂傷メーターが減り始めるまでの時間が15%増加する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "フィズスピンソーダ（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "投げモードで移動速度が低下するまでに投げるナイフの数が2つ増加する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "『ウェイティング・フォー・ユー』の時計（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "裂傷メーターがゼロまで減少した生存者のオーラが4秒間視える",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "引き裂き魔のサポーター（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "スタイルランク1つにつき、窓の通常乗り越えを行う速度、パレットや破壊可能な壁を通常破壊する速度、発電機にダメージを与える速度が3%上昇する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "美しい旋律の殺人",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ロッカーでのナイフ補充速度が25%上昇する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ダイヤのカフスボタン",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "生存者の裂傷があと1回のナイフ命中で最大に到達する時、その生存者のオーラが6秒間視える",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "エッジの効いた復活アルバム（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "32メートル以上離れた場所からナイフを命中させると、裂傷を追加で100%与える",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "シングル『カット・スルー・ユー』（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "スタイルランクが上がるごとに、重複可能な1%の迅速ボーナスを得る。この重複効果は何らかの理由でスタイルランクが低下するまで持続する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "断末魔の編集音源（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "メインイベントが終わったとき、ナイフが最大数の50%補充される",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "玉虫色のフォトカード（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "メインイベントの持続時間が100%増加する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "メインイベントを発動すると、6秒間、自分のオーラが生存者全員に視え、すべての発電機がブロックされる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "「トリック用の刃物」アドオンは利用停止としています",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "思い出のナイフ（リワーク）",
+    "ナイフを構えている間、照準が表示される",
+    "トリック用ポーチ",
+    "所持できるナイフの上限数が4本増加する",
+    "儀式開始時に所持するナイフ数が4本追加される",
+    "死の声部のコード（リワーク）",
+    "DランクからAランクまで、スタイルランクが低下するまでの時間が20%増加する",
+    "烈火のケーブル（リワーク）",
+    "メインイベントを発動したあとの名演のクールダウンが10%短縮する",
+    "ジウンのサイン（リワーク）",
+    "メインイベントの持続時間が33%増加する",
+    "幸運のナイフ（リワーク）",
+    "ナイフが8回命中するごとに、いずれかのランダムなボーナスが発生する",
+    "裂傷を追加で100%与える",
+    "3%の迅速を3秒間得る",
+    "追加でスタイルポイントを得る",
+    "檻の心のシューズ（リワーク）",
+    "投げモード中の移動速度が1%上昇する",
+    "テキーラ・ムーンロック（リワーク）",
+    "スタイルランクが上がったあと、8秒間ナイフを投げる速度が10%上昇する",
+    "血まみれのボア（リワーク）",
+    "裂傷メーターが減る速度が10%低下する",
+    "シングル曲『狙いうち』（リワーク）",
+    "裂傷メーターが減り始めるまでの時間が15%増加する",
+    "フィズスピンソーダ（リワーク）",
+    "投げモードで移動速度が低下するまでに投げるナイフの数が2つ増加する",
+    "『ウェイティング・フォー・ユー』の時計（リワーク）",
+    "裂傷メーターがゼロまで減少した生存者のオーラが4秒間視える",
+    "引き裂き魔のサポーター（リワーク）",
+    "スタイルランク1つにつき、窓の通常乗り越えを行う速度、パレットや破壊可能な壁を通常破壊する速度、発電機にダメージを与える速度が3%上昇する",
+    "美しい旋律の殺人",
+    "ロッカーでのナイフ補充速度が25%上昇する",
+    "ダイヤのカフスボタン",
+    "生存者の裂傷があと1回のナイフ命中で最大に到達する時、その生存者のオーラが6秒間視える",
+    "エッジの効いた復活アルバム（リワーク）",
+    "32メートル以上離れた場所からナイフを命中させると、裂傷を追加で100%与える",
+    "シングル『カット・スルー・ユー』（リワーク）",
+    "スタイルランクが上がるごとに、重複可能な1%の迅速ボーナスを得る。この重複効果は何らかの理由でスタイルランクが低下するまで持続する",
+    "断末魔の編集音源（リワーク）",
+    "メインイベントが終わったとき、ナイフが最大数の50%補充される",
+    "玉虫色のフォトカード（リワーク）",
+    "メインイベントの持続時間が100%増加する",
+    "メインイベントを発動すると、6秒間、自分のオーラが生存者全員に視え、すべての発電機がブロックされる",
+    "「トリック用の刃物」アドオンは利用停止としています"
+   ],
+   "character": "トリックスター"
+  },
+  {
+   "entity": "ファースト",
+   "cat": "killer",
+   "section": "殺人鬼のアップデート",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "世界の破壊モードの第2段階の長さが60秒から50秒に短縮",
+     "after": "50秒",
+     "before": "60秒",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "世界の破壊モードの第2段階の長さが60秒から50秒に短縮",
+    "ツル攻撃のチャージ完了を知らせる音が生存者に少し早めに聞こえるよう変更（チャージ完了0.33秒、通知音0.18秒）",
+    "殺人鬼の基本突進攻撃速度を6.6メートル/秒から6.9メートル/秒に変更し、他の殺人鬼と同等になるよう調整"
+   ],
+   "character": "ファースト"
+  },
+  {
+   "entity": "ファーストのアドオン",
+   "cat": "killer",
+   "section": "殺人鬼のアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "ビーズ迷路：世界の破壊モードの長さが、生き残っている生存者1人につき2.5秒増加する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "砕けたリストロケット：レア度をコモンからアンコモンに変更",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "血塗れのローラースケート：アンダーゲート攻撃を発動したとき、地上に出てから1.5秒間、迅速を得る",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "古いラジオ：レア度をアンコモンからコモンに変更",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "偽造死亡証明書：ツル攻撃で生存者に世界の破壊トークンを付与すると、探知不可のステータス効果を得る。この効果は、次に世界の破壊モードが発動するまで続く",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ウサギの死骸：レア度をレアからベリーレアに変更。生存者が疲労のステータス効果を10秒間得て、裏側の世界の移動のクールダウンが5秒増加する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "壊れたスケートボード：世界の破壊モードが始まると、次の65秒間、窓の通常乗り越えを行う速度が30%上昇し、32メートル以内にあるパレットと窓のオーラが自分に視える",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ピザ箱ゴーグル：レア度をベリーレアからレアに変更。アンダーゲート攻撃の効果範囲が90%縮小し、攻撃発動のクールダウン時間が25秒短縮する。アンダーゲート攻撃で地面に出たあとの動きのクールダウン時間が80%短縮する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "チェスの駒：裏側の世界に入る能力のクールダウンが増加するマイナスの効果を削除。2チャージ使えるツル攻撃の効果範囲が40%縮小する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "ビーズ迷路：世界の破壊モードの長さが、生き残っている生存者1人につき2.5秒増加する",
+    "砕けたリストロケット：レア度をコモンからアンコモンに変更",
+    "血塗れのローラースケート：アンダーゲート攻撃を発動したとき、地上に出てから1.5秒間、迅速を得る",
+    "古いラジオ：レア度をアンコモンからコモンに変更",
+    "偽造死亡証明書：ツル攻撃で生存者に世界の破壊トークンを付与すると、探知不可のステータス効果を得る。この効果は、次に世界の破壊モードが発動するまで続く",
+    "ウサギの死骸：レア度をレアからベリーレアに変更。生存者が疲労のステータス効果を10秒間得て、裏側の世界の移動のクールダウンが5秒増加する",
+    "壊れたスケートボード：世界の破壊モードが始まると、次の65秒間、窓の通常乗り越えを行う速度が30%上昇し、32メートル以内にあるパレットと窓のオーラが自分に視える",
+    "ピザ箱ゴーグル：レア度をベリーレアからレアに変更。アンダーゲート攻撃の効果範囲が90%縮小し、攻撃発動のクールダウン時間が25秒短縮する。アンダーゲート攻撃で地面に出たあとの動きのクールダウン時間が80%短縮する",
+    "チェスの駒：裏側の世界に入る能力のクールダウンが増加するマイナスの効果を削除。2チャージ使えるツル攻撃の効果範囲が40%縮小する"
+   ],
+   "character": "ファースト"
+  },
+  {
+   "entity": "喰種",
+   "cat": "killer",
+   "section": "殺人鬼のアップデート",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "赫子の跳躍の掴み攻撃を試みる際に照準が生存者に固定される時間を0.18秒から0.05秒に調整",
+     "after": "0.05秒",
+     "before": "0.18秒",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "赫子の跳躍の掴み攻撃を試みる際に照準が生存者に固定される時間を0.18秒から0.05秒に調整",
+    "赫子の跳躍で乗り越えを行った際に近くの生存者（殺人鬼に向かって乗り越えを行おうとした生存者も含め）に対するヒットの自動判定をアップデートし、一貫性を向上"
+   ],
+   "character": "喰種"
+  },
+  {
+   "entity": "殺人鬼アクションのアップデート",
+   "cat": "killer",
+   "section": "殺人鬼アクションのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "今回アップデートされるパークの説明文（下記のセクションの説明を参照）で同様の区別が明確化されたことに伴い、殺人鬼が行う通常アクションと特殊アクションの区別を明確にしました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "アップデート9.5.0以降、以下の用語が特殊能力、アドオン、パークの説明文で使用されます",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "今回アップデートされるパークの説明文（下記のセクションの説明を参照）で同様の区別が明確化されたことに伴い、殺人鬼が行う通常アクションと特殊アクションの区別を明確にしました",
+    "アップデート9.5.0以降、以下の用語が特殊能力、アドオン、パークの説明文で使用されます"
+   ]
+  },
+  {
+   "entity": "通常破壊",
+   "cat": "killer",
+   "section": "殺人鬼アクションのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "どの殺人鬼にも備わるデフォルトの能力で、パレットまたは破壊可能な壁を破壊すること",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "どの殺人鬼にも備わるデフォルトの能力で、パレットまたは破壊可能な壁を破壊すること"
+   ]
+  },
+  {
+   "entity": "特殊破壊",
+   "cat": "killer",
+   "section": "殺人鬼アクションのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "殺人鬼の特殊能力が可能にする方法で、倒されたパレットまたは破壊可能な壁を破壊すること",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "殺人鬼の特殊能力が可能にする方法で、倒されたパレットまたは破壊可能な壁を破壊すること"
+   ]
+  },
+  {
+   "entity": "通常乗り越え",
+   "cat": "killer",
+   "section": "殺人鬼アクションのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "どの殺人鬼にも備わるデフォルトの能力で、窓を乗り越えること",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "どの殺人鬼にも備わるデフォルトの能力で、窓を乗り越えること"
+   ]
+  },
+  {
+   "entity": "特殊乗り越え",
+   "cat": "killer",
+   "section": "殺人鬼アクションのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "殺人鬼の特殊能力が可能にする方法で、窓または倒されたパレットを乗り越えること",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "殺人鬼の特殊能力が可能にする方法で、窓または倒されたパレットを乗り越えること"
+   ]
+  },
+  {
+   "entity": "発電機へのダメージ",
+   "cat": "killer",
+   "section": "殺人鬼アクションのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "どの殺人鬼にも備わるデフォルトの能力で、発電機にダメージを与え、発電機が進行度を失うこと",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "どの殺人鬼にも備わるデフォルトの能力で、発電機にダメージを与え、発電機が進行度を失うこと"
+   ]
+  },
+  {
+   "entity": "発電機の爆発",
+   "cat": "killer",
+   "section": "殺人鬼アクションのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "殺人鬼の特殊能力またはパークが可能にする方法で、発電機が進行度を失うこと",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "これらの新しい用語を使用することで、特定のアクションが互いに連携して機能する場合、その状況をより正確に表現できるようになります（特に殺人鬼の特殊能力と殺人鬼のパーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "これらのアクションが明確に区別されるように、該当するゲームプレイの説明文を更新",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "説明文がアップデートされた殺人鬼の特殊能力：",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "殺人鬼の特殊能力またはパークが可能にする方法で、発電機が進行度を失うこと",
+    "これらの新しい用語を使用することで、特定のアクションが互いに連携して機能する場合、その状況をより正確に表現できるようになります（特に殺人鬼の特殊能力と殺人鬼のパーク）",
+    "これらのアクションが明確に区別されるように、該当するゲームプレイの説明文を更新",
+    "説明文がアップデートされた殺人鬼の特殊能力："
+   ]
+  },
+  {
+   "entity": "通常破壊",
+   "cat": "killer",
+   "section": "殺人鬼アクションのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "シンギュラリティ",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "シンギュラリティ"
+   ]
+  },
+  {
+   "entity": "特殊破壊",
+   "cat": "killer",
+   "section": "殺人鬼アクションのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "シェイプ",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ヒルビリー",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "カニバル",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "デモゴルゴン",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "鬼",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ブライト",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ネメシス",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ナイト",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ダークロード",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "シェイプ",
+    "ヒルビリー",
+    "カニバル",
+    "デモゴルゴン",
+    "鬼",
+    "ブライト",
+    "ネメシス",
+    "ナイト",
+    "ダークロード"
+   ]
+  },
+  {
+   "entity": "特殊乗り越え",
+   "cat": "killer",
+   "section": "殺人鬼アクションのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "リージョン",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ウェスカー",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "グッドガイ",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "喰種",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ガスー",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "説明文がアップデートされた殺人鬼のアドオン：",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "レイス - 「蛇」 - 煤",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "レイス - 「影舞」 - 白",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "レイス - 「影舞」 - 血",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ヒルビリー - 軽量チェーン",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "スピリット - 金継ぎの茶碗",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "リージョン - 玉虫色のバッジ",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ゴーストフェイス - オルセンの財布",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "デモゴルゴン - バーブの眼鏡",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "エクセキューショナー - 黒曜石の酒杯",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ウェスカー - 研究所の写真",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ナイト - 略奪した蜂蜜酒",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "スカルマーチャント - 地理情報の読み出し",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ゼノモーフ - 自爆装置のボルト",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "グッドガイ - 安全帽",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "リッチ - テレキネシス・リング",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "リッチ - ヴォーパル・ソード",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ダークロード - 懐中時計",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ダークロード - シルフの羽",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ハウンドマスター - 火薬缶",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "喰種 - CCG身分証明書",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "喰種 - 赤頭のムカデ",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "喰種 - 玉虫色の眼帯",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "アニマトロニック - エンドCPU",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ガスー - 腐ったブタ",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ガスー - 謎めいた秘薬",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ファースト - 砕けたリストロケット",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ファースト - ステンドグラスの壁画",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ファースト - 壊れたスケートボード",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ファースト - 電気ショック首輪",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "説明文がアップデートされた殺人鬼のパーク：",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "野蛮な力",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "オーバーチャージ",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ファイヤー・アップ",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "まやかし",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "イタチが飛び出した",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "怨霊の怒り（パレットが「破壊される」）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "サージ",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "煩悶のトレイル",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ドラゴンの掌握",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "迫害",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "イラプション",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "悶絶のフック：共鳴する苦痛",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "海の呼び声",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "解体（パレットが「破壊される」）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "人体の超越",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "隠れ場なし",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "執拗な狩り",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "バシッ！",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "機械学習",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "アンバウンド",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "アンフォーシーン",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "アンダン",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "闇の慢心",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "従業員募集中",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "時間の逆行",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "呪術：ハイブマインド",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "説明文がアップデートされた生存者のパーク：",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "警戒",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "地雷爆破",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "盗聴",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "化学的な罠",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ジャ・ジャ・ジャ・ジャーン",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "リージョン",
+    "ウェスカー",
+    "グッドガイ",
+    "喰種",
+    "ガスー",
+    "説明文がアップデートされた殺人鬼のアドオン：",
+    "レイス - 「蛇」 - 煤",
+    "レイス - 「影舞」 - 白",
+    "レイス - 「影舞」 - 血",
+    "ヒルビリー - 軽量チェーン",
+    "スピリット - 金継ぎの茶碗",
+    "リージョン - 玉虫色のバッジ",
+    "ゴーストフェイス - オルセンの財布",
+    "デモゴルゴン - バーブの眼鏡",
+    "エクセキューショナー - 黒曜石の酒杯",
+    "ウェスカー - 研究所の写真",
+    "ナイト - 略奪した蜂蜜酒",
+    "スカルマーチャント - 地理情報の読み出し",
+    "ゼノモーフ - 自爆装置のボルト",
+    "グッドガイ - 安全帽",
+    "リッチ - テレキネシス・リング",
+    "リッチ - ヴォーパル・ソード",
+    "ダークロード - 懐中時計",
+    "ダークロード - シルフの羽",
+    "ハウンドマスター - 火薬缶",
+    "喰種 - CCG身分証明書",
+    "喰種 - 赤頭のムカデ",
+    "喰種 - 玉虫色の眼帯",
+    "アニマトロニック - エンドCPU",
+    "ガスー - 腐ったブタ",
+    "ガスー - 謎めいた秘薬",
+    "ファースト - 砕けたリストロケット",
+    "ファースト - ステンドグラスの壁画",
+    "ファースト - 壊れたスケートボード",
+    "ファースト - 電気ショック首輪",
+    "説明文がアップデートされた殺人鬼のパーク：",
+    "野蛮な力",
+    "オーバーチャージ",
+    "ファイヤー・アップ",
+    "まやかし",
+    "イタチが飛び出した",
+    "怨霊の怒り（パレットが「破壊される」）",
+    "サージ",
+    "煩悶のトレイル",
+    "ドラゴンの掌握",
+    "迫害",
+    "イラプション",
+    "悶絶のフック：共鳴する苦痛",
+    "海の呼び声",
+    "解体（パレットが「破壊される」）",
+    "人体の超越",
+    "隠れ場なし",
+    "執拗な狩り",
+    "バシッ！",
+    "機械学習",
+    "アンバウンド",
+    "アンフォーシーン",
+    "アンダン",
+    "闇の慢心",
+    "従業員募集中",
+    "時間の逆行",
+    "呪術：ハイブマインド",
+    "説明文がアップデートされた生存者のパーク：",
+    "警戒",
+    "地雷爆破",
+    "盗聴",
+    "化学的な罠",
+    "ジャ・ジャ・ジャ・ジャーン"
+   ]
+  },
+  {
+   "entity": "生存者アイテムのアップデート",
+   "cat": "survivor",
+   "section": "生存者アイテムのアップデート",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "以下のアイテムのチャージ量を4に増加",
+     "after": null,
+     "before": "2",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "煙霧の不透明度が100%増加する",
+     "after": null,
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "霧の小瓶",
+    "煙霧の視覚効果とレンダリング方法を改良",
+    "煙の内側と外側の不透明度をすべての領域で統一",
+    "外側から見た際には煙が常に完全に不透明に見えるよう変更",
+    "各領域特有のライティングと色彩に適応",
+    "以下の重要なオーラを煙霧を通しても見えるよう変更",
+    "瀕死状態の生存者のオーラ",
+    "フックに吊るされた生存者のオーラ",
+    "以下のアイテムのチャージ量を4に増加（変更前：2）",
+    "見習いの霧の小瓶",
+    "職人の霧の小瓶",
+    "ヴィゴの霧の小瓶",
+    "霧の小瓶のアドオン",
+    "強力なエキス（ヴィセラル）：",
+    "煙霧の不透明度が100%増加する（変更前：5%）",
+    "注：この不透明度のボーナスは、アップデートされた煙霧の視覚効果に相対的に適用"
+   ]
+  },
+  {
+   "entity": "一緒にいよう",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "生存者パークのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "生存者の操作の範囲を超えて、このパークの効果が別のパーク「予想外の展開」によって発動されないようにしました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "出世街道（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "他の生存者がフックに吊るされると、トークンを1/2/3個得る（9個まで）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "発電機を修理中に通常のスキルチェックでグレイトを出すと、すべてのトークンを消費して、トークン1個につき失われない進行度を2チャージ得る",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "自己防衛（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "他の生存者がフックに吊るされるたびに「忍び」を20/25/30秒間得る",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "この変更を反映させるため、パークアイコンのデザインを変更",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "生存者の操作の範囲を超えて、このパークの効果が別のパーク「予想外の展開」によって発動されないようにしました",
+    "出世街道（リワーク）",
+    "他の生存者がフックに吊るされると、トークンを1/2/3個得る（9個まで）",
+    "発電機を修理中に通常のスキルチェックでグレイトを出すと、すべてのトークンを消費して、トークン1個につき失われない進行度を2チャージ得る",
+    "自己防衛（リワーク）",
+    "他の生存者がフックに吊るされるたびに「忍び」を20/25/30秒間得る",
+    "この変更を反映させるため、パークアイコンのデザインを変更"
+   ]
+  },
+  {
+   "entity": "不滅",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "生存者パークのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "儀式中に1回のみ、殺人鬼によって瀕死状態にされたとき、完全回復できる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "瀕死状態の回復速度が25/30/35%上昇する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "注：殺人鬼によって瀕死状態にされた場合にのみ、生存者が回復能力を得られる",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "儀式中に1回のみ、殺人鬼によって瀕死状態にされたとき、完全回復できる",
+    "瀕死状態の回復速度が25/30/35%上昇する",
+    "注：殺人鬼によって瀕死状態にされた場合にのみ、生存者が回復能力を得られる"
+   ]
+  },
+  {
+   "entity": "躊躇の強制",
+   "cat": "perk",
+   "role": "killer",
+   "section": "殺人鬼パークのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "殺人鬼の操作の範囲を超えて、このパークの効果が別のパーク「予想外の展開」によって発動されないようにしました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "殺人鬼の操作の範囲を超えて、このパークの効果が別のパーク「予想外の展開」によって発動されないようにしました"
+   ]
+  },
+  {
+   "entity": "遺伝的限界",
+   "cat": "perk",
+   "role": "killer",
+   "section": "殺人鬼パークのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "生存者がダメージを受けると同時に（受けたあとではなく）疲労のステータス効果を適用するようアップデートしました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "呪術：クラウドコントロール（リワーク）",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "生存者が初めて窓の中速乗り越えまたは高速乗り越えを行ったとき、無力なトーテムに火が灯る",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "生存者が中速乗り越えまたは高速乗り越えを行った窓がブロックされる。同時にブロックされるのは、最後に乗り越えた4/5/6つの窓",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ブロックされた窓を通常乗り越えする速度が15%上昇する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "24メートル以内にあるブロックされた窓のオーラが視える",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "生存者がダメージを受けると同時に（受けたあとではなく）疲労のステータス効果を適用するようアップデートしました",
+    "呪術：クラウドコントロール（リワーク）",
+    "生存者が初めて窓の中速乗り越えまたは高速乗り越えを行ったとき、無力なトーテムに火が灯る",
+    "生存者が中速乗り越えまたは高速乗り越えを行った窓がブロックされる。同時にブロックされるのは、最後に乗り越えた4/5/6つの窓",
+    "ブロックされた窓を通常乗り越えする速度が15%上昇する",
+    "24メートル以内にあるブロックされた窓のオーラが視える"
+   ]
+  },
+  {
+   "entity": "イタチが飛び出した",
+   "cat": "perk",
+   "role": "killer",
+   "section": "殺人鬼パークのアップデート",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "生存者をフックに吊るしたとき、次の35/40/45秒間、発電機にダメージを与えると発電機が爆発し、追加で進行度が全体の15%失われる",
+     "after": "35/40/45秒間 / 15%",
+     "before": "現在の進行度の20%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "生存者をフックに吊るしたとき、次の35/40/45秒間、発電機にダメージを与えると発電機が爆発し、追加で進行度が全体の15%失われる（変更前：現在の進行度の20%）"
+   ]
+  },
+  {
+   "entity": "終末期",
+   "cat": "perk",
+   "role": "killer",
+   "section": "殺人鬼パークのアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "発電機の修理が完了した際に早めに発動し、同時に生存者パークの回復能力が発動しないようにしました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "発電機の修理が完了した際に早めに発動し、同時に生存者パークの回復能力が発動しないようにしました"
+   ]
+  },
+  {
+   "entity": "パーク説明文のアップデート",
+   "cat": "system",
+   "section": "パーク説明文のアップデート",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "より簡潔で統一された表現を使用しながら、すべての生存者と殺人鬼のパークの説明文を書き直しました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "上記のアップデートされたパークを除き、パークのゲームプレイは変更されていません。今回のアップデートの目的は：",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "説明文を短くし、文字数を減らす",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "プレイヤーに分かりやすくする",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "今後のメンテナンスを簡単にするため、使用言語を統一する",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "この目的を達成するため、情報を展開表示させるツールチップを追加しました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ステータス効果の詳細は本文には入れず、ツールチップで展開表示",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ステータス効果は、それがプラスの効果かマイナスの効果か識別できる色で表示",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "パーク発動に使用するボタンに紐づけられたボタン/キーをパークの説明文に表示",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "例：デッド・ハード、捕まえてみろ！、劇作法など",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "より簡潔で統一された表現を使用しながら、すべての生存者と殺人鬼のパークの説明文を書き直しました",
+    "上記のアップデートされたパークを除き、パークのゲームプレイは変更されていません。今回のアップデートの目的は：",
+    "説明文を短くし、文字数を減らす",
+    "プレイヤーに分かりやすくする",
+    "今後のメンテナンスを簡単にするため、使用言語を統一する",
+    "この目的を達成するため、情報を展開表示させるツールチップを追加しました",
+    "ステータス効果の詳細は本文には入れず、ツールチップで展開表示",
+    "ステータス効果は、それがプラスの効果かマイナスの効果か識別できる色で表示",
+    "パーク発動に使用するボタンに紐づけられたボタン/キーをパークの説明文に表示",
+    "例：デッド・ハード、捕まえてみろ！、劇作法など"
+   ]
+  },
+  {
+   "entity": "オーラのカスタマイズ",
+   "cat": "system",
+   "section": "オーラのカスタマイズ",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "オーラの色をアップデートしました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "ベータセクションで以下のオーラの色をカスタマイズできるようアップデートしました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "生存者",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "殺人鬼",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "フックに吊るされた/瀕死状態の生存者",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "通常のフック",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "発電機",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "パレット",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "窓",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "オーラの色をアップデートしました",
+    "ベータセクションで以下のオーラの色をカスタマイズできるようアップデートしました",
+    "生存者",
+    "殺人鬼",
+    "フックに吊るされた/瀕死状態の生存者",
+    "通常のフック",
+    "発電機",
+    "パレット",
+    "窓"
+   ]
+  },
+  {
+   "entity": "ストア",
+   "cat": "system",
+   "section": "ストア",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "表示中の「通知」を消す「すべて削除」ボタンを追加しました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "表示中の「通知」を消す「すべて削除」ボタンを追加しました"
+   ]
+  },
+  {
+   "entity": "新しいプレステージメニューと報酬システム",
+   "cat": "system",
+   "section": "新しいプレステージメニューと報酬システム",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "キャラクターのプレステージレベルに関して、その進行状況と報酬を確認する新しい方法を追加しました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "プレステージメニューへアクセスして進行状況を確認するには、キャラクターのプレステージレベルをクリックするだけ",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "各キャラクターのプレステージレベル25、50、75、100で受け取れる新しい報酬を追加しました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "プレイヤーカードのバッジメニューに、プレステージレベルに達したキャラクターを描いたバッジ（現在のプレステージバッジ報酬）のバリエーションを選ぶ機能を追加しました",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "キャラクターのプレステージレベルに関して、その進行状況と報酬を確認する新しい方法を追加しました",
+    "プレステージメニューへアクセスして進行状況を確認するには、キャラクターのプレステージレベルをクリックするだけ",
+    "各キャラクターのプレステージレベル25、50、75、100で受け取れる新しい報酬を追加しました",
+    "プレイヤーカードのバッジメニューに、プレステージレベルに達したキャラクターを描いたバッジ（現在のプレステージバッジ報酬）のバリエーションを選ぶ機能を追加しました"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "オーディオ",
+   "items": [
+    "ハディの「静寂な侵害」コーディネイトを装備した際に、ロビーのテーマが再生されない問題を修正しました。",
+    "「月の出」コレクションのコーディネイトを装備した際に、ロビーのテーマが再生されない問題を修正しました。",
+    "トリックスターで「双一のパーティーウェア」コーディネイトをロビーで装備した際に、伊藤潤二のロビーのテーマが再生されない問題を修正しました。",
+    "「The Walking Dead」キャラクター間の発電機修理時の会話が再生されなくなっていた問題を修正しました。",
+    "プレステージ報酬メニューで、報酬ゲージのチャージ効果音が同期していない問題を修正しました。",
+    "スピリットがフェーズウォークした際に、「風鈴」アドオンの効果音が殺人鬼視点で再生される問題を修正しました。",
+    "贖罪の檻の音楽が正しく再生されない問題を修正しました。"
+   ]
+  },
+  {
+   "group": "BOTの改善",
+   "items": [
+    "生存者BOTが意図した方向に回避しない問題を修正しました。",
+    "生存者BOTがトリックスターに対して行う回避行動を改善しました。",
+    "生存者BOTがデススリンガーに銛で拘束された際、プレイヤーと同じ程度の操作ができるようになりました。",
+    "生存者BOTが、どこからでもゴーストフェイスを自動的に暴いてしまうことがある問題を仮修正しました。",
+    "生存者BOTがプレイグと対峙している際に、インタラクトするものの選択がより賢くなるよう改善しました。",
+    "生存者BOTがプレイグやガスーに感染させられている場合、「予想外の展開」パークを使用しないようになりました。",
+    "生存者BOTがチェイス中に他の生存者を挑発したり進路を妨害したりしないようになりました。",
+    "オーモンド湖採掘場の移動に関する複数の問題を修正しました。"
+   ]
+  },
+  {
+   "group": "キャラクター",
+   "items": [
+    "アニマトロニックがロビーアニメーションを行う際、画面端を掴まなくなる問題を修正しました。",
+    "アニマトロニックが生存者に対して斧掴みを使用中にパレットで怯ませられると、アニメーションが崩れる問題を修正しました。",
+    "「斧を外す」動作によって、一部状況で生存者がアニマトロニックをすり抜けられる問題を修正しました。",
+    "ネメシスが、生存者が儀式から退出した後に触手打撃で攻撃できる問題を修正しました。",
+    "トラッパーが、視点を振る操作によって罠設置不可エリアを回避できてしまう問題を修正しました。",
+    "トラッパーのトラバサミの当たり判定が一貫していない問題を修正しました。",
+    "トラッパーが、FPSグリッチによって本来到達できない位置に罠を設置できる問題を修正しました。",
+    "カニバルの能力が状態の変化中に動作しなくなる問題を修正しました。",
+    "シェイプが「吟遊詩人の鼓舞」発動中の生存者にモリを行えない問題を修正しました。",
+    "シェイプが邪悪の化身発動中に、生存者が自己脱出アニメーションを行っている最中でも殺害できる問題を修正しました。",
+    "デモゴルゴンが右クリックを連打した際にカクつく問題を修正しました。",
+    "アーティストのモリ演出中、生存者視点で凶兆のカラスが表示されない問題を修正しました。",
+    "アーティストの凶兆のカラスの飛行経路が、小型オブジェクト周辺で一貫した挙動をしない問題を修正しました。",
+    "スカルマーチャントで「地理情報の読み出し」アドオンを使用している際、外部アイコンが表示されない問題を修正しました。",
+    "ゴーストフェイスに対して、生存者の暴き距離が15メートルから32メートルの間で不安定になる問題を修正しました。",
+    "リージョンが乗り越え中に目くらましを受けると、能力が動作しなくなる問題を修正しました。",
+    "ファーストのツル攻撃が、攻撃を放つ操作を連続で行った際に、チャージ状態のまま残り続ける問題を修正しました。",
+    "ファーストの精神崩壊のアニメーションが、複数の生存者に同時に命中させた際にミニモリの条件を満たしていると表示されない問題を修正しました。",
+    "ファーストがミニモリ条件を満たした状態で複数の生存者を同時に命中させた際、手当ての動作が実行できない問題を修正しました。",
+    "ハウンドマスターが、追いかけの命令による掴み成功後に歩行すると、ワープするように戻される問題を修正しました。",
+    "ハウンドマスターが生存者をフックに吊るした後、生存者と殺人鬼双方でアプリケーションがクラッシュする問題を修正しました。",
+    "ツインズ使用時、カメラがシャルロットまたはヴィクトルの頭に埋まり、操作が困難になる問題を修正しました。",
+    "リッチが呪文を詠唱しながら同時に怯まされた際に、まれに「フライ」の移動速度を維持してしまう問題を修正しました。",
+    "ダークロードが生存者に目くらましされた後に姿をコウモリへ切り替え、さらに生存者がフラッシュグレネードを作成すると、懐中電灯の光が再度表示されてしまう問題を修正しました。"
+   ]
+  },
+  {
+   "group": "キャラクター - ウェスカー",
+   "items": [
+    "猛毒バウンドのリファクタリングを行いました。特に能力を使用中に発生することがあった同期ズレの問題の改善を目指しました。能力を使用した際の応答性の向上が見込まれます。また、生存者を掴んでいる際の他のキャラクターの衝突判定（他の生存者、2対8での他の殺人鬼やゾンビ）の検知方法を変更し、キャラクターの衝突判定が正しく反映されるようにしました。",
+    "ウェスカーが落下中に猛毒バウンドが丘の端を滑るように動ける問題を修正しました。",
+    "ウェスカーが乗り越えや段差落下後に、猛毒バウンドの速度効果が表示される問題を修正しました。",
+    "生存者がウェスカーの猛毒バウンドで投げられている最中に、懐中電灯を使用できる問題を修正しました。",
+    "ウェスカーが段差付近のパレットで、落下しながら部分的な乗り越えを開始できる問題を修正しました。",
+    "ウェスカーが猛毒バウンドを特定の角度で使用すると、乗り越え地点越しに生存者を掴める問題を修正しました。",
+    "ウェスカーが猛毒バウンドを特定の角度で使用すると、乗り越え地点越しに生存者を掴める問題を修正しました。",
+    "ウェスカーが高所から猛毒バウンドで乗り越える際、一瞬空中に浮く問題を修正しました。",
+    "ウェスカーのサプライボックスが、他プレイヤーとの当たり判定を強制することで登れるようになっていた問題を修正しました。",
+    "ウェスカーで負傷していない生存者に猛毒バウンドを成功させた後、チェイス音楽が終了する問題を修正しました。",
+    "「トンプソン・ハウス」で、ウェスカーの突進によって生存者が岩に挟まる問題を修正しました。",
+    "生存者がロッカーに入るタイミングでウェスカーが猛毒バウンドを使用すると、生存者の操作が不能になる問題を修正しました。",
+    "高遅延環境下で、ウェスカーに掴まれた際にプレイヤーが儀式から脱出できてしまう問題を修正しました。",
+    "ウェスカーが生存者に対して突進攻撃を行い、別の生存者に向けて押し付けた際、当たり判定が過剰に大きくなる問題を修正しました。"
+   ]
+  },
+  {
+   "group": "環境/マップ",
+   "items": [
+    "「ディスターブド・ウォード」で、フック前のスペースが不足している問題を修正しました。",
+    "「治療シアター」で、プレイグの黒死の吐瀉が見えない当たり判定によって妨害される問題を修正しました。",
+    "ウェスカーが「怒りの聖所」のバルコニーから飛び出すことができる問題を修正しました。",
+    "ナースが「ミッドウィッチ小学校」のトイレ個室にブリンクで侵入できる問題を修正しました。"
+   ]
+  },
+  {
+   "group": "パーク",
+   "items": [
+    "シェイプがモリ演出中に「幻影の震撼」パークが発動する問題を修正しました。",
+    "透明状態のレイスに対して「地雷爆破」と「歓喜」パークを使用した際、生存者が所持しているアイテムのレア度が上昇する問題を修正しました。",
+    "「闇との対面」が、クロートラップおよび「人々のために」使用時に発動しない問題を修正しました。",
+    "「呼び出し：網を張る蜘蛛」発動中に発電機へインタラクトすると、回復ゲージが減少して表示される問題を修正しました。",
+    "ダークロードのオオカミの姿による跳躍攻撃で、「弄ばれる獲物」のトークンが消費されない問題を修正しました。",
+    "「時間の逆行」のアビリティボタンが、複数の殺人鬼が能力を使用した際に一時的に表示される問題を修正しました。",
+    "「雲隠れ」が、1マッチ内で複数回発動する問題を修正しました。",
+    "「重責の引き受け」によって救助された際、「オフレコ」が発動しない問題を修正しました。",
+    "発電機がすべて修理完了後、「戦慄」が「極秘プロジェクト」の探知不可ステータス効果を発動させる問題を修正しました。"
+   ]
+  },
+  {
+   "group": "インターフェース",
+   "items": [
+    "コントローラー使用時に、下部ナビゲーションメニューのボタンに入力ガイドが表示されるようになりました。",
+    "生存者がリッチと対峙してロッカーを使用した際、生存者HUDが更新される問題を修正しました。"
+   ]
+  },
+  {
+   "group": "その他",
+   "items": [
+    "チュートリアルのBOT対戦が開始できないエラーを修正しました。",
+    "チュートリアルで、生存者が自己救出できることで進行不能になる問題を修正しました。",
+    "生存者が段差付近で霧の小瓶を使用できない問題を修正しました。",
+    "霧の小瓶の「強力なエキス」アドオンが、効果時間に影響を与えない問題を修正しました。"
+   ]
+  }
+ ]
+}

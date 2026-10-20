@@ -1,0 +1,10 @@
+{
+ "version": "8.1.1a",
+ "kind": "release",
+ "id": "8.1.1a",
+ "title": "8.1.1a | アップデート",
+ "gid": "4327480529710258030",
+ "posttime": 1722436204,
+ "url": "https://store.steampowered.com/news/app/381210/view/4327480529710258030",
+ "body": "[img]{STEAM_CLAN_IMAGE}/11814497/57907cf2d25f625daa8533cea244c2c4b687e08a.png[/img]\n[h2]問題の修正[/h2]\n[list]\n[*] サーバーで生成されたマップタイルとプレイヤーに表示されるマップが異なる同期不具合の問題を修正しました。\n[/list]"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "7.7.0a",
+ "version": "7.7.0a",
+ "kind": "release",
+ "title": "7.7.0a | アップデート（PC）",
+ "date": "2024-04-26",
+ "url": "https://store.steampowered.com/news/app/381210/view/4170972198122834038",
+ "changes": [],
+ "fixes": [
+  {
+   "group": "問題の修正",
+   "items": [
+    "ゲーム中、光の点滅や白い照明のフラッシュ現象が発生する問題を仮修正しました。",
+    "※本アップデートは初めにSteamとEpic Gamesストアに適用されます。"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+node_modules/
+.claude/settings.local.json
+# 最初に作った画面のモック（本番は index.html と assets/）
+mock/
