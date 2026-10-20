@@ -98,7 +98,7 @@ const entityKeyOf = (c) => (c.cat === "killer" ? c.character : c.cat === "perk" 
 function header({ title, sub = "アプデ差分をサッと確認", back = null }) {
   $hdr.innerHTML = `${back ? `<a class="back" href="${esc(back)}" aria-label="戻る">‹</a>` : `<span class="logo">DbD</span>`}
     <div class="titles"><h1>${esc(title)}</h1><div class="sub">${esc(sub)}</div></div>`;
-  document.title = back ? `${title} | DbD パッチ速報` : "DbD パッチ速報";
+  document.title = back ? `${title} | DbD パッチ速報` : "DbD パッチ速報 | デッドバイデイライトの強化・弱体化まとめ";
 }
 function setNav(key) {
   document.querySelectorAll("[data-nav]").forEach((a) => a.classList.toggle("on", a.dataset.nav === key));

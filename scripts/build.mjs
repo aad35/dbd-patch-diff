@@ -9,6 +9,8 @@ const DATA = fileURLToPath(new URL("../data/", import.meta.url));
 const RAW = join(DATA, "raw");
 const PATCHES = join(DATA, "patches");
 const KILLERS = new Set(JSON.parse(await readFile(join(DATA, "dict", "killers.json"), "utf8")));
+// 自動判定を人の目で直したもの（"パッチid/名前": 種類）
+const OVERRIDES = JSON.parse(await readFile(join(DATA, "dict", "overrides.json"), "utf8"));
 
 // 「現在の効果」には（変更前：…）（新効果）の注記はいらない
 const withoutMarkers = (line) => line.replace(/\s*[（(]\s*(?:変更前|以前は?|新効果|新機能|新規|追加|削除)[^）)]*[）)]/g, "").trim();
@@ -77,6 +79,12 @@ async function main() {
   for (const c of parsed.flatMap((p) => p.changes)) normalizePerk(c);
   reclassifyByName(parsed.flatMap((p) => p.changes));
   for (const p of parsed) assignCharacters(p.changes);
+  for (const p of parsed) {
+    for (const c of p.changes) {
+      const type = OVERRIDES[`${p.raw.id}/${c.entity}`];
+      if (type) { c.type = type; c.reviewed = true; }
+    }
+  }
 
   const index = [];
   const entities = {};

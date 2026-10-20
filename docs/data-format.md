@@ -26,6 +26,7 @@ Steam の公式お知らせ（日本語版）:
 | `data/patches/<id>.json` | パッチ1件分の全変更点（画面①のタブ・画面②） |
 | `data/entities.json` | キラー・パークごとの調整履歴（キャラ別・検索） |
 | `data/dict/killers.json` | キラー名の辞書（手で管理。新キラーが出たら追加する） |
+| `data/dict/overrides.json` | 自動判定の手直し（`"パッチid/名前": "buff"` など）。直した変更点には `"reviewed": true` が付く |
 
 `<id>` はバージョン。PTB は `ptb-10.2.0` のように前に `ptb-` が付く。
 
