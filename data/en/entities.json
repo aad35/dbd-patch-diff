@@ -1,4 +1,68 @@
 {
+ "Dark Arrogance": {
+  "cat": "perk",
+  "role": "killer",
+  "alt": "闇の慢心",
+  "history": [
+   {
+    "id": "10.2.2",
+    "version": "10.2.2",
+    "date": "2026-10-20",
+    "type": "nerf",
+    "diffs": [
+     {
+      "text": "Your basic-attack cooldown is 10% shorter",
+      "after": "10%",
+      "before": "only missed, and 15/20/25%",
+      "isNew": false,
+      "type": "nerf"
+     }
+    ]
+   },
+   {
+    "id": "10.2.0",
+    "version": "10.2.0",
+    "date": "2026-10-06",
+    "type": "buff",
+    "diffs": [
+     {
+      "text": "Your missed basic-attack cooldown is 15/20/25% shorter",
+      "after": "15/20/25%",
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     },
+     {
+      "text": "Whenever you are blinded or Pallet-stunned, the duration is 25% longer",
+      "after": "25%",
+      "before": "15%",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   },
+   {
+    "id": "9.2.0",
+    "version": "9.2.0",
+    "date": "2025-09-23",
+    "type": "nerf",
+    "diffs": [
+     {
+      "text": "Decreased the blind and pallet stun duration increase to 15%",
+      "after": "15%",
+      "before": "25%",
+      "isNew": false,
+      "type": "nerf"
+     }
+    ]
+   }
+  ],
+  "current": [
+   "You basic-vault Windows 15/20/25% faster",
+   "Your basic-attack cooldown is 10% shorter.",
+   "Whenever you are blinded or Pallet-stunned, the duration is 25% longer"
+  ]
+ },
  "Agitation": {
   "cat": "perk",
   "role": "killer",
@@ -57,55 +121,6 @@
   "current": [
    "Whenever a Generator is completed, you see the Auras of Survivors within 20m of it for 10s.",
    "When all Generators are completed, you see the Auras of all Survivors for 16/18/20s."
-  ]
- },
- "Dark Arrogance": {
-  "cat": "perk",
-  "role": "killer",
-  "alt": "闇の慢心",
-  "history": [
-   {
-    "id": "10.2.0",
-    "version": "10.2.0",
-    "date": "2026-10-06",
-    "type": "buff",
-    "diffs": [
-     {
-      "text": "Your missed basic-attack cooldown is 15/20/25% shorter",
-      "after": "15/20/25%",
-      "before": null,
-      "isNew": true,
-      "type": "buff"
-     },
-     {
-      "text": "Whenever you are blinded or Pallet-stunned, the duration is 25% longer",
-      "after": "25%",
-      "before": "15%",
-      "isNew": false,
-      "type": "buff"
-     }
-    ]
-   },
-   {
-    "id": "9.2.0",
-    "version": "9.2.0",
-    "date": "2025-09-23",
-    "type": "nerf",
-    "diffs": [
-     {
-      "text": "Decreased the blind and pallet stun duration increase to 15%",
-      "after": "15%",
-      "before": "25%",
-      "isNew": false,
-      "type": "nerf"
-     }
-    ]
-   }
-  ],
-  "current": [
-   "You basic-vault Windows 15/20/25% faster",
-   "Your missed basic-attack cooldown is 15/20/25% shorter.",
-   "Whenever you are blinded or Pallet-stunned, the duration is 25% longer."
   ]
  },
  "Dead Man's Switch": {

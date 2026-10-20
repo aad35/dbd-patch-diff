@@ -1,0 +1,109 @@
+{
+ "id": "10.2.2",
+ "version": "10.2.2",
+ "kind": "release",
+ "title": "10.2.2 | Bugfix Patch",
+ "date": "2026-10-20",
+ "url": "https://store.steampowered.com/news/app/381210/view/716793092553837356?l=english",
+ "changes": [
+  {
+   "entity": "Dark Arrogance",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Your basic-attack cooldown is 10% shorter",
+     "after": "10%",
+     "before": "only missed, and 15/20/25%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "You basic-vault Windows 15/20/25% faster",
+    "Your basic-attack cooldown is 10% shorter. (was only missed, and 15/20/25%)",
+    "Whenever you are blinded or Pallet-stunned, the duration is 25% longer"
+   ],
+   "devNote": "Dev note: The team has heard the feedback that the PTB to Live change for Dark Arrogance was an overcorrection. The basic-attack cooldown will apply to all outcomes (missed, obstructed, successful), at a smaller reduction percentage. We will continue monitoring to see if further adjustments are needed in a future update."
+  },
+  {
+   "entity": "Lights Out: Stranger Things Edition",
+   "cat": "system",
+   "section": "Lights Out: Stranger Things Edition",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Event will run from November 5th - November 12th. Check out the available quests for rewards!",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Event will run from November 5th - November 12th. Check out the available quests for rewards!"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where the flesh hit sound effect was missing for Survivors when successfully hit by a basic attack from several Killers, including The Nemesis, The Cenobite, The Onryo, and The Dark Lord.",
+    "Fixed an issue where The Dark Lord's lullaby could still be heard while in Bat form during a Lights Out event Trial.",
+    "Fixed an issue where the intestinal whip sound effect was missing when The Krasue opened Portals or used the teleport interaction while in Head form during the Haunted by Daylight 2026 event.",
+    "Fixed an issue where the locker grab stinger played when grabbing a Survivor who was vaulting a window or pallet for certain Killers, including The Singularity, The Good Guy, The Unknown, The Houndmaster, The Krasue, The Slasher, and The Judgment."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where Mikaela's hands are clipping in the dress of the '' outfit.",
+    "Fixed an issue where when screaming, A2's hair appears bent.",
+    "Fixed an issue where there could be a gap between The Houndmaster's dog Snug and the survivor being grabbed."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue on Nostromo Wreckage where the projectiles were blocked by invisible collision around the meeting table.",
+    "Fixed an issue on Pale Rose where the players can't interact with one side of a generator.",
+    "Fixed an issue on Treatment Theatre where the door frame is off set.",
+    "Fixed an issue on Badham Preschool where bushes didn't have collision.",
+    "Fixed an issue where the game could crash during map generation under rare conditions."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where the Matchmaking button queue timer would start prematurely and continue after queueing has stopped."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue where the game could crash during loading on some platforms."
+   ]
+  },
+  {
+   "group": "Haunted by Daylight",
+   "items": [
+    "Fixed an issue where Void Haunts could pass through breakable walls."
+   ]
+  },
+  {
+   "group": "Lights Out",
+   "items": [
+    "Fixed an issue causing The Dark Lord's lullaby to be heard while in Bat form.",
+    "Fixed an issue causing Uncommon/Common items to be found in chests.",
+    "Fixed an issue causing Lantern VFX to linger when exiting/entering a Locker in quick succession.",
+    "Fixed an animation issue causing Survivors to clip through Generators when placing Lanterns.",
+    "Fixed an issue where only 10 Chests would spawn on Treatment Theatre.",
+    "Fixed an issue where Survivors would incorrectly hold the Lantern when injured.",
+    "Fixed an issue where Survivors' lantern position is held the wrong way while opening the exit gate."
+   ]
+  }
+ ]
+}
