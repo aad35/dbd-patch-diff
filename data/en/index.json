@@ -1,0 +1,1595 @@
+{
+ "updatedAt": "2026-10-14T15:01:01.000Z",
+ "patches": [
+  {
+   "id": "10.2.1",
+   "version": "10.2.1",
+   "kind": "release",
+   "title": "10.2.1 | Bugfix Patch",
+   "date": "2026-10-14",
+   "url": "https://store.steampowered.com/news/app/381210/view/716792458916138263?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 4,
+    "new": 0,
+    "fix": 41
+   }
+  },
+  {
+   "id": "10.2.0",
+   "version": "10.2.0",
+   "kind": "release",
+   "title": "10.2.0 | Mid-Chapter",
+   "date": "2026-10-06",
+   "url": "https://store.steampowered.com/news/app/381210/view/716791824502491334?l=english",
+   "counts": {
+    "buff": 30,
+    "nerf": 4,
+    "change": 17,
+    "new": 0,
+    "fix": 62
+   }
+  },
+  {
+   "id": "10.1.2a",
+   "version": "10.1.2a",
+   "kind": "release",
+   "title": "10.1.2a | Patch Notes",
+   "date": "2026-09-17",
+   "url": "https://store.steampowered.com/news/app/381210/view/670628659676053756?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 0,
+    "new": 0,
+    "fix": 0
+   }
+  },
+  {
+   "id": "ptb-10.2.0",
+   "version": "10.2.0",
+   "kind": "ptb",
+   "title": "10.2.0 | PTB Patch Notes",
+   "date": "2026-09-15",
+   "url": "https://store.steampowered.com/news/app/381210/view/706656822950364293?l=english",
+   "counts": {
+    "buff": 33,
+    "nerf": 4,
+    "change": 13,
+    "new": 0,
+    "fix": 33
+   }
+  },
+  {
+   "id": "10.1.2",
+   "version": "10.1.2",
+   "kind": "release",
+   "title": "10.1.2 | Bugfix Patch",
+   "date": "2026-09-08",
+   "url": "https://store.steampowered.com/news/app/381210/view/683012290458421393?l=english",
+   "counts": {
+    "buff": 3,
+    "nerf": 0,
+    "change": 5,
+    "new": 2,
+    "fix": 50
+   }
+  },
+  {
+   "id": "10.1.1",
+   "version": "10.1.1",
+   "kind": "release",
+   "title": "10.1.1 | Bugfix Patch",
+   "date": "2026-09-01",
+   "url": "https://store.steampowered.com/news/app/381210/view/683011656593179537?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 1,
+    "change": 1,
+    "new": 0,
+    "fix": 50
+   }
+  },
+  {
+   "id": "10.1.0",
+   "version": "10.1.0",
+   "kind": "release",
+   "title": "10.1.0 | Chorus of Sin",
+   "date": "2026-08-25",
+   "url": "https://store.steampowered.com/news/app/381210/view/669500224005211596?l=english",
+   "counts": {
+    "buff": 4,
+    "nerf": 7,
+    "change": 5,
+    "new": 12,
+    "fix": 70
+   }
+  },
+  {
+   "id": "ptb-10.1.0",
+   "version": "10.1.0",
+   "kind": "ptb",
+   "title": "10.1.0 | PTB Patch Notes",
+   "date": "2026-08-04",
+   "url": "https://store.steampowered.com/news/app/381210/view/708904817558292139?l=english",
+   "counts": {
+    "buff": 4,
+    "nerf": 10,
+    "change": 6,
+    "new": 10,
+    "fix": 51
+   }
+  },
+  {
+   "id": "10.0.3",
+   "version": "10.0.3",
+   "kind": "release",
+   "title": "10.0.3 | Bugfix Patch",
+   "date": "2026-07-21",
+   "url": "https://store.steampowered.com/news/app/381210/view/713407148452742831?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 6,
+    "new": 0,
+    "fix": 43
+   }
+  },
+  {
+   "id": "10.0.2",
+   "version": "10.0.2",
+   "kind": "release",
+   "title": "10.0.2 | Bugfix Patch",
+   "date": "2026-07-06",
+   "url": "https://store.steampowered.com/news/app/381210/view/672872850646897106?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 1,
+    "change": 0,
+    "new": 0,
+    "fix": 54
+   }
+  },
+  {
+   "id": "10.0.0",
+   "version": "10.0.0",
+   "kind": "release",
+   "title": "10.0.0 | Jason Patch Notes",
+   "date": "2026-06-16",
+   "url": "https://store.steampowered.com/news/app/381210/view/518623384317200228?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 6,
+    "new": 8,
+    "fix": 154
+   }
+  },
+  {
+   "id": "ptb-10.0.0",
+   "version": "10.0.0",
+   "kind": "ptb",
+   "title": "10.0.0 | Jason PTB Patch Notes",
+   "date": "2026-05-26",
+   "url": "https://store.steampowered.com/news/app/381210/view/662736579634135748?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 2,
+    "new": 10,
+    "fix": 57
+   }
+  },
+  {
+   "id": "9.6.2",
+   "version": "9.6.2",
+   "kind": "release",
+   "title": "9.6.2 | Bugfix Patch",
+   "date": "2026-05-12",
+   "url": "https://store.steampowered.com/news/app/381210/view/697638207931549226?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 0,
+    "new": 0,
+    "fix": 25
+   }
+  },
+  {
+   "id": "9.6.1",
+   "version": "9.6.1",
+   "kind": "release",
+   "title": "9.6.1 | Bugfix Patch",
+   "date": "2026-05-05",
+   "url": "https://store.steampowered.com/news/app/381210/view/697637574580110163?l=english",
+   "counts": {
+    "buff": 3,
+    "nerf": 1,
+    "change": 3,
+    "new": 0,
+    "fix": 60
+   }
+  },
+  {
+   "id": "9.6.0",
+   "version": "9.6.0",
+   "kind": "release",
+   "title": "9.6.0 | Patch Notes",
+   "date": "2026-04-28",
+   "url": "https://store.steampowered.com/news/app/381210/view/494974956983026768?l=english",
+   "counts": {
+    "buff": 6,
+    "nerf": 4,
+    "change": 15,
+    "new": 0,
+    "fix": 123
+   }
+  },
+  {
+   "id": "ptb-9.6.0",
+   "version": "9.6.0",
+   "kind": "ptb",
+   "title": "9.6.0 | PTB Patch Notes",
+   "date": "2026-04-07",
+   "url": "https://store.steampowered.com/news/app/381210/view/498350753733150731?l=english",
+   "counts": {
+    "buff": 5,
+    "nerf": 4,
+    "change": 11,
+    "new": 0,
+    "fix": 26
+   }
+  },
+  {
+   "id": "9.5.2",
+   "version": "9.5.2",
+   "kind": "release",
+   "title": "9.5.2 | Bugfix Patch",
+   "date": "2026-03-31",
+   "url": "https://store.steampowered.com/news/app/381210/view/498350300536504994?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 2,
+    "new": 0,
+    "fix": 29
+   }
+  },
+  {
+   "id": "9.5.1",
+   "version": "9.5.1",
+   "kind": "release",
+   "title": "9.5.1 | Bugfix Patch",
+   "date": "2026-03-24",
+   "url": "https://store.steampowered.com/news/app/381210/view/515237983885985446?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 4,
+    "new": 1,
+    "fix": 56
+   }
+  },
+  {
+   "id": "9.5.0",
+   "version": "9.5.0",
+   "kind": "release",
+   "title": "9.5.0 | All-Kill: Comeback",
+   "date": "2026-03-17",
+   "url": "https://store.steampowered.com/news/app/381210/view/510733750483551117?l=english",
+   "counts": {
+    "buff": 3,
+    "nerf": 2,
+    "change": 28,
+    "new": 4,
+    "fix": 138
+   }
+  },
+  {
+   "id": "ptb-9.5.0",
+   "version": "9.5.0",
+   "kind": "ptb",
+   "title": "9.5.0 | PTB Patch Notes",
+   "date": "2026-02-24",
+   "url": "https://store.steampowered.com/news/app/381210/view/505102352007563353?l=english",
+   "counts": {
+    "buff": 3,
+    "nerf": 2,
+    "change": 27,
+    "new": 4,
+    "fix": 71
+   }
+  },
+  {
+   "id": "9.4.2",
+   "version": "9.4.2",
+   "kind": "release",
+   "title": "9.4.2 | Bugfix Patch",
+   "date": "2026-02-10",
+   "url": "https://store.steampowered.com/news/app/381210/view/493842084753574165?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 11,
+    "new": 5,
+    "fix": 27
+   }
+  },
+  {
+   "id": "9.4.1",
+   "version": "9.4.1",
+   "kind": "release",
+   "title": "9.4.1 | Bugfix Patch",
+   "date": "2026-02-03",
+   "url": "https://store.steampowered.com/news/app/381210/view/509604049186719319?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 0,
+    "new": 0,
+    "fix": 45
+   }
+  },
+  {
+   "id": "9.4.0",
+   "version": "9.4.0",
+   "kind": "release",
+   "title": "9.4.0 | Stranger Things Chapter 2",
+   "date": "2026-01-27",
+   "url": "https://store.steampowered.com/news/app/381210/view/491589016220601507?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 3,
+    "new": 10,
+    "fix": 111
+   }
+  },
+  {
+   "id": "ptb-9.4.0",
+   "version": "9.4.0",
+   "kind": "ptb",
+   "title": "9.4.0 | PTB Patch Notes",
+   "date": "2026-01-06",
+   "url": "https://store.steampowered.com/news/app/381210/view/519733343516889256?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 10,
+    "new": 15,
+    "fix": 35
+   }
+  },
+  {
+   "id": "9.3.2",
+   "version": "9.3.2",
+   "kind": "release",
+   "title": "9.3.2 | Bugfix Patch",
+   "date": "2025-12-09",
+   "url": "https://store.steampowered.com/news/app/381210/view/519732075513775809?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 4,
+    "new": 0,
+    "fix": 68
+   }
+  },
+  {
+   "id": "9.3.0",
+   "version": "9.3.0",
+   "kind": "release",
+   "title": "9.3.0 | Mid-Chapter",
+   "date": "2025-11-25",
+   "url": "https://store.steampowered.com/news/app/381210/view/597417907502188425?l=english",
+   "counts": {
+    "buff": 3,
+    "nerf": 1,
+    "change": 14,
+    "new": 0,
+    "fix": 112
+   }
+  },
+  {
+   "id": "ptb-9.3.0",
+   "version": "9.3.0",
+   "kind": "ptb",
+   "title": "9.3.0 | PTB Patch Notes",
+   "date": "2025-11-04",
+   "url": "https://store.steampowered.com/news/app/381210/view/733649974425814591?l=english",
+   "counts": {
+    "buff": 3,
+    "nerf": 1,
+    "change": 19,
+    "new": 0,
+    "fix": 60
+   }
+  },
+  {
+   "id": "9.2.3",
+   "version": "9.2.3",
+   "kind": "release",
+   "title": "9.2.3 | Bugfix Patch",
+   "date": "2025-10-21",
+   "url": "https://store.steampowered.com/news/app/381210/view/556882414728644971?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 2,
+    "new": 0,
+    "fix": 54
+   }
+  },
+  {
+   "id": "9.2.2",
+   "version": "9.2.2",
+   "kind": "release",
+   "title": "9.2.2 | Bugfix Patch",
+   "date": "2025-10-07",
+   "url": "https://store.steampowered.com/news/app/381210/view/537740128432424754?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 1,
+    "change": 1,
+    "new": 0,
+    "fix": 41
+   }
+  },
+  {
+   "id": "9.2.1",
+   "version": "9.2.1",
+   "kind": "release",
+   "title": "9.2.1 | Bugfix Patch",
+   "date": "2025-09-30",
+   "url": "https://store.steampowered.com/news/app/381210/view/537740128432423554?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 79
+   }
+  },
+  {
+   "id": "9.2.0",
+   "version": "9.2.0",
+   "kind": "release",
+   "title": "9.2.0 | Sinister Grace",
+   "date": "2025-09-23",
+   "url": "https://store.steampowered.com/news/app/381210/view/537739494577669321?l=english",
+   "counts": {
+    "buff": 14,
+    "nerf": 5,
+    "change": 18,
+    "new": 13,
+    "fix": 122
+   }
+  },
+  {
+   "id": "ptb-9.2.0",
+   "version": "9.2.0",
+   "kind": "ptb",
+   "title": "9.2.0 | PTB Patch Notes",
+   "date": "2025-09-03",
+   "url": "https://store.steampowered.com/news/app/381210/view/538863491448046603?l=english",
+   "counts": {
+    "buff": 15,
+    "nerf": 8,
+    "change": 28,
+    "new": 13,
+    "fix": 55
+   }
+  },
+  {
+   "id": "9.1.3",
+   "version": "9.1.3",
+   "kind": "release",
+   "title": "9.1.3 | Bugfix Patch",
+   "date": "2025-08-26",
+   "url": "https://store.steampowered.com/news/app/381210/view/538862856947368158?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 8
+   }
+  },
+  {
+   "id": "9.1.2",
+   "version": "9.1.2",
+   "kind": "release",
+   "title": "9.1.2 | Bugfix Patch",
+   "date": "2025-08-14",
+   "url": "https://store.steampowered.com/news/app/381210/view/517470124048910105?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 1,
+    "change": 7,
+    "new": 1,
+    "fix": 26
+   }
+  },
+  {
+   "id": "9.1.0",
+   "version": "9.1.0",
+   "kind": "release",
+   "title": "9.1.0 | The Walking Dead",
+   "date": "2025-07-29",
+   "url": "https://store.steampowered.com/news/app/381210/view/538860320326681059?l=english",
+   "counts": {
+    "buff": 13,
+    "nerf": 4,
+    "change": 42,
+    "new": 7,
+    "fix": 106
+   }
+  },
+  {
+   "id": "ptb-9.1.0",
+   "version": "9.1.0",
+   "kind": "ptb",
+   "title": "9.1.0 | PTB Patch Notes",
+   "date": "2025-07-08",
+   "url": "https://store.steampowered.com/news/app/381210/view/538857783458533234?l=english",
+   "counts": {
+    "buff": 12,
+    "nerf": 4,
+    "change": 40,
+    "new": 7,
+    "fix": 27
+   }
+  },
+  {
+   "id": "9.0.2",
+   "version": "9.0.2",
+   "kind": "release",
+   "title": "9.0.2 | Bugfix Patch",
+   "date": "2025-07-02",
+   "url": "https://store.steampowered.com/news/app/381210/view/538857783458530576?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 39
+   }
+  },
+  {
+   "id": "9.0.1",
+   "version": "9.0.1",
+   "kind": "release",
+   "title": "9.0.1 | Bugfix Patch",
+   "date": "2025-06-26",
+   "url": "https://store.steampowered.com/news/app/381210/view/538857149470605772?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 2,
+    "new": 0,
+    "fix": 53
+   }
+  },
+  {
+   "id": "9.0.0",
+   "version": "9.0.0",
+   "kind": "release",
+   "title": "9.0.0 | Five Nights at Freddy's",
+   "date": "2025-06-17",
+   "url": "https://store.steampowered.com/news/app/381210/view/816953886557345011?l=english",
+   "counts": {
+    "buff": 12,
+    "nerf": 3,
+    "change": 23,
+    "new": 7,
+    "fix": 105
+   }
+  },
+  {
+   "id": "ptb-9.0.0",
+   "version": "9.0.0",
+   "kind": "ptb",
+   "title": "9.0.0 | PTB Patch Notes",
+   "date": "2025-05-27",
+   "url": "https://store.steampowered.com/news/app/381210/view/538854612737721621?l=english",
+   "counts": {
+    "buff": 11,
+    "nerf": 1,
+    "change": 28,
+    "new": 0,
+    "fix": 23
+   }
+  },
+  {
+   "id": "8.7.2",
+   "version": "8.7.2",
+   "kind": "release",
+   "title": "8.7.2 | Bugfix Patch",
+   "date": "2025-05-26",
+   "url": "https://store.steampowered.com/news/app/381210/view/538854612737720567?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 32
+   }
+  },
+  {
+   "id": "8.7.1",
+   "version": "8.7.1",
+   "kind": "release",
+   "title": "8.7.1 | Bugfix Patch",
+   "date": "2025-05-15",
+   "url": "https://store.steampowered.com/news/app/381210/view/505076981068464497?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 3,
+    "new": 0,
+    "fix": 41
+   }
+  },
+  {
+   "id": "8.7.0",
+   "version": "8.7.0",
+   "kind": "release",
+   "title": "8.7.0 | Steady Pulse",
+   "date": "2025-05-06",
+   "url": "https://store.steampowered.com/news/app/381210/view/538852710067208721?l=english",
+   "counts": {
+    "buff": 8,
+    "nerf": 0,
+    "change": 14,
+    "new": 1,
+    "fix": 58
+   }
+  },
+  {
+   "id": "8.6.2",
+   "version": "8.6.2",
+   "kind": "release",
+   "title": "8.6.2 | Bugfix Patch",
+   "date": "2025-04-17",
+   "url": "https://store.steampowered.com/news/app/381210/view/587264582368625897?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 1,
+    "change": 1,
+    "new": 0,
+    "fix": 23
+   }
+  },
+  {
+   "id": "ptb-8.7.0",
+   "version": "8.7.0",
+   "kind": "ptb",
+   "title": "8.7.0 | PTB",
+   "date": "2025-04-15",
+   "url": "https://store.steampowered.com/news/app/381210/view/587264582368625748?l=english",
+   "counts": {
+    "buff": 6,
+    "nerf": 0,
+    "change": 10,
+    "new": 1,
+    "fix": 27
+   }
+  },
+  {
+   "id": "8.6.1",
+   "version": "8.6.1",
+   "kind": "release",
+   "title": "8.6.1 | Bugfix Patch",
+   "date": "2025-04-09",
+   "url": "https://store.steampowered.com/news/app/381210/view/538850173472736316?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 2,
+    "new": 0,
+    "fix": 42
+   }
+  },
+  {
+   "id": "8.6.0",
+   "version": "8.6.0",
+   "kind": "release",
+   "title": "8.6.0 | Tokyo Ghoul",
+   "date": "2025-04-02",
+   "url": "https://store.steampowered.com/news/app/381210/view/538849539213231971?l=english",
+   "counts": {
+    "buff": 11,
+    "nerf": 2,
+    "change": 15,
+    "new": 1,
+    "fix": 188
+   }
+  },
+  {
+   "id": "ptb-8.6.0",
+   "version": "8.6.0",
+   "kind": "ptb",
+   "title": "8.6.0 | PTB",
+   "date": "2025-03-11",
+   "url": "https://store.steampowered.com/news/app/381210/view/538847007103518719?l=english",
+   "counts": {
+    "buff": 10,
+    "nerf": 2,
+    "change": 13,
+    "new": 4,
+    "fix": 102
+   }
+  },
+  {
+   "id": "8.5.2",
+   "version": "8.5.2",
+   "kind": "release",
+   "title": "8.5.2 | Bugfix Patch",
+   "date": "2025-02-12",
+   "url": "https://store.steampowered.com/news/app/381210/view/539971545917816883?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 30
+   }
+  },
+  {
+   "id": "8.5.1",
+   "version": "8.5.1",
+   "kind": "release",
+   "title": "8.5.1 | Bugfix Patch",
+   "date": "2025-02-04",
+   "url": "https://store.steampowered.com/news/app/381210/view/539970369596949161?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 6,
+    "new": 0,
+    "fix": 42
+   }
+  },
+  {
+   "id": "8.5.0",
+   "version": "8.5.0",
+   "kind": "release",
+   "title": "8.5.0 | Mid-chapter",
+   "date": "2025-01-28",
+   "url": "https://store.steampowered.com/news/app/381210/view/539969735985463644?l=english",
+   "counts": {
+    "buff": 23,
+    "nerf": 0,
+    "change": 10,
+    "new": 0,
+    "fix": 107
+   }
+  },
+  {
+   "id": "ptb-8.5.0",
+   "version": "8.5.0",
+   "kind": "ptb",
+   "title": "8.5.0 | PTB Patch Notes",
+   "date": "2025-01-08",
+   "url": "https://store.steampowered.com/news/app/381210/view/538840670729666854?l=english",
+   "counts": {
+    "buff": 5,
+    "nerf": 0,
+    "change": 8,
+    "new": 0,
+    "fix": 50
+   }
+  },
+  {
+   "id": "8.4.2",
+   "version": "8.4.2",
+   "kind": "release",
+   "title": "8.4.2 | Bugfix Patch",
+   "date": "2024-12-12",
+   "url": "https://store.steampowered.com/news/app/381210/view/546721329464737936?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 2,
+    "change": 2,
+    "new": 0,
+    "fix": 29
+   }
+  },
+  {
+   "id": "8.4.1",
+   "version": "8.4.1",
+   "kind": "release",
+   "title": "8.4.1 | Bugfix Patch",
+   "date": "2024-12-09",
+   "url": "https://store.steampowered.com/news/app/381210/view/4461474037375174493?l=english",
+   "counts": {
+    "buff": 7,
+    "nerf": 2,
+    "change": 2,
+    "new": 0,
+    "fix": 41
+   }
+  },
+  {
+   "id": "8.4.0",
+   "version": "8.4.0",
+   "kind": "release",
+   "title": "8.4.0 | Doomed Course",
+   "date": "2024-11-28",
+   "url": "https://store.steampowered.com/news/app/381210/view/4461474037375172882?l=english",
+   "counts": {
+    "buff": 10,
+    "nerf": 11,
+    "change": 22,
+    "new": 3,
+    "fix": 97
+   }
+  },
+  {
+   "id": "ptb-8.4.0",
+   "version": "8.4.0",
+   "kind": "ptb",
+   "title": "8.4.0 | PTB Patch Notes",
+   "date": "2024-11-07",
+   "url": "https://store.steampowered.com/news/app/381210/view/4461472134359679014?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 5,
+    "change": 11,
+    "new": 3,
+    "fix": 32
+   }
+  },
+  {
+   "id": "8.3.2",
+   "version": "8.3.2",
+   "kind": "release",
+   "title": "8.3.2 | Bugfix Patch",
+   "date": "2024-10-24",
+   "url": "https://store.steampowered.com/news/app/381210/view/4505380959139397687?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 5,
+    "change": 2,
+    "new": 0,
+    "fix": 42
+   }
+  },
+  {
+   "id": "8.3.1",
+   "version": "8.3.1",
+   "kind": "release",
+   "title": "8.3.1 | Bugfix Patch",
+   "date": "2024-10-16",
+   "url": "https://store.steampowered.com/news/app/381210/view/4531275659236254674?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 34
+   }
+  },
+  {
+   "id": "8.3.0",
+   "version": "8.3.0",
+   "kind": "release",
+   "title": "8.3.0 | Mid-Chapter",
+   "date": "2024-10-08",
+   "url": "https://store.steampowered.com/news/app/381210/view/4692278440733724216?l=english",
+   "counts": {
+    "buff": 13,
+    "nerf": 6,
+    "change": 12,
+    "new": 0,
+    "fix": 77
+   }
+  },
+  {
+   "id": "ptb-8.3.0",
+   "version": "8.3.0",
+   "kind": "ptb",
+   "title": "8.3.0 | PTB",
+   "date": "2024-09-17",
+   "url": "https://store.steampowered.com/news/app/381210/view/7291979610157815405?l=english",
+   "counts": {
+    "buff": 12,
+    "nerf": 4,
+    "change": 16,
+    "new": 0,
+    "fix": 22
+   }
+  },
+  {
+   "id": "8.2.2",
+   "version": "8.2.2",
+   "kind": "release",
+   "title": "8.2.2 | Bugfix Patch",
+   "date": "2024-09-11",
+   "url": "https://store.steampowered.com/news/app/381210/view/4581938347581189081?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 17
+   }
+  },
+  {
+   "id": "8.2.1",
+   "version": "8.2.1",
+   "kind": "release",
+   "title": "8.2.1 | Bugfix Patch",
+   "date": "2024-09-04",
+   "url": "https://store.steampowered.com/news/app/381210/view/4607832777545632646?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 2,
+    "new": 0,
+    "fix": 35
+   }
+  },
+  {
+   "id": "8.2.0",
+   "version": "8.2.0",
+   "kind": "release",
+   "title": "8.2.0 | Castlevania",
+   "date": "2024-08-27",
+   "url": "https://store.steampowered.com/news/app/381210/view/4239662874052990449?l=english",
+   "counts": {
+    "buff": 3,
+    "nerf": 1,
+    "change": 14,
+    "new": 7,
+    "fix": 48
+   }
+  },
+  {
+   "id": "8.1.2",
+   "version": "8.1.2",
+   "kind": "release",
+   "title": "8.1.2 | Bugfix Patch",
+   "date": "2024-08-06",
+   "url": "https://store.steampowered.com/news/app/381210/view/4327481163710211587?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 2,
+    "new": 0,
+    "fix": 17
+   }
+  },
+  {
+   "id": "ptb-8.2.0",
+   "version": "8.2.0",
+   "kind": "ptb",
+   "title": "8.2.0 | PTB Patch Notes",
+   "date": "2024-08-06",
+   "url": "https://store.steampowered.com/news/app/381210/view/4327481163709566666?l=english",
+   "counts": {
+    "buff": 2,
+    "nerf": 1,
+    "change": 8,
+    "new": 7,
+    "fix": 17
+   }
+  },
+  {
+   "id": "8.1.1a",
+   "version": "8.1.1a",
+   "kind": "release",
+   "title": "8.1.1a | Hotfix",
+   "date": "2024-07-31",
+   "url": "https://store.steampowered.com/news/app/381210/view/4327480529710258030?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 0,
+    "new": 0,
+    "fix": 1
+   }
+  },
+  {
+   "id": "8.1.1",
+   "version": "8.1.1",
+   "kind": "release",
+   "title": "8.1.1 | Bug Fix Patch",
+   "date": "2024-07-24",
+   "url": "https://store.steampowered.com/news/app/381210/view/4366886565637509449?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 1,
+    "change": 4,
+    "new": 0,
+    "fix": 27
+   }
+  },
+  {
+   "id": "8.1.0",
+   "version": "8.1.0",
+   "kind": "release",
+   "title": "8.1.0 | Tomb Raider",
+   "date": "2024-07-16",
+   "url": "https://store.steampowered.com/news/app/381210/view/6486955549515881480?l=english",
+   "counts": {
+    "buff": 2,
+    "nerf": 1,
+    "change": 8,
+    "new": 3,
+    "fix": 32
+   }
+  },
+  {
+   "id": "ptb-8.1.0",
+   "version": "8.1.0",
+   "kind": "ptb",
+   "title": "8.1.0 | PTB",
+   "date": "2024-06-25",
+   "url": "https://store.steampowered.com/news/app/381210/view/4177732670886583216?l=english",
+   "counts": {
+    "buff": 12,
+    "nerf": 0,
+    "change": 9,
+    "new": 3,
+    "fix": 21
+   }
+  },
+  {
+   "id": "8.0.2",
+   "version": "8.0.2",
+   "kind": "release",
+   "title": "8.0.2 | Bugfix Patch",
+   "date": "2024-06-19",
+   "url": "https://store.steampowered.com/news/app/381210/view/5957779882501950177?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 33
+   }
+  },
+  {
+   "id": "8.0.1",
+   "version": "8.0.1",
+   "kind": "release",
+   "title": "8.0.1 | Bugfix Patch",
+   "date": "2024-06-13",
+   "url": "https://store.steampowered.com/news/app/381210/view/5957779882483105571?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 2,
+    "change": 1,
+    "new": 0,
+    "fix": 49
+   }
+  },
+  {
+   "id": "8.0.0",
+   "version": "8.0.0",
+   "kind": "release",
+   "title": "8.0.0 | Dungeons & Dragons",
+   "date": "2024-06-03",
+   "url": "https://store.steampowered.com/news/app/381210/view/4179982568654149923?l=english",
+   "counts": {
+    "buff": 6,
+    "nerf": 7,
+    "change": 14,
+    "new": 2,
+    "fix": 61
+   }
+  },
+  {
+   "id": "ptb-8.0.0",
+   "version": "8.0.0",
+   "kind": "ptb",
+   "title": "8.0.0 | PTB",
+   "date": "2024-05-14",
+   "url": "https://store.steampowered.com/news/app/381210/view/4194617370628073872?l=english",
+   "counts": {
+    "buff": 6,
+    "nerf": 20,
+    "change": 14,
+    "new": 18,
+    "fix": 37
+   }
+  },
+  {
+   "id": "7.7.1",
+   "version": "7.7.1",
+   "kind": "release",
+   "title": "7.7.1 | Bugfix Patch",
+   "date": "2024-05-06",
+   "url": "https://store.steampowered.com/news/app/381210/view/4168721032158797741?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 2,
+    "new": 0,
+    "fix": 44
+   }
+  },
+  {
+   "id": "7.7.0A",
+   "version": "7.7.0A",
+   "kind": "release",
+   "title": "7.7.0A | Bugfix Patch (Tentative Strobing Fix)",
+   "date": "2024-04-26",
+   "url": "https://store.steampowered.com/news/app/381210/view/4170972198122834038?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 0,
+    "new": 0,
+    "fix": 3
+   }
+  },
+  {
+   "id": "7.5.0",
+   "version": "7.5.0",
+   "kind": "release",
+   "title": "7.5.0 | Hotfix",
+   "date": "2024-01-31",
+   "url": "https://store.steampowered.com/news/app/381210/view/4044863802194041593?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 0,
+    "new": 0,
+    "fix": 1
+   }
+  },
+  {
+   "id": "ptb-7.4.0",
+   "version": "7.4.0",
+   "kind": "ptb",
+   "title": "7.4.0 | PTB",
+   "date": "2023-11-08",
+   "url": "https://store.steampowered.com/news/app/381210/view/3814046073275471326?l=english",
+   "counts": {
+    "buff": 2,
+    "nerf": 1,
+    "change": 12,
+    "new": 1,
+    "fix": 57
+   }
+  },
+  {
+   "id": "ptb-7.3.0",
+   "version": "7.3.0",
+   "kind": "ptb",
+   "title": "7.3.0 | PTB",
+   "date": "2023-09-19",
+   "url": "https://store.steampowered.com/news/app/381210/view/5795625563475297589?l=english",
+   "counts": {
+    "buff": 4,
+    "nerf": 2,
+    "change": 6,
+    "new": 0,
+    "fix": 20
+   }
+  },
+  {
+   "id": "7.2.0",
+   "version": "7.2.0",
+   "kind": "release",
+   "title": "7.2.0 | Alien",
+   "date": "2023-08-29",
+   "url": "https://store.steampowered.com/news/app/381210/view/3669924544100386827?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 20,
+    "new": 1,
+    "fix": 12
+   }
+  },
+  {
+   "id": "7.1.2a",
+   "version": "7.1.2a",
+   "kind": "release",
+   "title": "7.1.2a | Bugfix Patch",
+   "date": "2023-08-15",
+   "url": "https://store.steampowered.com/news/app/381210/view/6199820457253346350?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 1
+   }
+  },
+  {
+   "id": "7.1.2",
+   "version": "7.1.2",
+   "kind": "release",
+   "title": "7.1.2 | Bugfix Patch",
+   "date": "2023-08-09",
+   "url": "https://store.steampowered.com/news/app/381210/view/3655285941433652909?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 2,
+    "new": 0,
+    "fix": 28
+   }
+  },
+  {
+   "id": "ptb-7.2.0",
+   "version": "7.2.0",
+   "kind": "ptb",
+   "title": "7.2.0 | PTB",
+   "date": "2023-08-08",
+   "url": "https://store.steampowered.com/news/app/381210/view/3655285941433681672?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 4,
+    "new": 2,
+    "fix": 16
+   }
+  },
+  {
+   "id": "7.1.1",
+   "version": "7.1.1",
+   "kind": "release",
+   "title": "7.1.1 | Bugfix Patch",
+   "date": "2023-08-01",
+   "url": "https://store.steampowered.com/news/app/381210/view/3655285307835824997?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 42
+   }
+  },
+  {
+   "id": "7.1.0",
+   "version": "7.1.0",
+   "kind": "release",
+   "title": "7.1.0 | Nicolas Cage",
+   "date": "2023-07-25",
+   "url": "https://store.steampowered.com/news/app/381210/view/3642899865892506465?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 36,
+    "new": 0,
+    "fix": 53
+   }
+  },
+  {
+   "id": "ptb-7.1.0",
+   "version": "7.1.0",
+   "kind": "ptb",
+   "title": "7.1.0 | PTB",
+   "date": "2023-07-05",
+   "url": "https://store.steampowered.com/news/app/381210/view/3657534571531776196?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 24,
+    "new": 1,
+    "fix": 47
+   }
+  },
+  {
+   "id": "7.0.2",
+   "version": "7.0.2",
+   "kind": "release",
+   "title": "7.0.2 | Bugfix Patch",
+   "date": "2023-06-28",
+   "url": "https://store.steampowered.com/news/app/381210/view/3646274937583044655?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 1,
+    "change": 1,
+    "new": 0,
+    "fix": 24
+   }
+  },
+  {
+   "id": "7.0.1",
+   "version": "7.0.1",
+   "kind": "release",
+   "title": "7.0.1 | Bugfix Patch",
+   "date": "2023-06-21",
+   "url": "https://store.steampowered.com/news/app/381210/view/6625405551520262625?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 41
+   }
+  },
+  {
+   "id": "7.0.0",
+   "version": "7.0.0",
+   "kind": "release",
+   "title": "7.0.0 | End Transmission",
+   "date": "2023-06-13",
+   "url": "https://store.steampowered.com/news/app/381210/view/3649651368762805768?l=english",
+   "counts": {
+    "buff": 3,
+    "nerf": 1,
+    "change": 23,
+    "new": 0,
+    "fix": 33
+   }
+  },
+  {
+   "id": "ptb-7.0.0",
+   "version": "7.0.0",
+   "kind": "ptb",
+   "title": "7.0.0 | PTB",
+   "date": "2023-05-23",
+   "url": "https://store.steampowered.com/news/app/381210/view/3703692662174567252?l=english",
+   "counts": {
+    "buff": 3,
+    "nerf": 0,
+    "change": 13,
+    "new": 1,
+    "fix": 59
+   }
+  },
+  {
+   "id": "6.7.2",
+   "version": "6.7.2",
+   "kind": "release",
+   "title": "6.7.2 | Bugfix Patch",
+   "date": "2023-05-18",
+   "url": "https://store.steampowered.com/news/app/381210/view/3703692662174103358?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 0
+   }
+  },
+  {
+   "id": "6.7.1",
+   "version": "6.7.1",
+   "kind": "release",
+   "title": "6.7.1 | Bugfix Patch",
+   "date": "2023-05-03",
+   "url": "https://store.steampowered.com/news/app/381210/view/3723956959298911343?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 0,
+    "new": 0,
+    "fix": 92
+   }
+  },
+  {
+   "id": "6.7.0",
+   "version": "6.7.0",
+   "kind": "release",
+   "title": "6.7.0 | Mid-Chapter",
+   "date": "2023-04-18",
+   "url": "https://store.steampowered.com/news/app/381210/view/6360813434308748283?l=english",
+   "counts": {
+    "buff": 14,
+    "nerf": 5,
+    "change": 11,
+    "new": 0,
+    "fix": 77
+   }
+  },
+  {
+   "id": "ptb-6.7.0",
+   "version": "6.7.0",
+   "kind": "ptb",
+   "title": "6.7.0 | PTB",
+   "date": "2023-03-29",
+   "url": "https://store.steampowered.com/news/app/381210/view/3717198571776840226?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 14,
+    "change": 17,
+    "new": 0,
+    "fix": 23
+   }
+  },
+  {
+   "id": "6.6.2",
+   "version": "6.6.2",
+   "kind": "release",
+   "title": "6.6.2 | Bugfix Patch",
+   "date": "2023-03-22",
+   "url": "https://store.steampowered.com/news/app/381210/view/3722827337090816591?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 3,
+    "new": 0,
+    "fix": 22
+   }
+  },
+  {
+   "id": "6.6.1",
+   "version": "6.6.1",
+   "kind": "release",
+   "title": "6.6.1 | Bugfix Patch",
+   "date": "2023-03-14",
+   "url": "https://store.steampowered.com/news/app/381210/view/3657524427223569635?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 49
+   }
+  },
+  {
+   "id": "6.6.0",
+   "version": "6.6.0",
+   "kind": "release",
+   "title": "6.6.0 | Tools of Torment",
+   "date": "2023-03-07",
+   "url": "https://store.steampowered.com/news/app/381210/view/3662027393133658040?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 23,
+    "new": 0,
+    "fix": 30
+   }
+  },
+  {
+   "id": "ptb-6.6.0",
+   "version": "6.6.0",
+   "kind": "ptb",
+   "title": "6.6.0 | PTB",
+   "date": "2023-02-15",
+   "url": "https://store.steampowered.com/news/app/381210/view/3640634026206856655?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 19,
+    "new": 0,
+    "fix": 2
+   }
+  },
+  {
+   "id": "6.5.2",
+   "version": "6.5.2",
+   "kind": "release",
+   "title": "6.5.2 | Bugfix Patch",
+   "date": "2023-02-08",
+   "url": "https://store.steampowered.com/news/app/381210/view/3640632759322203053?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 0,
+    "new": 0,
+    "fix": 19
+   }
+  },
+  {
+   "id": "6.5.1",
+   "version": "6.5.1",
+   "kind": "release",
+   "title": "6.5.1 | Bugfix Patch",
+   "date": "2023-01-31",
+   "url": "https://store.steampowered.com/news/app/381210/view/3656394723656098761?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 4,
+    "new": 0,
+    "fix": 7
+   }
+  },
+  {
+   "id": "6.5.0",
+   "version": "6.5.0",
+   "kind": "release",
+   "title": "6.5.0 | Mid-Chapter",
+   "date": "2023-01-24",
+   "url": "https://store.steampowered.com/news/app/381210/view/3656394088564258919?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 11,
+    "new": 0,
+    "fix": 105
+   }
+  },
+  {
+   "id": "ptb-6.5.0",
+   "version": "6.5.0",
+   "kind": "ptb",
+   "title": "6.5.0 | PTB",
+   "date": "2023-01-04",
+   "url": "https://store.steampowered.com/news/app/381210/view/3612481452361798059?l=english",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 10,
+    "new": 0,
+    "fix": 51
+   }
+  },
+  {
+   "id": "6.4.3",
+   "version": "6.4.3",
+   "kind": "release",
+   "title": "6.4.3 | Bugfix Patch",
+   "date": "2022-12-15",
+   "url": "https://store.steampowered.com/news/app/381210/view/3650761419025315441?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 0,
+    "new": 0,
+    "fix": 7
+   }
+  },
+  {
+   "id": "6.4.2",
+   "version": "6.4.2",
+   "kind": "release",
+   "title": "6.4.2 | Bugfix Patch",
+   "date": "2022-12-06",
+   "url": "https://store.steampowered.com/news/app/381210/view/3627116704241734147?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 2,
+    "new": 0,
+    "fix": 23
+   }
+  },
+  {
+   "id": "6.4.1",
+   "version": "6.4.1",
+   "kind": "release",
+   "title": "6.4.1 | Bugfix Patch",
+   "date": "2022-11-30",
+   "url": "https://store.steampowered.com/news/app/381210/view/3493133438816915504?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 0,
+    "new": 0,
+    "fix": 41
+   }
+  },
+  {
+   "id": "6.4.0",
+   "version": "6.4.0",
+   "kind": "release",
+   "title": "6.4.0 | Forged in Fog",
+   "date": "2022-11-22",
+   "url": "https://store.steampowered.com/news/app/381210/view/3493133438788454970?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 4,
+    "new": 6,
+    "fix": 81
+   }
+  },
+  {
+   "id": "ptb-6.4.0",
+   "version": "6.4.0",
+   "kind": "ptb",
+   "title": "6.4.0 | PTB",
+   "date": "2022-11-01",
+   "url": "https://store.steampowered.com/news/app/381210/view/3377163301212698477?l=english",
+   "counts": {
+    "buff": 0,
+    "nerf": 0,
+    "change": 3,
+    "new": 6,
+    "fix": 22
+   }
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "id": "7.1.2a",
+ "version": "7.1.2a",
+ "kind": "release",
+ "title": "7.1.2a | Bugfix Patch",
+ "date": "2023-08-15",
+ "url": "https://store.steampowered.com/news/app/381210/view/6199820457253346350?l=english",
+ "changes": [
+  {
+   "entity": "Release Information",
+   "cat": "system",
+   "section": "Release Information",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Update Releases: 11AM ET",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Update Releases: 11AM ET"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Bug Fixes",
+   "items": [
+    "Steam and EGS: Fixed an issue that caused Stadia owned entitlements to be no longer available since the 7.1.0 release"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,878 @@
+{
+ "id": "ptb-8.3.0",
+ "version": "8.3.0",
+ "kind": "ptb",
+ "title": "8.3.0 | PTB",
+ "date": "2024-09-17",
+ "url": "https://store.steampowered.com/news/app/381210/view/7291979610157815405?l=english",
+ "changes": [
+  {
+   "entity": "Finisher Mori",
+   "cat": "system",
+   "section": "Finisher Mori",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The killer may now kill the last survivor by performing a Mori. Improvements have been made to the cinematic Mori camera to better highlight these end of trial kills",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The killer may now kill the last survivor by performing a Mori. Improvements have been made to the cinematic Mori camera to better highlight these end of trial kills"
+   ]
+  },
+  {
+   "entity": "Ebony Memento Mori",
+   "cat": "system",
+   "section": "Finisher Mori",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Gain 30,000 Bloodpoints for performing any Mori on the last Survivor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Gain 30,000 Bloodpoints for performing any Mori on the last Survivor"
+   ]
+  },
+  {
+   "entity": "Ivory Memento Mori",
+   "cat": "system",
+   "section": "Finisher Mori",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Gain 20,000 Bloodpoints for performing any Mori on the last Survivor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Gain 20,000 Bloodpoints for performing any Mori on the last Survivor"
+   ]
+  },
+  {
+   "entity": "Cypress Memento Mori",
+   "cat": "system",
+   "section": "Finisher Mori",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Gain 10,000 Bloodpoints for performing any Mori on the last Survivor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Gain 10,000 Bloodpoints for performing any Mori on the last Survivor"
+   ]
+  },
+  {
+   "entity": "Blood Echo",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When hooking a Survivor, all injured Survivors suffer from Hemorrhage and Exhaustion for 20/25/30 seconds",
+     "after": null,
+     "before": "45 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Blood Echo has a cooldown of 80/70/60 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "removed": true,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "When hooking a Survivor, all injured Survivors suffer from Hemorrhage and Exhaustion for 20/25/30 seconds. (was 45 seconds) Blood Echo has a cooldown of 80/70/60 seconds. (REMOVED)"
+   ]
+  },
+  {
+   "entity": "Dead Man's Switch",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When hooking a Survivor, Dead Man's Switch activates. The first Survivor that stops repairing a generator calls upon the Entity to block it for 40/45/50 seconds",
+     "after": null,
+     "before": "35/40/45 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Dead Man's Switch cannot activate while it is actively blocking a generator",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When hooking a Survivor, Dead Man's Switch activates. The first Survivor that stops repairing a generator calls upon the Entity to block it for 40/45/50 seconds. (was 35/40/45 seconds) Dead Man's Switch cannot activate while it is actively blocking a generator. (NEW)"
+   ]
+  },
+  {
+   "entity": "Deathbound",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "When a Survivor heals another Survivor, they scream and activate Deathbound. (Removed the distance requirement) When the healer is further than 16/12/8 meters from the Survivor they healed, they are Oblivious. This lasts until the healer is hooked",
+     "after": null,
+     "before": "60 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "When a Survivor heals another Survivor, they scream and activate Deathbound. (Removed the distance requirement) When the healer is further than 16/12/8 meters from the Survivor they healed, they are Oblivious. This lasts until the healer is hooked. (was 60 seconds)"
+   ]
+  },
+  {
+   "entity": "Genetic Limits",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Anytime a Survivor loses a health state, they suffer from the Exhausted Status Effect for 6/7/8 seconds",
+     "after": null,
+     "before": "upon finishing the healing action, and 24/28/32 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Anytime a Survivor loses a health state, they suffer from the Exhausted Status Effect for 6/7/8 seconds. (was upon finishing the healing action, and 24/28/32 seconds)"
+   ]
+  },
+  {
+   "entity": "Hex: Crowd Control",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "The last 3/4/5 vaults that Survivors rush vault are blocked by the Entity",
+     "after": null,
+     "before": "14/17/20 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "The last 3/4/5 vaults that Survivors rush vault are blocked by the Entity. (was 14/17/20 seconds) This lasts until the hex totem is cleansed"
+   ]
+  },
+  {
+   "entity": "Leverage",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When a Survivor performs the unhook action, their healing speed is reduced by 30/40/50% for 30 seconds",
+     "after": null,
+     "before": "token based, and 3/4/5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When a Survivor performs the unhook action, their healing speed is reduced by 30/40/50% for 30 seconds. (was token based, and 3/4/5%)"
+   ]
+  },
+  {
+   "entity": "Machine Learning",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When damaging a generator, it becomes Compromised. Only one generator can be Compromised at a time. (Removed the requirement to activate the perk) When a Compromised generator is completed, you become Undetectable and gain 10% Haste for 40/50/60 seconds. This effect cannot stack",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When damaging a generator, it becomes Compromised. Only one generator can be Compromised at a time. (Removed the requirement to activate the perk) When a Compromised generator is completed, you become Undetectable and gain 10% Haste for 40/50/60 seconds. This effect cannot stack"
+   ]
+  },
+  {
+   "entity": "Predator",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When a Survivor escapes a chase, reveal their aura for 6 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Predator has a 60/50/40-second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When a Survivor escapes a chase, reveal their aura for 6 seconds. (NEW) Predator has a 60/50/40-second cooldown (NEW)"
+   ]
+  },
+  {
+   "entity": "THWACK!",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "THWACK starts with 3 tokens",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "When breaking a pallet or breakable wall, consume a token",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Survivors within 24 meters scream, revealing their location for 3/4/5 seconds",
+     "after": null,
+     "before": "28/30/32 meters, and 4 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "When hooking a Survivor, regain 1 token",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "THWACK starts with 3 tokens (NEW) When breaking a pallet or breakable wall, consume a token. (NEW) Survivors within 24 meters scream, revealing their location for 3/4/5 seconds (was 28/30/32 meters, and 4 seconds) When hooking a Survivor, regain 1 token (NEW)"
+   ]
+  },
+  {
+   "entity": "Zanshin Tactics",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Survivor is within 6 meters of a dropped pallet within 16 meters of your location, reveal their aura for 6/8/10 seconds. (REWORK)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Survivor is within 6 meters of a dropped pallet within 16 meters of your location, reveal their aura for 6/8/10 seconds. (REWORK)"
+   ]
+  },
+  {
+   "entity": "Bloodrush",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "After being unhooked, Blood Rush activates for the next 40/50/60 seconds. While suffering from Exhausted, press the Active Ability Button 1 to recover from Exhausted instantly. Blood Rush deactivates when used or when performing a conspicuous action. Blood Rush is disabled once the exit gates are powered",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "After being unhooked, Blood Rush activates for the next 40/50/60 seconds. While suffering from Exhausted, press the Active Ability Button 1 to recover from Exhausted instantly. Blood Rush deactivates when used or when performing a conspicuous action. Blood Rush is disabled once the exit gates are powered"
+   ]
+  },
+  {
+   "entity": "Corrective Action",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "You start the trial with 1/2/3 token(s) and gain a token, up to a maximum of 5, for every Great Skill Check. When a Survivor fails a Normal Skill Check within 8 meters, 1 token is consumed and their failed Skill Check becomes a Great Skill Check",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "You start the trial with 1/2/3 token(s) and gain a token, up to a maximum of 5, for every Great Skill Check. When a Survivor fails a Normal Skill Check within 8 meters, 1 token is consumed and their failed Skill Check becomes a Great Skill Check"
+   ]
+  },
+  {
+   "entity": "Distortion",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When your aura would be read, hide your scratch marks and aura for the next 8/10/12 seconds",
+     "after": null,
+     "before": "6/8/10",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When your aura would be read, hide your scratch marks and aura for the next 8/10/12 seconds. (was 6/8/10) Distortion deactivates until the next time you are chased"
+   ]
+  },
+  {
+   "entity": "Inner Focus",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "You can see other Survivors' Scratch Marks. Whenever another Survivor loses a health state, the Killer's aura is revealed to you for 6/8/10 seconds. (Removed the range condition)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "You can see other Survivors' Scratch Marks. Whenever another Survivor loses a health state, the Killer's aura is revealed to you for 6/8/10 seconds. (Removed the range condition)"
+   ]
+  },
+  {
+   "entity": "Lucky Star",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When you hide a locker, make no grunts of pain. After exiting the locker, you see the aura of the closest generator, all Survivors, and make no grunts of pain, nor leave blood pools for 30 seconds",
+     "after": null,
+     "before": "10 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When you hide a locker, make no grunts of pain. After exiting the locker, you see the aura of the closest generator, all Survivors, and make no grunts of pain, nor leave blood pools for 30 seconds. (was 10 seconds) Lucky Star goes on cooldown for 40/35/30 seconds"
+   ]
+  },
+  {
+   "entity": "Poised",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When first starting repairs on a generator, reveal the Killer's aura for 6 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "After a generator is completed, leave no scratch marks for 10/12/14 seconds",
+     "after": null,
+     "before": "6/8/10 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When first starting repairs on a generator, reveal the Killer's aura for 6 seconds. (NEW) After a generator is completed, leave no scratch marks for 10/12/14 seconds. (was 6/8/10 seconds)"
+   ]
+  },
+  {
+   "entity": "Quick Gambit",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When you are being chased, see the aura of other Survivors. (Removed the range condition) Survivors working on any generator gain 3/4/5% repair speed boost",
+     "after": null,
+     "before": "6/7/8%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Quick Gambit goes on cooldown for 60/60/60 seconds when you lose a health state",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When you are being chased, see the aura of other Survivors. (Removed the range condition) Survivors working on any generator gain 3/4/5% repair speed boost. (was 6/7/8%) Quick Gambit goes on cooldown for 60/60/60 seconds when you lose a health state. (NEW)"
+   ]
+  },
+  {
+   "entity": "Teamwork: Collective Stealth",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "After being healed by another Survivor, you both leave no scratch marks as long as you stay within 8/12/16 meters. (Removed cooldown, was 12 meters) This effect lingers for 4 seconds when leaving the range",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "After being healed by another Survivor, you both leave no scratch marks as long as you stay within 8/12/16 meters. (Removed cooldown, was 12 meters) This effect lingers for 4 seconds when leaving the range. (NEW) This effect does not stack"
+   ]
+  },
+  {
+   "entity": "Teamwork: Power of Two",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When you finish healing another Survivor, you both gain 5% Haste as long as you stay within 8/12/16 meters. (Removed cooldown, was 12 meters) This effect lingers for 4 seconds when leaving the range",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When you finish healing another Survivor, you both gain 5% Haste as long as you stay within 8/12/16 meters. (Removed cooldown, was 12 meters) This effect lingers for 4 seconds when leaving the range. (NEW) This effect does not stack"
+   ]
+  },
+  {
+   "entity": "We're Gonna Live Forever",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When healing another Survivor in the dying state, your healing speed is increased by 150%",
+     "after": null,
+     "before": "100%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When healing another Survivor in the dying state, your healing speed is increased by 150%. (was 100%) When completing the heal action, grant them the Endurance Status Effect for 6/8/10 seconds. This effect has a 30-second cooldown. (Removed the list of conditions required to trigger this effect)"
+   ]
+  },
+  {
+   "entity": "The Hillbilly - Basekit",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decrease Overdrive dissipation buffer to 8 seconds",
+     "after": null,
+     "before": "15 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decrease Overdrive chainsaw sprint speed to 11.5 m/s",
+     "after": null,
+     "before": "13 m/s",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decrease Overdrive charges gained when revving to 1.5/second",
+     "after": null,
+     "before": "2/second",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decrease Overdrive charges gained when sprinting to 1.5/second",
+     "after": null,
+     "before": "2/second",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increase the Chainsaw miss cooldown to 2.7 seconds",
+     "after": null,
+     "before": "2.5 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decrease Overdrive dissipation buffer to 8 seconds (was 15 seconds)",
+    "Decrease Overdrive chainsaw sprint speed to 11.5 m/s (was 13 m/s)",
+    "Decrease Overdrive charges gained when revving to 1.5/second (was 2/second)",
+    "Decrease Overdrive charges gained when sprinting to 1.5/second (was 2/second)",
+    "Increase the Chainsaw miss cooldown to 2.7 seconds (was 2.5 seconds)"
+   ],
+   "character": "The Hillbilly"
+  },
+  {
+   "entity": "The Hillbilly - Addons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Discarded Air Filter: Decrease rarity to Common",
+     "after": "Discarded Air Filter:",
+     "before": "Rare",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "High-Speed Idler Screw: Decrease rarity to Uncommon",
+     "after": "High-Speed Idler Screw:",
+     "before": "Very Rare",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Dad's Boots: Increase rarity to Rare",
+     "after": "Dad's Boots:",
+     "before": "Common",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases the Chainsaw Sprint turn rate by 20%",
+     "after": null,
+     "before": "30%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Spiked Boots: Increase rarity to Very Rare",
+     "after": "Spiked Boots:",
+     "before": "Uncommon",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases the Chainsaw Sprint turn rate by 30%",
+     "after": null,
+     "before": "45%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Discarded Air Filter: Decrease rarity to Common (was Rare)",
+    "High-Speed Idler Screw: Decrease rarity to Uncommon (was Very Rare)",
+    "Dad's Boots: Increase rarity to Rare (was Common) Increases the Chainsaw Sprint turn rate by 20% (was 30%)",
+    "Spiked Boots: Increase rarity to Very Rare (was Uncommon) Increases the Chainsaw Sprint turn rate by 30% (was 45%)",
+    "Lo Pro Chains: Chainsaw hits within 5 seconds of breaking a pallet inflict Deep Wound on Injured Survivors (instead of the Dying State)"
+   ],
+   "character": "The Hillbilly"
+  },
+  {
+   "entity": "The Skull Merchant - Basekit",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decrease the Hindered penalty when scanned while having a Claw Trap to 5%",
+     "after": null,
+     "before": "10%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Drones are always in the active state",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Drone scan lines are only visible within 16 meters",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Decrease the number of scan lines to 1",
+     "after": null,
+     "before": "2",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decrease the Hindered penalty when scanned while having a Claw Trap to 5% (was 10%)",
+    "Drones are always in the active state (NEW)",
+    "Drone scan lines are only visible within 16 meters (NEW)",
+    "Decrease the number of scan lines to 1 (was 2)",
+    "The Skull Merchant no longer gains Haste from Survivors being scanned or from Survivors having a Claw Trap"
+   ],
+   "character": "The Skull Merchant"
+  },
+  {
+   "entity": "The Skull Merchant - Addons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Expired Batteries: All Survivors start the trial with a Claw Trap, which has 50% normal battery life. Claw Trap battery life increases by 10% for each Claw Trap received, up to 150%. (Note: After the initial Claw Trap of 50%, the next Claw Trap starts at 100% battery life)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Expired Batteries: All Survivors start the trial with a Claw Trap, which has 50% normal battery life. Claw Trap battery life increases by 10% for each Claw Trap received, up to 150%. (Note: After the initial Claw Trap of 50%, the next Claw Trap starts at 100% battery life)"
+   ],
+   "character": "The Skull Merchant"
+  },
+  {
+   "entity": "The Twins - Basekit",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increase the cooldown when Victor is crushed to 20 seconds",
+     "after": null,
+     "before": "15 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increase the cooldown when Victor downs a Survivor to 3.2 seconds",
+     "after": null,
+     "before": "2.7 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increase the cooldown when Victor is crushed to 20 seconds (was 15 seconds)",
+    "Increase the cooldown when Victor downs a Survivor to 3.2 seconds (was 2.7 seconds)"
+   ],
+   "character": "The Twins"
+  },
+  {
+   "entity": "The Unknown - Basekit",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decrease to Teleport movement speed Recovery to 1.4 seconds",
+     "after": null,
+     "before": "1.7 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decrease to Teleport movement speed Recovery to 1.4 seconds (was 1.7 seconds)",
+    "Decrease to delay between charging UVX and movement speed penalty to 0.07 seconds (Triggering movement speed penalty while charging UVX now happens faster upon pressing input, was 0.2 seconds)",
+    "Moved Survivor body texture effect from UVX Airborne Hits to successful UVX Weakened Hits (Weakened Survivors should now have more visual information to track if they have become or are still afflicted by Weakened)",
+    "Updated sound effect for UVX Airborne Hit to sound more neutral overall"
+   ],
+   "character": "The Unknown"
+  },
+  {
+   "entity": "The Unknown - Addons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Blurry Photo: After Teleporting, regain full Movement Speed 15% faster",
+     "after": "Blurry Photo:",
+     "before": "50% faster",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Vanishing Box Survivors who complete generators become Weakened against UVX Increase Hallucination spawn time by 80%",
+     "after": "Vanishing Box",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Blurry Photo: After Teleporting, regain full Movement Speed 15% faster (was 50% faster)",
+    "Vanishing Box Survivors who complete generators become Weakened against UVX Increase Hallucination spawn time by 80% (NEW)"
+   ],
+   "character": "The Unknown"
+  },
+  {
+   "entity": "UX",
+   "cat": "system",
+   "section": "UX",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Gameplay",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Updated the Unknown's Killer Power Icon with new smaller icons to better surface mechanics and cooldowns",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Rift Pass",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Players can Preview Mori's at the Rift Pass",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Gameplay",
+    "Updated the Unknown's Killer Power Icon with new smaller icons to better surface mechanics and cooldowns",
+    "Rift Pass",
+    "Players can Preview Mori's at the Rift Pass"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Archives",
+   "items": [
+    "Fixed an issue that caused the \"With Your Own hands\" challenge not to gain progress when killing a Survivor with the Lich's Recover Artifact."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue that caused Slipknot's Theme to not play when swapping cosmetics.",
+    "Dwight's Mr. Elf outfit is now producing short range SFX when crouching/uncrouching.",
+    "Fixed an issue that caused Lara Croft to trigger VOs during a Mori."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Survivor Bots went through a grueling training on how to use Flashlights and are now much better at aiming them and using them mid-chase."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "More Legendary Outfits for Killers now come with a custom name.",
+    "Fixed an issue that caused the Nemesis' add-on Adrenaline Injector not to increase Killer Instinct duration.",
+    "Fixed an issue that caused the Dark Lord's model to become distorted when spectating while the Killer shapeshifted forms."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue the map Sanctum of Wrath where the statues head would not rotate.",
+    "Fixed an issue in Midwich Elementary school where a ground tile appeared in the corridors.",
+    "Fixed an issue in the map Rancid Abattoir where a tree would clip through the exit gates.",
+    "Updated the map tile generation to reduce chances of bugs in the future. You may see certain tiles appear more or less commonly than before."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue that caused the incorrect external perk icon to be shown when a Survivor is unhooked with Babysitter.",
+    "Fixed an issue that caused Decisive Strike not to free the Survivor after being caught by the Lich mimic chest.",
+    "Fixed an issue that caused the Eye of Belmont perk to behave inconsistently when paired with Object of Obsession perk.",
+    "Fixed an issue that caused the Weave Attunement debuff icon to remain on a Survivor whilst no longer affected."
+   ]
+  },
+  {
+   "group": "Add-Ons",
+   "items": [
+    "Updated the Description to The Dark Lord's Magical Ticket add-on to reflect the correct value."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Improved loading time during splash screen for Xbox Series X.",
+    "Fixed a crash that could occur when Suspending the game on PlayStation consoles."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed a crash that could occur when force-exiting the application with Alt-F4 during a Trial.",
+    "Fixed a crash that could occur on servers while loading into a Trial.",
+    "Fixed an issue that caused the White Ward Survivor Offering not to protect add-on when the Survivor dies with an upgraded item."
+   ]
+  }
+ ]
+}

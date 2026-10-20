@@ -1,0 +1,199 @@
+{
+ "id": "8.4.2",
+ "version": "8.4.2",
+ "kind": "release",
+ "title": "8.4.2 | Bugfix Patch",
+ "date": "2024-12-12",
+ "url": "https://store.steampowered.com/news/app/381210/view/546721329464737936?l=english",
+ "changes": [
+  {
+   "entity": "The Houndmaster - Basekit",
+   "cat": "killer",
+   "section": "The Houndmaster - Basekit",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Chase Command cooldown reduced to 3 seconds",
+     "after": null,
+     "before": "4 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased the time it takes The Houndmaster to recover movement speed from cancelling Chase Command to 1 second",
+     "after": null,
+     "before": "0.85 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reduced the movement speed penalty from cancelling Chase Command to 3.0 m/s",
+     "after": null,
+     "before": "2.0 m/s",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased hitbox of Dog while performing Chase Command to 0.65 meters",
+     "after": null,
+     "before": "0.5 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Window and Pallet vault time of Dog while performing Chase Command to 0.45 seconds",
+     "after": null,
+     "before": "0.9 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reduced Chase Command camera transition time from The Houndmaster to Dog when activating Redirect to 0.15 seconds",
+     "after": null,
+     "before": "0.25 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reduced Chase Command camera transition time from Dog to The Houndmaster after ending Redirect to 0.15 seconds",
+     "after": null,
+     "before": "0.25 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Updated Dog pathfinding during Grab to pull Survivors towards coordinates where the Grab was started",
+     "after": null,
+     "before": "previously towards The Houndmaster's location at moment of Chase Command activation",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increased the amount of Hindered status effect applied to Survivor caught in a Grab to 10%",
+     "after": null,
+     "before": "3%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Chase Command cooldown reduced to 3 seconds (was 4 seconds)",
+    "Increased the time it takes The Houndmaster to recover movement speed from cancelling Chase Command to 1 second (was 0.85 seconds)",
+    "Reduced the movement speed penalty from cancelling Chase Command to 3.0 m/s (was 2.0 m/s)",
+    "Increased hitbox of Dog while performing Chase Command to 0.65 meters (was 0.5 meters)",
+    "Increased Window and Pallet vault time of Dog while performing Chase Command to 0.45 seconds (was 0.9 seconds)",
+    "Reduced Chase Command camera transition time from The Houndmaster to Dog when activating Redirect to 0.15 seconds (was 0.25 seconds)",
+    "Reduced Chase Command camera transition time from Dog to The Houndmaster after ending Redirect to 0.15 seconds (was 0.25 seconds)",
+    "Updated Dog pathfinding during Grab to pull Survivors towards coordinates where the Grab was started (was previously towards The Houndmaster's location at moment of Chase Command activation)",
+    "Increased the amount of Hindered status effect applied to Survivor caught in a Grab to 10% (was 3%)"
+   ],
+   "character": "The Houndmaster"
+  },
+  {
+   "entity": "The Houndmaster - Addons",
+   "cat": "killer",
+   "section": "The Houndmaster - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Knotted Rope: Basic attack cooldown against grabbed Survivors reduced to 2%",
+     "after": null,
+     "before": "10%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Knotted Rope: Basic attack cooldown against grabbed Survivors reduced to 2% (was 10%)"
+   ]
+  },
+  {
+   "entity": "Hex: Thrill of the Hunt",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "For each Dull and Hex Totem remaining on the map, gain a Token. Survivors' Cleansing and Blessing speed is reduced by 8/10/12% for each Token",
+     "after": null,
+     "before": "10/12/14%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "For each Dull and Hex Totem remaining on the map, gain a Token. Survivors' Cleansing and Blessing speed is reduced by 8/10/12% for each Token. (was 10/12/14%)"
+   ]
+  },
+  {
+   "entity": "Archives & Events",
+   "cat": "system",
+   "section": "Archives & Events",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Chaos Shuffle returns January 16, 2025 at 11:00am Eastern. This event includes an event tome featuring Dungeons & Dragons themed rewards",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Chaos Shuffle returns January 16, 2025 at 11:00am Eastern. This event includes an event tome featuring Dungeons & Dragons themed rewards"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Bots",
+   "items": [
+    "Trained survivor bot to use the perk Invocation: Treacherous Crows"
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused The Houndmaster to temporarily become stuck during the break generator animation when spectating.",
+    "Fixed an issue that caused The Houndmaster's Dog's Search to have the wrong icon when charging the power.",
+    "Fixed an issue that caused The Houndmaster's Swap Command icon to remain lit up when charging the power.",
+    "Fixed an issue that caused The Houndmaster's Chase command not to injure vaulting Survivors.",
+    "Fixed an issue that caused The Houndmaster's Dog to vault at the same vault location being used by a Survivor.",
+    "Fixed an issue that caused The Houndmaster's Dog to bring the Survivor back to the location that the command was given when in a struggle.",
+    "Fixed an issue that caused the Detected killer instinct to linger indefinitely on affected survivors if The Houndmaster's Dog remains next to them after the patrol detection radius is gone.",
+    "Fixed an issue that caused The Houndmaster's Dog to vault over elevated vaults that players normally fall from.",
+    "Fixed an issue that could cause a crash when The Houndmaster left a trial.",
+    "Fixed an issue that caused The Demogorgon to be missing the Hold arrow icon for Traverse Upside Down action.",
+    "Fixed an issue that caused The Nurse to be able to cancel her blink when releasing the input while looking down at an obstacle."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed a window on Ormond Lake Mine map that caused a Killer projectile impact issue",
+    "Fixed various issues with fading on Mori animations",
+    "Fixed an issue that allowed the Dark Lord's pillars of Hellfire to go outside of the Exit Gates with the Add-on \"Alucard's Shield\"",
+    "Fixed issues in The Nostromo Wreckage map that prevented the power of The Nurse and The Houndmaster from working properly",
+    "Fixed issues in The Underground Complex where The Nurse could use her power and get out of bounds on the map",
+    "Fixed multiples issues in all realms where the camera rotation at the beginning of a game would clip inside the head of The Houndmaster",
+    "Fixed issues in The Underground Complex where some of the ground did not appear",
+    "Fixed an issue Gideon Meat Plant where an invisible collision would prevent the players from navigating from the bottom floor to the second floor",
+    "Fixed an issue in Raccoon City Police Station where the players could stand on top on a couch",
+    "Fixed an issue in Suffocation Pit where a snowman would block the path of the players",
+    "Fixed an issue in Crotus Prenn where The Nurse would get stuck when blinking on wooden ramp on the second floor of the building",
+    "Fixed an issue in Haddonfield where The Nurse or The Cenobite could use their power outside of the limit of the map around the exit gates"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue that caused Save the Best for Last not to lose tokens when damaging a Survivor with The Houndmaster's Dog.",
+    "Fixed an issue that caused Play With Your Food not to lose tokens when damaging a Survivor with The Houndmaster's Dog.",
+    "Fixed an issue that caused THWACK! not to display Survivor auras when destroying a pallet or breakable wall.",
+    "Fixed an issue that caused Survivors to still have grunts of pain when using Clean Break with other interaction.",
+    "Fixed an issue that caused a missing audio cue when dropping a Flashbang."
+   ]
+  }
+ ]
+}

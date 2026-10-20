@@ -1,0 +1,184 @@
+{
+ "id": "8.7.1",
+ "version": "8.7.1",
+ "kind": "release",
+ "title": "8.7.1 | Bugfix Patch",
+ "date": "2025-05-15",
+ "url": "https://store.steampowered.com/news/app/381210/view/505076981068464497?l=english",
+ "changes": [
+  {
+   "entity": "Content",
+   "cat": "system",
+   "section": "Content",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Nemesis Killer has been re-enabled",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Nemesis Killer has been re-enabled"
+   ]
+  },
+  {
+   "entity": "Quests & Events",
+   "cat": "system",
+   "section": "Quests & Events",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Game Mode: 2V8 returns May 15 at 11:00am Eastern. This iteration introduces The Ghost Face and The Oni into the fray. Game Mode: 2V8 features a set of limited time Quests to unlock The Ghost Face related customizations",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Game Mode: 2V8 returns May 15 at 11:00am Eastern. This iteration introduces The Ghost Face and The Oni into the fray. Game Mode: 2V8 features a set of limited time Quests to unlock The Ghost Face related customizations"
+   ]
+  },
+  {
+   "entity": "Bot improvements",
+   "cat": "system",
+   "section": "Bot improvements",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Killer Bots have learned to sometimes take indirect paths to corner or to sneak up on Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killer Bots are now more consistent at keeping the chase going around loops with tall walls",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Wraith Bot no longer becomes obsessed with a Zombie that body-blocked him",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivor Bots will look for another hatch when a Player Survivor is nearby",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killer Bots no longer focus and attack a Survivor that has just been unhooked",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Killer Bots have learned to sometimes take indirect paths to corner or to sneak up on Survivors",
+    "Killer Bots are now more consistent at keeping the chase going around loops with tall walls",
+    "Wraith Bot no longer becomes obsessed with a Zombie that body-blocked him",
+    "Survivor Bots will look for another hatch when a Player Survivor is nearby",
+    "Killer Bots no longer focus and attack a Survivor that has just been unhooked"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue that caused the Rift Pass progress bar to not have any audio if User has unlocked multiple tiers but has not purchased the premium track.",
+    "Fixed an issue that caused Killers with the ''Stridor'' Perk to not hear grunts of pain from recently unhooked Survivors with the ''Off the Record'' perk.",
+    "Fixed an issue that caused Orela's hook screams to sometimes be too loud or too low. A mix pass has been done on her hook screams."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Fixed an issue with Killer Bots being stuck at vaults locations when a Survivor is in the dying state behind the vault.",
+    "Fixed multiple issues with Killer Bots standing still for long periods of time.",
+    "Fixed issues with Killer Bots being unable to correctly pick up a Survivor.",
+    "Fixed an issue causing Killer Bots to repeatedly miss their basic attacks by standing a specific distance away from them.",
+    "Fixed multiple issues with Nurse Bot getting stuck using her power."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused The Ghoul's tentacles to angle upwards during the Kagune leap.",
+    "Fixed an issue that caused the tentacles of The Ghoul's legendary outfit to clip into her shoulders during the Mori.",
+    "Fixed an issue that was allowing The Ghoul to lose the wrong number of Tokens when breaking a pallet and cooldown no longer resets when Power is in cooldown under a 2 or 3 Tokens timer.",
+    "Fixed an issue where the Become Enraged score event did not trigger when activating Enraged mode while The Ghoul is enraged or in cooldown.",
+    "Fixed an issue where The Ghoul's QTE could appear when the damage from a grab attack did not occur.",
+    "Fixed an issue where The Nurse's Blink charges were hidden by the Deadly Harvest outfit sleeve.",
+    "Fixed an issue that caused The Legion's legs to appear stationary during a Frenzy run in first-person view.",
+    "Fixed an issue where The Trickster could trigger the Main Event vignette without gaining the power.",
+    "Fixed an issue that caused the Demogorgon's screen to stay stuck in the black Traverse Upside Down screen when spamming the attack button during the teleport.",
+    "Fixed an issue where The Pig was unable to perform actions while a Reverse Bear Trap was being triggered.",
+    "Fixed an issue where The Nemesis' basic attack no longer worked with any M1 perk (Save The Best For Last, Play With Your Food, etc).",
+    "Fixed an issue where The Unknown's hallucinations were sometimes invisible/transparent.",
+    "Fixed an issue where The Singularity and The Lich's projectiles stuttered while traveling.",
+    "Fixed an issue that could cause attack delays with The Artist's Crows.",
+    "Fixed an issue where The Deathslinger's aim animation did not always play from Survivor POV.",
+    "Fixed an issue where The Doctor's Shock Therapy prevented Survivors from vaulting.",
+    "Fixed an issue where the incorrect portrait effect was displayed when affected by the Doctor's Tier II Madness for the second time.",
+    "Fixed an issue where several animations did not play when being out of line of sight when they were initiated."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue on Coldwind Farm where Killers could be blocked.",
+    "Fixed multiple issues with the Basements in all realms.",
+    "Fixed an issue in the 2v8 version of Wretched Shop where a pallet was floating.",
+    "Fixed an issue on Ormond Lake Mine where players would clip through the top of lockers when escaping it.",
+    "Fixed an issue on Mount Ormond Resort tile that had a visible seam on the basement floor of the main building."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue when Survivors with no hook states get the healing effect from Do No Harm after using Shoulder the Burden.",
+    "Fixed an issue where Survivors still made a grunt when falling when Balanced Landing was active.",
+    "Fixed an issue where the duration timer was not displayed in the HUD when using Reassurance."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "(Steam) Fixed an issue where resizing the window while the Killer is about to perform an action breaks the Tutorial flow."
+   ]
+  },
+  {
+   "group": "Quests",
+   "items": [
+    "Fixed an issue where perks for revealing Survivor auras give inconsistent amount of progress towards Quests."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue in the lobby where the matchmaking text and icon could overlap in some languages.",
+    "Fixed a crash that would occur when transitioning to the Archives after opening the Credits.",
+    "Fixed an issue where selecting a challenge for a specific role would change the tab in the compendium when using a controller.",
+    "Fixed an issue in Rift where 2D item previews would reappear and overlap after selecting unbreakable outfits."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue that caused the End Game Collapse not to end when a Survivor held the Run/Rushed key/button while in a locker."
+   ]
+  }
+ ]
+}

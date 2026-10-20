@@ -1,0 +1,758 @@
+{
+ "id": "ptb-9.6.0",
+ "version": "9.6.0",
+ "kind": "ptb",
+ "title": "9.6.0 | PTB Patch Notes",
+ "date": "2026-04-07",
+ "url": "https://store.steampowered.com/news/app/381210/view/498350753733150731?l=english",
+ "changes": [
+  {
+   "entity": "Diminishing Returns Update",
+   "cat": "system",
+   "section": "Diminishing Returns Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "While in a Trial, repeated positive or negative gameplay modifiers and status effects are now affected by diminishing returns",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Identical modifiers granted by Powers, Items, Perks and Offerings will now be reduced progressively as they become stacked",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Modifiers granted from Killer Power and Survivor Item add-ons are excluded from diminishing returns",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The gameplay modifier with the highest absolute value is always applied, while lesser ones are progressively lowered to a percentage of their original value",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The game prioritizes the highest values, reducing the impact of lesser ones",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "1st value (highest) - 100% of modifier",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "2nd value - 50% of modifier",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "3rd value - 25% of modifier",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "4th value - 12.5% of modifier",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "5th value and up - 5% of modifier",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "While in a Trial, repeated positive or negative gameplay modifiers and status effects are now affected by diminishing returns",
+    "Identical modifiers granted by Powers, Items, Perks and Offerings will now be reduced progressively as they become stacked",
+    "Modifiers granted from Killer Power and Survivor Item add-ons are excluded from diminishing returns",
+    "The gameplay modifier with the highest absolute value is always applied, while lesser ones are progressively lowered to a percentage of their original value",
+    "The game prioritizes the highest values, reducing the impact of lesser ones",
+    "1st value (highest) - 100% of modifier",
+    "2nd value - 50% of modifier",
+    "3rd value - 25% of modifier",
+    "4th value - 12.5% of modifier",
+    "5th value and up - 5% of modifier"
+   ],
+   "devNote": "Dev note: After 10 years of Dead by Daylight, the ability of Killers and Survivors to stack modifiers indefinitely has enabled ever-accelerating and more intense gameplay. With this update, we aim to normalize how modifiers from different sources interact against each other in order to better preserve the integrity of game. All major gameplay modifiers and status effects for both roles are included in this update.\nAdditionally, this change will help us as developers create new interesting Powers, Items and Perks with our roster of existing game modifiers, with far less risk of creating unintended game-breaking scenarios.\nWe will be closely monitoring this change during the PTB and look forward to the feedback!"
+  },
+  {
+   "entity": "Progress Bar Update",
+   "cat": "system",
+   "section": "Progress Bar Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The progress bar for interactions has a new animation to reinforce the speed differences",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The color has been updated so it represents the speed of the interaction, becoming yellow if faster than normal, and red if slower than normal",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Previously, the color was dependent on the individual contributor. Ie. a player could see the bar as red even when going faster",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The progress bar for interactions has a new animation to reinforce the speed differences",
+    "The color has been updated so it represents the speed of the interaction, becoming yellow if faster than normal, and red if slower than normal",
+    "Previously, the color was dependent on the individual contributor. Ie. a player could see the bar as red even when going faster"
+   ]
+  },
+  {
+   "entity": "Visible Team Perks",
+   "cat": "system",
+   "section": "Visible Team Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Match Details have been updated to show the loadout of players of a same team",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Perks",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Items and addons",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Offerings",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Elements can be hovered to display their descriptions",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The loadout of the opposite team is not displayed until the match is over, following the final Score screen behavior",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Match Details have been updated to show the loadout of players of a same team",
+    "Perks",
+    "Items and addons",
+    "Offerings",
+    "Elements can be hovered to display their descriptions",
+    "The loadout of the opposite team is not displayed until the match is over, following the final Score screen behavior"
+   ]
+  },
+  {
+   "entity": "Spectator mode",
+   "cat": "system",
+   "section": "Spectator mode",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "While in Spectator mode, most elements in the HUD can be hovered to display their description",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Perks",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Items",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Add ons",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Goals",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Status Effects",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "While in Spectator mode, most elements in the HUD can be hovered to display their description",
+    "Perks",
+    "Items",
+    "Add ons",
+    "Goals",
+    "Status Effects"
+   ]
+  },
+  {
+   "entity": "Auras Customization",
+   "cat": "system",
+   "section": "Auras Customization",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "New aura types are available for color customization",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Highlighted elements (e.g. as The Xenomorph, looking at specific Control Stations)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Surfaced elements (e.g. Generators shown by Deja Vu, or because of Eruption)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Marked elements (e.g. as The Xenomorph, marking a Control Station)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killer objects (e.g. The Hag's traps, The Singularity's Biopods)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Breakable walls",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "New aura types are available for color customization",
+    "Highlighted elements (e.g. as The Xenomorph, looking at specific Control Stations)",
+    "Surfaced elements (e.g. Generators shown by Deja Vu, or because of Eruption)",
+    "Marked elements (e.g. as The Xenomorph, marking a Control Station)",
+    "Killer objects (e.g. The Hag's traps, The Singularity's Biopods)",
+    "Breakable walls"
+   ]
+  },
+  {
+   "entity": "The Blight",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased The Blight's default movement speed to 4.4 m/s",
+     "after": "4.4 m/s",
+     "before": "4.6 m/s",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased The Blight's default movement speed to 4.4 m/s (was 4.6 m/s)",
+    "Breaking a Downed Pallet now reduces Rush tokens down to 2 below maximum, and resets current Rush token recharge to 0%",
+    "Includes basic-break and special-break Killer actions",
+    "Power description updated to reflect change"
+   ],
+   "character": "The Blight"
+  },
+  {
+   "entity": "The Doctor",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased delay of Shock Therapy attack to 0.75 seconds",
+     "after": "0.75 seconds",
+     "before": "0.8 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased delay of Shock Therapy attack to 0.75 seconds (was 0.8 seconds)"
+   ],
+   "character": "The Doctor"
+  },
+  {
+   "entity": "The Cannibal",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased maximum Chainsaw Sweep speed to 5.45 m/s",
+     "after": "5.45 m/s",
+     "before": "5.35 m/s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased maximum Chainsaw Sweep speed to 5.45 m/s (was 5.35 m/s)"
+   ],
+   "character": "The Cannibal"
+  },
+  {
+   "entity": "The Ghost Face",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased the cooldown of Night Shroud to 15 seconds",
+     "after": "15 seconds",
+     "before": "17 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the cooldown of Night Shroud to 15 seconds (was 17 seconds)"
+   ],
+   "character": "The Ghost Face"
+  },
+  {
+   "entity": "The Demogorgon",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Shred's movement speed to 19 m/s",
+     "after": "19 m/s",
+     "before": "18.4 m/s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Shred's turn rate to 55 degrees per second",
+     "after": "55 degrees",
+     "before": "27.5 degrees per second",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased duration of Undetectable after traversing the Upside Down to 12 seconds",
+     "after": "12 seconds",
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Shred's movement speed to 19 m/s (was 18.4 m/s)",
+    "Increased Shred's turn rate to 55 degrees per second (was 27.5 degrees per second)",
+    "Increased duration of Undetectable after traversing the Upside Down to 12 seconds (was 5 seconds)"
+   ],
+   "character": "The Demogorgon"
+  },
+  {
+   "entity": "The Dredge",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased movement speed while charging Reign of Darkness to 4 m/s",
+     "after": "4 m/s",
+     "before": "3.8m/s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased movement speed while charging Reign of Darkness to 4 m/s (was 3.8m/s)"
+   ],
+   "character": "The Dredge"
+  },
+  {
+   "entity": "The Mastermind",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased recovery time of Virulent Bound to 2.7 seconds",
+     "after": "2.7 seconds",
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased charge time per token to 5 seconds",
+     "after": "5 seconds",
+     "before": "5.5 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased duration of the Chain Bound window to 2.5 seconds",
+     "after": "2.5 seconds",
+     "before": "2 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased recovery time of Virulent Bound to 2.7 seconds (was 3 seconds)",
+    "Decreased charge time per token to 5 seconds (was 5.5 seconds)",
+    "Increased duration of the Chain Bound window to 2.5 seconds (was 2 seconds)"
+   ],
+   "character": "The Mastermind"
+  },
+  {
+   "entity": "The Skull Merchant",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added support to multiple Power icons",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "New Power Icons mapped to Deploy Drone, Rotate and Recall actions",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added support to multiple Power icons",
+    "New Power Icons mapped to Deploy Drone, Rotate and Recall actions"
+   ],
+   "character": "The Skull Merchant"
+  },
+  {
+   "entity": "The Unknown",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased cooldown of UVX to 6.25 seconds",
+     "after": "6.25 seconds",
+     "before": "7 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Weakened Survivor vision linger duration to 0.75 seconds",
+     "after": "0.75 seconds",
+     "before": "1.25 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased cooldown of UVX to 6.25 seconds (was 7 seconds)",
+    "Decreased Weakened Survivor vision linger duration to 0.75 seconds (was 1.25 seconds)"
+   ],
+   "character": "The Unknown"
+  },
+  {
+   "entity": "The Animatronic",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased time to recall the Fire Axe when embedded in the environment to 6 seconds",
+     "after": "6 seconds",
+     "before": "7 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased time to recall the Fire Axe when embedded in Survivors to 8 seconds",
+     "after": "8 seconds",
+     "before": "10 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased battery consumption per Camera in use to 6%",
+     "after": "6%",
+     "before": "7%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased battery consumption upon Survivor teleport to 12%",
+     "after": "12%",
+     "before": "15%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Key binding for Grab Axe button updated to use Power input",
+     "after": null,
+     "before": "Attack input",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Decreased time to recall the Fire Axe when embedded in the environment to 6 seconds (was 7 seconds)",
+    "Decreased time to recall the Fire Axe when embedded in Survivors to 8 seconds (was 10 seconds)",
+    "Decreased battery consumption per Camera in use to 6% (was 7%)",
+    "Decreased battery consumption upon Survivor teleport to 12% (was 15%)",
+    "Key binding for Grab Axe button updated to use Power input (was Attack input)"
+   ],
+   "character": "The Animatronic"
+  },
+  {
+   "entity": "The Nurse's add-ons",
+   "cat": "killer",
+   "section": "Killer Add-on Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Extends the duration of a lunge after more than one blink by 10%",
+     "after": "10%",
+     "before": "30%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Heavy Panting (Rare)",
+    "Extends the duration of a lunge after more than one blink by 10% (was 30%)"
+   ],
+   "character": "The Nurse"
+  },
+  {
+   "entity": "The Ghost Face's add-ons",
+   "cat": "killer",
+   "section": "Killer Add-on Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreases Night Shroud recovery time by 2 seconds",
+     "after": "2 seconds",
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Walleye's Matchbook (Common)",
+    "Decreases Night Shroud recovery time by 2 seconds (was 3 seconds)"
+   ],
+   "character": "The Ghost Face"
+  },
+  {
+   "entity": "The Mastermind's add-ons",
+   "cat": "killer",
+   "section": "Killer Add-on Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases movement speed between the first and second Virulent Bounds by 15%",
+     "after": "15%",
+     "before": "8%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases the Chain bound window by 20%",
+     "after": "20%",
+     "before": "50%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Loose Crank (Uncommon)",
+    "Increases movement speed between the first and second Virulent Bounds by 15% (was 8%)",
+    "Egg (Gold) (Rare)",
+    "Increases the Chain bound window by 20% (was 50%)"
+   ],
+   "character": "The Mastermind"
+  },
+  {
+   "entity": "The Animatronic's add-ons",
+   "cat": "killer",
+   "section": "Killer Add-on Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreases the minimum time to retrieve an axe embedded in the environment by 10%",
+     "after": "10%",
+     "before": "20%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "While aiming the Fire Axe, reveals survivors within 6 meters of Security Doors with Killer Instinct",
+     "after": "6 meters",
+     "before": "4 meters",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Restaurant Menu (Common)",
+    "Decreases the minimum time to retrieve an axe embedded in the environment by 10% (was 20%)",
+    "Access Panel (Very Rare)",
+    "While aiming the Fire Axe, reveals survivors within 6 meters of Security Doors with Killer Instinct (was 4 meters)"
+   ],
+   "character": "The Animatronic"
+  },
+  {
+   "entity": "Fast Track",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "While repairing, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains 1/1/1% permanent progress",
+     "after": "1/1/1%",
+     "before": "2%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Whenever another Survivor is hooked, you earn 1/2/3 Token(s), up to 9/9/9",
+    "While repairing, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains 1/1/1% permanent progress. (was 2%)"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where missing voice lines for 9 Survivors and 2 Killers in the lobbies and in-trials.",
+    "Fixed an issue where missing voice line and placeholder subtitle can be seen when entering an offline lobby with The Dark Lord.",
+    "Fixed an issue where Dungeons & Dragons - 4 Survivors have the wrong music for the D&D cosmetics"
+   ]
+  },
+  {
+   "group": "Bot Improvements",
+   "items": [
+    "Fixed Survivor Bots walking against players that are interacting with an Exit Switch.",
+    "Fixed an issue where Survivor Bots would walk slowly while in chase.",
+    "Fixed an issue with Survivor Bots that would drop Pallets too hastily during a chase.",
+    "Adapted Bots' usage and vision of the Fog Vials according to their latest update."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where The Hag’s Traps Aura caused some Visibility Issues.",
+    "Fixed an issue where The Singularity’s Slipstreaming to survivors dropping pallets caused a desync to occur.",
+    "Fixed an issue where The Mastermind’s Virulent Bound's acceleration vignette stayed active when grabbing and getting stunned at the same time.",
+    "Fixed an issue where The Knight’s Guard Summon Path flickered beyond the 10m visibility limit from the Survivor POV."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue where Singularity's biopods would float when placed in an alley, by correcting an incorrect collision with a wall.",
+    "Fixed an issue in Midwich Elementary School where the killer can't interact with a locker",
+    "Fixed an issue in Trickster Delusion where the camera at the beginning of a trial clips through The Houndmaster",
+    "Fixed an issue in Treatment Theater where the projectiles can't go through a plant in the map",
+    "Fixed an issue in Treatment Theater where a fountain of devotion can't be interacted with",
+    "Fixed an issue in Toba Landing where Snug could not vault over on top of the main structure",
+    "Fixed an issue in Garden Of Joy where the collisions around the piano were blocking projectiles",
+    "Fixed an issue in Treatment Theater where a generator can't be interacted on one side",
+    "Fixed an issue in Dead Dawg Saloon where a yellow tarp is clipping in the ground",
+    "Fixed an issue in Trickster Delusion where claws that are sticking out of the wall prevent killers to navigate in the room where they appear"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where the Perk Ultimate Weapon activated on Totem Snuff."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue on PC where the cursor is stuttering when connecting a controller.",
+    "Fixed menu not scrolling with a controller.",
+    "Fixed a crash that occurs when completing the onboarding Matches.",
+    "Fixed an issue where using the Self-Unhook feature right before the skill check popped up caused the UI and VFX to appear after Self-Unhooking."
+   ]
+  }
+ ]
+}

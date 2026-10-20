@@ -1,0 +1,430 @@
+{
+ "id": "ptb-7.4.0",
+ "version": "7.4.0",
+ "kind": "ptb",
+ "title": "7.4.0 | PTB",
+ "date": "2023-11-08",
+ "url": "https://store.steampowered.com/news/app/381210/view/3814046073275471326?l=english",
+ "changes": [
+  {
+   "entity": "New Killer - The Good Guy",
+   "cat": "killer",
+   "section": "New Killer - The Good Guy",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Killer Power The Good Guy has two separate modes he can switch between; Normal Mode and Hidey-Ho Mode. Due to his short height, The Good Guy also has a fixed third-person camera positioned above and behind him, giving the player a better view of his surroundings. He is also much shorter than other Killers making him very stealthy, however he leaves fading footprints behind as he walks. Special Ability: Hidey-Ho Mode Press the Active Ability button to enter Hidey-Ho Mode for 14 seconds. While in this mode, the Killer has no Terror Radius, and \"distraction\" footprints and audio are spawned all across the map. Special Attack: Slice & Dice While in Hidey-Ho Mode, press and hold the Special Attack button to charge up a Slice & Dice Attack. When charged, sprint forward at high speed, triggering an attack at the end (or whenever the Special Attack button is released). Special Ability: Scamper While in Hidey-Ho Mode, when you are near a vault or pallet, press the Interaction button to scamper through it quickly without breaking it",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Killer Power The Good Guy has two separate modes he can switch between; Normal Mode and Hidey-Ho Mode. Due to his short height, The Good Guy also has a fixed third-person camera positioned above and behind him, giving the player a better view of his surroundings. He is also much shorter than other Killers making him very stealthy, however he leaves fading footprints behind as he walks. Special Ability: Hidey-Ho Mode Press the Active Ability button to enter Hidey-Ho Mode for 14 seconds. While in this mode, the Killer has no Terror Radius, and \"distraction\" footprints and audio are spawned all across the map. Special Attack: Slice & Dice While in Hidey-Ho Mode, press and hold the Special Attack button to charge up a Slice & Dice Attack. When charged, sprint forward at high speed, triggering an attack at the end (or whenever the Special Attack button is released). Special Ability: Scamper While in Hidey-Ho Mode, when you are near a vault or pallet, press the Interaction button to scamper through it quickly without breaking it"
+   ]
+  },
+  {
+   "entity": "Hex: Two Can Play",
+   "cat": "perk",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Anytime you are stunned or blinded by a Survivor 4/3/2 times, if there is no Hex Totem associated with this Perk, a Dull Totem becomes a Hex Totem. While the Hex Totem stands, Survivors who stun or blind you get blinded for 1.5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Anytime you are stunned or blinded by a Survivor 4/3/2 times, if there is no Hex Totem associated with this Perk, a Dull Totem becomes a Hex Totem. While the Hex Totem stands, Survivors who stun or blind you get blinded for 1.5 seconds"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Friends 'Til the End",
+   "cat": "perk",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When you hook a Survivor that is not the Obsession, the Obsession becomes exposed for 20 seconds and reveals their aura for 6/8/10 seconds. When you hook the Obsession, another random Survivor screams and reveals their position and becomes the Obsession",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When you hook a Survivor that is not the Obsession, the Obsession becomes exposed for 20 seconds and reveals their aura for 6/8/10 seconds. When you hook the Obsession, another random Survivor screams and reveals their position and becomes the Obsession"
+   ]
+  },
+  {
+   "entity": "Batteries Included",
+   "cat": "perk",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When within 12 meters of a completed Generator, you have 5% Haste. The movement speed bonus lingers for 1/3/5 seconds when you are no longer in range",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When within 12 meters of a completed Generator, you have 5% Haste. The movement speed bonus lingers for 1/3/5 seconds when you are no longer in range"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Killer Updates - The Trickster",
+   "cat": "killer",
+   "section": "Killer Updates - The Trickster",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Movement speed increased from 4.4 m/s to 4.6 m/s",
+     "after": "4.6 m/s",
+     "before": "4.4 m/s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increase laceration meter from 6 to 8",
+     "after": "8",
+     "before": "6",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decrease the number of Blades required to access Main Event from 30 to 6 Blades",
+     "after": "6",
+     "before": "30",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Movement speed increased from 4.4 m/s to 4.6 m/s",
+    "Removed recoil for throwing knives",
+    "Blade-ready movement speed: removed per-throw movement speed reduction",
+    "Increase the blade throw speed",
+    "Increase laceration meter from 6 to 8",
+    "Main Event Updates:",
+    "Decrease the number of Blades required to access Main Event from 30 to 6 Blades",
+    "Decrease Main Event duration from 10 sec to 5 sec",
+    "Pressing Active Ability button within 0.3 second of activating Main Event does not cancel it",
+    "Add 0.5 second to the next Main Event for each combo score level reached",
+    "Combo Score Levels (consecutive hits with thrown blades increases the combo):",
+    "E: base time + 0.5 sec",
+    "D: base time + 1 sec",
+    "C: base time + 1.5 sec",
+    "B: base time + 2 sec",
+    "A: base time + 2.5 sec",
+    "S: base time + 3 sec"
+   ]
+  },
+  {
+   "entity": "Memento Blades",
+   "cat": "system",
+   "section": "Trickster Add-on Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases throw speed by 5% (new functionality)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases throw speed by 5% (new functionality)"
+   ]
+  },
+  {
+   "entity": "Inferno Wires",
+   "cat": "system",
+   "section": "Trickster Add-on Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increases duration of Main Event by 40%",
+     "after": null,
+     "before": "25%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increases duration of Main Event by 40% (was 25%)"
+   ]
+  },
+  {
+   "entity": "Ji-Woon's Autograph",
+   "cat": "system",
+   "section": "Trickster Add-on Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreases the number of Blades required to reach Main Event by 1 (new functionality)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Decreases the number of Blades required to reach Main Event by 1 (new functionality)"
+   ]
+  },
+  {
+   "entity": "Tequila Moonrock",
+   "cat": "system",
+   "section": "Trickster Add-on Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increases duration of Main Event by 60%",
+     "after": null,
+     "before": "50%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increases duration of Main Event by 60% (was 50%)"
+   ]
+  },
+  {
+   "entity": "Fiz-Spin Soda",
+   "cat": "system",
+   "section": "Trickster Add-on Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreases the number of Blades required to reach Main Event by 2 (new functionality)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Decreases the number of Blades required to reach Main Event by 2 (new functionality)"
+   ]
+  },
+  {
+   "entity": "Waiting for You to Watch",
+   "cat": "system",
+   "section": "Trickster Add-on Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increases the duration of Main Event by 0.25 second for each Blade hit while it is active",
+     "after": null,
+     "before": "0.4 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increases the duration of Main Event by 0.25 second for each Blade hit while it is active (was 0.4 seconds)"
+   ]
+  },
+  {
+   "entity": "Iridescent Photo Card",
+   "cat": "system",
+   "section": "Trickster Add-on Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "For each consecutive Blade hit, gain a stackable % Haste status effect, up to a maximum of %. This bonus is lost when missing a Blade or when putting a Survivor into the dying state. (new functionality)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "For each consecutive Blade hit, gain a stackable % Haste status effect, up to a maximum of %. This bonus is lost when missing a Blade or when putting a Survivor into the dying state. (new functionality)"
+   ]
+  },
+  {
+   "entity": "Made For This",
+   "cat": "perk",
+   "section": "Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "This perk activates while you are in the injured state. after you finish healing another Survivor, gain the endurance status effect for 6/8/10 seconds. While affected by Deep Wound, you run 3% faster",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "This perk activates while you are in the injured state. after you finish healing another Survivor, gain the endurance status effect for 6/8/10 seconds. While affected by Deep Wound, you run 3% faster"
+   ],
+   "devNote": "Added Deep Wound condition for haste effect."
+  },
+  {
+   "entity": "Map Updates",
+   "cat": "system",
+   "section": "Map Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The largest Maps in the game, The Mother's Dwelling and The Temple of Purgation of the Red Forest Realm, have been reduced in size. This will help both roles enjoy a play area that is consistent with the other maps. While we were making adjustments to the Red Forest Realm, we also did a pass on the gameplay of the tiles and improve the navigation and the readability of the map. The Garden of Joy also benefited from a gameplay pass. The house has been revisited to find a better combination of obstacles and reduce the strength of some of the windows. A pass on the tiles has also been done, since the visibility was making it hard for players to enjoy a better navigation in the map and bring the focus on the chase, loops and all interactions. The Killer Shack was also very crowded around the walls and made the collisions known through all realms hard to run consistently, we have cleared the area",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The largest Maps in the game, The Mother's Dwelling and The Temple of Purgation of the Red Forest Realm, have been reduced in size. This will help both roles enjoy a play area that is consistent with the other maps. While we were making adjustments to the Red Forest Realm, we also did a pass on the gameplay of the tiles and improve the navigation and the readability of the map. The Garden of Joy also benefited from a gameplay pass. The house has been revisited to find a better combination of obstacles and reduce the strength of some of the windows. A pass on the tiles has also been done, since the visibility was making it hard for players to enjoy a better navigation in the map and bring the focus on the chase, loops and all interactions. The Killer Shack was also very crowded around the walls and made the collisions known through all realms hard to run consistently, we have cleared the area"
+   ]
+  },
+  {
+   "entity": "Graphics Update",
+   "cat": "system",
+   "section": "Graphics Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added support for FSR 1.0 on all platforms",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added support for FSR 1.0 on all platforms"
+   ]
+  },
+  {
+   "entity": "Player Profile and Customizable Player Cards",
+   "cat": "system",
+   "section": "Player Profile and Customizable Player Cards",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Players can now expect to find their level and grades on a new screen - their Player Profile! Select the badge in the top right (of most menus) to open it. Players now have a Player Card in the Profile screen and can earn collectable banners and badges to customize it! New banners and badges come in a variety of rarities and appearances and can be earned from Tome and Archive rewards as well as Events. Players will be able to see their new customized player cards in a variety of menus including the end-of-match tally screen where they can show them off to other players. Note: during PTB, players will only have access to the default \"empty\" badge and banner",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Players can now expect to find their level and grades on a new screen - their Player Profile! Select the badge in the top right (of most menus) to open it. Players now have a Player Card in the Profile screen and can earn collectable banners and badges to customize it! New banners and badges come in a variety of rarities and appearances and can be earned from Tome and Archive rewards as well as Events. Players will be able to see their new customized player cards in a variety of menus including the end-of-match tally screen where they can show them off to other players. Note: during PTB, players will only have access to the default \"empty\" badge and banner"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Specific voice lines' subtitles should now match the audio more accurately.",
+    "Fixed an issue that caused the sound to be missing when switching back in a disabled pod as The Singularity.",
+    "Survivor's screams are now properly being stop during The Knight's Mori."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Bots are better at handling the Undetectable status of a Killer.",
+    "Bots no longer struggle to repair a Generator on a specific tile on The Game.",
+    "Fixed multiple crashes that could occur when playing with Bots.",
+    "Bots in the Tutorials have been slightly nerfed to improve new player experience.",
+    "Bots have figured out how to access a particular corridor of the Hawking National Laboratory.",
+    "Bots have figured out how to access a particular corridor of the Raccoon City Police Station.",
+    "Bots have figured out how to fall off a specific ledge on Lampkin Lane.",
+    "When a Killer approaches while being healed by another player, Bots are now more willing to run away."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused the animation for grabbing a Survivor from a Locker to not play properly when playing as The Nurse in a Trial.",
+    "Fixed an issue that caused Mikaela Reid's book to appear broken during menu idle animation.",
+    "The Undetectable icon is now correctly displayed when Micheal Myers is in Tier 1 of Evil Within.",
+    "When The Singularity switches back to a disabled pod, the residual sounds now play correctly.",
+    "VFX for The Knight's power is now no longer spawned in the corner of certain maps.",
+    "The survivor activity HUD now correctly shows a survivor has escaped when escaping after having been marked by Ghost Face.",
+    "Pools of blood hidden when The Spirit begins charging a Phase Walk will reappear if cancelling or exiting the Phase Walk.",
+    "The Doctor's Illusionary Red Stain is no longer visible on a survivor after being Mori'd.",
+    "The Xenomorph's Control Stations no longer incorrectly block flashlight beams.",
+    "The Cenobite cannot target a Survivor with more chains once they have started solving the Lament Configuration.",
+    "The Cenobite's Chain Hunt is no longer reset when Survivors are interrupted during certain actions.",
+    "The Ghost Face and The Pig can now remain crouched when activating Hex: Pentimento.",
+    "The Nightmare is no longer able to set Dream Snares across walls or out of bounds.",
+    "As The Clown, swapping bottles while one is thrown no longer changes the type of the thrown bottle.",
+    "The effects of the Unicorn Block and Sheep Block no longer only apply to one affected Survivor."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue where players would not be able to interact with one side of a Generator in the Hawkins National Laboratory.",
+    "Fixed an issue where The Hag could place her traps in illegal areas of the Suffocation Pit main building.",
+    "Fixed an issue where the Killer's navigation would get blocked on the Suffocation Pit map.",
+    "Fixed an issue where The Nightmare was not able to place Dream Snares in a section of the Suffocation Pit main building.",
+    "Fixed an issue where the dark mist would not appear properly in the Raccoon City Police Department.",
+    "Fixed an issue in Eyrie of Crows where an extended collision would block the players navigation.",
+    "Fixed an issue where The Pig could not pick up a Survivor near a Jigsaw Box in Midwich Elementary School."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "The Hooked Survivor is now correctly able to see the aura of the Killer when the Kindred Perk is equipped.",
+    "The Dramaturgy Perk is no longer incorrectly displayed as available when vaulting a window with the Sprint Burst Perk equipped.",
+    "When a Survivor breaks a Pallet due to the Dissolution Perk, the Thwack! Perk is no longer triggered.",
+    "The Blast Mine Perk's explosion now correctly deafens the Killer who triggers it, instead of the Survivor who installed.",
+    "The Perks Ultimate Weapon and Darkness Revealed are no longer incorrectly activated when a Survivor interacts with a Locker that has a Survivor in it."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Fixed an issue with purchasing Auric Cells on the Microsoft Store version of the game.",
+    "Fixed a crash that could occur on PS5 while in menus."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Buying a node on the Bloodweb for an \"item\" that is part of the active preset right before the beginning of a match will lead to that \"item\" to being correctly consumed and shown on the Tally screen.",
+    "Legendary Cosmetics Killers with a unique name (such as The Trapper's Naughty Bear) will now have that name correctly display across all menus.",
+    "Players can switch between Archives visual lore entries while in fullscreen."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Killswitched Cosmetics can no longer be brought into a Trial.",
+    "Fixed a crash that could occur when starting a Trial with an empty loadout.",
+    "After the Pocket Mirror disappears upon crossing the Exit Gates, an item taken from a chest during the Trial now correctly appears in the Survivor’s hand.",
+    "Hooks previously shown in a loud noise notification bubble no longer appear in subsequent loud noise notifications.",
+    "A recently hooked Survivor will now no longer see their Hook obscuring a completed Generator's loud noise notification.",
+    "Survivors now receive Bloodpoints when being interrupted from searching a chest.",
+    "Survivors can no longer activate the Glass Bead map Add-on without cooldown.",
+    "Dismantle achievement now correctly gains progress with Breakdown's trigger.",
+    "Performing a fast vault immediately after falling from an elevated footing will no longer cancel the fall stagger.",
+    "When carrying a Survivor as any Killer, the \"Carrying Survivor\" icon no longer blocks the button prompt for the drop action.",
+    "A Pallet's break animation is now correctly in sync when broken by a Killer having the Orange Glyph status effect.",
+    "The Green Glyph now spawns correctly after the requirements for the \"Glyph Pursuer\" Challenge are completed",
+    "A Survivor's right arm no longer appears unnaturally bent when performing a self-unhook while holding certain items.",
+    "When the Killer disconnects, Survivors no longer start running in place before reaching the tally screen."
+   ]
+  }
+ ]
+}

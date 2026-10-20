@@ -1,0 +1,86 @@
+{
+ "id": "9.4.1",
+ "version": "9.4.1",
+ "kind": "release",
+ "title": "9.4.1 | Bugfix Patch",
+ "date": "2026-02-03",
+ "url": "https://store.steampowered.com/news/app/381210/view/509604049186719319?l=english",
+ "changes": [],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where Survivors scream at the beginning of the Trial when the Smashed Cassette Deck Add-on is equipped.",
+    "Fixed an issue where Dustin voice line and subtitles were unable to be properly timed together.",
+    "Fixed an issue where Dustin, Eddie and Jonathan Byer screams are missing after being sent to the Cage of Atonement.",
+    "Fixed an issue where the scream SFX is missing during The Xenomorph's Mori",
+    "Added a Curse hit feedback stinger in The First's Default Mode."
+   ]
+  },
+  {
+   "group": "Bot Improvements",
+   "items": [
+    "Fixed an issue causing Survivor Bots to be difficult to heal when under the radius of a Drone."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Tentatively fixed an issue where The Deathslinger did not appear to be aiming with his rifle from the Survivor's point of view.",
+    "Fixed an issue where the Animatronic Yellow Rabbit outfit would cause clipping when interrupting a Survivor during a vault animation.",
+    "Fixed an issue where the Animatronic's left arm was missing when opening a locker with a Survivor hiding inside.",
+    "Fixed an issue where the bottom of the map was visible when The Onryō teleported to a TV.",
+    "Fixed an issue where Ada Wong's eyes would bulge out while idle.",
+    "Fixed an issue where Survivors would briefly swap to the downed animation during the hooking animation.",
+    "Fixed an issue where Survivors were misaligned inside lockers when being picked up by The Dredge with the Fear of Reminiscence outfit.",
+    "Fixed an issue where The Legion's Killer Instinct did not retrigger on Mended Survivors.",
+    "Fixed an issue where The Ghoul could injure Survivors with the Kagune Leap when performed near a vault or close by.",
+    "Fixed an issue where sometimes The First could use the Traverse Upside Down ability at the start of the trial.",
+    "Fixed an issue where the outer ring of The First's Vine Attack's aiming reticule would stay the same color for the duration of the Trial.",
+    "Fixed an issue where the aura of The First's tentacle did not always appear during a portal blast.",
+    "Fixed an issue where the The First's World Breaker Skybox VFX was removed for a Survivor during Mori, Sacrifice, or entering hook stage 2 animations.",
+    "Fixed an issue where The First's World Breaker Phase 2 timer did not pause when the Killer was carrying a Survivor.",
+    "Fixed an issue where The First's Vine attack indicator remained visible in areas with no collision.",
+    "Fixed an issue where Survivors would jitter when being picked up by The First.",
+    "Fixed an issue where The First's camera could be locked looking down when canceling the break interaction as the Clock runs out."
+   ]
+  },
+  {
+   "group": "Environment / Maps",
+   "items": [
+    "Fixed an issue in the Underground Complex where the Survivor could see through the ventilation ducts: a collision has been added to the fan to prevent the camera from entering it."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where Turn Back the Clock could be used while being deactivated after using The Twins or The Knights power as the activation timer expired.",
+    "Fixed an issue where Snug prevented The Houndmaster from using Turn Back The Clock while in front of a generator.",
+    "Fixed an issue where The Xenomorph could use Turn Back The Clock in tunnels.",
+    "Fixed an issue where The Trapper was unable to trigger Bear Traps during Turn Back the Clock.",
+    "Fixed an issue where the indicator arrow remained displayed when the Killer used their Killer Power while Turn Back The Clock was active.",
+    "Fixed an issue where The Skull Merchant's radar briefly became invisible when activating Turn Back The Clock.",
+    "Fixed an issue where the Cancel prompt was visible during the Turn Back The Clock interaction.",
+    "Fixed an issue where the unhooking animation was misaligned when using Shoulder The Burden.",
+    "Fixed an issue where generators did not automatically complete when Invocation: Weaving Spiders was applied on a generator nearly completed with the Brand New Part Toolbox add-on.",
+    "Fixed an issue where a generator could be permanently blocked by Secret Project.",
+    "Fixed an issue where traps from Bada Bada Boom and Chemical Trap became invisible when The Dark Lord changed to Bat Form while the trap was being placed.",
+    "Fixed an issue where Extrasensory Perception could be activated while being healed by another Survivor.",
+    "Fixed an issue where the Oblivious status effect of Weave Attunement only targeted the first Survivor to trigger the perk.",
+    "Fixed an issue where We See You continued to gain tokens when the Survivor was hooked.",
+    "Fixed an issue where Built to Last would continue to charge up and reduce the Medkit charge from Change of Plan.",
+    "Fixed an issue where Special Killer Items could be swapped to a Medkit with Change of Plan.",
+    "Fixed an issue where Survivors were able to swap items outside a locker with Change of Plan after getting grabbed from one by a Killer.",
+    "Fixed an issue where the first Skill Check of Merciless Storm was affected by Teamwork: Full Circuit.",
+    "Fixed an issue where Hardened did not trigger when The First used a vine attack.",
+    "Fixed an issue where aura could remain indefinitely on a survivor who used Bardic Inspiration."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue where blocked generator auras were red instead of white."
+   ]
+  }
+ ]
+}

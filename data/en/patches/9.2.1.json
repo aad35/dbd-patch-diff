@@ -1,0 +1,198 @@
+{
+ "id": "9.2.1",
+ "version": "9.2.1",
+ "kind": "release",
+ "title": "9.2.1 | Bugfix Patch",
+ "date": "2025-09-30",
+ "url": "https://store.steampowered.com/news/app/381210/view/537740128432423554?l=english",
+ "changes": [
+  {
+   "entity": "The Krasue",
+   "cat": "killer",
+   "section": "The Krasue",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased the initial number of Glowing Fungus to 5",
+     "after": "5",
+     "before": "4",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "and decreased the maximum number to 6",
+     "after": "6",
+     "before": "8",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased the time during which Intestinal Whip ignores obstructions to 0.35 seconds",
+     "after": "0.35 seconds",
+     "before": "0.6",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased the Head Form pallet vault time to 2 seconds",
+     "after": "2 seconds",
+     "before": "1.7",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "and the Head Form window vault time to 1.8 seconds",
+     "after": "1.8 seconds",
+     "before": "1.7",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the Head Form pallet stun time to 2.5 seconds",
+     "after": "2.5 seconds",
+     "before": "2",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the initial number of Glowing Fungus to 5 (was 4) and decreased the maximum number to 6 (was 8)",
+    "Decreased the time during which Intestinal Whip ignores obstructions to 0.35 seconds (was 0.6)",
+    "Increased the Head Form pallet vault time to 2 seconds (was 1.7) and the Head Form window vault time to 1.8 seconds (was 1.7)",
+    "Increased the Head Form pallet stun time to 2.5 seconds (was 2)"
+   ],
+   "character": "The Krasue"
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where The Krasue was missing SFX when grabbing a Survivor from a locker.",
+    "Fixed an issue where Orela's voiceover was missing from the the Killer POV when unhooked.",
+    "Fixed an issue where The Animatronic's footsteps were louder than intended.",
+    "Fixed an issue where some of The Krasue's SFX were not synced up with their animations.",
+    "Fixed an issue where The Krasue's SFX were missing when performing an Intestinal Whip on any collision.",
+    "Fixed an issue where some haptic feedback was missing for The Krasue.",
+    "Fixed an issue where static could be heard during the Entombment Rift Pass trailer in-game.",
+    "Fixed an issue where The Unknown's Mori voiceover plays from the incorrect direction."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Fixed multiple issues where Survivor bots would not finish healing other Survivors."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where the Carlos Oliveira, Chris Redfield, Claire Redfield, and Sheva Alomar Legendary outfits did not have unique campfire animations.",
+    "Fixed an issue where The Shape's hand was misaligned with the Survivor's neck during his Mori.",
+    "Fixed an issue where Rain Carradine's campfire animation did not play correctly.",
+    "Fixed an issue where the camera remained pointed downward after closing the hatch as The Ghoul.",
+    "Fixed an issue where a score event was missing for The Ghoul when performing a Kagune Leap on a Survivor.",
+    "Fixed an issue where The Houndmaster's dog could despawn and respawn during a Chase Command.",
+    "Fixed an issue where The Nightmare could teleport out of bounds when teleporting to a Survivor healing at the Exit Gate.",
+    "Fixed an issue where The Knight could initiate a chase before teleporting back to his original location after summoning a Guard.",
+    "Fixed an issue where The Knight could briefly see Survivors and scratch marks when teleporting back to his location after spawning a Guard.",
+    "Fixed an issue where Security Doors would appear misaligned with their doorframes when The Animatronic exited one after a jump scare.",
+    "Fixed an issue where The Dark Lord's camera could become misaligned when transforming.",
+    "Fixed an issue where Survivor character models would disappear from The Executioner's Cage of Atonement after being sacrificed.",
+    "Fixed an issue where The Xenomorph was unable to see the Entity's claws on blocked generators while inside a tunnel.",
+    "Fixed an issue where Killers could receive permanent Killer Instinct on a Survivor.",
+    "Fixed an issue where The Lich's Flight of the Damned projectiles disappeared upon reaching map boundaries.",
+    "Fixed an issue where The Artist's crow projectiles disappeared upon reaching map boundaries."
+   ]
+  },
+  {
+   "group": "Characters - The Krasue ",
+   "items": [
+    "Fixed an issue where the animation for Survivors eating a Glowing Fungus was missing.",
+    "Fixed an issue where the animation of The Krasue snuffing out a totem would not play properly.",
+    "Fixed an issue where Survivors were misaligned during locker grabs and when being dropped by The Krasue.",
+    "Fixed an issue where The Krasue's spectator camera was misaligned after performing a Mori.",
+    "Fixed an issue where the Glowing Fungus would clip into Survivors' hands.",
+    "Fixed an issue where the Glowing Fungus could spawn under dropped pallets.",
+    "Fixed an issue where the Glowing Fungus VFX would remain after it was destroyed by a pallet.",
+    "Fixed an issue where The Krasue's hair would stutter from the Survivor POV when being carried in Head Mode.",
+    "Fixed an issue where The Krasue's Headlong Flight's icon cooldown would briefly appear full when a generator was completed.",
+    "Fixed an issue where The Krasue's Headlong Flight vignette would remain visible in spectator mode after finishing this action.",
+    "Fixed an issue where the Glowing Fungus cleansing effect would stop if a Survivor lost a health state by any means other than a hit from the Killer or Deep Wound.",
+    "Fixed an issue where the \"Re-Leeched\" score event was missing when the Glowing Fungus effect was interrupted by The Krasue's Regurgitate.",
+    "Fixed an issue where The Krasue's Regurgitate reticle remained visible after being stunned with a pallet.",
+    "Fixed an issue where The Krasue's Theatre Binoculars add-on would only reveal Survivor auras when they had zero Leech progress.",
+    "Fixed an issue where The Krasue could push Survivor when transitioning between forms.",
+    "Fixed an issue where The Krasue's intestines would stretch when destroying a breakable wall."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in the Dead Dawg Saloon map where players were unable to navigate through a gap as intended.",
+    "Fixed an issue in the Dead Dawg Saloon map where a balcony vault was inaccessible to Survivors.",
+    "Fixed an issue in the Lampkin Lane map where the leaves of trees would clip through the walls.",
+    "Fixed an issue in the Autohaven Wreckers Realm where a tree would block a vault.",
+    "Fixed multiple issue where the camera would clip through The Houndmaster at the beginning of a Trial.",
+    "Fixed an issue in the Coldwind Farm Realm where a tree would spawn through objects.",
+    "Fixed an issue in The Game map where The Nurse could Blink out of bounds.",
+    "Fixed an issue in the Mother's Dwelling map where The Krasue's camera while in Head Form would clip through walls.",
+    "Fixed an issue in the Ormond Lake Mine map where The Skull Merchant's drones were unable to detect Survivors on the outside ramp or upper level of the main building.",
+    "Fixed an issue in various maps where The Krasue's Glowing Fungus was not able to spawn in some intended places.",
+    "Fixed an issue in various maps where The Krasue's Glowing Fungus was able to spawn on top of objects.",
+    "Fixed an issue in the Red Forest Realm where an invisible ramp was present.",
+    "Fixed an issue in the Autohaven Wreckers Realm where player could not use the vault in the magnet crane.",
+    "Fixed an issue in the Pale Rose map where a fire barrel was clipping inside a generator, making it unusable."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where a token from Play With Your Food was removed when The Krasue used Regurgitate.",
+    "Fixed an issue where The Krasue's Head Form aura remained visible to Survivors while having Alert and Eyes of Belmont equipped.",
+    "Fixed an issue where Plot Twist could trigger Mettle of Man's activation requirements.",
+    "Fixed an issue where the debuff icon was missing when affected by Forced Hesitation.",
+    "Fixed an issue where Survivors could hear the audio cue on Territorial Imperative.",
+    "Fixed an issue where Potential Energy remained toggled on when moving to another generator.",
+    "Fixed an issue where Solidarity would not apply after a med-kit ran out of charges in the middle of a heal.",
+    "Fixed an issue where Road Life gained tokens when affected by The Animatronic's Office Phone add-on.",
+    "Fixed an issue where ONE-TWO-THREE-FOUR! affected The Pig's Jigsaw Boxes.",
+    "Fixed an issue where ONE-TWO-THREE-FOUR! affected The Lich's Mimic Chests.",
+    "Fixed an issue where ONE-TWO-THREE-FOUR!'s tambourine would grow increasingly larger if used with the Hand of Vecna equipped.",
+    "Fixed an issue where ONE-TWO-THREE-FOUR! took priority over Reassurance when within the 6m radius of a hooked Survivor.",
+    "Fixed an issue where ONE-TWO-THREE-FOUR! took priority over Invocation: Treacherous Crows and Invocation: Weaving Spiders when within the circle."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Fixed an issue where the Sinister Grace DLC was not linked in-game on Steam and Epic Games Store.",
+    "Fixed an issue where the match end audio would play on the Tally Screen when quitting or abandoning a match on Epic Games Store."
+   ]
+  },
+  {
+   "group": "Quests",
+   "items": [
+    "Fixed an issue where the progress for \"Heal 2 Survivors From the Dying State\" was counted twice when fully recovering from the Dying State."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where The Twins’ power and add-ons were not displayed in the Match Details screen when controlling Victor.",
+    "Fixed an issue where the player info boxes in a Custom Match lobby were misaligned.",
+    "Fixed an issue where the matchmaking status text could overlap with the event button in the Quests menu.",
+    "Fixed an issue where the slugging and tunneling reduction features were visible in the Custom Match Settings Modified popup despite not being available.",
+    "Fixed an issue where the depleted item icon would appear replenished when dropping a Glowing Fungus."
+   ]
+  },
+  {
+   "group": "Miscellaneous",
+   "items": [
+    "Fixed an issue where the status of the autoplay checkbox in The Tomes to not be saved when rebooting the game.",
+    "Fixed an issue that caused a crash when switching between tabs in the Store.",
+    "Fixed an issue where anonymous mode would disable licensed music when active."
+   ]
+  }
+ ]
+}

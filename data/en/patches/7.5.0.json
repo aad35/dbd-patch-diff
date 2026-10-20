@@ -1,0 +1,17 @@
+{
+ "id": "7.5.0",
+ "version": "7.5.0",
+ "kind": "release",
+ "title": "7.5.0 | Hotfix",
+ "date": "2024-01-31",
+ "url": "https://store.steampowered.com/news/app/381210/view/4044863802194041593?l=english",
+ "changes": [],
+ "fixes": [
+  {
+   "group": "Bug Fixes",
+   "items": [
+    "Fixed an issue which caused the Alan Wake Chapter to appear unavailable in the store."
+   ]
+  }
+ ]
+}

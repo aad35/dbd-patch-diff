@@ -70,6 +70,46 @@ test("新パークの紹介セクションは「追加」", () => {
   assert.deepEqual(changes.map((c) => [c.entity, c.cat, c.type]), [["泳ぐ目", "perk", "new"]]);
 });
 
+// ---- 英語版（10.2.0 の英語のパッチノートの文） ----
+const typesEn = (bb) => diffsFromLine(line(bb), "en").map((d) => d.type);
+
+test("英語: (was …) で数値が増えたら強化、太字の後ろの /18% も値に含める", () => {
+  const d = diffsFromLine(line("You gain [b]14/16[/b]/18% Haste. [i](was 6/12/18%)[/i]"), "en");
+  assert.deepEqual(d.map((x) => [x.before, x.after, x.type]), [["6/12/18%", "14/16/18%", "buff"]]);
+});
+
+test("英語: 効果時間が減ったら弱体化、(NEW) は強化", () => {
+  assert.deepEqual(typesEn("Whenever another Survivor is hooked, you gain Stealth for [b]13/14/15[/b] seconds. (was 20/25/30s)"), ["nerf"]);
+  assert.deepEqual(typesEn("Your missed basic-attack cooldown is [b]15/20/25%[/b] shorter. [i](NEW)[/i]"), ["buff"]);
+});
+
+test("英語: slower から faster に変わったら強化（Calm Spirit）", () => {
+  assert.deepEqual(typesEn("You unlock Chests and cleanse Totems [b]8/9/10%[/b] faster. (was 40/35/30% slower)"), ["buff"]);
+});
+
+test("英語: 古い書式 Reduced … to …（疲労は短いほど強化）", () => {
+  assert.deepEqual(typesEn("Reduced the Exhaustion duration to 30/25/20 seconds (was 60/50/40 seconds)."), ["buff"]);
+});
+
+test("英語: パッチ全体の振り分け", () => {
+  const body = `[h2]Content[/h2][h3]Killer Perk Updates[/h3][list][*][p][b]Agitation[/b][/p][list][*][p]You gain [b]14/16[/b]/18% Haste. [i](was 6/12/18%)[/i][/p][/*][/list][/*][/list]
+[h2]Bug Fixes[/h2][p][b]Audio[/b][/p][list][*][p]Fixed an issue with sounds.[/p][/*][/list]`;
+  const { changes, fixes } = extractPatch(body, "en");
+  assert.deepEqual(changes.map((c) => [c.entity, c.cat, c.role, c.type]), [["Agitation", "perk", "killer", "buff"]]);
+  assert.deepEqual(fixes, [{ group: "Audio", items: ["Fixed an issue with sounds."] }]);
+});
+
+test("英語: 「Survivor Perks」の下の「[b]Babysitter:[/b] …」形式をパークごとに分ける", () => {
+  const body = `[h3]PERKS[/h3][b]Survivor Perks[/b][list][*] [b]Babysitter:[/b]
+Increased Haste effect granted to the unhooked Survivor to 15% (was 10%).[/list][b]Killer Perks[/b][list][*] [b]Unbound:[/b]
+Increased the Haste effect after vaulting a window to 10% (was 5%)[/list]`;
+  const { changes } = extractPatch(body, "en");
+  assert.deepEqual(changes.map((c) => [c.entity, c.cat, c.role, c.type]), [
+    ["Babysitter", "perk", "survivor", "buff"],
+    ["Unbound", "perk", "killer", "buff"],
+  ]);
+});
+
 test("パッチ全体: セクションでキラー/パーク/不具合修正に振り分ける", () => {
   const body = `[h2]コンテンツ[/h2][h3]殺人鬼パークのアップデート[/h3][list][*][p][b]興奮[/b][/p][list][*][p][b]14/16/18%[/b]の迅速を得る（変更前：6/12/18%）。[/p][/*][/list][/*][/list]
 [h3]殺人鬼のアップデート[/h3][p][b]ウェスカー[/b][/p][list][*][p]猛毒バウンドを調整しました。[/p][/*][/list]

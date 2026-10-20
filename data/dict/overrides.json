@@ -1,4 +1,9 @@
 {
- "_説明": "自動判定の手直し。キーは「パッチid/名前」、値は buff | nerf | change | new。build のたびに適用される",
- "10.2.0/重責の引き受け": "change"
+ "_説明": "自動判定の手直し。言語ごとに「パッチid/名前」: buff | nerf | change | new。build のたびに適用される",
+ "ja": {
+  "10.2.0/重責の引き受け": "change"
+ },
+ "en": {
+  "10.2.0/Shoulder the Burden": "change"
+ }
 }

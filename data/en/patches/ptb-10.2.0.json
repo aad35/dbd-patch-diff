@@ -1,0 +1,1763 @@
+{
+ "id": "ptb-10.2.0",
+ "version": "10.2.0",
+ "kind": "ptb",
+ "title": "10.2.0 | PTB Patch Notes",
+ "date": "2026-09-15",
+ "url": "https://store.steampowered.com/news/app/381210/view/706656822950364293?l=english",
+ "changes": [
+  {
+   "entity": "Survivor Intent System",
+   "cat": "system",
+   "section": "Survivor Intent System",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivors can send and receive text messages during a match",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "By pressing and holding the scroll-button when using a Mouse, or the right d-pad input on controllers, players can open the messages wheel",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "8 messages are available for players to select and send",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hovering the message, and releasing scroll-button/right, will send the message",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Inputs are customizable",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Sent messages are shown to all Survivors, next to their information on the left side of the screen",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Messages are predefined",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Players can customize on Settings their messages selection",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "On Match Details, Players can mute and unmute any other player during a match",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Muting is not communicated to the muted player",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "On Settings, players can deactivate the system, if they want to opt out",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "On Match Details, Players that have deactivated the system are marked with a \"no\" icon to surface that they have opt out",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "For reducing spamming, a 1s cooldown is applied when players send messages too quickly",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "If a player keeps spamming, their cooldown will increase up to 5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Waiting before sending new messages will reset the cooldown to its shortest duration",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The \"Gameplay\" section has been added to Settings",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The options for the system are on the Gameplay Tab, under \"Messages\"",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivors can send and receive text messages during a match",
+    "By pressing and holding the scroll-button when using a Mouse, or the right d-pad input on controllers, players can open the messages wheel",
+    "8 messages are available for players to select and send",
+    "Hovering the message, and releasing scroll-button/right, will send the message",
+    "Inputs are customizable",
+    "Sent messages are shown to all Survivors, next to their information on the left side of the screen",
+    "Messages are predefined",
+    "Players can customize on Settings their messages selection",
+    "On Match Details, Players can mute and unmute any other player during a match",
+    "Muting is not communicated to the muted player",
+    "On Settings, players can deactivate the system, if they want to opt out",
+    "On Match Details, Players that have deactivated the system are marked with a \"no\" icon to surface that they have opt out",
+    "For reducing spamming, a 1s cooldown is applied when players send messages too quickly",
+    "If a player keeps spamming, their cooldown will increase up to 5 seconds",
+    "Waiting before sending new messages will reset the cooldown to its shortest duration",
+    "The \"Gameplay\" section has been added to Settings",
+    "The options for the system are on the Gameplay Tab, under \"Messages\""
+   ]
+  },
+  {
+   "entity": "Abandon Option",
+   "cat": "system",
+   "section": "Abandon, Surrender, End Trial",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivor Condition - When all other Survivors are bots, the remaining human Survivor gains the option to Abandon",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivor is considered Abandoned",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killer Condition - When all remaining Survivors are bots, and at least 1 is not in the Dying State, the Killer gains the option to Abandon (new condition)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killer is considered Abandoned",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivor outcome depends on what state they were in when the Killer Abandoned",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivor Condition - When all other Survivors are bots, the remaining human Survivor gains the option to Abandon",
+    "Survivor is considered Abandoned",
+    "Killer Condition - When all remaining Survivors are bots, and at least 1 is not in the Dying State, the Killer gains the option to Abandon (new condition)",
+    "Killer is considered Abandoned",
+    "Survivor outcome depends on what state they were in when the Killer Abandoned"
+   ]
+  },
+  {
+   "entity": "Surrender Option",
+   "cat": "system",
+   "section": "Abandon, Surrender, End Trial",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivor Condition - When all the Survivors are in the Dying State simultaneously, Survivors gain the option to Surrender",
+     "after": "Surrender",
+     "before": "\u0001Abandon\u0002",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivor Condition - When all the Survivors are in the Dying State simultaneously, Survivors gain the option to Surrender (previously Abandon)",
+    "Survivors are considered Surrendered"
+   ]
+  },
+  {
+   "entity": "End Trial Option",
+   "cat": "system",
+   "section": "Abandon, Surrender, End Trial",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Killer Condition - When all remaining Survivors are bots, and in the Dying State, the Killer gains the option to End Trial (new condition)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivor outcome depends on what state they were in when the Killer Ends Trial",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Killer Condition - When all remaining Survivors are bots, and in the Dying State, the Killer gains the option to End Trial (new condition)",
+    "Survivor outcome depends on what state they were in when the Killer Ends Trial"
+   ],
+   "devNote": "Dev Notes:\nIntentions are as follows:\nOptions to leave result in clearer outcomes for both roles\nRemove problematic conditions that encourage negative gameplay behaviour\nLower the frequency of players leaving an ongoing match"
+  },
+  {
+   "entity": "Agitation",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You gain 14/16/18% Haste",
+     "after": "14/16/18%",
+     "before": "6/12/18%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While carrying a Survivor:",
+    "You gain 14/16/18% Haste. (was 6/12/18%)",
+    "Your Terror Radius is 12m larger"
+   ]
+  },
+  {
+   "entity": "Iron Grasp",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "They wiggle 10/11/12% slower",
+     "after": "10/11/12%",
+     "before": "4/8/12%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While carrying a Survivor:",
+    "Their wiggle is 75% weaker",
+    "They wiggle 10/11/12% slower. (was 4/8/12%)"
+   ],
+   "devNote": "Dev Note: We want to modernize the lower tier values of a few older perks to make them feel closer to what new players can expect long term."
+  },
+  {
+   "entity": "Bitter Murmur",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Whenever a Generator is completed, you see the Auras of Survivors within 20m of it for 8s",
+     "after": "20m / 8s",
+     "before": "16m and 5s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "When all Generators are completed, you see the Auras of all Survivors for 10/12/14s",
+     "after": "10/12/14s",
+     "before": "5/7/10s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever a Generator is completed, you see the Auras of Survivors within 20m of it for 8s. (was 16m and 5s)",
+    "When all Generators are completed, you see the Auras of all Survivors for 10/12/14s. (was 5/7/10s)"
+   ]
+  },
+  {
+   "entity": "Deerstalker",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Every 40/35/30s, the Survivor with the least time in chase sees your Aura for 4s",
+     "after": "4s",
+     "before": "3s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Every 40/35/30s, the Survivor with the least time in chase sees your Aura for 4s. (was 3s)",
+    "While a Survivor sees your Aura, you see their Aura"
+   ]
+  },
+  {
+   "entity": "Fire Up",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You basic-break Pallets and Breakable Walls 6/7/8% faster",
+     "after": "6/7/8%",
+     "before": "4/5/6%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You damage Generators 6/7/8% faster",
+     "after": "6/7/8%",
+     "before": "4/5/6%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You pick-up and drop Survivors 6/7/8% faster",
+     "after": "6/7/8%",
+     "before": "4/5/6%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You basic-vault Windows 6/7/8% faster",
+     "after": "6/7/8%",
+     "before": "4/5/6%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever a Generator is completed, earn 1 Token, up to 5",
+    "For each Token:",
+    "You basic-break Pallets and Breakable Walls 6/7/8% faster. (was 4/5/6%)",
+    "You damage Generators 6/7/8% faster. (was 4/5/6%)",
+    "You pick-up and drop Survivors 6/7/8% faster. (was 4/5/6%)",
+    "You basic-vault Windows 6/7/8% faster. (was 4/5/6%)"
+   ]
+  },
+  {
+   "entity": "Game Afoot",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "While chasing the Obsession, whenever you basic-break a Pallet or Breakable Wall, or damage a Generator, you gain 10% Haste for 8/9/10s",
+     "after": "10%",
+     "before": "7%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While chasing the Obsession, whenever you basic-break a Pallet or Breakable Wall, or damage a Generator, you gain 10% Haste for 8/9/10s. (was 7%)",
+    "Whenever you damage the Survivor with the most chase time with a basic-attack, they become the Obsession"
+   ]
+  },
+  {
+   "entity": "Spies from the Shadows",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Whenever a Survivor scares a Crow within 36/38/40m of you, you are alerted. Cooldown 3s",
+     "after": "36/38/40m / 3s",
+     "before": "20/28/36m and 5s",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Whenever a Survivor scares a Crow within 36/38/40m of you, you are alerted. Cooldown 3s. (was 20/28/36m and 5s)"
+   ]
+  },
+  {
+   "entity": "Unbound",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Whenever a Survivor takes damage, for the next 26/28/30s, whenever you basic-vault a window, you gain 5% Haste for 25s",
+     "after": "26/28/30s / 5% / 25s",
+     "before": "24/27/30s and 7% Haste for 10s",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Whenever a Survivor takes damage, for the next 26/28/30s, whenever you basic-vault a window, you gain 5% Haste for 25s. (was 24/27/30s and 7% Haste for 10s)"
+   ],
+   "devNote": "Dev Note: Number improvements to Generic perks and perks impacted by Diminishing Returns."
+  },
+  {
+   "entity": "Help Wanted",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Your successful basic-attack cooldowns are 25% shorter for 100/110/120s",
+     "after": "100/110/120s",
+     "before": "40/50/60s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Generators not being repaired regress at 150% speed for 100/110/120s",
+     "after": "150% / 100/110/120s",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Other Generators lose compromised",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Up to 3 Generators can be compromised at a time",
+     "after": "3",
+     "before": "1 Generator",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever you damage a Generator, it is compromised",
+    "When that Generator is completed by Survivors:",
+    "Your successful basic-attack cooldowns are 25% shorter for 100/110/120s (was 40/50/60s)",
+    "Generators not being repaired regress at 150% speed for 100/110/120s (NEW)",
+    "Other Generators lose compromised. (NEW)",
+    "Up to 3 Generators can be compromised at a time. (was 1 Generator)"
+   ]
+  },
+  {
+   "entity": "Machine Learning",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You gain 10% Haste for 40/50/60s",
+     "after": "10%",
+     "before": "8%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Other Generators lose compromised",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Up to 3 Generators can be compromised at a time",
+     "after": "3",
+     "before": "1 Generator",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever you damage a Generator, it is compromised",
+    "When any compromised Generator is completed by Survivors:",
+    "You gain 10% Haste for 40/50/60s (was 8%)",
+    "You gain Undetectable for 40/50/60s",
+    "Other Generators lose compromised. (NEW)",
+    "Up to 3 Generators can be compromised at a time. (was 1 Generator)"
+   ],
+   "devNote": "Dev Note: Compromise perks require precise setup and the loss of a Generator. We weren't entirely happy with exactly how precise, being able to compromise 3 Generators should allow for a bit more flexibility in how they're activated. While improving the bonuses they provide aims to make the work feel worthwhile."
+  },
+  {
+   "entity": "Dark Arrogance",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Your basic-attack recovery is 15/20/25% faster",
+     "after": "15/20/25%",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Whenever you are blinded or Pallet-stunned, the duration is 25% longer",
+     "after": "25%",
+     "before": "15%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "You basic-vault Windows 15/20/25% faster",
+    "Your basic-attack recovery is 15/20/25% faster. (NEW)",
+    "Whenever you are blinded or Pallet-stunned, the duration is 25% longer. (was 15%)"
+   ],
+   "devNote": "Dev Note: We found the downside of this perk to be very thematic but felt the bonus gained in return lacking. We want it to feel like a worthwhile trade-off."
+  },
+  {
+   "entity": "Dead Man's Switch",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When you hook a Survivor, the first time a Survivor stops repairing a Generator for more than 2s, it is blocked for 30/35/40s. Cooldown: 30/35/40s",
+     "after": "2s / 30/35/40s / 30/35/40s",
+     "before": "when a Survivor instantly stopped repairing a Generator, and 25/30/35s block duration and 50s cooldown",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When you hook a Survivor, the first time a Survivor stops repairing a Generator for more than 2s, it is blocked for 30/35/40s. Cooldown: 30/35/40s. (was when a Survivor instantly stopped repairing a Generator, and 25/30/35s block duration and 50s cooldown)"
+   ],
+   "devNote": "Dev Note: We found the combination of Dead Man's Switch with effects that caused brief forced interruptions lead to uninteractive moments. However we like the effect provided by Dead Man's Switch, when a Killer actively pressures Survivors off of Generators."
+  },
+  {
+   "entity": "Dissolution",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "3s after a Survivor takes damage from a basic-attack, for 13/14/15s, the next time a Survivor fast-vaults a Pallet while within your Terror Radius, it is destroyed",
+     "after": "13/14/15s",
+     "before": "any damage and 12/16/20s",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "3s after a Survivor takes damage from a basic-attack, for 13/14/15s, the next time a Survivor fast-vaults a Pallet while within your Terror Radius, it is destroyed. (was any damage and 12/16/20s)"
+   ]
+  },
+  {
+   "entity": "Hex: Blood Favor",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Whenever a healthy Survivor becomes injured by your basic-attack, Upright Pallets within 32m of them are blocked for 13/14/15s",
+     "after": "32m / 13/14/15s",
+     "before": "any damage and 24/28/32m and 15s",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When the trial starts, a Dull Totem ignites",
+    "Whenever a healthy Survivor becomes injured by your basic-attack, Upright Pallets within 32m of them are blocked for 13/14/15s. (was any damage and 24/28/32m and 15s)"
+   ],
+   "devNote": "Dev Note: We found the combination of Dissolution or Blood Favor and Killers that can use their power to quickly get an injury to be unhealthy. Additionally Blood Favor while strong in chase also happened to have the secondary benefit of denying pallet saves."
+  },
+  {
+   "entity": "Distressing",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Survivors within your Terror Radius repair 6/7/8% slower",
+     "after": "6/7/8%",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Your Terror Radius is 30% larger",
+     "after": "30%",
+     "before": "20/23/30%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Survivors within your Terror Radius repair 6/7/8% slower. (NEW)",
+    "Your Terror Radius is 30% larger. (was 20/23/30%)"
+   ],
+   "devNote": "Dev Note: Distressing not providing a tangible benefit outside of a Terror Radius change can make it not feel like a real option outside of very specific builds. We've added a dedicated slow down effect to give a reason to select it on it's own. It's a simple passive slow down aimed primarily at newer players who've yet to unlock some of the better slow down options."
+  },
+  {
+   "entity": "Dominance",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "The first time each Totem is being blessed or cleansed by a Survivor:",
+     "after": null,
+     "before": "Totems and Chests",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "It is blocked for 25s",
+     "after": "25s",
+     "before": "8/12/16s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "That Survivor screams",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "You see their Aura for 3/4/5s",
+     "after": "3/4/5s",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "The first time each Totem is being blessed or cleansed by a Survivor: (was Totems and Chests)",
+    "It is blocked for 25s. (was 8/12/16s)",
+    "That Survivor screams. (NEW)",
+    "You see their Aura for 3/4/5s. (NEW)"
+   ],
+   "devNote": "Dev Note: We didn't like that this perk inadvertently punished players for opening chests, as it was primarily intended as a totem defense perk. Currently Dominance can be quite hard to keep track of as your Totems silently become blocked. We want to give you extra information on who knows your totem is there, and where they're running off too afterwards."
+  },
+  {
+   "entity": "Hex: Nothing but Misery",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "After you damage Survivors with a basic-attack 4 times, a Dull Totem ignites",
+     "after": "4",
+     "before": "8 times",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "They vault 10% slower for 10/12.5/15s",
+     "after": "10% / 10/12.5/15s",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "After you damage Survivors with a basic-attack 4 times, a Dull Totem ignites. (was 8 times)",
+    "Whenever you damage a Survivor with a basic-attack:",
+    "They gain 5% Hindered for 10/12.5/15s",
+    "They vault 10% slower for 10/12.5/15s (NEW)",
+    "Hex: Thrill of the Hunt (Rework)",
+    "The first time you hook a Survivor, a Dull Totem ignites",
+    "When you hook a Survivor, block all Hex Totems for 6/7/8s for each lit Hex Totem"
+   ],
+   "devNote": "Dev Note: We found that the hex took too long to get for the benefit that it provided. We've reduced the overall requirement so it should come into play earlier in a trial. To further encourage Survivors to cleanse the totem, we've added a vault speed reduction. Previously with perks we've only ever increased vault speed so we're keeping a close eye on this one to see how it lands.\nDev Note: We found Thrill of the Hunt created strong passive value. Requiring very little work from the Killer to reset a large amount of progress from the Survivor. Our intention with the rework is to maintain the perks defensive capability but in a much more active way."
+  },
+  {
+   "entity": "Insidious",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "After being idle for 2s, you gain Undetectable",
+     "after": "2s",
+     "before": "3/2/1s",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Whenever you act, this ends after 6/7/8s",
+     "after": "6/7/8s",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "After being idle for 2s, you gain Undetectable. (was 3/2/1s)",
+    "Whenever you act, this ends after 6/7/8s. (NEW)"
+   ],
+   "devNote": "Dev Note: Outside of basement dwellers and Hallucination imposters Insidious has struggled to find it's place in the fog. We found it's effect iconic, but lacking. The intention behind the linger is to provide more opportunities to mind game certain areas."
+  },
+  {
+   "entity": "Knock Out",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Whenever a Survivor drops a Pallet, for the next 6s, if they move 10m away from it, they gain 20% Hindered for 3/4/5s",
+     "after": "10m / 20%",
+     "before": "6m and 5%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "This ends early if the Pallet is broken",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever a Survivor drops a Pallet, for the next 6s, if they move 10m away from it, they gain 20% Hindered for 3/4/5s. (was 6m and 5%)",
+    "This ends early if the Pallet is broken. (NEW)"
+   ],
+   "devNote": "Dev Note: We want Knock Out to feel impactful in those cases where Survivors don't loop around pallets. We've increased the range to account for some longer loops, as this should only impact players who intentionally run away from a pallet. We've also updated the removal effect to now also end the Hindered early if the pallet get's broken, even if it's already been applied."
+  },
+  {
+   "entity": "Ravenous",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Gain 4% Haste while carrying Survivors",
+     "after": "4%",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Hook Survivors 4% faster",
+     "after": "4%",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Gain Exposed for 80/85/90s",
+     "after": "80/85/90s",
+     "before": "40/50/60s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "The first time you hook each Survivor, you earn 1 Token. For each token:",
+    "Gain 4% Haste while carrying Survivors. (NEW)",
+    "Hook Survivors 4% faster. (NEW)",
+    "When you have 4 Tokens, all Survivors:",
+    "Scream",
+    "Gain Exposed for 80/85/90s. (was 40/50/60s)"
+   ],
+   "devNote": "Dev Note: Hooking each Survivor once can be a difficult task. We want the reward to feel impactful, adding extra duration to the Exposed status allows more time to find and down Survivors. We also want to reward the player for each token to better encourage reaching all four. A hooking efficiency improvement should help you get back into the action faster."
+  },
+  {
+   "entity": "Scourge Hook: Monstrous Shrine",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "While you are at least 24m away from a Survivor on a Scourge Hook, Generators not being repaired regress at 150/175/200% speed",
+     "after": "150/175/200%",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Whenever a Totem is blessed, cleansed or destroyed:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Dull Totems are blocked for 16/18/20s",
+     "after": "16/18/20s",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Hex Totems are blocked for 16/18/20s",
+     "after": "16/18/20s",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "You see the Auras of Boon Totems for 16/18/20s",
+     "after": "16/18/20s",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When the trial starts:",
+    "4 random hooks become Scourge Hooks",
+    "The Basement Hooks become Scourge Hooks",
+    "While you are at least 24m away from a Survivor on a Scourge Hook, Generators not being repaired regress at 150/175/200% speed. (NEW)",
+    "Shattered Hope (Rework)",
+    "Whenever you snuff a Boon Totem, it is destroyed",
+    "Whenever a Totem is blessed, cleansed or destroyed: (NEW)",
+    "Dull Totems are blocked for 16/18/20s. (NEW)",
+    "Hex Totems are blocked for 16/18/20s. (NEW)",
+    "You see the Auras of Boon Totems for 16/18/20s. (NEW)"
+   ],
+   "devNote": "Dev Note: Monstrous Shrine benefited players for not camping by applying more pressure to Survivors but it's effect was rarely felt. We want Monstrous Shrine to encourage players to seek out other Survivors and chase them off Generators to gain the strong benefit of faster regression. We also want the Survivors to have to make the choice between leaving the the Survivor on the safety of the hook, or rescuing them to end the regression effect.\nDev Note: We are actively discussing how we want Boon Totem snuffing to work base-kit. In the meantime the other effect of Shattered Hope was very limited to only providing value if boons were used. We want Shattered Hope to provide direct value that you could bring alongside Hex builds."
+  },
+  {
+   "entity": "Superior Anatomy",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Whenever a Survivor medium or fast-vaults within 12m of you, the next time you basic-vault a Window, you basic-vault Windows 30/35/40% faster for 10s. Cooldown: 20s",
+     "after": "10s / 20s",
+     "before": "basic-vault once faster and 25s cooldown",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Whenever a Survivor medium or fast-vaults within 12m of you, the next time you basic-vault a Window, you basic-vault Windows 30/35/40% faster for 10s. Cooldown: 20s. (was basic-vault once faster and 25s cooldown)",
+    "Undone (Rework)",
+    "Whenever you hook a Survivor, you earn 1 tokens, up to 3",
+    "Whenever you damage a Generator, spend all tokens. For each token spent:",
+    "The Generator loses 8/9/10% progress",
+    "The Generator is blocked for 8/9/10s"
+   ],
+   "devNote": "Dev Note: We want to provide more flexibility to Superior Anatomy's usage. For those players who like to double or even triple vault a window the effect will now linger after it's been used. Due to the cooldown being delayed until after the linger we've reduced it slightly so it doesn't feel like a nerf in situations where you only need to vault once.\nDev Note: We found that Undone only really punished Survivors who were already struggling. We've put the activation condition in the Killers hands, giving them more agency. Less instant regression than Pop Goes the Weasel but the flexibility to stack it can lead to strategic moments. The generator still begins regressing when it's unblocked."
+  },
+  {
+   "entity": "Unrelenting",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Your missed basic-attack cooldown is 30/35/40% shorter",
+     "after": "30/35/40%",
+     "before": "20/25/30%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Your successful basic-attack cooldown is 10% shorter",
+     "after": "10%",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Your missed basic-attack cooldown is 30/35/40% shorter. (was 20/25/30%)",
+    "Your successful basic-attack cooldown is 10% shorter. (NEW)"
+   ],
+   "devNote": "Dev Note: Diminishing Returns allows us to return the long since removed successful basic-attack cooldown. Additionally for cases where you're smacking a lock off a locker or hitting a pallet instead of a player. This perk now also includes obstructed basic-attack."
+  },
+  {
+   "entity": "Whispers",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "While within 28/26/24m of a Survivor, you randomly hear whispers",
+     "after": "28/26/24m",
+     "before": "48/40/32m",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "While outside of 28/26/24m of a Survivor, you gain 5% Haste",
+     "after": "28/26/24m / 5%",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While within 28/26/24m of a Survivor, you randomly hear whispers. (was 48/40/32m)",
+    "While outside of 28/26/24m of a Survivor, you gain 5% Haste. (NEW)"
+   ],
+   "devNote": "Dev Note: We want to give Whispers a new benefit to distinguish itself from being exclusively about information. The intention behind the added Haste is to help better traverse the map while looking for Survivors. While the reduced range is to allow more opportunities for the Killer to gain Haste."
+  },
+  {
+   "entity": "Kindred",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "While you are hooked, all Survivors see each others' Auras. While the Killer is within 14/15/16m, all Survivors sees the Killer's Aura",
+     "after": "14/15/16m",
+     "before": "8/12/16m",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "While another Survivor is hooked, you see the Auras of other Survivors. While the Killer is within 14/15/16m of the hooked Survivor, you see the Killer's Aura",
+     "after": "14/15/16m",
+     "before": "8/12/16m",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While you are hooked, all Survivors see each others' Auras. While the Killer is within 14/15/16m, all Survivors sees the Killer's Aura. (was 8/12/16m)",
+    "While another Survivor is hooked, you see the Auras of other Survivors. While the Killer is within 14/15/16m of the hooked Survivor, you see the Killer's Aura. (was 8/12/16m)"
+   ]
+  },
+  {
+   "entity": "No One Left Behind",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You heal 80/90/100% faster",
+     "after": "80/90/100%",
+     "before": "50/75/100%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You unhook other Survivors 80/90/100% faster",
+     "after": "80/90/100%",
+     "before": "50/75/100%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When all Generators are completed:",
+    "You heal 80/90/100% faster. (was 50/75/100%)",
+    "You unhook other Survivors 80/90/100% faster. (was 50/75/100%)",
+    "Whenever you unhook a Survivor, they gain 10% more Haste",
+    "You see the Auras of other Survivors"
+   ]
+  },
+  {
+   "entity": "Resilience",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You bless and cleanse Totems 7/8/9% faster",
+     "after": "7/8/9%",
+     "before": "3/6/9%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You heal 7/8/9% faster",
+     "after": "7/8/9%",
+     "before": "3/6/9%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You open Exit Gates 7/8/9% faster",
+     "after": "7/8/9%",
+     "before": "3/6/9%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You repair 7/8/9% faster",
+     "after": "7/8/9%",
+     "before": "3/6/9%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You sabotage Hooks 7/8/9% faster",
+     "after": "7/8/9%",
+     "before": "3/6/9%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You unhook Survivors 7/8/9% fester",
+     "after": "7/8/9%",
+     "before": "3/6/9%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You unlock chests 7/8/9% faster",
+     "after": "7/8/9%",
+     "before": "3/6/9%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You vault 7/8/9% faster",
+     "after": "7/8/9%",
+     "before": "3/6/9%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While injured:",
+    "You bless and cleanse Totems 7/8/9% faster. (was 3/6/9%)",
+    "You heal 7/8/9% faster. (was 3/6/9%)",
+    "You open Exit Gates 7/8/9% faster. (was 3/6/9%)",
+    "You repair 7/8/9% faster. (was 3/6/9%)",
+    "You sabotage Hooks 7/8/9% faster. (was 3/6/9%)",
+    "You unhook Survivors 7/8/9% fester. (was 3/6/9%)",
+    "You unlock chests 7/8/9% faster. (was 3/6/9%)",
+    "You vault 7/8/9% faster. (was 3/6/9%)"
+   ]
+  },
+  {
+   "entity": "We'll Make It",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Whenever you unhook a Survivor, for 70/80/90s, you heal other Survivors 100% faster",
+     "after": "70/80/90s",
+     "before": "30/60/90s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever you unhook a Survivor, for 70/80/90s, you heal other Survivors 100% faster. (was 30/60/90s)"
+   ],
+   "devNote": "Dev Note: We want to modernize the lower tier values of a few older perks to make them feel closer to what new players can expect long term."
+  },
+  {
+   "entity": "Better Than New",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "They bless and cleanse 40/45/50% faster",
+     "after": "40/45/50%",
+     "before": "12/14/16%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "They heal 40/45/50% faster",
+     "after": "40/45/50%",
+     "before": "12/14/16%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "They unlock Chests 40/45/50% faster",
+     "after": "40/45/50%",
+     "before": "12/14/16%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever you finish healing another Survivor, until they take damage:",
+    "They bless and cleanse 40/45/50% faster. (was 12/14/16%)",
+    "They heal 40/45/50% faster. (was 12/14/16%)",
+    "They unlock Chests 40/45/50% faster. (was 12/14/16%)"
+   ]
+  },
+  {
+   "entity": "Empathic Connection",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You heal other Survivors 40/45/50% faster",
+     "after": "40/45/50%",
+     "before": "25/30/35%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "You heal other Survivors 40/45/50% faster. (was 25/30/35%)",
+    "Injured Survivors see your Aura"
+   ]
+  },
+  {
+   "entity": "Flow State",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You bless and cleanse Totems 13/14/15% faster",
+     "after": "13/14/15%",
+     "before": "8/9/10%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You heal 13/14/15% faster",
+     "after": "13/14/15%",
+     "before": "8/9/10%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You unhook Survivors 13/14/15% faster",
+     "after": "13/14/15%",
+     "before": "8/9/10%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever a generator is completed, earn 1 token, up to 5",
+    "For each token:",
+    "You bless and cleanse Totems 13/14/15% faster. (was 8/9/10%)",
+    "You heal 13/14/15% faster. (was 8/9/10%)",
+    "You unhook Survivors 13/14/15% faster. (was 8/9/10%)"
+   ]
+  },
+  {
+   "entity": "Friendly Competition",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Whenever you finish repairing a Generator with at least 1 other Survivor, Survivors who finished repairing it repair 10% faster for 80/85/90s",
+     "after": "10% / 80/85/90s",
+     "before": "5% for 100/110/120s",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Whenever you finish repairing a Generator with at least 1 other Survivor, Survivors who finished repairing it repair 10% faster for 80/85/90s. (was 5% for 100/110/120s)"
+   ]
+  },
+  {
+   "entity": "Bound by Obsession",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "While you are the Obsession, every 30s, the Killer sees your Aura for 4s",
+     "after": "4s",
+     "before": "3s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You bless and cleanse Totems 8/9/10% faster",
+     "after": "8/9/10%",
+     "before": "only cleanse and 2/4/6%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You heal 8/9/10% faster",
+     "after": "8/9/10%",
+     "before": "2/4/6%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You repair 8/9/10% faster",
+     "after": "8/9/10%",
+     "before": "2/4/6%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While you are the Obsession, every 30s, the Killer sees your Aura for 4s. (was 3s)",
+    "While the Killer sees your Aura:",
+    "You see their Aura",
+    "You bless and cleanse Totems 8/9/10% faster. (was only cleanse and 2/4/6%)",
+    "You heal 8/9/10% faster. (was 2/4/6%)",
+    "You repair 8/9/10% faster. (was 2/4/6%)",
+    "When the trial starts, you are more likely to be the Obsession"
+   ],
+   "devNote": "Dev Note: Number improvements to Generic perks and perks impacted by Diminishing Returns."
+  },
+  {
+   "entity": "Blood Pact",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "While you are the Obsession if you are hooked another Survivor becomes the Obsession",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While you are not the Obsession:",
+    "While you or the Obsession is injured, you see each other's Auras",
+    "Whenever you finish healing the Obsession or they finish healing you, while within 16m of each other, you both gain 5/6/7% Haste",
+    "While you are the Obsession if you are hooked another Survivor becomes the Obsession. (NEW)",
+    "When the trial starts, you are less likely to be the Obsession"
+   ],
+   "devNote": "Dev Note: Blood Pact's ability to combine with other perks has been reduced since Diminishing Returns however we are happy with it's current Haste value. Instead we want to provide a quality of life improvement in an era where several perks are changing who the Obsession is."
+  },
+  {
+   "entity": "Boon: Illumination",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "While you have a Boon Totem, you bless 150/175/200% faster",
+     "after": "150/175/200%",
+     "before": "bless and cleanse 6/8/10%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While next to a Totem, use Active Ability Button to bless it, creating a unique Boon Totem that combines all your Boons",
+    "Survivors within the Boon's range:",
+    "See the Auras of Chests",
+    "See the Auras of Generators",
+    "While you have a Boon Totem, you bless 150/175/200% faster. (was bless and cleanse 6/8/10%)",
+    "Borrowed Time (Rework)",
+    "Whenever you gain Deep Wound while you have Endurance passively mend over 40/35/30s"
+   ],
+   "devNote": "Dev Note: We want Boon: Illumination to feel more like a support boon you can bring to more easily transfer your boon around as the trial progresses. It also makes blessing a Hex Totem faster than cleansing it (equivalent to approx. 35% increased cleanse speed)\nDev Note: We added Elusive to the list of unhook protections previously but didn't like the idea of Borrowed Time extending it's duration. Instead we've opted to rework the perk to an entirely new effect."
+  },
+  {
+   "entity": "Calm Spirit",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "You bless and cleanse Totems, and unlock Chests silently and 8/9/10% faster",
+     "after": "8/9/10%",
+     "before": "40/35/30% slower",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "You do not scare Crows or scream",
+    "You bless and cleanse Totems, and unlock Chests silently and 8/9/10% faster. (was 40/35/30% slower)"
+   ],
+   "devNote": "Dev Note: We do not feel like Calm Spirit needs the downside, instead we've flipped it to providing a subtle upside. The intention being you should still primarily be taking this perk for it's scream and crow prevention."
+  },
+  {
+   "entity": "Dark Sense",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Whenever a Generator is completed, when the Killer gets within 24m of you, for 8/9/10s:",
+     "after": "8/9/10s",
+     "before": "5/7/10s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You see the Aura of Pallets and Windows within 24m",
+     "after": "24m",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "You see the Auras of other Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever a Generator is completed, when the Killer gets within 24m of you, for 8/9/10s: (was 5/7/10s)",
+    "You see the Aura of Pallets and Windows within 24m (NEW)",
+    "You see the Auras of other Survivors. (NEW)",
+    "You see the Killer's Aura",
+    "Down to the Last \\ (Rework)",
+    "Whenever you are hooked or complete a generator, you earn 1 Token, up to 6",
+    "For each Token, other Survivors open Exit Gates 10% faster",
+    "When you are the last Survivor, if you have at least 3 Tokens:",
+    "You can unlock the Hatch",
+    "For each Token, the Killer cannot see your Aura for 6/8/10s"
+   ],
+   "devNote": "Dev Note: We want to maintain the simplicity of the perk. The intent behind the new benefits is both to give new players a tool to learn maps and teach them to position themselves near resources as the Killer approaches.\nDev Note: We found Sole Survivor to be a selfish perk, often to the detriment of the other Survivors. We want to maintain the final girl aspects while shifting it's focus more to supporting your teammates. Swapping the activation condition to encourage the user to engage in the normal gameplay loop. Providing the Exit Gate bonus to other Survivors encourages them to escape, so that the player who brought Sole Survivor can escape through the Hatch."
+  },
+  {
+   "entity": "Do No Harm",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Great basic Skill Check, grant 3% more progress",
+     "after": "3%",
+     "before": "separate from the Hook State",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increase the odds of triggering a Skill Check by 5%",
+     "after": "5%",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While healing another Survivor for each Hook State they have:",
+    "You heal 30/40/50% faster",
+    "Great basic Skill Check, grant 3% more progress. (was separate from the Hook State)",
+    "Increase the odds of triggering a Skill Check by 5%. (NEW)"
+   ],
+   "devNote": "Dev Note: We want Do No Harm to better distinguish itself from other flat healing speed perks. We added a scaling increase Skill Check odds and made the great skill check bonus scale as well. It should find a home with Survivors who like skill checks and skill check perks."
+  },
+  {
+   "entity": "Five Moves Ahead",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "You see the Auras of the 5 closest Pallets",
+     "after": null,
+     "before": "Pallets and Windows",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "While you are in the Killer's Terror radius or chased by the Killer:",
+    "You see the Auras of the 5 closest Pallets. (was Pallets and Windows)",
+    "After you drop a Pallet, you start moving 50% earlier",
+    "Whenever you drop a Pallet, cooldown: 40/35/30s"
+   ],
+   "devNote": "Dev Note: Following the change to Windows of Opportunity below, we want to make Five Moves Ahead specialize in Pallets."
+  },
+  {
+   "entity": "Pharmacy",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You unlock and rummage Chests 75/100/125% faster",
+     "after": null,
+     "before": "only unlock",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "You can rummage each Chest 1 time",
+     "after": "1",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever you unlock a Chest, it will contain a rare Med-Kit",
+    "You unlock and rummage Chests 75/100/125% faster. (was only unlock)",
+    "You can rummage each Chest 1 time. (NEW)",
+    "The range at which the Killer hears you unlocking Chests is 12m shorter"
+   ],
+   "devNote": "Dev Note: Bringing Pharmacy without other perks meant you were forgoing the option to ever find other items when you needed them. We want Pharmacy to still allow for the flexibility of finding the other item types by rummaging."
+  },
+  {
+   "entity": "Plunderer's Instinct",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "You see the aura of Chests and Items",
+     "after": null,
+     "before": "only within 32/48/64m",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "You unlock chests 150%/175%/200% faster",
+     "after": "150%/175%/200%",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "While not chased by the Killer, whenever you look in the Killer’s direction within 32m:",
+     "after": "32m",
+     "before": "36m and within 45 degrees",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "You see the Killer's Aura for 3s",
+     "after": "3s",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Cooldown: 70/65/60s",
+     "after": "70/65/60s",
+     "before": "60/45/30s",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "While injured and repairing a Generator:",
+     "after": null,
+     "before": "injured and not broken",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When you stop healing, this ends after 4s",
+     "after": "4s",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "You see the aura of Chests and Items. (was only within 32/48/64m)",
+    "You unlock chests 150%/175%/200% faster. (NEW)",
+    "Whenever you unlock a Chest you are 50% more likely to find an item of higher rarity",
+    "Premonition (Rework)",
+    "While not chased by the Killer, whenever you look in the Killer’s direction within 32m: (was 36m and within 45 degrees)",
+    "You are notified",
+    "You see the Killer's Aura for 3s. (NEW)",
+    "Cooldown: 70/65/60s. (was 60/45/30s)",
+    "Road Life (Rework)",
+    "While injured and repairing a Generator: (was injured and not broken)",
+    "Whenever you hit a basic great Skill Check, you earn 1 Token",
+    "Whenever you miss a basic Skill Check, you lose 1 Token",
+    "When you have 6/5/4 Tokens, you can heal yourself. Spend all Tokens to heal yourself 100% faster. (now grants the ability to self-heal)",
+    "When you stop healing, this ends after 4s. (NEW)"
+   ],
+   "devNote": "Dev Note: We want Plunderer's Instinct to be your go to for improving the efficiency of interacting with Chests. It should have it's place in builds that require you to open Chests.\nDev Note: We want to modernize this perk by providing an Aura, giving newer players more direct information. To reinforce the need for players to learn how to loop a tile the effect disables in chase.\nDev Note: We want Road Life to be more usable on it's own so we've given it the ability to self-heal and removed the broken restriction. We also added a quality of life linger so when a heal is interrupted accidentally it's effect isn't instantly cancelled."
+  },
+  {
+   "entity": "Self-Preservation",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Whenever another Survivor is hooked, you gain Elusive for 13/14/15s",
+     "after": "13/14/15s",
+     "before": "20/25/30s",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Whenever another Survivor is hooked, you gain Elusive for 13/14/15s. (was 20/25/30s)"
+   ],
+   "devNote": "Dev Note: We know that Elusive can be a strong status effect. Several Self Preservations in a lobby can have the unintended effect of the Killer returning back to hook more often. We're reducing the numbers here quite a bit, but are keeping a close eye on this perk."
+  },
+  {
+   "entity": "Shoulder the Burden",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You become Injured",
+     "after": null,
+     "before": "Exposed for 60/50/40s",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "You become Broken for 160/140/120s",
+     "after": "160/140/120s",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Shoulder the Burden is deactivated for all Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Once per trial, while you do not have 2 Hook States, are next to a hooked Survivor use Active Ability Button 2 to unhook them:",
+    "They lose 1 Hook State",
+    "You gain 1 Hook State",
+    "You scream",
+    "You become Injured (was Exposed for 60/50/40s)",
+    "You become Broken for 160/140/120s. (NEW)",
+    "Shoulder the Burden is deactivated for all Survivors. (NEW)",
+    "Slippery Meat (Rework)",
+    "Other Survivors unhook you 90/95/100% faster",
+    "Whenever you are unhooked, you gain 5% more Haste",
+    "Small Game (Rework)",
+    "Within 10/11/12m of a Totem, you see its Aura"
+   ],
+   "devNote": "Dev Note: Shoulder the Burden's incredibly strong effect has not had a sizeable enough downside. We also found that the flexibility of how Shoulder the Burden could be used left little options for counterplay. We still fully expect the perk to be strong in the right hands. However we feel the new downsides and limitation provides more avenues for counterplay. We still aren't completely happy with it's interactions with some other perks, and are keeping a close eye on how the changes are received.\nDev Note: Slippery Meat was only ever effective with full Luck stacking, which lead to unhealthy situations. The intent behind this rework is for Slippery Meat to be a simple and useful form of General anti-tunnel. It's not expected to fully eclipse existing anti-tunnel but be present as an option for newer players.\nDev Note: We found trying to aim an invisible cone was confusing, especially for newer players. We want the new effect to be a very simple one, aimed at helping new players learn Totem locations."
+  },
+  {
+   "entity": "Solidarity",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "While injured and healing another Survivor you also gain healing progress at 65/70/75% speed",
+     "after": "65/70/75%",
+     "before": "without a Med-Kit and 50/60/70%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While injured and healing another Survivor you also gain healing progress at 65/70/75% speed. (was without a Med-Kit and 50/60/70%)",
+    "Spine Chill (Rework)",
+    "Whenever the Killer looks at you within 40m:",
+    "You are notified",
+    "You cannot scream for 12s",
+    "You vault 10% faster for 12s",
+    "Cooldown: 40/35/30s",
+    "Stake Out (Rework)",
+    "After hiding for 15s within 24m of the Killer, while in their Terror Radius, you earn 1 Token, up to 2/3/4",
+    "While you have at least 1 Token, basic Skill Checks are replaced by special Skill Checks",
+    "Special Skill Checks grant +4% more progress",
+    "Whenever you miss a special Skill Check, lose -4% more progress",
+    "Whenever you hit or miss a special Skill Check, spend 1 Token"
+   ],
+   "devNote": "Dev Note: We removed the restriction that prevented using Solidarity with a Med-Kit to encourage more altruistic usage of Med-Kits.\nDev Note: Return of vault speed Spine Chill, now with a limited duration! We're keeping a close eye on this one as we know vault speed is a strong effect, but feel like Diminishing Returns is a good opportunity to explore it once again.\nDev Note: Previously Stake Out put a limitation on design space, removing any difficulty from great Skill Checks. We instead want to give players who are looking for the extra challenge more risk and reward from their skill checks. The Special Skill Check is more difficult and no longer activates other Skill Check perks."
+  },
+  {
+   "entity": "This is Not Happening",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Good basic Skill Check zones are 150/175/200% bigger",
+     "after": "150/175/200%",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Great basic Skill Check zones are 30% bigger",
+     "after": "30%",
+     "before": "while injured and 10/20/30%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Good basic Skill Check zones are 150/175/200% bigger. (NEW)",
+    "Great basic Skill Check zones are 30% bigger. (was while injured and 10/20/30%)"
+   ],
+   "devNote": "Dev Note: We want this perk to be simple and aimed at newer players, however the injured requirement felt counter to these goals. Only impacting the great zone always meant it's numbers could never be too high due to other perks. Adding the good zone let's us greatly improve the numbers, to better match the intent of a simple perk for new players."
+  },
+  {
+   "entity": "Wake Up!",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You open Exit Gates 8/9/10% faster, and an additional 20% faster for each other Survivor alive",
+     "after": "8/9/10% / 20%",
+     "before": "8/10/12.5% per any Survivor alive",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When all Generators are completed:",
+    "You see the Auras of Exit Gate Switches",
+    "While opening an Exit Gate, other Survivors see your Aura",
+    "You open Exit Gates 8/9/10% faster, and an additional 20% faster for each other Survivor alive. (was 8/10/12.5% per any Survivor alive)",
+    "Windows of Opportunity (Rework)",
+    "Within 24m of you see the Auras of Windows",
+    "You vault Windows 10% faster",
+    "Whenever you vault a Window, cooldown: 40/35/30s"
+   ],
+   "devNote": "Dev Note: We want to improve the Exit Gate opening speed provided by other Survivors. Splitting the bonus between yourself and other Survivors allows us to more precisely balance around our intention of altruistic end game perks. Alone the perk is 2.5% slower than before, and if all Survivors are alive the perk is 20% faster than before.\nDev Note: Windows of Opportunity has long reigned as one of the most used perks for it's universal visibility on resources. We feel especially with the inclusion of other options it's a good opportunity to make it specialize in Windows. Players can still gain the old effects of Windows of Opportunity by using the new Dark Sense or combining Windows of Opportunity with Five Moves Ahead."
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where Curios item are missing their interaction SFX."
+   ]
+  },
+  {
+   "group": "Bot Improvements",
+   "items": [
+    "Tentative fix for Survivor Bots sometimes automatically revealing Ghostface from anywhere on the map",
+    "Fixed an issue where Survivor Bots tried to force a Flashlight save for too long against the Lightborn perk."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where using The Pig's Ambush power while pointing the camera downward caused the camera to clip into the ground and the Killer's arm to appear distorted.",
+    "Fixed an issue where The Mastermind lacked downward acceleration when falling from a vault from a higher location with Virulent Bound.",
+    "Fixed an issue where The Mastermind would sometimes collide with ground geometry when using Virulent Bound.",
+    "Fixed an issue where The Twins' Charlotte was unable to see the Aura of Exit Gates if the last Generator was completed while controlling Victor.",
+    "Fixed an issue where the Aura of the Exit Gates was missing while in The Knight's Summoning Phase."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in Greenville Square where a collision is preventing players from navigating properly",
+    "Fixed an issue in Crotus Prenn Asylum where The Houndmaster's dog could not vault over the window of the shack from the exterior side",
+    "Fixed an issue in Toba Landing where the survivors were not able to heal each others in the stairs of the main structure",
+    "Fixed an issue in Freddy Fazzbear's Pizza map where a maze tile didn't spawn the window and pallets",
+    "Fixed an issue in Fractured Cowshed where the Houndmaster's Dog could not vault on the side of the Barn",
+    "Fixed an issue in Treatment Theater where the Killer could be blocked when a survivor is hanging on a hook",
+    "Fixed an issue in Trickster Delusion where the pallets were spawned out of the system and were not calculated properly",
+    "Fixed an issue in Trickster Delusion where the Nightmare, ghost pallet would spawn out of reach",
+    "Fixed an issue in Trickster Delusion where the Slasher would be able to spawn inside of an object",
+    "Fixed an issue in Sanctum of Wrath where the Trapper could hide a trap under the floor boards",
+    "Fixed an issue in Freddy Fazzbear's Pizza map where the Nurse could not blink through a section of the wall",
+    "Fixed an issue in Mother's Dwelling where a locker clipped through the ground",
+    "Fixed an issue in Ormond Lake Mine where players would collide with an invisible collision when going up the stairs",
+    "Fixed an issue in Coldwing Farm Realm where The Houndmaster's Dog could not vault over one side of the shack window",
+    "Fixed an issue in Forsaken Boneyard Realm where the killers could throw projectiles through the window bars of the shack",
+    "Fixed an issue in Blackwater Swamp Realm where the Nurse could blink through the floor boards of a pier",
+    "Fixed an issue in Grim Pantry where the Nurse could blink through the stairs of the small cabin structure",
+    "Fixed an issue Treatment Theater where the door frames would be misaligned with the ground and wall"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where The Judgment's Loud Noise Notification could be spammed by Survivors equipped with the Made For This perk.",
+    "Fixed an issue where the Killer Stun score event was awarded and Exhausted was applied when a survivor failed to stun the Nurse with Jane Romero's Head On perk."
+   ]
+  },
+  {
+   "group": "Quests",
+   "items": [
+    "Fixed an issue where progress was missing on repair Skill Checks on Generator Quests when using the Brand New Part Add-on."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where incorrect information was present in The Animatronic's Gameplay Showcase",
+    "Fixed an issue where several Killers were missing more detailed information in their Gameplay Showcase",
+    "Fixed readability issues with the Matchmaking button, making adjustments to the color scheme of the background, size and the thickness on the outline of the Lobby participants indicator.",
+    "Fixed an issue where progress was missing on a repair Skill Check on Generator Quests when using the Brand New Part Add-on."
+   ]
+  }
+ ]
+}

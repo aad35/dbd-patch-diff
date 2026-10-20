@@ -1,0 +1,917 @@
+{
+ "id": "ptb-9.4.0",
+ "version": "9.4.0",
+ "kind": "ptb",
+ "title": "9.4.0 | PTB Patch Notes",
+ "date": "2026-01-06",
+ "url": "https://store.steampowered.com/news/app/381210/view/519733343516889256?l=english",
+ "changes": [
+  {
+   "entity": "SPECIAL ABILITY: VINE ATTACK",
+   "cat": "killer",
+   "section": "New Killer - The First",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Press and hold the Power button to charge a Vine Attack. When charged, press the Attack button to activate it, creating a small area of effect on the ground",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Any Survivors caught within the area of the Vine Attack earn a Worldbreaker token",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "SPECIAL ABILITY: THE UPSIDE DOWN & UNDERGATE",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The Killer can enter The Upside Down to navigate the map quickly by tapping the Ability button. While in The Upside Down, the Killer can activate an Undergate attack to return to the map, creating a large area of effect on the ground. Survivors caught within its radius gain 2 Worldbreaker tokens",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "SPECIAL CONDITION / ITEM: WORLDBREAKER & GRANDFATHER CLOCKS",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Once a Survivor has gained enough tokens, Worldbreaker activates, and the Worldbreaker Timer begins. While Worldbreaker is active, both the Vine Attack and Undergate attacks do damage to Survivors instead of adding Worldbreaker tokens, and 4 Grandfather Clocks activate",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Worldbreaker lasts for a predetermined amount of time, based on the number of Survivors alive. Survivors can interact with the Grandfather Clocks spread around the map to speed up the Worldbreaker Timer",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Press and hold the Power button to charge a Vine Attack. When charged, press the Attack button to activate it, creating a small area of effect on the ground",
+    "Any Survivors caught within the area of the Vine Attack earn a Worldbreaker token",
+    "SPECIAL ABILITY: THE UPSIDE DOWN & UNDERGATE",
+    "The Killer can enter The Upside Down to navigate the map quickly by tapping the Ability button. While in The Upside Down, the Killer can activate an Undergate attack to return to the map, creating a large area of effect on the ground. Survivors caught within its radius gain 2 Worldbreaker tokens",
+    "SPECIAL CONDITION / ITEM: WORLDBREAKER & GRANDFATHER CLOCKS",
+    "Once a Survivor has gained enough tokens, Worldbreaker activates, and the Worldbreaker Timer begins. While Worldbreaker is active, both the Vine Attack and Undergate attacks do damage to Survivors instead of adding Worldbreaker tokens, and 4 Grandfather Clocks activate",
+    "Worldbreaker lasts for a predetermined amount of time, based on the number of Survivors alive. Survivors can interact with the Grandfather Clocks spread around the map to speed up the Worldbreaker Timer"
+   ]
+  },
+  {
+   "entity": "Turn Back the Clock",
+   "cat": "killer",
+   "section": "New Killer - The First",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After hooking a Survivor, for 40/50/60 seconds, press Ability button 1 to make target generator within 20/20/20 meters explode, lose 10/10/10% progress and start regressing",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After hooking a Survivor, for 40/50/60 seconds, press Ability button 1 to make target generator within 20/20/20 meters explode, lose 10/10/10% progress and start regressing"
+   ]
+  },
+  {
+   "entity": "Secret Project",
+   "cat": "killer",
+   "section": "New Killer - The First",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When a totem is blessed or cleansed, block a random unblocked generator for 20/25/30 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When 1 or more generators become blocked, you gain Undetectable for 30/30/30 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When a totem is blessed or cleansed, block a random unblocked generator for 20/25/30 seconds",
+    "When 1 or more generators become blocked, you gain Undetectable for 30/30/30 seconds"
+   ]
+  },
+  {
+   "entity": "Hex: Hive Mind",
+   "cat": "killer",
+   "section": "New Killer - The First",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The first time you hook any Survivor, a Dull Totem becomes a Hex Totem",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Generators are highlighted; the intensity of generator auras reveals their repair progress",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When 1/1/1 generator remains, all remaining generators explode, lose 6/8/10% progress and start regressing, and the Hex Totem becomes dull",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The first time you hook any Survivor, a Dull Totem becomes a Hex Totem",
+    "Generators are highlighted; the intensity of generator auras reveals their repair progress",
+    "When 1/1/1 generator remains, all remaining generators explode, lose 6/8/10% progress and start regressing, and the Hex Totem becomes dull"
+   ]
+  },
+  {
+   "entity": "Bada Bada Boom",
+   "cat": "survivor",
+   "section": "New Survivor - Dustin Henderson",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After completing 20/20/20% worth of repairs, press Ability button 1 next to a window to trap it for 40/50/60 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The trap triggers when the Killer performs a vault on the window, inflicting them with 50/50/50% Hindered for 6/6/6 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After completing 20/20/20% worth of repairs, press Ability button 1 next to a window to trap it for 40/50/60 seconds",
+    "The trap triggers when the Killer performs a vault on the window, inflicting them with 50/50/50% Hindered for 6/6/6 seconds"
+   ]
+  },
+  {
+   "entity": "Change of Plan",
+   "cat": "survivor",
+   "section": "New Survivor - Dustin Henderson",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "You start with 2/2/2 tokens",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While inside a locker and holding a non-event Toolbox, press Ability button 2 to spend 1/1/1 token and transform your Toolbox into a Med-kit of the same rarity with a random add-on of the same rarity",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The new Med-kit has 80/90/100% of its charges",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "You start with 2/2/2 tokens",
+    "While inside a locker and holding a non-event Toolbox, press Ability button 2 to spend 1/1/1 token and transform your Toolbox into a Med-kit of the same rarity with a random add-on of the same rarity",
+    "The new Med-kit has 80/90/100% of its charges"
+   ]
+  },
+  {
+   "entity": "Teamwork: Full Circuit",
+   "cat": "survivor",
+   "section": "New Survivor - Dustin Henderson",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "For each other Survivor repairing a generator with you, the size of the Good Skill Check zone is increased by 15/20/25%",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While repairing with at least 1 other Survivor, you repair 5/5/5% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "For each other Survivor repairing a generator with you, the size of the Good Skill Check zone is increased by 15/20/25%",
+    "While repairing with at least 1 other Survivor, you repair 5/5/5% faster"
+   ]
+  },
+  {
+   "entity": "Extrasensory Perception",
+   "cat": "survivor",
+   "section": "New Survivor - Eleven",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After crouching for 4/4/4 seconds, you see auras in an expanding radius, up to 44/44/44 meters, have Elusive and Oblivious",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When you stop crouching or after 11/11/11 seconds, this perk enters a 60/50/40-second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After crouching for 4/4/4 seconds, you see auras in an expanding radius, up to 44/44/44 meters, have Elusive and Oblivious",
+    "When you stop crouching or after 11/11/11 seconds, this perk enters a 60/50/40-second cooldown"
+   ]
+  },
+  {
+   "entity": "We See You",
+   "cat": "survivor",
+   "section": "New Survivor - Eleven",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When the Killer reveals your aura, gain one token",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When you have 4/4/4 tokens, spend all tokens and you and other Survivors see the Killer's aura for 10/12.5/15 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "This perks has a 10/10/10-second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When the Killer reveals your aura, gain one token",
+    "When you have 4/4/4 tokens, spend all tokens and you and other Survivors see the Killer's aura for 10/12.5/15 seconds",
+    "This perks has a 10/10/10-second cooldown"
+   ]
+  },
+  {
+   "entity": "Teamwork: Soft-Spoken",
+   "cat": "survivor",
+   "section": "New Survivor - Eleven",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "For each other Survivor repairing a generator with you, the range at which generator repair noise is heard is reduced by 15/20/25%",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While repairing with at least 1 other Survivor, you repair 5/5/5% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "For each other Survivor repairing a generator with you, the range at which generator repair noise is heard is reduced by 15/20/25%",
+    "While repairing with at least 1 other Survivor, you repair 5/5/5% faster"
+   ]
+  },
+  {
+   "entity": "Visual Terror Radius",
+   "cat": "system",
+   "section": "Visual Terror Radius",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated the 2D version of the Visual Terror Radius heart to be animated",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Matches 3D heart behavior",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Has its own Lullaby version",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated the 2D version of the Visual Terror Radius heart to be animated",
+    "Matches 3D heart behavior",
+    "Has its own Lullaby version"
+   ]
+  },
+  {
+   "entity": "The Good Guy - Innate Skills",
+   "cat": "killer",
+   "section": "NEW KILLER",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Slice & Dice turn speed increased by 10%",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Increased Hidey-Ho Mode uptime by 15%",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Performing a Scamper under a pallet breaks it immediately",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The Good Guy can see Illusionary Footfalls around Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Increased Slice & Dice attack duration by 50%",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Slice & Dice turn speed increased by 10%",
+    "Increased Hidey-Ho Mode uptime by 15%",
+    "Performing a Scamper under a pallet breaks it immediately",
+    "The Good Guy can see Illusionary Footfalls around Survivors",
+    "Increased Slice & Dice attack duration by 50%"
+   ],
+   "character": "The Good Guy"
+  },
+  {
+   "entity": "The Nemesis",
+   "cat": "killer",
+   "section": "KILLER UPDATE",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added 2 additional Zombies for a total of 4",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increased Zombie movement speed by 35%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added 2 additional Zombies for a total of 4",
+    "Increased Zombie movement speed by 35%"
+   ],
+   "character": "The Nemesis"
+  },
+  {
+   "entity": "Brute - Team Skill",
+   "cat": "system",
+   "section": "KILLER CLASS UPDATES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Break action speed increased by 25%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Kicking a Generator causes it to weaken and begin regressing",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The aura of the kicked generator will appear in yellow to the Brute",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The next time a Survivor interacts with the Generator and repairs it past its regression point, it explodes triggering a loud noise notification and sprays the Survivor with smoke. The Survivor suffers from the Hindered status effect for 12 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The aura of the generator returns to red after the effect occurs",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Cooldown for 60 seconds where break action speed bonus is not applied",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Break action speed increased by 25%",
+    "Kicking a Generator causes it to weaken and begin regressing",
+    "The aura of the kicked generator will appear in yellow to the Brute",
+    "The next time a Survivor interacts with the Generator and repairs it past its regression point, it explodes triggering a loud noise notification and sprays the Survivor with smoke. The Survivor suffers from the Hindered status effect for 12 seconds",
+    "The aura of the generator returns to red after the effect occurs",
+    "Cooldown for 60 seconds where break action speed bonus is not applied"
+   ]
+  },
+  {
+   "entity": "Fearmonger - Team Skill",
+   "cat": "system",
+   "section": "KILLER CLASS UPDATES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Gain 5% Haste when unseen",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Injuring a Survivor by any means causes up to 2 Survivors within 12 meters of the injured Survivor to scream, revealing their aura to your teammate for 2 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Cooldown for 60 seconds where Haste bonus is not applied",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Gain 5% Haste when unseen",
+    "Injuring a Survivor by any means causes up to 2 Survivors within 12 meters of the injured Survivor to scream, revealing their aura to your teammate for 2 seconds",
+    "Cooldown for 60 seconds where Haste bonus is not applied"
+   ]
+  },
+  {
+   "entity": "Enforcer - Team Skill",
+   "cat": "system",
+   "section": "KILLER CLASS UPDATES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Gain 3% Haste when chasing an injured Survivor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When you hit a Survivor, the Survivor receives the Enforcer’s Mark, which is visible to both you and your teammate",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors with Enforcer’s Mark applied have their aura revealed for 1 second every 8 seconds while marked for 45 seconds. Downing the Survivor consumes the mark and increases the Enforcer's lunge attack distance by 60% for 15 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "60 second cooldown where the Haste bonus is not applied",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Gain 3% Haste when chasing an injured Survivor",
+    "When you hit a Survivor, the Survivor receives the Enforcer’s Mark, which is visible to both you and your teammate",
+    "Survivors with Enforcer’s Mark applied have their aura revealed for 1 second every 8 seconds while marked for 45 seconds. Downing the Survivor consumes the mark and increases the Enforcer's lunge attack distance by 60% for 15 seconds",
+    "60 second cooldown where the Haste bonus is not applied"
+   ]
+  },
+  {
+   "entity": "Class Skill",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR CLASS: TORCHBEARER",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Starts with Flashlight of uncommon rarity",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Class Skill charges over 60 seconds, granting a Flash Grenade when fully charged",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Behaves like an ability; does not take up any item slot",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Press the Active Ability button 2 to activate the Flash Grenade",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Cooldown 60s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Starts with Flashlight of uncommon rarity",
+    "Class Skill charges over 60 seconds, granting a Flash Grenade when fully charged",
+    "Behaves like an ability; does not take up any item slot",
+    "Press the Active Ability button 2 to activate the Flash Grenade",
+    "Cooldown 60s"
+   ]
+  },
+  {
+   "entity": "Info Skill",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR CLASS: TORCHBEARER",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Survivors in chase have their aura revealed to you within 32 meters",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Point a Flashlight at a Killer for 0.5 seconds to reveal them for 2 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Survivors in chase have their aura revealed to you within 32 meters",
+    "Point a Flashlight at a Killer for 0.5 seconds to reveal them for 2 seconds"
+   ]
+  },
+  {
+   "entity": "Unlockable Skill",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR CLASS: TORCHBEARER",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Grant Endurance to Survivors you pick up from the Dying State. Injured Survivors that unhook you gain Endurance",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Grant Endurance to Survivors you pick up from the Dying State. Injured Survivors that unhook you gain Endurance"
+   ]
+  },
+  {
+   "entity": "Scout – Unlockable Skill",
+   "cat": "survivor",
+   "section": "SURVIVOR CLASS UPDATE",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increase your walking speed by 25% and make no grunts of pain while injured",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Grants immunity to screaming",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increase your walking speed by 25% and make no grunts of pain while injured",
+    "Grants immunity to screaming"
+   ]
+  },
+  {
+   "entity": "NEW MAPS",
+   "cat": "system",
+   "section": "NEW MAPS",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Groaning Storehouse",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Rotten Field",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Groaning Storehouse",
+    "Rotten Field"
+   ]
+  },
+  {
+   "entity": "Tonics",
+   "cat": "system",
+   "section": "FEATURES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Herb gameplay returns in the form of tonics! They can be found in locations where you would normally find totems and are scattered throughout the map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "There are two types of tonics that have different effects for Survivor and Killers:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Herb gameplay returns in the form of tonics! They can be found in locations where you would normally find totems and are scattered throughout the map",
+    "There are two types of tonics that have different effects for Survivor and Killers:"
+   ]
+  },
+  {
+   "entity": "Diluted Tonic",
+   "cat": "system",
+   "section": "FEATURES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivor: Restores a health state on use",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killer: Increases Haste by 10% for 20 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivor: Restores a health state on use",
+    "Killer: Increases Haste by 10% for 20 seconds"
+   ]
+  },
+  {
+   "entity": "Purified Tonic",
+   "cat": "system",
+   "section": "FEATURES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivor: Restores a hook state on use",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killer: Grants a 10% Haste bonus to both Killers for 20 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivor: Restores a hook state on use",
+    "Killer: Grants a 10% Haste bonus to both Killers for 20 seconds"
+   ]
+  },
+  {
+   "entity": "Dual Terror Radius",
+   "cat": "system",
+   "section": "FEATURES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "We have updated the Terror Radius to reflect both Killers in range, adjusting the audio tracks for each Killer as they get closer to or further from Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Visual Terror Radius indicator from the Accessibility settings has also been updated to show both Killers when in range, including Lullabies and regular Terror Radii",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "We have updated the Terror Radius to reflect both Killers in range, adjusting the audio tracks for each Killer as they get closer to or further from Survivors",
+    "The Visual Terror Radius indicator from the Accessibility settings has also been updated to show both Killers when in range, including Lullabies and regular Terror Radii"
+   ]
+  },
+  {
+   "entity": "Cooperative Healing",
+   "cat": "system",
+   "section": "FEATURES",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the number of Survivors able to simultaneously heal one another to 3",
+     "after": null,
+     "before": "2",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the number of Survivors able to simultaneously heal one another to 3 (was 2)"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "2v8",
+   "items": [
+    "Fixed an issue where canceling the uncage interaction as the caged Survivor relocated caused them to get stuck in place for the rest of the Trial.",
+    "Fixed an issue where Survivors could immediately die after being uncaged if they were uncaged at the same time as their hook progress depleted.",
+    "Fixed an issue where performing a Flashlight save or pallet stun during the caging sequence would sometimes not work.",
+    "Fixed an issue where the End Game Collapse Entity spikes briefly flickered on screen when picking up a Survivor.",
+    "Fixed an issue where Survivors' auras were briefly seen as they appeared in a cage if they were revealed as they were sent to the cage.",
+    "Fixed an issue where the Survivor's camera was misplaced when being picked up by The Dark Lord.",
+    "Fixed an issue where The Executioner's Torment Trail SFX remained when he stopped using Rites of Judgement.",
+    "Fixed an issue where Survivor voice lines wouldn't play while in \"Play While You Wait\" mode.",
+    "Fixed an issue where Survivor classes were missing from their HUD portraits in 2v8."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where Renato Lyra's \"Hidden Bones\" cosmetic played incorrect footstep SFX.",
+    "Fixed an issue where The Trapper's bear trap was missing SFX during the Survivor struggle animation.",
+    "Fixed an issue where Survivors' screams could sometimes be heard globally throughout a map.",
+    "Fixed an issue where The Knight's footsteps could be heard when creating a path for his Guards.",
+    "Fixed an issue where The Good Guy's voice lines could trigger when playing as The Good Gal."
+   ]
+  },
+  {
+   "group": "Bots Improvements",
+   "items": [
+    "Improved Survivor bots' usage of Flashlights during chases.",
+    "Survivor bots are now able to perform Flashlight, Flashbang and pallet saves.",
+    "Fixed an issue where Survivor bots were able to blind a Killer through obstacles with Flashlights.",
+    "Fixed multiple issues preventing Survivor bots from correctly using various perks.",
+    "Fixed multiple issues causing Survivor bots to not participate correctly in group heals.",
+    "Fixed multiple issues where Nemesis' Zombies could jump up and hit Survivors from a lower level in the Forgotten Ruins map, Forsaken Boneyard Realm and the Raccoon City Realm."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where Cybil Bennett’s mouth appeared distorted in the lobby when she was not holding an item.",
+    "Fixed an issue where The Dark Lord was missing the black screen while performing a Teleport while in Bat Form.",
+    "Fixed an issue where The Good Guy and The Good Gal never looked back at the player in Hidey-Ho Mode."
+   ]
+  },
+  {
+   "group": "Environment / Maps",
+   "items": [
+    "Fixed an issue in the Backwater Swamp Realm where the water would flicker.",
+    "Fixed an issue in The Underground Complex map where players could not interact with one side of a generator.",
+    "Fixed an issue in the Temple of Purgation map where players could get stuck in a dead end.",
+    "Fixed an issue in the Ormond Lake Mine map where players could land on top of objects when falling from the side of the main building.",
+    "Fixed an issue in The Underground Complex map where The Nurse could blink out of bounds.",
+    "Fixed an issue in the Dead Dawg Saloon map where The Xenomorph could get stuck on a Flame Turret when falling from an opening on the gallows platform.",
+    "Fixed an issue in the Pale Rose map where a generator couldn't be repaired on one side.",
+    "Fixed an issue in the Forgotten Ruins map where the cameras of Killers could clip through a wall."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where For The People's Obsession odds did not follow the same logic as other perks."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where starting a search with \"B\" in the Friend List would cause a crash."
+   ]
+  },
+  {
+   "group": "Miscellaneous",
+   "items": [
+    "Fixed a crash that could occur during the game's initialization process.",
+    "Fixed a crash that could occur when closing the game while being in a lobby."
+   ]
+  }
+ ]
+}

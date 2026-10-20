@@ -1,0 +1,143 @@
+{
+ "id": "8.6.1",
+ "version": "8.6.1",
+ "kind": "release",
+ "title": "8.6.1 | Bugfix Patch",
+ "date": "2025-04-09",
+ "url": "https://store.steampowered.com/news/app/381210/view/538850173472736316?l=english",
+ "changes": [
+  {
+   "entity": "Loadouts",
+   "cat": "system",
+   "section": "Loadouts",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Equipped elements now show units left counter",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Search bar now accepts direct input, removing old pop up",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Equipped elements now show units left counter",
+    "Search bar now accepts direct input, removing old pop up"
+   ]
+  },
+  {
+   "entity": "Blood Moon Event",
+   "cat": "system",
+   "section": "Content",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Allow community goal bloodpoint bonus to apply to both event and regular queue",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Allow community goal bloodpoint bonus to apply to both event and regular queue"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Character",
+   "items": [
+    "Fixed an issue that caused The Good Guy to miss some transition animations.",
+    "Fixed an issue that caused the spawning animation for the Blood Can to be skipped.",
+    "The Blight no longer recovers fatigue tokens by performing an attack on a pallet.",
+    "Hatchets no longer spawn at the 0,0,0 location when playing against The Huntress.",
+    "Survivors no longer lack animations and jitter temporarily when hit by a Dream Snare while sleeping against The Nightmare.",
+    "Zombies no longer remain stuck after falling from the second floor of the Clock Tower.",
+    "Zombies can no longer attack Survivors from the 1st floor after falling from certain holes on the 2nd floor of Crotus Prenn Asylum - Disturbed Ward",
+    "Zombies no longer hit Survivors from a lower elevation while in the lab tube in the Hawkins Lab"
+   ]
+  },
+  {
+   "group": "The Ghoul",
+   "items": [
+    "The camera no longer zooms on the Survivor's torso at the end of The Ghoul's Mori animation.",
+    "Using The Ghoul's Special Ability no longer disables the FOV Slider's functionalities for the remainder of the Trial.",
+    "The reticle of the Kagune Leap no longer displays a collision where Survivors are downed for The Ghoul.",
+    "The Aura is no longer visible on part of the tentacles when The Ghoul performs the second Kagune Leap while having their aura revealed."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where the Uroboros infection SFX would remain after being killed with a Mori by The Mastermind.",
+    "Fixed an issue where Portia laughs slightly too often when reaching max speed while following Snug's search path.",
+    "Fixed an issue where the audio of The Ghoul's intro from the offline lobby repeats during the Camera Pan."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "The perk Clean Break now works against The Twins.",
+    "\"Vigil\" now affects the Survivor affected by Hindered by the Perk \"Hex: Nothing But Misery\".",
+    "Balanced Landing no longer plays a grunt when falling with the perk active",
+    "The second Invocation that is completed now activates correctly during a Trial with both Invocation Perks.",
+    "Survivor no longer loses the Status Effect icon after cleansing Hex: Nothing but Misery when Hex: Undying is also equipped"
+   ]
+  },
+  {
+   "group": "Blood Moon Event",
+   "items": [
+    "The Unknown can no longer leave Hallucinations near Blood Pumps and Blood Generators during the Blood Event 2025.",
+    "An invisible Blood Can no longer appears on the ground in a corner of the map in Léry's Memorial institute during Blood Moon 2025",
+    "The Eye of Vecna no longer causes the Survivor to hold an item and a Blood Can in hand at the same time after exiting a Locker during the Blood Moon Event 2025.",
+    "The Score Event \"Blood Fueled\" now grants the correct amount of Bloodpoints when triggered during the Blood Event 2025.",
+    "The Bloodhound Perk no longer highlights Blood Stains from Blood Cans during Blood Moon 2025"
+   ]
+  },
+  {
+   "group": "Maps",
+   "items": [
+    "Fixed multiple issues related to the spawning elements of the Seasonal Event",
+    "Fixed an issue in Dead Dawg Saloon where a Killer could not interact with the hook",
+    "Fixed an issue in Dead Dawg Saloon where the Nightmare could not use the snare power through a section of the building",
+    "Fixed an issue Ironworks of Misery where the Nightmare could not use the snare power through a section of the building",
+    "Fixed an issue in Shattered Square where a placeholder tile would spawn",
+    "Fixed an issue in Midwich Elementary School where the Nightmare could not use the snare power through a section of the building",
+    "Fixed an issue in Haddonfield where Victor (The Twins) could jump out of the gameplay area",
+    "Fixed an issue in Garden Of Joy where the fog is floating off the ground",
+    "Fixed an issue in Eyrie Of Crows where a section of a generator is not interactable"
+   ]
+  },
+  {
+   "group": "Environment",
+   "items": [
+    "Fixed an issue by adding collision on Eyrie of Crows to avoid survivors and killers climbing the base of the Mausoleum Column"
+   ]
+  },
+  {
+   "group": "Loadout",
+   "items": [
+    "Fixed issue where it was possible to visually change killer when queuing",
+    "Fixed issue where item counters were not displayed",
+    "Fixed issue when interacting with loadout search bar function"
+   ]
+  },
+  {
+   "group": "Archives",
+   "items": [
+    "Fixed the alignment of \"The Archives\" string",
+    "Fixed an issue where the rarity of items was displayed in Tome 22 page",
+    "Fixed an issue where an incorrect amount of Rift Fragments would be displayed in the bundle description",
+    "Fixed an issue where \"Visceral\" rarity would be mentioned in Archives challenge and Event details"
+   ]
+  }
+ ]
+}

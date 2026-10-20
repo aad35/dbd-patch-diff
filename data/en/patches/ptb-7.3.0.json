@@ -1,0 +1,402 @@
+{
+ "id": "ptb-7.3.0",
+ "version": "7.3.0",
+ "kind": "ptb",
+ "title": "7.3.0 | PTB",
+ "date": "2023-09-19",
+ "url": "https://store.steampowered.com/news/app/381210/view/5795625563475297589?l=english",
+ "changes": [
+  {
+   "entity": "Furtive Chase",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Each token decreases your Terror Radius by 5 meters while in a chase",
+     "after": null,
+     "before": "4 meters",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "You become obsessed with one Survivor. You lurk in the shadows, eliminating your victims one by one. When your Obsession is hooked, Furtive Chase receives a token, up to a maximum of 2/3/4 tokens",
+    "Each token decreases your Terror Radius by 5 meters while in a chase (was 4 meters)"
+   ]
+  },
+  {
+   "entity": "Background Player",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When the Killer picks-up another Survivor, Background Player activates for 10 seconds. When you start running, break into a sprint at 150% of your normal Running Movement speed for 5 seconds",
+     "after": null,
+     "before": "4 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When the Killer picks-up another Survivor, Background Player activates for 10 seconds. When you start running, break into a sprint at 150% of your normal Running Movement speed for 5 seconds (was 4 seconds)",
+    "This perk cannot be used while suffering from Exhaustion. This perk causes exhaustion for 60/50/40 seconds"
+   ]
+  },
+  {
+   "entity": "Updated Killer: The Skull Merchant",
+   "cat": "killer",
+   "section": "Updated Killer: The Skull Merchant",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Eyes in the Sky The Skull Merchant begins the match with six Drones. Press the Power button to deploy a Drone, which conducts an invisible, continuous sweeping scan. If a Survivor is detected, the Drone becomes active, which makes the Drone’s scan lines visible. Once detected by a scan line, a Survivor gains scan immunity and cannot be detected by other scan lines for 3 seconds. Survivors can attempt to hack Drones. Failure activates the Drone and partially fills their Lock On meter; Success disables the Drone for 45 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Removed the Active Zone (cylinder)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Removed remote Activation of Drones",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Killer now starts with 6 drones",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The minimum distance between drones is now 16 meters",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Drone radius is now 8 meters",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Radar Press the Ability Button to open a Radar to see the locations of Survivors detected by Drones or those with Claw Traps. Drones can be recalled with the Radar. Each Survivor detected on the Radar increases The Skull Merchant’s movement speed. Lock On The Lock On meter fills when scanned by a Drone and when failing to disable a Drone. When the meter is full, the Survivor receives a Claw Trap, becomes Injured, and suffers from the Broken status effect. Additional scans briefly apply the Hindered status effect. A Claw Trap broadcasts the Survivor’s location to the Killer and is only removed when its battery dies",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Removed the Exposed status effect from Lock On",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Eyes in the Sky The Skull Merchant begins the match with six Drones. Press the Power button to deploy a Drone, which conducts an invisible, continuous sweeping scan. If a Survivor is detected, the Drone becomes active, which makes the Drone’s scan lines visible. Once detected by a scan line, a Survivor gains scan immunity and cannot be detected by other scan lines for 3 seconds. Survivors can attempt to hack Drones. Failure activates the Drone and partially fills their Lock On meter; Success disables the Drone for 45 seconds",
+    "Removed the Active Zone (cylinder)",
+    "Removed remote Activation of Drones",
+    "The Killer now starts with 6 drones",
+    "The minimum distance between drones is now 16 meters",
+    "The Drone radius is now 8 meters",
+    "Radar Press the Ability Button to open a Radar to see the locations of Survivors detected by Drones or those with Claw Traps. Drones can be recalled with the Radar. Each Survivor detected on the Radar increases The Skull Merchant’s movement speed. Lock On The Lock On meter fills when scanned by a Drone and when failing to disable a Drone. When the meter is full, the Survivor receives a Claw Trap, becomes Injured, and suffers from the Broken status effect. Additional scans briefly apply the Hindered status effect. A Claw Trap broadcasts the Survivor’s location to the Killer and is only removed when its battery dies",
+    "Removed the Exposed status effect from Lock On"
+   ]
+  },
+  {
+   "entity": "Other",
+   "cat": "killer",
+   "section": "Updated Killer: The Skull Merchant",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Daily rituals, Achievements, Loading Tips, and Score Events have been updated accordingly",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Daily rituals, Achievements, Loading Tips, and Score Events have been updated accordingly"
+   ]
+  },
+  {
+   "entity": "Updated Killer: The Trapper",
+   "cat": "killer",
+   "section": "Updated Killer: The Trapper",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When setting a Bear-Trap, The Trapper gets a Haste effect of 7.5% for 5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "When the Trial begins, 8 Bear-Traps spawn on the map",
+     "after": null,
+     "before": "6",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When setting a Bear-Trap, The Trapper gets a Haste effect of 7.5% for 5 seconds (new effect)",
+    "The Coffee Grounds Addon has been updated to indicate it is an additional Haste effect",
+    "When the Trial begins, 8 Bear-Traps spawn on the map (was 6)"
+   ]
+  },
+  {
+   "entity": "Huntress",
+   "cat": "killer",
+   "section": "Other Killer Tweaks",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Reloading hatchets takes 3 seconds",
+     "after": null,
+     "before": "4 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Reloading hatchets takes 3 seconds (was 4 seconds)"
+   ]
+  },
+  {
+   "entity": "Deathslinger",
+   "cat": "killer",
+   "section": "Other Killer Tweaks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reloading takes 2.6 seconds",
+     "after": null,
+     "before": "2.75 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Addon: Warden's Keys - Decreases the Speargun's reload time by 0.35 seconds",
+     "after": null,
+     "before": "0.5 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Addon: Jaw Smasher - Increases movement speed by 1.5% while aiming down the Speargun's sights",
+     "after": null,
+     "before": "1%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Addon: Wanted Poster - Increases movement speed by 3% while aiming down the Speargun's sights",
+     "after": null,
+     "before": "2.5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Reloading takes 2.6 seconds (was 2.75 seconds)",
+    "Addon: Warden's Keys - Decreases the Speargun's reload time by 0.35 seconds (was 0.5 seconds)",
+    "Addon: Jaw Smasher - Increases movement speed by 1.5% while aiming down the Speargun's sights (was 1%)",
+    "Addon: Wanted Poster - Increases movement speed by 3% while aiming down the Speargun's sights (was 2.5%)"
+   ]
+  },
+  {
+   "entity": "Legion",
+   "cat": "killer",
+   "section": "Other Killer Tweaks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Once the gates are powered, if more than 15 or more tokens have been collected, gain a 6% movement speed boost when not using Feral Frenzy",
+     "after": null,
+     "before": "4%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Addon: BFFs - Earn tokens for hitting Survivors during Feral Frenzy:",
+    "Second chained hit: 2 token",
+    "Third chained hit: 3 tokens",
+    "Fourth chained hit: 4 tokens",
+    "Fifth chained hit: 5 tokens",
+    "Once the gates are powered, if more than 15 or more tokens have been collected, gain a 6% movement speed boost when not using Feral Frenzy (was 4%)"
+   ]
+  },
+  {
+   "entity": "Trickster",
+   "cat": "killer",
+   "section": "Other Killer Tweaks",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Reloading knives takes 3 seconds",
+     "after": null,
+     "before": "4 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Reloading knives takes 3 seconds (was 4 seconds)"
+   ]
+  },
+  {
+   "entity": "Anti Face-Camp Feature",
+   "cat": "system",
+   "section": "Anti Face-Camp Feature",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivors on the hook have an internal \"camp meter\" which fills when the Killer is nearby. The meter fills faster the closer the Killer is, but is slower when other Survivors are near (never becomes negative). Once the meter is full, the Survivor gets a prompt allowing them to escape the hook with 100% probability. Survivors who take this action gain Endurance for 15 seconds. This feature shuts off entirely once the Exit Gates are powered. As part of this system, the Cannibal can no longer hit a Survivor who has Endurance twice in the same 0.5 second timespan",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivors on the hook have an internal \"camp meter\" which fills when the Killer is nearby. The meter fills faster the closer the Killer is, but is slower when other Survivors are near (never becomes negative). Once the meter is full, the Survivor gets a prompt allowing them to escape the hook with 100% probability. Survivors who take this action gain Endurance for 15 seconds. This feature shuts off entirely once the Exit Gates are powered. As part of this system, the Cannibal can no longer hit a Survivor who has Endurance twice in the same 0.5 second timespan"
+   ]
+  },
+  {
+   "entity": "Map Updates",
+   "cat": "system",
+   "section": "Map Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Shattered Square Map Update The Shattered Square Map received a lot of comments at release. Some issues were related to the objects being low to the ground and hard to see, especially when it came to Killers that are navigating with a first person camera. We did a clean up and made sure that the loops feel smoother. There were also inconsistencies with our visual and navigation language. Objects were placed in a way that it felt possible to simply climb, because of similar angles to stairs or slopes found in other maps. This was resolved by taking away some of the objects or placing assets that match the collisions. The line of sight was very low and gave the ability for players to see accross the map. A clear line of sight can be detrimental for both roles depending of the play style. We have changed the positioning of tiles with higher line of sight blockers to be more predominent. The size of the Map was large and we decided to reduce the size to encourage encounters, make it more dynamic and reduce the time to find interactables (generators, hooks, totems, chest, etc.) MacMillan Estate Realm Update The Maps of the MacMillan Estate Realm have been in the game for about 7 years. The layouts and other information have been available within the community for a while, but The Entity reminded us to give players a chaotic experience. Therefore, we are adding new variations of the MacMillan Estate Realm maps to the existing pool",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Shattered Square Map Update The Shattered Square Map received a lot of comments at release. Some issues were related to the objects being low to the ground and hard to see, especially when it came to Killers that are navigating with a first person camera. We did a clean up and made sure that the loops feel smoother. There were also inconsistencies with our visual and navigation language. Objects were placed in a way that it felt possible to simply climb, because of similar angles to stairs or slopes found in other maps. This was resolved by taking away some of the objects or placing assets that match the collisions. The line of sight was very low and gave the ability for players to see accross the map. A clear line of sight can be detrimental for both roles depending of the play style. We have changed the positioning of tiles with higher line of sight blockers to be more predominent. The size of the Map was large and we decided to reduce the size to encourage encounters, make it more dynamic and reduce the time to find interactables (generators, hooks, totems, chest, etc.) MacMillan Estate Realm Update The Maps of the MacMillan Estate Realm have been in the game for about 7 years. The layouts and other information have been available within the community for a while, but The Entity reminded us to give players a chaotic experience. Therefore, we are adding new variations of the MacMillan Estate Realm maps to the existing pool"
+   ]
+  },
+  {
+   "entity": "Bots Improvements",
+   "cat": "system",
+   "section": "Bots Improvements",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reworked the Bots Skill Check system:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Success rates now correlate with Skill Check size",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Skill Check debuffs, such as The Doctor's Madness or Hex: Huntress Lullaby, reduce the odds of hitting the Skill Check",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reworked the Bots Skill Check system:",
+    "Success rates now correlate with Skill Check size",
+    "Skill Check debuffs, such as The Doctor's Madness or Hex: Huntress Lullaby, reduce the odds of hitting the Skill Check"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue that caused the Killer to hear Ripley's dialogue in the menus.",
+    "Fixed an issue that caused the subtitles in The Mastermind's Mori to disappear quickly after appearing."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Bots can now attempt to self-unhook.",
+    "Bots now break a stare-down with the Killer earlier when standing still on opposite sides of a Remote Flame Turret.",
+    "Bots now try to look for potential Killer approach paths when doing long interactions, taking breaks from turning the camera slowly around."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused The Huntress, The Cannibal, The Clown, Ghostface and The Hag to not follow the rule of looking slightly down when vaulting.",
+    "The Xenomorph's tail attack no longer allow to hit behind the killer",
+    "The FOV increase from Blinks can no longer be seen on the Tally screen when leaving a match during a Blink as The Nurse"
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue where the Dream Snares of The Nightmare could be placed under the floor of The Shattered Square's main building.",
+    "Fixed an issue where the Dream Snares of The Nightmare could be placed under the floor of The Toba Landing Base.",
+    "Fixed an issue where The Demogorgon could jump on top of walls in the Disturbed Ward Realm's Maps.",
+    "Fixed an issue in the Coldwind Farm Realm's Maps where assets were too close and blocked the navigation of players.",
+    "It is no longer possible to place the Bear Trap higher than the Killer. Preventing animation glitch during the reset.",
+    "The Chemical Trap is no longer invisible on the pallet if the Survivor gets Hit during the Animation"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "The \"Ultimate Weapon\" Killer perk no longer applies to Survivors hiding inside lockers",
+    "Undying now always handle tokens stacks of Hex: The Third Seal correctly"
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Fixed a crash on Nintendo Switch that could happen when interacting with the Friends menu."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "For consoles, the Loadout search bar virtual keyboard now appears in the player's selected language rather than English.",
+    "Map icons variations will display numerical indicators."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Equipped Charms are now always visible on the displayed character in the Store."
+   ]
+  }
+ ]
+}

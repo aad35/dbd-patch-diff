@@ -1,0 +1,100 @@
+{
+ "id": "8.1.2",
+ "version": "8.1.2",
+ "kind": "release",
+ "title": "8.1.2 | Bugfix Patch",
+ "date": "2024-08-06",
+ "url": "https://store.steampowered.com/news/app/381210/view/4327481163710211587?l=english",
+ "changes": [
+  {
+   "entity": "Killer",
+   "cat": "killer",
+   "section": "Killer",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Stridor - The effect of the perk is no longer multiplicative, meaning that it will increase Survivor grunts of pain volume (even if they have Iron Will)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Stridor - The effect of the perk is no longer multiplicative, meaning that it will increase Survivor grunts of pain volume (even if they have Iron Will)"
+   ]
+  },
+  {
+   "entity": "Survivor",
+   "cat": "survivor",
+   "section": "Survivor",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Iron Will - The effect of the perk is no longer multiplicative, meaning it will lower Survivor grunts of pain volume rather than set it to zero",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Iron Will - The effect of the perk is no longer multiplicative, meaning it will lower Survivor grunts of pain volume rather than set it to zero"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "2v8",
+   "items": [
+    "Hooked music should now be playing correctly when the player is in a 2v8 Cage.",
+    "The Survivor's Innate Skill \"Self-Care\" ability icon should now be correctly lit while in the dying state.",
+    "Aura reveal SFX now correctly plays when being chased by a Killer."
+   ]
+  },
+  {
+   "group": "Archives",
+   "items": [
+    "Fixed an issue where deselecting an image reward within Tome 20 Mythic's journal collection would cause the game to freeze momentarily."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "A Killer disconnecting and being replaced by a Bot will now correctly trigger the \"replaced by Bot\" sound cue."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Improved Bots pathing to avoid them trying to climb insurmountably steep hills.",
+    "The Huntress Bot is now better at charging up her hatchet the correct amount."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused the white aura to be shown when the Singularity looks at a pod directly.",
+    "Fixed an issue that caused the Knight's Guard preview icon on the Knight's arm to be inconsistent with the selected Guard.",
+    "Fixed an issue that caused the Trapper's Bear Oil add-on to only silence one bear trap in the trial.",
+    "Fixed an issue that caused Survivors to be floating when hit by the Mastermind's Virulent Bound at the end of the self unhook animation."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue that caused Invocation: Weaving Spiders not to complete generators when above 90% repair progress.",
+    "Fixed an issue that caused Specialist to make generators impossible to complete if every Survivor in the trial had and consumed max tokens on the same generator. This should also fix other cases of incompletable generators when combing other perks with Specialist.",
+    "Fixed an issue that caused Survivor to lose their equipped items when crafting a Flash Grenade item from Flashbang.",
+    "Fixed an issue that caused Dead Hard not to give the Endurance effect if Off The Record is triggered."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue that could cause the game to freeze when the Lich leaves the tally screen before all other users after a match.",
+    "Fixed an issue that caused the Escape Cake Offering not to consistently award bonus Bloodpoints."
+   ]
+  }
+ ]
+}

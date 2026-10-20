@@ -1,0 +1,10 @@
+{
+ "version": "7.5.0",
+ "kind": "release",
+ "id": "7.5.0",
+ "title": "7.5.0 | Hotfix",
+ "gid": "4044863802194041593",
+ "posttime": 1706726018,
+ "url": "https://store.steampowered.com/news/app/381210/view/4044863802194041593?l=english",
+ "body": "[i]This patch is a hotfix available on Steam only. This does not affect Steam players' ability to crossplay with other platforms.[/i]\n\n[h2]Bug Fixes[/h2]\n[list]\n[*]Fixed an issue which caused the Alan Wake Chapter to appear unavailable in the store.\n[/list]\n[h2]Known Issues[/h2]\n[list]\n[*]Description text for Begrimed Chains, Filthy Slippers, Compound Seven, and The Onryo's Power do not match their in-game effects.\n[/list]"
+}

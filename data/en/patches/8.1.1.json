@@ -1,0 +1,234 @@
+{
+ "id": "8.1.1",
+ "version": "8.1.1",
+ "kind": "release",
+ "title": "8.1.1 | Bug Fix Patch",
+ "date": "2024-07-24",
+ "url": "https://store.steampowered.com/news/app/381210/view/4366886565637509449?l=english",
+ "changes": [
+  {
+   "entity": "Content",
+   "cat": "system",
+   "section": "Content",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The third Mount Ormond Resort Map variation has been enabled",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Backwater Swamp maps have been re-enabled",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The third Mount Ormond Resort Map variation has been enabled",
+    "The Backwater Swamp maps have been re-enabled"
+   ]
+  },
+  {
+   "entity": "Killer Perk Updates",
+   "cat": "system",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Stridor Increased the grunts of pain to 30/40/50%",
+     "after": null,
+     "before": "25/50/50%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased regular breathing to 15/20/25%",
+     "after": null,
+     "before": "0/0/25%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "The bonuses granted by the perk are additive",
+     "after": null,
+     "before": "multiplicative",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Stridor Increased the grunts of pain to 30/40/50%. (was 25/50/50%) Increased regular breathing to 15/20/25%. (was 0/0/25%) The bonuses granted by the perk are additive. (was multiplicative)"
+   ]
+  },
+  {
+   "entity": "Killer Updates",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "The Singularity Holding the Ability button when taking control of a Biopod will cause it to automatically aim at the nearest Survivor. Tapping the button will take control normally. Reduced the time it takes to destroy a Biopod to 0.75 seconds",
+     "after": null,
+     "before": "1.5 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "The Singularity Holding the Ability button when taking control of a Biopod will cause it to automatically aim at the nearest Survivor. Tapping the button will take control normally. Reduced the time it takes to destroy a Biopod to 0.75 seconds (was 1.5 seconds)"
+   ]
+  },
+  {
+   "entity": "Events & Archives",
+   "cat": "system",
+   "section": "Events & Archives",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Game Mode: 2V8 begins July 25 at 11:00 Eastern Team together as survivors, or, for the first time, as a killer duo. Use the new Skill and Class systems to define your loadout. A single disconnected killer can be replaced by a Killer Bot. The mode features unique, larger-than-ever Map variations",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Suffocation Pit",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Azarov's Resting Place",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Thompson House",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Disturbed Ward",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Mother's Dwelling",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Game Mode: 2V8 also features an event tome, opening at the same time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Game Mode: 2V8 begins July 25 at 11:00 Eastern Team together as survivors, or, for the first time, as a killer duo. Use the new Skill and Class systems to define your loadout. A single disconnected killer can be replaced by a Killer Bot. The mode features unique, larger-than-ever Map variations",
+    "Suffocation Pit",
+    "Azarov's Resting Place",
+    "The Thompson House",
+    "Disturbed Ward",
+    "Mother's Dwelling",
+    "Game Mode: 2V8 also features an event tome, opening at the same time"
+   ]
+  },
+  {
+   "entity": "UI",
+   "cat": "system",
+   "section": "UI",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Lobby removed notifications on characters & customizations",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Lobby removed notifications on characters & customizations"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Archives",
+   "items": [
+    "Fixed an issue where the Killer Archive challenge \"Knockout (Remix)\" was not randomizing perks after a disconnect",
+    "Fixed an issue where \"Core Memory\" and \"Glyph\" Archive challenges were not appearing in the Trial after a disconnect"
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Leaving a Custom Game with 4 Survivor Bots correctly ends the match, no longer allowing spectating"
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused some survivors to not play certain idle animations in the lobby",
+    "Fixed an issue that caused The Lich's locker grab animation to stutter when grabbing a survivor out of a locker",
+    "Fixed an issue that caused survivors to briefly play the downed animation when getting injured the first time",
+    "Fixed an issue that caused survivors to become stuck in a floating animation after being released by The Mastermind",
+    "Fixed an issue that caused The Executioner to have his head missing when performing a Mori",
+    "Fixed an issue that caused The Executioner's Cage of Atonement ability repeated usages to slow or stop the bleed-out of a Survivor",
+    "Fixed an Issue that prevented the Survivors Gate opening animations to be played when a flashlight was equipped",
+    "Fixed an issue that caused flashlights to be unusable after previously using a Flash Grenade or Firecracker item"
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed multiple issues where placeholder tiles would appear on different realms",
+    "Fixed an issue in Underground Complex where the Nurse could blink through walls to reach unobtainable areas",
+    "Fixed an issue in Nostromos where the Nurse could blink on top of debris",
+    "Fixed an issue in Crotus Prenn Asylum where the Trapper could hide traps under debris",
+    "Global task cleanup a variety of collisions in different maps",
+    "Fixed an issue in Midwich School where an object would block players from moving",
+    "Fixed an issue on Backwater Swamp maps where survivors were immune to killer's basic attack while standing next to a boat"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Survivors with Dead Hard or Borrowed Time now correctly get endurance off the hook",
+    "Resourceful no longer gains progress when picking up an item previously swapped into a Chest by another Survivor",
+    "Sparks from Hex: Ruin no longer remain on the generator after failing a skill check"
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed a formatting issue in the Tally Scoreboard to remove the comma displayed in the score",
+    "Fixed a softlock in the Tutorial that happened when opening the Settings menu when a popup is displayed"
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Improved data consistency after finishing a Trial",
+    "Survivor no longer T-poses and bounces down from a the hook briefly when the unhook animation is interrupted",
+    "Fixed an Issue where the Generator count would decrease when a Survivor left the Tally screen of an ongoing Trial",
+    "Fixed Gamepad input conflict between the Lobby MatchMaking button (Play or Cancel) and the Lobby Customizations menu when trying to buy an item with Auric Cells"
+   ]
+  }
+ ]
+}

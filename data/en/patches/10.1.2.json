@@ -1,0 +1,354 @@
+{
+ "id": "10.1.2",
+ "version": "10.1.2",
+ "kind": "release",
+ "title": "10.1.2 | Bugfix Patch",
+ "date": "2026-09-08",
+ "url": "https://store.steampowered.com/news/app/381210/view/683012290458421393?l=english",
+ "changes": [
+  {
+   "entity": "The Judgment",
+   "cat": "system",
+   "section": "Content",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Divine Light curve window while Zealous to 0.8s",
+     "after": null,
+     "before": "0.6s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Divine Light curve window while Zealous to 0.8s (was 0.6s)",
+    "Added a 0.3s Divine Light curve window when non-Zealous",
+    "Survivors being Liberated from Exile respawn at least 32m away from The Judgment and get a 1s immunity to Divine Light"
+   ],
+   "devNote": "Dev note: In hotfix 1 we increased the Zealous Curve window to 0.6s. However, that duration was shorter based on how long Divine Light was controlled - similar to how it was on the PTB. Because it can get pretty short, we felt it was safe to further increase it to 0.8s. We will continue monitoring this.\nDev note: The curving has been a hugely appreciated mechanic to the Zealous state, giving opportunities to outplay Survivors from close range. To give The Judgment an edge when outside of the Zealous state, we're adding a shorter curve window to Divine Light. Zealous is still worth getting due to the longer curve window but being non-Zealous will provide more outplay potential.\nDev note: After spending some time in Exile, returning to the Entity's Realm can be disorienting. Sometimes Survivors come back and The Judgment is right there, re-initiating a chase with them, to no fault of their (The Judgment's) own. To reduce the amount of times a Survivor that is freshly out of Exile gets chased again, we'll be respawning them away from the Killer. The 1s immunity is there to make sure a stray Divine Light doesn't accidentally hit - giving them a proper chance at a reset."
+  },
+  {
+   "entity": "The Xenomorph - Innate Skills",
+   "cat": "killer",
+   "section": "NEW KILLER",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When a turret takes The Xenomorph out of Crawler Mode it is automatically destroyed",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The cooldown of Crawler Mode is 25% faster while outside of tunnels",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Survivors hit by a Tail Strike are Mangled for 70 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "After exiting a tunnel, gain 5% Haste for 3 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When a turret takes The Xenomorph out of Crawler Mode it is automatically destroyed",
+    "The cooldown of Crawler Mode is 25% faster while outside of tunnels",
+    "Survivors hit by a Tail Strike are Mangled for 70 seconds",
+    "After exiting a tunnel, gain 5% Haste for 3 seconds"
+   ],
+   "character": "The Xenomorph"
+  },
+  {
+   "entity": "NEW ITEM: INVOKING SALT",
+   "cat": "system",
+   "section": "NEW ITEM: INVOKING SALT",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivors will obtain Invoking Salt from Chests. It can be used once, consumed the moment it is placed. Placement takes 3 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When it is placed, up to 4 Survivors can perform a 40 second interaction that allows them to use their Unlockable Skill without being Hooked and gain a 5% Haste boost for 5 minutes, which reduces by 1% after each minute passes. Performing the Ritual subsequent times will refresh the Haste bonus and duration",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivors will obtain Invoking Salt from Chests. It can be used once, consumed the moment it is placed. Placement takes 3 seconds",
+    "When it is placed, up to 4 Survivors can perform a 40 second interaction that allows them to use their Unlockable Skill without being Hooked and gain a 5% Haste boost for 5 minutes, which reduces by 1% after each minute passes. Performing the Ritual subsequent times will refresh the Haste bonus and duration"
+   ]
+  },
+  {
+   "entity": "The Ghostface",
+   "cat": "system",
+   "section": "KILLER UPDATE",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Night Shroud charge rate from 15% to 20%",
+     "after": "20%",
+     "before": "15%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Stalking charge rate from 10% to 15%",
+     "after": "15%",
+     "before": "10%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Night Shroud charge rate from 15% to 20%",
+    "Increased Stalking charge rate from 10% to 15%"
+   ]
+  },
+  {
+   "entity": "The Executioner",
+   "cat": "killer",
+   "section": "KILLER UPDATE",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased Punishment Of The Damned width by 2 meters",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increased Punishment Of The Damned width by 2 meters"
+   ],
+   "character": "The Executioner"
+  },
+  {
+   "entity": "Guide Class",
+   "cat": "survivor",
+   "section": "SURVIVOR CLASS UPDATE",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Successfully completing a Skill Check while the Killer is within 24 meters will reveal their Aura for 5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Successfully completing a Skill Check while the Killer is within 24 meters will reveal their Aura for 5 seconds"
+   ]
+  },
+  {
+   "entity": "Survivor Starting Items",
+   "cat": "survivor",
+   "section": "SURVIVOR CLASS UPDATE",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Each Survivor Class is now granted a Default Item of Uncommon rarity:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Medic - First Aid Kit",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Scout - Dull Key",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Escapist - Artisan's Fog Vial",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Guide - Toolbox",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Each Survivor Class is now granted a Default Item of Uncommon rarity:",
+    "Medic - First Aid Kit",
+    "Scout - Dull Key",
+    "Escapist - Artisan's Fog Vial",
+    "Guide - Toolbox"
+   ]
+  },
+  {
+   "entity": "NEW MAP",
+   "cat": "system",
+   "section": "NEW MAP",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Nostromo Wreckage is now available in 2v8",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Nostromo Wreckage is now available in 2v8"
+   ]
+  },
+  {
+   "entity": "IMPROVED UNCAGE ANGLES",
+   "cat": "system",
+   "section": "IMPROVED UNCAGE ANGLES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Uncaging is now supported from the sides, similar to hooks",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Uncaging is now supported from the sides, similar to hooks"
+   ]
+  },
+  {
+   "entity": "INCREASED CHESTS",
+   "cat": "system",
+   "section": "INCREASED CHESTS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Number of Chest spawns has been increased from 20 to 27",
+     "after": "27",
+     "before": "20",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Number of Chest spawns has been increased from 20 to 27"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where the Tome's theme can be played in the Offline Lobby by holding Left Click.",
+    "Fixed an issue where The Animatronic's default footsteps sounded muffled, and Glitchtrap’s footsteps sounded too metallic.",
+    "Fixed an issue where The Xenomorph’s Tail Strike was too loud.",
+    "Fixed an issue where The Xenomorph is unable to hear the turret's beeping warning sound upon approaching it in both Custom and 2v8 Trials."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where The Pig could stay in a crouched state while carrying a Survivor.",
+    "Fixed an issue where The Pig's un-crouch animation was not playing properly.",
+    "Fixed an issue where The Knight's Guards would get stuck in Pallets dropped during the Hunt.",
+    "Fixed an issue where The Judgment's Divine Light would reveal Survivors hidden in lockers.",
+    "Fixed an issue where The Judgment trying to send a Survivor to Exile right before Heresy expired would cause the Survivor to become permanently invisible.",
+    "Fixed an issue where The Judgment was able to Exile escaped Survivors.",
+    "Fixed an issue where Survivors on Nostromo Wreckage could rarely be sent to the secret room when rescued from Exile against The Judgment.",
+    "Fixed an issue where a Heretic Survivor could get Killer Instinct while in the process of returning from Exile against The Judgment.",
+    "Fixed an issue where a hooked Survivor could get Heresy against The Judgment.",
+    "Fixed an issue where the bot would be stuck in Exile until the end of the End Game Collapse when an Exiled Survivor disconnected while getting rescued against The Judgment.",
+    "Fixed an issue where Survivors in Exile did not affect the End Game Collapse timer against The Judgment.",
+    "Fixed an issue where The Judgment's proximity Killer Instinct would sometimes activate after hitting a Survivor.",
+    "Fixed an issue where blinded Survivors were unable to see The Judgment's Shrine aura.",
+    "Fixed an issue where the outfit True Blight displayed placeholder VFX on the back of the outfit in the Customization tab.",
+    "Fixed an issue where Cybil Bennett's badge and cosmetic's description were shown as Lisa Garland."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in Dead Dawg Saloon where a crawling Survivor could not get to the top of the stairs.",
+    "Fixed an issue in Badham Preschool where a bush was blocking players from navigating properly.",
+    "Fixed an issue in Raccoon City Police Station where a collision was blocking projectiles.",
+    "Fixed an issue in Torment Creek where players could hide behind a Killer item in the main building.",
+    "Fixed an issue in Garden of Joy where a missing collision on the rooftop fence allowed Survivors to become immune to the Killer's basic attacks.",
+    "Fixed an issue in Torment Creek where a wall collision on the main building allowed projectiles to pass through it."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where the perk \"Vigil\" would still affect other status effects beyond Exhausted.",
+    "Fixed an issue where perk \"Nowhere to Hide\" had an inconsistent description and in-game aura reveal range."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where The First's Gameplay Showcase descriptions contained multiple errors.",
+    "Fixed an issue with the Dead By Daylight logo's visibility on the play button.",
+    "Fixed an issue where SFX were missing with the matchmaking button interaction.",
+    "Fixed a crash when loading into a Custom game.",
+    "Fixed an issue where checkmarks while matchmaking were missing for the local player.",
+    "Fixed an issue where estimated queue time was missing when matchmaking.",
+    "Fixed ban state not resetting the matchmaking button when reaching 0."
+   ]
+  },
+  {
+   "group": "2v8",
+   "items": [
+    "Fixed an issue where a window in the chapel could only be vaulted from one side on Father Campbell's Chapel.",
+    "Fixed a collision issue preventing navigation on Sanctum of Wrath.",
+    "Fixed an issue where a rock was blocking navigation on Family Residence.",
+    "Fixed an issue where Survivors were unable to vault a window in the main building on Azarov's Resting Place.",
+    "Fixed an issue where a rock prevented navigation on Mother's Dwelling.",
+    "Fixed an issue where Survivors would keep the Endurance status effect after performing an Uncage action.",
+    "Fixed an issue where Survivors could climb on top of a mop bucket on Raccoon City Police Station.",
+    "Fixed an issue where The Nurse could Blink into a hill on Autohaven Wreckers.",
+    "Fixed an issue where The Dark Lord could get stuck on the meat hooks in Mother's Dwelling.",
+    "Fixed an issue where the Anti-Camp bar was missing while spectating.",
+    "Fixed an issue where the camera would sometimes become stuck after being sacrificed.",
+    "Fixed an issue where Survivors who changed classes from Torchbearer would see a Flashlight in their hands in the lobby.",
+    "Fixed an issue where a crate's aura was missing when a Survivor was infected by The Mastermind or The Nemesis when they were both Killers in the Trial.",
+    "Fixed an issue where the Antidote item in the 2v8 game mode would have an unknown rarity.",
+    "Fixed an issue in Nostromo Wreckage where a collision would hinder the navigation of players."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue where The Mark of the Adherent Add-On was using an old description in 12 languages."
+   ]
+  }
+ ]
+}

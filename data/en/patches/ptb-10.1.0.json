@@ -1,0 +1,1145 @@
+{
+ "id": "ptb-10.1.0",
+ "version": "10.1.0",
+ "kind": "ptb",
+ "title": "10.1.0 | PTB Patch Notes",
+ "date": "2026-08-04",
+ "url": "https://store.steampowered.com/news/app/381210/view/708904817558292139?l=english",
+ "changes": [
+  {
+   "entity": "DIVINE LIGHT",
+   "cat": "killer",
+   "section": "New Killer: The Judgment",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Press and hold the Power Button (M2) to summon Divine Light for up to 3s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Divine Light moves away from The Judgment and is controlled with camera controls (left/right only)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While in this state, Divine Light does not damage Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "If Divine Light passes through obstacles, it slows down",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While controlling Divine Light, press the Attack Button (M1) to Cast it forward",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When cast, it enters a brief delay before it fully activates, damaging and applying Heresy to any Survivors hit. (Survivors inflicted with Heresy are known as Heretics)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The longer Divine Light is controlled:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The shorter the Cast delay",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The longer the Cast duration",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Divine Light has a 6 second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Press and hold the Power Button (M2) to summon Divine Light for up to 3s",
+    "Divine Light moves away from The Judgment and is controlled with camera controls (left/right only)",
+    "While in this state, Divine Light does not damage Survivors",
+    "If Divine Light passes through obstacles, it slows down",
+    "While controlling Divine Light, press the Attack Button (M1) to Cast it forward",
+    "When cast, it enters a brief delay before it fully activates, damaging and applying Heresy to any Survivors hit. (Survivors inflicted with Heresy are known as Heretics)",
+    "The longer Divine Light is controlled:",
+    "The shorter the Cast delay",
+    "The longer the Cast duration",
+    "Divine Light has a 6 second cooldown"
+   ]
+  },
+  {
+   "entity": "ZEALOUS",
+   "cat": "killer",
+   "section": "New Killer: The Judgment",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Press the Secondary Ability Button (LCTRL) to Exile a Heretic in the Dying State, gaining Zealous. (If they have 2 Hook States, they are killed instead.)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Exiling a Survivor gives them a Hook State",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When Exiling a Heretic:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The 2 closest Shrines of Judgment become Active",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Zealous lasts for 60 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Gain Killer Instinct on all Heretics for 3s. (only applies to Survivors with full Heresy)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While Zealous:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Increase Divine Light's size by 10%",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Decrease Divine Light's cooldown by 20%",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Maintain control of Divine Light for up to 0.3s (the longer it is controlled before being cast, the lower it will be, starting at 1s)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Press the Secondary Ability Button (LCTRL) to Exile a Heretic in the Dying State, gaining Zealous. (If they have 2 Hook States, they are killed instead.)",
+    "Exiling a Survivor gives them a Hook State",
+    "When Exiling a Heretic:",
+    "The 2 closest Shrines of Judgment become Active",
+    "Zealous lasts for 60 seconds",
+    "Gain Killer Instinct on all Heretics for 3s. (only applies to Survivors with full Heresy)",
+    "While Zealous:",
+    "Increase Divine Light's size by 10%",
+    "Decrease Divine Light's cooldown by 20%",
+    "Maintain control of Divine Light for up to 0.3s (the longer it is controlled before being cast, the lower it will be, starting at 1s)"
+   ]
+  },
+  {
+   "entity": "EXILE",
+   "cat": "killer",
+   "section": "New Killer: The Judgment",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Exile acts like a Hook, but does not trigger Hook-related perks",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Upon entering Exile, Survivors receive a Searcher's Pendant (Limited Item)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Exile is filled with dangerous Seeds of Punishment that reduce a Survivor's Sacrifice timer by 1s when hit",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Exile is also filled with helpful Exiled Souls. Hold the Use Item button (M2) to point the Searcher's Pendant at Exiled Souls to collect them",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "For each Exiled Soul collected (up to 10), Survivors gain an additional 0.5s to default Unhook Protections (10% Haste, Endurance, and Elusive)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Exiled Souls no longer grant additional protections once all Generators are completed",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Survivors who aren't in Exile can Pray at an active Shrine of Judgment (highlighted in red) to rescue Exiled Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Exile acts like a Hook, but does not trigger Hook-related perks",
+    "Upon entering Exile, Survivors receive a Searcher's Pendant (Limited Item)",
+    "Exile is filled with dangerous Seeds of Punishment that reduce a Survivor's Sacrifice timer by 1s when hit",
+    "Exile is also filled with helpful Exiled Souls. Hold the Use Item button (M2) to point the Searcher's Pendant at Exiled Souls to collect them",
+    "For each Exiled Soul collected (up to 10), Survivors gain an additional 0.5s to default Unhook Protections (10% Haste, Endurance, and Elusive)",
+    "Exiled Souls no longer grant additional protections once all Generators are completed",
+    "Survivors who aren't in Exile can Pray at an active Shrine of Judgment (highlighted in red) to rescue Exiled Survivors"
+   ]
+  },
+  {
+   "entity": "HERESY",
+   "cat": "killer",
+   "section": "New Killer: The Judgment",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Heresy is gained when hit by Divine Light or by taunting The Judgment (crouching repeatedly, gesturing or lingering in the Exit Area... just leave)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Heretics suffer from special Skill Checks while repairing Generators. Good Skill Check results cause the Generator to lose some progression",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Heretics can Repent at a Shrine of Judgment to begin depleting their Heresy over time",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The Judgment's Divine Light Control Settings",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Sensitivity settings exclusive to The Judgment",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "This setting can be found in the General settings tab under Beta, then The Judgment Control Settings",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Heresy is gained when hit by Divine Light or by taunting The Judgment (crouching repeatedly, gesturing or lingering in the Exit Area... just leave)",
+    "Heretics suffer from special Skill Checks while repairing Generators. Good Skill Check results cause the Generator to lose some progression",
+    "Heretics can Repent at a Shrine of Judgment to begin depleting their Heresy over time",
+    "The Judgment's Divine Light Control Settings",
+    "Sensitivity settings exclusive to The Judgment",
+    "This setting can be found in the General settings tab under Beta, then The Judgment Control Settings"
+   ]
+  },
+  {
+   "entity": "Celestial Witness",
+   "cat": "killer",
+   "section": "New Killer: The Judgment",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Every 30s, if the Obsession is at least 40m away from you, you see their Aura for 2/2.5/3s. Otherwise, the farthest Survivor becomes the Obsession",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Every 30s, if the Obsession is at least 40m away from you, you see their Aura for 2/2.5/3s. Otherwise, the farthest Survivor becomes the Obsession"
+   ]
+  },
+  {
+   "entity": "Hex: Under Your Thumb",
+   "cat": "killer",
+   "section": "New Killer: The Judgment",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The first time a Survivor gains a hook state, a Dull Totem ignites",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Whenever a running Survivor gains Haste within 32m of you, you are alerted",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Running Survivors cannot gain more than 25/20/15% Haste at a time",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The first time a Survivor gains a hook state, a Dull Totem ignites",
+    "Whenever a running Survivor gains Haste within 32m of you, you are alerted",
+    "Running Survivors cannot gain more than 25/20/15% Haste at a time"
+   ]
+  },
+  {
+   "entity": "Lay Waste",
+   "cat": "killer",
+   "section": "New Killer: The Judgment",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you damage a Generator, for each Charge it has, it regresses 2% faster. Cooldown: 55/50/45s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you damage a Generator, for each Charge it has, it regresses 2% faster. Cooldown: 55/50/45s"
+   ]
+  },
+  {
+   "entity": "Fruits of your Labor",
+   "cat": "survivor",
+   "section": "New Survivor: Aurora",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever a Generator is completed, you earn 1 Token",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Whenever you finish repairing a Generator, for each Token:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You gain 5% Haste for 2s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You gain 10/15/20% healing progress",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever a Generator is completed, you earn 1 Token",
+    "Whenever you finish repairing a Generator, for each Token:",
+    "You gain 5% Haste for 2s",
+    "You gain 10/15/20% healing progress"
+   ]
+  },
+  {
+   "entity": "Salvation's Cry",
+   "cat": "survivor",
+   "section": "New Survivor: Aurora",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever the Killer starts chasing you:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You see the Auras of other Survivors for 1/2/3s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Survivors not being chased see your Aura for 5s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Survivors not being chased see the Killer's Aura for 5s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever the Killer starts chasing you:",
+    "You see the Auras of other Survivors for 1/2/3s",
+    "Survivors not being chased see your Aura for 5s",
+    "Survivors not being chased see the Killer's Aura for 5s"
+   ]
+  },
+  {
+   "entity": "Boon: Steadfast",
+   "cat": "survivor",
+   "section": "New Survivor: Aurora",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "While next to a Totem, use \"E\" to bless it, creating a unique Boon Totem that combines all your Boons",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Generators within the Boon's range:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Regress 50% slower",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Survivors repair them 8/9/10% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Survivors within the Boon's range see the Auras of affected Generators",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "While next to a Totem, use \"E\" to bless it, creating a unique Boon Totem that combines all your Boons",
+    "Generators within the Boon's range:",
+    "Regress 50% slower",
+    "Survivors repair them 8/9/10% faster",
+    "Survivors within the Boon's range see the Auras of affected Generators"
+   ]
+  },
+  {
+   "entity": "Unhook Protections",
+   "cat": "system",
+   "section": "Base game updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Anytime a Survivor is unhooked, they gain Endurance and 10% Haste for 10 seconds",
+     "after": "10 seconds.",
+     "before": "15 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Anytime a Survivor is unhooked, they gain Endurance and 10% Haste for 10 seconds. (was 15 seconds)",
+    "Anytime a Survivor is unhooked, they gain Elusive for 10 seconds. (NEW - This does not apply once all generators are powered)"
+   ]
+  },
+  {
+   "entity": "A Nurse's Calling",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer perk updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Within 28/30/32m of Survivors who are healing or being healed, you see their Auras. (Reveals all Survivors in a healing interaction, regardless of their health state)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Within 28/30/32m of Survivors who are healing or being healed, you see their Auras. (Reveals all Survivors in a healing interaction, regardless of their health state)"
+   ],
+   "devNote": "Dev note: There has been some confusion about the expected behaviour with A Nurse's Calling, we felt it was a good opportunity to make it more consistent and clearer."
+  },
+  {
+   "entity": "Call of Brine",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer perk updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Whenever you damage a Generator, it regresses 30/40/50% faster for 90s",
+     "after": "30/40/50% / 90s",
+     "before": "70 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever you damage a Generator, it regresses 30/40/50% faster for 90s. (was 70 seconds)",
+    "For that time, whenever a Survivor hits a good basic Skill Check while repairing that Generator, you are alerted"
+   ]
+  },
+  {
+   "entity": "Coulrophobia",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer perk updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Heal 20/25/30% slower",
+     "after": "20/25/30%",
+     "before": "30/40/50%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Survivors within your Terror Radius:",
+    "Heal 20/25/30% slower. (was 30/40/50%)",
+    "While healing, basic Skill Checks spin 50% faster"
+   ],
+   "devNote": "Dev note: Because we're buffing A Nurse's Calling back to its pre-9.2.0 state while keeping the range buff, we felt it was safer to adjust Coulrophobia at the same time to decrease its synergy with certain builds."
+  },
+  {
+   "entity": "Hex: Thrill of the Hunt",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer perk updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "For each Token, Survivors bless and cleanse Totems 8/9/10% slower",
+     "after": "8/9/10% slower",
+     "before": "8/10/12%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "When the trial starts, a Dull Totem ignites",
+    "For each Dull and Hex Totem remaining, you have 1 Token",
+    "For each Token, Survivors bless and cleanse Totems 8/9/10% slower. (was 8/10/12%)"
+   ],
+   "devNote": "Dev note: Hex: Thrill of the Hunt has excelled at defending totem builds in the recent patches. We're slightly lowering its efficiency while reviewing the perk in the long term."
+  },
+  {
+   "entity": "Keep Them Waiting",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer perk updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "For each Token, your basic-attack cooldown are 5% shorter",
+     "after": "5%",
+     "before": "4%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Whenever you damage a Survivor who is not the Obsession with a basic-attack, you earn 1 Token, up to 6/7/8",
+    "For each Token, your basic-attack cooldown are 5% shorter. (was 4%)",
+    "Whenever the Obsession takes damage, lose 2 Tokens",
+    "While the Obsession is dead, you cannot earn Tokens"
+   ]
+  },
+  {
+   "entity": "Nowhere to Hide",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer perk updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Whenever you damage a Generator, for 3/4/5s, you see the Auras of Survivors within 18m of you",
+     "after": "3/4/5s / 18m",
+     "before": "24 meters",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Whenever you damage a Generator, for 3/4/5s, you see the Auras of Survivors within 18m of you. (was 24 meters)"
+   ],
+   "devNote": "Dev note: We are planning to update this perk based on the reception of the above change after it was announced. Nowhere to Hide will go back to 24 meters, but will reveal Survivors near the Generator instead of the Killer's location."
+  },
+  {
+   "entity": "Sprint Burst",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor perk updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "You gain 50% Haste for 2s",
+     "after": "50% / 2s",
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Whenever you start running:",
+    "You gain 50% Haste for 2s. (was 3 seconds)",
+    "You gain Exhausted for 60/50/40s"
+   ]
+  },
+  {
+   "entity": "Apocalyptic Ingenuity",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor perk updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "After you rummage or unlock 1 Chest, while next to a Broken Pallet, use (Input.ActivatableButton1) for 3s to create a Fragile Pallet",
+     "after": "1 / 3s",
+     "before": "2 chests, and 4 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "After you rummage or unlock 1 Chest, while next to a Broken Pallet, use (Input.ActivatableButton1) for 3s to create a Fragile Pallet. (was 2 chests, and 4 seconds)",
+    "Within 24/28/32m, you see the Auras of Broken Pallets"
+   ]
+  },
+  {
+   "entity": "Deliverance",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor perk updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Once per trial, when you safely unhook another Survivor, you can unhook yourself. When you unhook yourself this way, you gain Broken for 160/140/120s",
+     "after": "160/140/120s",
+     "before": "100/80/60 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Once per trial, when you safely unhook another Survivor, you can unhook yourself. When you unhook yourself this way, you gain Broken for 160/140/120s. (was 100/80/60 seconds)"
+   ]
+  },
+  {
+   "entity": "Vigil",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor perk updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Lose Blindness 30/35/40% faster",
+     "after": "30/35/40%",
+     "before": "44/55/66%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Lose Broken 30/35/40% faster",
+     "after": "30/35/40%",
+     "before": "44/55/66%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Lose Exhausted 30/35/40% faster",
+     "after": "30/35/40%",
+     "before": "44/55/66%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Lose Exposed 30/35/40% faster",
+     "after": "30/35/40%",
+     "before": "44/55/66%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Lose Hemorrhage 30/35/40% faster",
+     "after": "30/35/40%",
+     "before": "44/55/66%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Lose Hindered 30/35/40% faster",
+     "after": "30/35/40%",
+     "before": "44/55/66%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Lose Mangled 30/35/40% faster",
+     "after": "30/35/40%",
+     "before": "44/55/66%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Lose Oblivious 30/35/40% faster",
+     "after": "30/35/40%",
+     "before": "44/55/66%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "All Survivors within 16m of you:",
+    "Lose Blindness 30/35/40% faster. (was 44/55/66%)",
+    "Lose Broken 30/35/40% faster. (was 44/55/66%)",
+    "Lose Exhausted 30/35/40% faster. (was 44/55/66%)",
+    "Lose Exposed 30/35/40% faster. (was 44/55/66%)",
+    "Lose Hemorrhage 30/35/40% faster. (was 44/55/66%)",
+    "Lose Hindered 30/35/40% faster. (was 44/55/66%)",
+    "Lose Mangled 30/35/40% faster. (was 44/55/66%)",
+    "Lose Oblivious 30/35/40% faster. (was 44/55/66%)",
+    "After they leave your range, this ends after 15s"
+   ]
+  },
+  {
+   "entity": "Adrenaline",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor perk updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You gain 50% Haste for 4s",
+     "after": "50% / 4s",
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When all Generators are completed, if you are downed or injured, heal instantly. Then, ignoring Exhausted:",
+    "You gain 50% Haste for 4s. (was 3 seconds)",
+    "You gain Exhausted for 60/50/40s"
+   ]
+  },
+  {
+   "entity": "Clean Break",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor perk updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "After 75/60/45s, if you are not downed, you are instantly healed",
+     "after": "75/60/45s",
+     "before": "80/70/60 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Whenever you finish healing another Survivor, while being healed by another Survivor, use (Input.ActivatableButton1) to gain Broken",
+    "After 75/60/45s, if you are not downed, you are instantly healed. (was 80/70/60 seconds)"
+   ]
+  },
+  {
+   "entity": "Moment of Glory",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor perk updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "After you rummage or unlock 1 Chest, while not Broken, when you become injured, gain Broken",
+     "after": "1",
+     "before": "2 chests",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "After you rummage or unlock 1 Chest, while not Broken, when you become injured, gain Broken. (was 2 chests)",
+    "If you do not take damage, after 80/70/60s, you are instantly healed"
+   ]
+  },
+  {
+   "entity": "Repressed Alliance",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor perk updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "After repairing Generators for 55/50/45s, while repairing a Generator alone, use (Input.ActivatableButton1) to block that generator for 15s",
+     "after": "55/50/45s / 15s",
+     "before": "30 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "After repairing Generators for 55/50/45s, while repairing a Generator alone, use (Input.ActivatableButton1) to block that generator for 15s. (was 30 seconds)"
+   ]
+  },
+  {
+   "entity": "Technician",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor perk updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The range of Generator repair noises is 16m shorter",
+     "after": "16m",
+     "before": "8 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Whenever you miss a basic Skill Check, the Generator does not explode, but loses 4/3/2% more progress",
+     "after": "4/3/2%",
+     "before": "5/4/3%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "While repairing a Generator:",
+    "The range of Generator repair noises is 16m shorter. (was 8 meters)",
+    "Whenever you miss a basic Skill Check, the Generator does not explode, but loses 4/3/2% more progress. (was 5/4/3%)"
+   ]
+  },
+  {
+   "entity": "New Gameplay Showcase Section",
+   "cat": "system",
+   "section": "UX",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Can be entered through Survivors and Killers lobbies",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killer Power's icon is also a point of entry for the section",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Section includes detailed description of all Killers' Powers, separated by killer and Key Aspect",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Each Key Aspect is accompanied by an example video",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Section includes the list of Killers for players to be able to preview their power",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Only accessible outside matches",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Can be entered through Survivors and Killers lobbies",
+    "Killer Power's icon is also a point of entry for the section",
+    "Section includes detailed description of all Killers' Powers, separated by killer and Key Aspect",
+    "Each Key Aspect is accompanied by an example video",
+    "Section includes the list of Killers for players to be able to preview their power",
+    "Only accessible outside matches"
+   ]
+  },
+  {
+   "entity": "Power Tooltip updated",
+   "cat": "system",
+   "section": "UX",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Old Power Tooltip used to describe a Killer Power entirely is updated",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Content has been removed, replaced by the same Action-based description used on the F1 section of Match Details",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Old Power Tooltip used to describe a Killer Power entirely is updated",
+    "Content has been removed, replaced by the same Action-based description used on the F1 section of Match Details"
+   ]
+  },
+  {
+   "entity": "Updated Matchmaking Button",
+   "cat": "system",
+   "section": "UX",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated visuals",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Surfaces estimated waiting time and current time on queue",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bonuses and other complementary information is displayed through new tooltip",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated visuals",
+    "Surfaces estimated waiting time and current time on queue",
+    "Bonuses and other complementary information is displayed through new tooltip"
+   ]
+  },
+  {
+   "entity": "Hook Timer Division",
+   "cat": "system",
+   "section": "UX",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The hook timer has been split into two bars, to better clarify the second hook state and death triggers",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Updated for scenarios when a Survivor is on a hook, in a Cage of Corruption (Game Mode: 2V8) or Cage of Torment (The Executioner), and in Exile (The Judgment)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The hook timer has been split into two bars, to better clarify the second hook state and death triggers",
+    "Updated for scenarios when a Survivor is on a hook, in a Cage of Corruption (Game Mode: 2V8) or Cage of Torment (The Executioner), and in Exile (The Judgment)"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where music wasn't restarting properly when using the Mori Preview in Menu.",
+    "Fixed an issue where Survivor scream could be heard twice when cage by the Dark Lord during 2v8.",
+    "Fixed an issue where Survivor would respond with incorrect voice line after being healed.",
+    "Fixed an issue where the SFX of a fully infected Survivor would remain after a disconnection during a Custom Game."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where The Skull Merchant Drone placement was disabled on some elevated structures",
+    "Fixed an issue where The Ghost Face could be revealed around walls when less than 30% of his model was in sight.",
+    "Fixed an issue where The Ghost Face's \"Lean and Stalk\" was hindered by a Survivor standing behind Half Cover.",
+    "Fixed an issue where The Legion's cooldown animation would play for a brief moment when stunned while in Feral Frenzy.",
+    "Fixed an issue where Survivors were missing the ability to use Snap Out of It after canceling Snap Out of It while holding a Morsel.",
+    "Fixed an issue where Survivors had an undesired red glow VFX when affected by The Clown's Tattoo's Middle Finger Add-On.",
+    "Fixed an issue where The Skull Merchant's Drone was missing during her Mori.",
+    "Fixed an issue where the preview of the Bear Trap placement was visible during The Trapper's Mori from the Killer point of view.",
+    "Fixed an issue where The Houndmaster's Search marker and the Command prompts would linger when cancelling an interaction.",
+    "Fixed an issue where, sometimes, The Dredge would be indefinitely Undetectable from the Killer point of view after teleporting to lockers more than twice.",
+    "Fixed an issue where the generator explosion was missing when failing the Special Skill Check from The Slasher's Deputy's Badge Add-on.",
+    "Fixed an issue where, sometimes, using the Virulent Bound at the same time as a pallet was being dropped would cause the Survivor to teleport in front of the Killer.",
+    "Fixed an issue where the Survivor external icon was missing for the Add-on Acidic Blood of The Xenomorph.",
+    "Fixed an issue where The Skull Merchant's Geographical Readout External Icon was unable to be seen after deploying a Drone."
+   ]
+  },
+  {
+   "group": "Bots Improvements",
+   "items": [
+    "Fixed issues causing Survivor bots to not dodge special attacks toward the intended direction.",
+    "Survivor Bots now have a chance to misdodge Special attacks based on how fast they reacted to the attack.",
+    "Fixed issues causing Survivor bots to not heal other Survivors.",
+    "Survivor Bots are now more brave against Killers that are not moving away from a location.",
+    "Fixed an issue causing Survivor Bots to give up their goal too easily when entering the Terror Radius."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in Nostromos map where players can stand on top of assets",
+    "Fixed an issue in Nostromos map where a locker is clipping into a locker",
+    "Fixed an issue in The Shattered Square where the Houndmaster's dog cant vault over a window",
+    "Fixed an issue in Nostromos map where survivors clips through a door of a locker when entering it",
+    "Fixed an issue in Nostromos map where characters can clip through an assets",
+    "Fixed an issue in Groaning Storehouse where the coat of Dustin clips through the door of a locker",
+    "Fixed an issue in Gideon Meat Plant where the Nurse can't blink through an asset",
+    "Fixed an issue in Mother's Dwelling where the Nurse can't blink through an asset",
+    "Fixed an issue in Rancid Abattoir where projectiles are blocked by an invisible collision",
+    "Fixed an issue in Family Residence where the Nurse could blink inside the hill",
+    "Fixed an issue in Grim Pantry where players can stand on top of an invisible collision",
+    "Fixed an issue in Dead Sands where an invisible collisions is present on the shack",
+    "Fixed an issue in Father Campbell's Chapel where the Nurse can blink on top of the building",
+    "Fixed an issue in Toba Landing where killers can't grab downed survivor in a specific location around the space rover",
+    "Fixed an issue where The Skull Merchant Drone placement was disabled on some elevated structures."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where Visionary Perk doesn't show Aura when exiting a Locker, after the cooldown is completed",
+    "Fixed an issue where the Heal progress bar would remain grey while healing another Survivor with the Perk \"Do No Harm\" active.",
+    "Fixed an issue where the Perk Icon of Lucky Star would appear with the Red Cooldown Effect at the start of a Trial.",
+    "Fixed an issue where the Saboteur Perk would go on cooldown when a Survivor sabotaged a Hook with a Toolbox containing 6 charges.",
+    "Fixed an issue where the Scene Partner Perk would activate while looking away from the Killer when the cooldown finished while within two Terror Radiuses.",
+    "Fixed an issue where all Tokens would be consumed when 2 Survivors with the \"Corrective Action\" Perk equipped each had only 1 Token and a Survivor without the \"Corrective Action\" Perk failed a skill check.",
+    "Fixed an issue where the Perk A Nurse's Calling would not reveal the Aura of a Survivor that was healing."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "The Players Tab in Match Details now shows the Killer's Portrait instead of their Power Icon",
+    "It is a known issue that a handful of Legendary cosmetics to not have a Killer Portrait icon. This will be fixed in an upcoming release.",
+    "Fixed an issue where the game would freeze for a bit when hovering over the quest button."
+   ]
+  },
+  {
+   "group": "Miscellaneous",
+   "items": [
+    "Fixed an issue where changing the fullscreen mode would not update mouse capture settings immediately.",
+    "Fixed an issue where Survivors were unable to create a Beam of Light after charging the map, dropping and picking it back up."
+   ]
+  },
+  {
+   "group": "Miscellaneous - EGS",
+   "items": [
+    "Fixed an issue where XESS Mode was unable to be applied with TAA enabled."
+   ]
+  }
+ ]
+}

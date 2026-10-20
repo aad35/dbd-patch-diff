@@ -1,0 +1,101 @@
+{
+ "id": "6.4.2",
+ "version": "6.4.2",
+ "kind": "release",
+ "title": "6.4.2 | Bugfix Patch",
+ "date": "2022-12-06",
+ "url": "https://store.steampowered.com/news/app/381210/view/3627116704241734147?l=english",
+ "changes": [
+  {
+   "entity": "BONE CHILL",
+   "cat": "system",
+   "section": "BONE CHILL",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Bone Chill Event returns on December 8th, bringing holiday atmosphere, dark and fantastical Cosmetics, a few familiar visitors, and much more",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Bone Chill Event returns on December 8th, bringing holiday atmosphere, dark and fantastical Cosmetics, a few familiar visitors, and much more"
+   ]
+  },
+  {
+   "entity": "BUFF",
+   "cat": "system",
+   "section": "THE KNIGHT",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When Guards damage Generators, they now apply the Killer’s default 2.5% regression loss. This regression is not affected by Perks",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When Guards damage Generators, they now apply the Killer’s default 2.5% regression loss. This regression is not affected by Perks"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "PLAYSTATION",
+   "items": [
+    "Players will no longer be stuck with an analog cursor in-game."
+   ]
+  },
+  {
+   "group": "THE KNIGHT",
+   "items": [
+    "The Knight’s Enchanted Plates Outfit now plays the correct sound in the menu.",
+    "The Knight no longer crosses small obstacles after using Guardia Compagnia.",
+    "Fixed an animation issue when The Knight’s guards hit a Survivor during a locker search.",
+    "The Knight’s Guards no longer get stuck when creating a Patrol Path in select corners.",
+    "Fixed an issue where The Knight could not order Guards to destroy select Breakable Walls.",
+    "The Knight’s Patrol Path Orb no longer triggers Make Your Choice or Hex: Devour Hope."
+   ]
+  },
+  {
+   "group": "THE ONI",
+   "items": [
+    "The Oni’s weapon no longer disappears during the Match Results screen."
+   ]
+  },
+  {
+   "group": "SURVIVOR PERKS",
+   "items": [
+    "The Knight’s Guardia Compagnia no longer makes the Terror Radius indicator disappear from the Spine Chill icon.",
+    "Spine Chill no longer grants a repair bonus when a Survivor is in the line of sight of The Knight’s Path Drawing Orb."
+   ]
+  },
+  {
+   "group": "MAPS",
+   "items": [
+    "Beef Tallow Mixture (Map Offering for The Decimated Borgo Realm) has been re-enabled.",
+    "A hook-free dead zone in one corner of the Temple of Purgation Map has been fixed.",
+    "A Totem no longer accidentally spawns inside a Locker in The Game Map.",
+    "Removed impassable spaces on the Ironworks of Misery.",
+    "An invisible collision spot in the Autohaven Wrecker's Realm has been fixed.",
+    "Fixed an irregular Pallet spawn issue in the Autohaven Wrecker's Realm.",
+    "Removed spaces where Killers could not pass between objects (trees, rocks) on the Crotus Prenn Asylum Map.",
+    "A maze tile on the Garden of Joy Map no longer accidentally spawns without windows.",
+    "Reduced the number of Pallets in The Shattered Square Map.",
+    "Fixed an issue where two Pallets spawned at the same time in The Shattered Square Map.",
+    "Edge objects now spawn as intended in The Shattered Square Map."
+   ]
+  },
+  {
+   "group": "MISC",
+   "items": [
+    "Survivors no longer suffer from distorted lips during select actions.",
+    "The Killer’s loadout no longer displays while spectating a Survivor during a custom game."
+   ]
+  }
+ ]
+}

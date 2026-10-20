@@ -1,0 +1,2570 @@
+{
+ "id": "ptb-9.5.0",
+ "version": "9.5.0",
+ "kind": "ptb",
+ "title": "9.5.0 | PTB Patch Notes",
+ "date": "2026-02-24",
+ "url": "https://store.steampowered.com/news/app/381210/view/505102352007563353?l=english",
+ "changes": [
+  {
+   "entity": "NEW MAP: Trickster's Delusion",
+   "cat": "system",
+   "section": "NEW MAP: Trickster's Delusion",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The Sleepless District will be the new Realm",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The Sleepless District will be the new Realm"
+   ]
+  },
+  {
+   "entity": "Flow State",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR: KWON TAE-YOUNG",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever a generator is completed, earn 1 token, up to 5",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "For each token:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You bless and cleanse Totems 8/9/10% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You heal 8/9/10% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You unhook Survivors 8/9/10% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever a generator is completed, earn 1 token, up to 5",
+    "For each token:",
+    "You bless and cleanse Totems 8/9/10% faster",
+    "You heal 8/9/10% faster",
+    "You unhook Survivors 8/9/10% faster"
+   ]
+  },
+  {
+   "entity": "A Place For Us",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR: KWON TAE-YOUNG",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "While healing another Survivor, you both gain Elusive",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Whenever you finish healing The Obsession, they gain Elusive for 20/25/30s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When the trial starts, you are less likely to be the Obsession",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "While healing another Survivor, you both gain Elusive",
+    "Whenever you finish healing The Obsession, they gain Elusive for 20/25/30s",
+    "When the trial starts, you are less likely to be the Obsession"
+   ]
+  },
+  {
+   "entity": "Five Moves Ahead",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR: KWON TAE-YOUNG",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "While you are in the Killer's Terror radius or chased by the Killer:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You see the Auras of the 5 closest Pallets and Windows",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You drop Pallets 50% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Whenever you drop a Pallet, cooldown: 30/25/20s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "While you are in the Killer's Terror radius or chased by the Killer:",
+    "You see the Auras of the 5 closest Pallets and Windows",
+    "You drop Pallets 50% faster",
+    "Whenever you drop a Pallet, cooldown: 30/25/20s"
+   ]
+  },
+  {
+   "entity": "Summary",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Trickster now gains Style Points by throwing Blades, injuring Survivors and performing distinct gameplay actions back-to-back",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Trickster goes up in Style Ranks by earning Style Points",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Each Style Rank improves The Trickster's Blade throw and Locker Restocking speed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Main Event can now only be activated once reaching the highest Style Rank",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Style Points and Style Ranks are tracked via a new user interface element custom-made for The Trickster",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Trickster now gains Style Points by throwing Blades, injuring Survivors and performing distinct gameplay actions back-to-back",
+    "The Trickster goes up in Style Ranks by earning Style Points",
+    "Each Style Rank improves The Trickster's Blade throw and Locker Restocking speed",
+    "Main Event can now only be activated once reaching the highest Style Rank",
+    "Style Points and Style Ranks are tracked via a new user interface element custom-made for The Trickster"
+   ]
+  },
+  {
+   "entity": "Basekit",
+   "cat": "system",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Trickster's movement speed decreased to 4.4m/s",
+     "after": "4.4m/s",
+     "before": "4.6 m/s",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Blade count decreased to 36",
+     "after": "36",
+     "before": "44",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased Terror Radius to 24m",
+     "after": "24m",
+     "before": "32m",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased time to enter Throw State to 0.3s",
+     "after": "0.3s",
+     "before": "0.35s",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased time to exit Throw State to 1.15s",
+     "after": "1.15s",
+     "before": "1.25s",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased time between Blade throws to 0.33s",
+     "after": "0.33s",
+     "before": "0.3s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased base Throw State movement speed to 3.68m/s",
+     "after": "3.68m/s",
+     "before": "3.86m/s",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "The Trickster's movement speed decreased to 4.4m/s (was 4.6 m/s)",
+    "Blade count decreased to 36 (was 44)",
+    "Decreased Terror Radius to 24m (was 32m)",
+    "Decreased time to enter Throw State to 0.3s (was 0.35s)",
+    "Decreased time to exit Throw State to 1.15s (was 1.25s)",
+    "Increased time between Blade throws to 0.33s (was 0.3s)",
+    "Decreased base Throw State movement speed to 3.68m/s (was 3.86m/s)",
+    "After 8 consecutive Blade throws, Throw State movement speed is decreased to 3.53 m/s",
+    "After 16 consecutive Blade throws, Throw State movement speed is decreased to 3.16 m/s",
+    "Increase Blade throw rate per Blade thrown:",
+    "After 8 consecutive Blade throws, the throw rate increased by 50%",
+    "After 16 consecutive Blade throws, the throw rate is increased by 100%"
+   ]
+  },
+  {
+   "entity": "Laceration",
+   "cat": "system",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Laceration now only counted using whole numbers",
+     "after": null,
+     "before": "decayed into decimals",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Laceration Meter decreased to 6",
+     "after": "6",
+     "before": "8",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Laceration Meter decay delay decreased to 12s",
+     "after": "12s",
+     "before": "15s",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increase Laceration stack decay time to 3s",
+     "after": "3s",
+     "before": "2s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Laceration now only counted using whole numbers (previously decayed into decimals)",
+    "Laceration Meter decreased to 6 (was 8)",
+    "Laceration Meter decay delay decreased to 12s (was 15s)",
+    "Increase Laceration stack decay time to 3s (was 2s)",
+    "Laceration visual feedback updated",
+    "Now displayed on the Survivor directly, for both Survivors and Killer",
+    "Laceration cuts removed from Survivors' user interface"
+   ]
+  },
+  {
+   "entity": "Style Points",
+   "cat": "system",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Trickster performing combo actions generates Style Points",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "A combo action is triggered when two back-to-back gameplay actions are distinct",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The following actions generate 1 Style Point:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hitting a Survivor with a Blade (first-hit only)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Injuring a Survivor (from Laceration or basic-attack)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hooking a Survivor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Basic-breaking a Downed Pallet",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Basic-breaking a Breakable Wall",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Damaging a Generator",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Snuffing a Boon Totem",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The following actions generate 2 Style Points:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hitting a Survivor with 4 Blades from at least 4m (without missing or exiting the Throw State)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hitting a Survivor with a Blade from more than 16m away",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Interrupting a Survivor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The following actions generate 3 Style Points:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hitting a Survivor with a Blade through small gaps",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Trickster performing combo actions generates Style Points",
+    "A combo action is triggered when two back-to-back gameplay actions are distinct",
+    "The following actions generate 1 Style Point:",
+    "Hitting a Survivor with a Blade (first-hit only)",
+    "Injuring a Survivor (from Laceration or basic-attack)",
+    "Hooking a Survivor",
+    "Basic-breaking a Downed Pallet",
+    "Basic-breaking a Breakable Wall",
+    "Damaging a Generator",
+    "Snuffing a Boon Totem",
+    "The following actions generate 2 Style Points:",
+    "Hitting a Survivor with 4 Blades from at least 4m (without missing or exiting the Throw State)",
+    "Hitting a Survivor with a Blade from more than 16m away",
+    "Interrupting a Survivor",
+    "The following actions generate 3 Style Points:",
+    "Hitting a Survivor with a Blade through small gaps"
+   ]
+  },
+  {
+   "entity": "Style Ranks",
+   "cat": "system",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "There are 6 Style Ranks: E, D, C, B, A and S-Rank",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Style Ranks each have their respective bonus maximum throw rate and Locker restocking speed modifiers",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Higher bonuses at higher ranks",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Higher Style Ranks require more Style Points to reach",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Higher Style Ranks feature progressively shorter combo timers",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Ranks regress to previous in order if combo timer ever lapses",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Earning Style Points refreshes the current Style Rank's combo timer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Style Rank combo timers are paused while The Trickster is performing interactions with Survivors or interactable objects",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "There are 6 Style Ranks: E, D, C, B, A and S-Rank",
+    "Style Ranks each have their respective bonus maximum throw rate and Locker restocking speed modifiers",
+    "Higher bonuses at higher ranks",
+    "Higher Style Ranks require more Style Points to reach",
+    "Higher Style Ranks feature progressively shorter combo timers",
+    "Ranks regress to previous in order if combo timer ever lapses",
+    "Earning Style Points refreshes the current Style Rank's combo timer",
+    "Style Rank combo timers are paused while The Trickster is performing interactions with Survivors or interactable objects"
+   ]
+  },
+  {
+   "entity": "S-Rank",
+   "cat": "system",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When reaching of S-Rank",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors within 44m of The Trickster are revealed via Killer Instinct for 4.4s",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "All Survivors are notified across the Trial",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "While in S-Rank:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Trickster gains a 44m Terror radius",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Lullaby is disabled",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Laceration Meters decay 50% slower",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Blade throw and Locker restock speeds increased to maximum",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Main Event can be activated",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "S-Rank has a 66s combo timer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "S-Rank cannot be paused or refreshed (unlike lower Style Ranks)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "S-Rank always reverts to E-Rank (via timer, or once Main Event ends)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When reaching of S-Rank",
+    "Survivors within 44m of The Trickster are revealed via Killer Instinct for 4.4s",
+    "All Survivors are notified across the Trial",
+    "While in S-Rank:",
+    "The Trickster gains a 44m Terror radius",
+    "Lullaby is disabled",
+    "Laceration Meters decay 50% slower",
+    "Blade throw and Locker restock speeds increased to maximum",
+    "Main Event can be activated",
+    "S-Rank has a 66s combo timer",
+    "S-Rank cannot be paused or refreshed (unlike lower Style Ranks)",
+    "S-Rank always reverts to E-Rank (via timer, or once Main Event ends)"
+   ]
+  },
+  {
+   "entity": "Main Event",
+   "cat": "system",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Main Event lasts 8s",
+     "after": "8s",
+     "before": "6s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Press the Secondary Ability button to activate Main Event",
+    "Main Event lasts 8s (was 6s)",
+    "The Trickster throws Blades at at 1.67x the default Blade throw speed",
+    "Survivors near The Trickster are notified",
+    "While performing Main Event:",
+    "S-Rank timer is paused",
+    "Each Blade hitting Survivors awards bonus Style Points",
+    "The Trickster can cancel Main Even via the Secondary Ability button",
+    "When Main Event ends:",
+    "The Trickster's Power goes on cooldown for 4s",
+    "S-Rank resets to E-Rank",
+    "The Trickster goes up in Style Ranks over time, based on bonus Style Points earned during Main Event"
+   ],
+   "devNote": "Note: not affected by Consecutive Blade Throw and Style Rank Blade Throw modifiers."
+  },
+  {
+   "entity": "The Trickster's Add-Ons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Memento Blades (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Displays a reticle while aiming with Blades",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Trick Pouch",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases maximum carried Blades by 4",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Start the Trial with 4 extra Blades",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killing Part Chords (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases time before Style Ranks from D to A decay by 20%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Inferno Wires (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Decreases Showstopper's cooldown after Main Event by 10%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Ji-Woon's Autograph (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases the duration of Main Event by 33%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Lucky Blade (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "On every eighth Blade Hit, an additional bonus is assigned at random:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases Laceration by 100%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Gain 3% Haste for 3 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Gain an additional Style Point",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Caged Heart Shoes (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases movement speed while in the Throw State by 1%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Tequila Moonrock (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases Throw Speed by 10% for 8 seconds after gaining a Style Rank",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bloody Boa (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Decreases the speed at which Laceration decays by 10%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "On Target Single (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases time before Laceration starts decaying by 15%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fizz-Spin Soda (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases the number of Blade Throws required to slow movement speed while throwing by 2",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Waiting for You Watch (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors whose Laceration Meter fully decays are revealed for 4 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Ripper Brace (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "For each Style Rank, you basic-vault Windows, basic-break Pallets or Breakable Walls, and damage Generators 3% faster",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Melodious Murder",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases Blade reload speed at lockers by 25%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Diamond Cufflinks",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reveals Survivors' auras for 6 seconds when their Laceration reaches one Blade hit from maximum",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Edge of Revival Album (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Blade Hits from more than 32 meters away deal 100% more Laceration",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Cut Thru U Single (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When reaching a new Style Rank, adds a stackable 1% Haste bonus. All stacks last until Style Rank decreases by any means",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Death Throes Compilation (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Refills Blades by 50% of the maximum when Main Event ends",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Iridescent Photocard (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases the duration of Main Event by 100%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When Main Event is activated, reveals your aura to all Survivors and blocks all generators for 6 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "** Please note the Trick Blades add-on has been disabled",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Memento Blades (Rework)",
+    "Displays a reticle while aiming with Blades",
+    "Trick Pouch",
+    "Increases maximum carried Blades by 4",
+    "Start the Trial with 4 extra Blades",
+    "Killing Part Chords (Rework)",
+    "Increases time before Style Ranks from D to A decay by 20%",
+    "Inferno Wires (Rework)",
+    "Decreases Showstopper's cooldown after Main Event by 10%",
+    "Ji-Woon's Autograph (Rework)",
+    "Increases the duration of Main Event by 33%",
+    "Lucky Blade (Rework)",
+    "On every eighth Blade Hit, an additional bonus is assigned at random:",
+    "Increases Laceration by 100%",
+    "Gain 3% Haste for 3 seconds",
+    "Gain an additional Style Point",
+    "Caged Heart Shoes (Rework)",
+    "Increases movement speed while in the Throw State by 1%",
+    "Tequila Moonrock (Rework)",
+    "Increases Throw Speed by 10% for 8 seconds after gaining a Style Rank",
+    "Bloody Boa (Rework)",
+    "Decreases the speed at which Laceration decays by 10%",
+    "On Target Single (Rework)",
+    "Increases time before Laceration starts decaying by 15%",
+    "Fizz-Spin Soda (Rework)",
+    "Increases the number of Blade Throws required to slow movement speed while throwing by 2",
+    "Waiting for You Watch (Rework)",
+    "Survivors whose Laceration Meter fully decays are revealed for 4 seconds",
+    "Ripper Brace (Rework)",
+    "For each Style Rank, you basic-vault Windows, basic-break Pallets or Breakable Walls, and damage Generators 3% faster",
+    "Melodious Murder",
+    "Increases Blade reload speed at lockers by 25%",
+    "Diamond Cufflinks",
+    "Reveals Survivors' auras for 6 seconds when their Laceration reaches one Blade hit from maximum",
+    "Edge of Revival Album (Rework)",
+    "Blade Hits from more than 32 meters away deal 100% more Laceration",
+    "Cut Thru U Single (Rework)",
+    "When reaching a new Style Rank, adds a stackable 1% Haste bonus. All stacks last until Style Rank decreases by any means",
+    "Death Throes Compilation (Rework)",
+    "Refills Blades by 50% of the maximum when Main Event ends",
+    "Iridescent Photocard (Rework)",
+    "Increases the duration of Main Event by 100%",
+    "When Main Event is activated, reveals your aura to all Survivors and blocks all generators for 6 seconds",
+    "** Please note the Trick Blades add-on has been disabled"
+   ],
+   "character": "The Trickster"
+  },
+  {
+   "entity": "The First",
+   "cat": "system",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased 2nd phase of the Wordbreaker Timer from 60 seconds to 50 seconds",
+     "after": "50 seconds",
+     "before": "60 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Killer Base Attack lunge speed adjusted from 6.6m/s to 6.9m/s to be on par with all Killers",
+     "after": "6.9m/s",
+     "before": "6.6m/s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased 2nd phase of the Wordbreaker Timer from 60 seconds to 50 seconds",
+    "Charge Vine Attack Ready sounds plays slightly in advance for Survivors. (Charge 0.33 sec; sound activate at 0.18 sec)",
+    "Killer Base Attack lunge speed adjusted from 6.6m/s to 6.9m/s to be on par with all Killers"
+   ]
+  },
+  {
+   "entity": "The First's Add-Ons",
+   "cat": "system",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Bead Maze: Now increases Worldbreaker Timer for 2.5 seconds for each living Survivor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Shattered Wrist Rocket: Changed Common Rarity to Uncommon Rarity",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bloody Roller Skate: Now Killer gains the Haste Effect for 1.5 seconds upon exiting Undergate Attack",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Mid-Century Radio: Changed Uncommon Rarity to Common Rarity",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Forged Death Certificate: Reworked for Each successful Worldbreaker Token placed on a Survivor via Vine Attack Undetectable Status Effect until the next Worldbreaker Mode activation",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Rabbit Remains: Changed Rare Rarity to Very Rare. Now give Exhausted status effect for 10 seconds, and increase the Upside Down Ability cooldown by 5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Broken Skateboard: Reworked for When Worldbreaker Mode starts, you basic-vault windows 30% faster and auras of Pallets and Windows are revealed to you within 32 meters for the next 65 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Pizza Goggles: Changed Very Rare Rarity to Rare Rarity. Reworked for The Undergate Attack's area of effect range is reduced by 90%, and its cooldown time is shortened by 25 seconds. Your exit cooldown time after executing the Undergate Attack is reduced by 80%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Chess Piece: Removed the negative aspect of increasing the Upside Down Ability cooldown and the two charges attack radius are now diminished by 40%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Bead Maze: Now increases Worldbreaker Timer for 2.5 seconds for each living Survivor",
+    "Shattered Wrist Rocket: Changed Common Rarity to Uncommon Rarity",
+    "Bloody Roller Skate: Now Killer gains the Haste Effect for 1.5 seconds upon exiting Undergate Attack",
+    "Mid-Century Radio: Changed Uncommon Rarity to Common Rarity",
+    "Forged Death Certificate: Reworked for Each successful Worldbreaker Token placed on a Survivor via Vine Attack Undetectable Status Effect until the next Worldbreaker Mode activation",
+    "Rabbit Remains: Changed Rare Rarity to Very Rare. Now give Exhausted status effect for 10 seconds, and increase the Upside Down Ability cooldown by 5 seconds",
+    "Broken Skateboard: Reworked for When Worldbreaker Mode starts, you basic-vault windows 30% faster and auras of Pallets and Windows are revealed to you within 32 meters for the next 65 seconds",
+    "Pizza Goggles: Changed Very Rare Rarity to Rare Rarity. Reworked for The Undergate Attack's area of effect range is reduced by 90%, and its cooldown time is shortened by 25 seconds. Your exit cooldown time after executing the Undergate Attack is reduced by 80%",
+    "Chess Piece: Removed the negative aspect of increasing the Upside Down Ability cooldown and the two charges attack radius are now diminished by 40%"
+   ]
+  },
+  {
+   "entity": "The Ghoul",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Adjusted Reticule stickiness on Survivor from 0.18 to 0.05 seconds when attempting a Kagune grabs",
+     "after": "0.05 seconds",
+     "before": "0.18",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Adjusted Reticule stickiness on Survivor from 0.18 to 0.05 seconds when attempting a Kagune grabs",
+    "Updated the automatic hit detection that occurs at the end of a Kagune Leap vault when a Survivor attempts to vault back toward the Killer to ensure greater consistency"
+   ],
+   "character": "The Ghoul"
+  },
+  {
+   "entity": "Killer Actions Update",
+   "cat": "system",
+   "section": "Killer Actions Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Accompanying the new language found in the Perks Description Update (see UX section below), we have expanded our distinction between basic and special actions performed by Killers",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Starting in update 9.5.0, the following terms will now appear in Power, Add-on and Perk descriptions:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Accompanying the new language found in the Perks Description Update (see UX section below), we have expanded our distinction between basic and special actions performed by Killers",
+    "Starting in update 9.5.0, the following terms will now appear in Power, Add-on and Perk descriptions:"
+   ]
+  },
+  {
+   "entity": "Basic-break",
+   "cat": "system",
+   "section": "Killer Actions Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Pallet or Breakable Wall is broken by the default ability of any Killer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Pallet or Breakable Wall is broken by the default ability of any Killer"
+   ]
+  },
+  {
+   "entity": "Special-break",
+   "cat": "system",
+   "section": "Killer Actions Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Downed Pallet or Breakable Wall is broken due to an ability granted by a Killer's Power",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Downed Pallet or Breakable Wall is broken due to an ability granted by a Killer's Power"
+   ]
+  },
+  {
+   "entity": "Basic-vault",
+   "cat": "system",
+   "section": "Killer Actions Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Window is vaulted by the default ability of any Killer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Window is vaulted by the default ability of any Killer"
+   ]
+  },
+  {
+   "entity": "Special-vault",
+   "cat": "system",
+   "section": "Killer Actions Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Window or Downed Pallet is vaulted due to an ability granted by a Killer's Power",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Window or Downed Pallet is vaulted due to an ability granted by a Killer's Power"
+   ]
+  },
+  {
+   "entity": "Damaging Generators",
+   "cat": "system",
+   "section": "Killer Actions Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Generator is damaged and loses progress due to the default ability of any Killer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Generator is damaged and loses progress due to the default ability of any Killer"
+   ]
+  },
+  {
+   "entity": "Generator Explosions",
+   "cat": "system",
+   "section": "Killer Actions Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Generator loses progress due to an ability granted by a Killer's Power or Perk",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "With these new terms, we intend to express with increased accuracy when specific gameplay interactions are intended to work alongside one another",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Notably Killer Powers and Killer Perks",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Multiple gameplay descriptions. been updated to surface these new interactions",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The following Killers' Power descriptions have been updated:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Generator loses progress due to an ability granted by a Killer's Power or Perk",
+    "With these new terms, we intend to express with increased accuracy when specific gameplay interactions are intended to work alongside one another",
+    "Notably Killer Powers and Killer Perks",
+    "Multiple gameplay descriptions. been updated to surface these new interactions",
+    "The following Killers' Power descriptions have been updated:"
+   ]
+  },
+  {
+   "entity": "Basic-break",
+   "cat": "system",
+   "section": "Killer Actions Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Singularity",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Singularity"
+   ]
+  },
+  {
+   "entity": "Special-break",
+   "cat": "system",
+   "section": "Killer Actions Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Shape",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Hillbilly",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Cannibal",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Demogorgon",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Oni",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Blight",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Nemesis",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Knight",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Dark Lord",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Shape",
+    "The Hillbilly",
+    "The Cannibal",
+    "The Demogorgon",
+    "The Oni",
+    "The Blight",
+    "The Nemesis",
+    "The Knight",
+    "The Dark Lord"
+   ]
+  },
+  {
+   "entity": "Special-vault",
+   "cat": "system",
+   "section": "Killer Actions Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Legion",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Mastermind",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Good Guy",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Ghoul",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Krasue",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The following Killer Add-on descriptions have been updated:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Wraith - \"The Serpent\" - Soot",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Wraith - \"Shadow Dance\" - White",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Wraith - \"Shadow Dance\" - Blood",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Hillbilly - Lo Pro Chains",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Spirit - Kintsugi Teacup",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Legion - Iridescent Button",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Ghost Face - Olsen's Wallet",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Demogorgon - Barb's Glasses",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Executioner - Obsidian Goblet",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Mastermind - Lab Photo",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Knight - Pillaged Mead",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Skull Merchant - Geographical Readout",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Xenomorph - Self-Destruct Bolt",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Good Guy - Hard Hat",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Lich - Ring of Telekinesis",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Lich - Vorpal Sword",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Dark Lord - Pocket Watch",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Dark Lord - Sylph Feather",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Houndmaster - Gunpowder Tin",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Ghoul - CCG ID Card",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Ghoul - Red-headed Centipede",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Ghoul - Iridescent Eye Patch",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Animatronic - Endo CPU",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Krasue - Rotten Swine",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Krasue - Mysterious Elixir",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The First - Shattered Wrist Rocket",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The First - Stained Glass Mural",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The First - Broken Skateboard",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The First - Electroshock Collar",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The following Killer Perk descriptions have been updated:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Brutal Strength",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Overcharge",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fire-Up",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bamboozle",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Pop Goes The Weasel",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Spirit Fury (now \"destroys\" pallets)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Surge",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Trail of Torment",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Dragon's Grip",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Oppression",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Eruption",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Scourge Hook: Pain Resonance",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Call of Brine",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Dissolution (now \"destroys\" pallets)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Superior Anatomy",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Nowhere to Hide",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Game Afoot",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "THWACK!",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Machine Learning",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Unbound",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Unforeseen",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Undone",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Dark Arrogance",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Help Wanted",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Turn Back The Clock",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hex: Hive Mind",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The following Survivor Perk descriptions have been updated:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Alert",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Blast Mine",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Wiretap",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Chemical Trap",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bada Bada Boom",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Legion",
+    "The Mastermind",
+    "The Good Guy",
+    "The Ghoul",
+    "The Krasue",
+    "The following Killer Add-on descriptions have been updated:",
+    "The Wraith - \"The Serpent\" - Soot",
+    "The Wraith - \"Shadow Dance\" - White",
+    "The Wraith - \"Shadow Dance\" - Blood",
+    "The Hillbilly - Lo Pro Chains",
+    "The Spirit - Kintsugi Teacup",
+    "The Legion - Iridescent Button",
+    "The Ghost Face - Olsen's Wallet",
+    "The Demogorgon - Barb's Glasses",
+    "The Executioner - Obsidian Goblet",
+    "The Mastermind - Lab Photo",
+    "The Knight - Pillaged Mead",
+    "The Skull Merchant - Geographical Readout",
+    "The Xenomorph - Self-Destruct Bolt",
+    "The Good Guy - Hard Hat",
+    "The Lich - Ring of Telekinesis",
+    "The Lich - Vorpal Sword",
+    "The Dark Lord - Pocket Watch",
+    "The Dark Lord - Sylph Feather",
+    "The Houndmaster - Gunpowder Tin",
+    "The Ghoul - CCG ID Card",
+    "The Ghoul - Red-headed Centipede",
+    "The Ghoul - Iridescent Eye Patch",
+    "The Animatronic - Endo CPU",
+    "The Krasue - Rotten Swine",
+    "The Krasue - Mysterious Elixir",
+    "The First - Shattered Wrist Rocket",
+    "The First - Stained Glass Mural",
+    "The First - Broken Skateboard",
+    "The First - Electroshock Collar",
+    "The following Killer Perk descriptions have been updated:",
+    "Brutal Strength",
+    "Overcharge",
+    "Fire-Up",
+    "Bamboozle",
+    "Pop Goes The Weasel",
+    "Spirit Fury (now \"destroys\" pallets)",
+    "Surge",
+    "Trail of Torment",
+    "Dragon's Grip",
+    "Oppression",
+    "Eruption",
+    "Scourge Hook: Pain Resonance",
+    "Call of Brine",
+    "Dissolution (now \"destroys\" pallets)",
+    "Superior Anatomy",
+    "Nowhere to Hide",
+    "Game Afoot",
+    "THWACK!",
+    "Machine Learning",
+    "Unbound",
+    "Unforeseen",
+    "Undone",
+    "Dark Arrogance",
+    "Help Wanted",
+    "Turn Back The Clock",
+    "Hex: Hive Mind",
+    "The following Survivor Perk descriptions have been updated:",
+    "Alert",
+    "Blast Mine",
+    "Wiretap",
+    "Chemical Trap",
+    "Bada Bada Boom"
+   ]
+  },
+  {
+   "entity": "Fog Vial",
+   "cat": "system",
+   "section": "Survivor Item Update",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the number of charges to 4",
+     "after": null,
+     "before": "2",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Reworked the Fog Cloud visual effect and rendering method",
+    "Opacity inside and outside its bounds is now consistent across all Realms",
+    "Always fully opaque when seen from the outside",
+    "Adapts to each Realm's unique lighting and color",
+    "The following essential Auras are now always displayed through the Fog Cloud:",
+    "When a Survivor is downed",
+    "When a Survivor is hooked",
+    "Increased the number of charges to 4 (was 2) for the following items:",
+    "Apprentice's Fog Vial",
+    "Artisan's Fog Vial",
+    "Vigo's Fog Vial"
+   ]
+  },
+  {
+   "entity": "Fog Vial Add-ons",
+   "cat": "system",
+   "section": "Survivor Item Update",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Fog Cloud increased opacity bonus to 100%",
+     "after": null,
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Potent Extract (Visceral):",
+    "Increased Fog Cloud increased opacity bonus to 100% (was 5%)"
+   ],
+   "devNote": "Note: the increased bonus opacity is relative to the new Fog Cloud visual effect."
+  },
+  {
+   "entity": "Better Together",
+   "cat": "perk",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Plot Twist can no longer force this Perk's effect to activate out of the Survivor's control",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fast Track (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Whenever another Survivor is hooked, you earn 1/2/3 Token(s), up to 9",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "While repairing, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains 2 permanent Charges",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Self-Preservation (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When another Survivor is hooked, you gain Elusive for 20/25/30s",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The icon has been updated to reflect this change",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Plot Twist can no longer force this Perk's effect to activate out of the Survivor's control",
+    "Fast Track (Rework)",
+    "Whenever another Survivor is hooked, you earn 1/2/3 Token(s), up to 9",
+    "While repairing, whenever you hit a great basic Skill Check, spend all Tokens. For each Token spent, the Generator gains 2 permanent Charges",
+    "Self-Preservation (Rework)",
+    "When another Survivor is hooked, you gain Elusive for 20/25/30s",
+    "The icon has been updated to reflect this change"
+   ],
+   "role": "survivor"
+  },
+  {
+   "entity": "Unbreakable",
+   "cat": "system",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Once per trial, while downed by the Killer, you can fully recover",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "While downed, you recover 25/30/35% faster",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Once per trial, while downed by the Killer, you can fully recover",
+    "While downed, you recover 25/30/35% faster"
+   ],
+   "devNote": "Note: now only grants the Survivor the ability to recover when the Killer was specifically responsible for them entering the downed state."
+  },
+  {
+   "entity": "Forced Hesitation",
+   "cat": "system",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Plot Twist can no longer force this Perk's effect to activate out of the Killer's control",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Plot Twist can no longer force this Perk's effect to activate out of the Killer's control"
+   ]
+  },
+  {
+   "entity": "Genetic Limits",
+   "cat": "perk",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated to apply the Exhausted status effect simultaneously when the health state loss is recognized on Survivors, not afterwards",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hex: Crowd Control (Rework)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The first time a Survivor medium or fast-vaults a Window, a Dull Totem ignites",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The last 4/5/6 Windows Survivors medium or fast-vault are blocked",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "You basic-vault blocked Windows 15% faster",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "You see the Auras of blocked Windows within 24m",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated to apply the Exhausted status effect simultaneously when the health state loss is recognized on Survivors, not afterwards",
+    "Hex: Crowd Control (Rework)",
+    "The first time a Survivor medium or fast-vaults a Window, a Dull Totem ignites",
+    "The last 4/5/6 Windows Survivors medium or fast-vault are blocked",
+    "You basic-vault blocked Windows 15% faster",
+    "You see the Auras of blocked Windows within 24m"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Pop Goes The Weasel",
+   "cat": "system",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Whenever you hook a Survivor, for the next 35/40/45s, when you damage a Generator, it explodes and loses 15% more progress",
+     "after": "35/40/45s / 15%",
+     "before": "20% current progress, now total progress-only",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Whenever you hook a Survivor, for the next 35/40/45s, when you damage a Generator, it explodes and loses 15% more progress (was 20% current progress, now total progress-only)"
+   ]
+  },
+  {
+   "entity": "Terminus",
+   "cat": "system",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated to trigger earlier when Generators are completed to block healing abilities of Survivors occurring simultaneously",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated to trigger earlier when Generators are completed to block healing abilities of Survivors occurring simultaneously"
+   ]
+  },
+  {
+   "entity": "Perks Description Update",
+   "cat": "system",
+   "section": "Perks Description Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "All Survivor and Killer Perk descriptions in the game have been updated and revised with simplified and consistent language",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Aside from Perk updates above, Perk gameplay has not changed across the board. Our goals were the following:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Shorten text and character usage",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Ease Player understanding",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reset Perk language for easier future maintenance",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "To help achieve this, we have added Expanding Tooltips in the user interface:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Status Effects can now be expanded separately to display reminders",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Status Effects each feature unique colour labels, flagging them as positive or negative",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Keybindings associated with a Perk's activated effect are now displayed in within Perk's text description",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Examples: Dead Hard, Come And Get Me!, Dramaturgy, etc",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "All Survivor and Killer Perk descriptions in the game have been updated and revised with simplified and consistent language",
+    "Aside from Perk updates above, Perk gameplay has not changed across the board. Our goals were the following:",
+    "Shorten text and character usage",
+    "Ease Player understanding",
+    "Reset Perk language for easier future maintenance",
+    "To help achieve this, we have added Expanding Tooltips in the user interface:",
+    "Status Effects can now be expanded separately to display reminders",
+    "Status Effects each feature unique colour labels, flagging them as positive or negative",
+    "Keybindings associated with a Perk's activated effect are now displayed in within Perk's text description",
+    "Examples: Dead Hard, Come And Get Me!, Dramaturgy, etc"
+   ]
+  },
+  {
+   "entity": "Auras Customization",
+   "cat": "system",
+   "section": "Auras Customization",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Auras colors have been updated",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Players can customize some auras' colors on Beta tab",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killers",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hooked/dying survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Normal Hooks",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Generators",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Pallets",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Windows",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Store: Players can use a \"Clear all\" button to remove active notifications",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Auras colors have been updated",
+    "Players can customize some auras' colors on Beta tab",
+    "Survivors",
+    "Killers",
+    "Hooked/dying survivors",
+    "Normal Hooks",
+    "Generators",
+    "Pallets",
+    "Windows",
+    "Store: Players can use a \"Clear all\" button to remove active notifications"
+   ]
+  },
+  {
+   "entity": "New Prestige Menu & Rewards System",
+   "cat": "system",
+   "section": "New Prestige Menu & Rewards System",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added a new way to track and view your rewards when Prestiging your character",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Simply clicking on your characters' Prestige level will let you access and track your progress",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "New rewards given at Prestige 25, 50, 75 & 100 per character",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Player Card Badge Menu now includes the option to select between variations on a single Badge (currently used for Prestige Badge Rewards)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added a new way to track and view your rewards when Prestiging your character",
+    "Simply clicking on your characters' Prestige level will let you access and track your progress",
+    "New rewards given at Prestige 25, 50, 75 & 100 per character",
+    "The Player Card Badge Menu now includes the option to select between variations on a single Badge (currently used for Prestige Badge Rewards)"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where Haddie's 'Silent Breach' outfit does not have its Lobby theme playing when equipped.",
+    "Fixed an issue where outfits in the 'Moonrise' collection are missing their Lobby Themes when equipped.",
+    "Fixed an issue where Junji-Ito' Lobby theme is missing when using the 'Soichi's Party Clothes' outfit for the Trickster in Lobby.",
+    "Fixed an issue where The generator repair dialog between the Walking Dead characters no longer trigger.",
+    "Fixed an issue where Reward Gauge Fill SFX is out of sync in Prestige Reward Menu.",
+    "Fixed an issue where SFX from the Furin add-on plays from Killer POV when phasing with the Spirit.",
+    "Fixed an issue where Cage of atonement music is not working properly."
+   ]
+  },
+  {
+   "group": "Bot Improvements",
+   "items": [
+    "Fixed issues causing Survivor Bots to not dodge the intended direction.",
+    "Improved Survivor Bots' dodging against The Trickster.",
+    "Survivor Bots now have as much control as players when speared by The Deathslinger.",
+    "Tentative fix for Survivor Bots sometimes automatically revealing Ghostface from anywhere.",
+    "Survivor Bots are now smarter with what they interact with when playing against The Plague.",
+    "Survivor Bots now no longer use Plot Twist when infected by The Plague or The Krasue.",
+    "Survivor Bots will now avoid taunting and blocking the path of other Survivors during chases.",
+    "Fixed multiple navigation issues in Ormond Lake Mine."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where The Animatronic no longer holds the side of the screen when performing Lobby animation.",
+    "Fixed an issue where The Animatronic's animation could break when pallet stunned while using Axe Grab on a Survivor.",
+    "Fixed an issue where Remove Axe could allow Survivors to walk through The Animatronic in some instances.",
+    "Fixed an issue where The Nemesis could hit Survivors with Tentacle Strike after they exited the trial.",
+    "Fixed an issue where The Trapper could bypass trap placement areas by flicking.",
+    "Fixed an issue where The Trapper's Bear Trap had inconsistent hitbox detection.",
+    "Fixed an issue where The Trapper could place traps in inaccessible locations by FPS glitching.",
+    "Fixed an issue where The Cannibal's power could break during state changes.",
+    "Fixed an issue where The Shape was unable to Tombstone Mori a Survivor while Bardic Inspiration was being performed.",
+    "Fixed an issue where The Shape could kill a Survivor during the self-unhook animation while Evil Incarnate was active.",
+    "Fixed an issue where The Demogorgon would stutter when spamming M2.",
+    "Fixed an issue where the Dire Crow could be missing from the Survivor POV during The Artist's mori.",
+    "Fixed an issue where The Artist's Dire Crow's flight path did not behave consistently around small assets.",
+    "Fixed an issue where the external icon was missing when the add-on \"Geographical Readout\" was active for The Skull Merchant.",
+    "Fixed an issue where the Survivor Reveal distance was inconsistent between 15 and 32 meters against The Ghost Face.",
+    "Fixed an issue where The Legion's power could break when blinded while vaulting.",
+    "Fixed an issue where The First's Vine attack animation would frequently remain in the charged state after spamming Release Vine Attack.",
+    "Fixed an issue where The First's Mind Break animation was missing when two or more Survivors were hit at the same time while the Mini-Mori requirements were met.",
+    "Fixed an issue where the mend action could not be executed when two or more Survivors were hit at the same time while the Mini-Mori requirements were met for The First.",
+    "Fixed an issue where The Houndmaster would rubberband when walking after successfully grabbing a Survivor with the Chase ability.",
+    "Fixed an issue where the application could crash for Survivors and the Killer after The Houndmaster hooked a Survivor.",
+    "Fixed an issue where the camera could get stuck in Charlotte's or Victor's head, making it difficult to control The Twins.",
+    "Fixed an issue where The Lich could rarely keep the movement speed of \"Fly\" when stunned at the same time as casting the spell.",
+    "Fixed an issue where the flashlight beam would reappear after The Dark Lord changed to Bat From after being previously blinded by the flashlight and the Survivor crafted a Flash Bang."
+   ]
+  },
+  {
+   "group": "Characters - The Mastermind",
+   "items": [
+    "Refactor done in the Virulent Bound power. This specifically tackles the desync issues found while using the power. Will also improve responsiveness for most of his power usage. As well changed how we detect a collision with other characters (Survivors, Killers, Zombies) while grabbing a Survivor. It will now properly detect the size of the character collision size.",
+    "Fixed an issue where The Mastermind’s Virulent Bound could glide off a hill’s ledge when falling",
+    "Fixed an issue where The Mastermind’s Virulent Bound Speed effect was displayed after vaulting and falling a ledge.",
+    "Fixed an issue where Survivors were able to use their flashlight while being thrown with Virulent Bound by The Mastermind.",
+    "Fixed an issue where The Mastermind could initiate a partial vault on a pallet near a hole while falling.",
+    "Fixed an issue where The Mastermind could grab Survivors through vault locations when using Virulent Bound at a certain angle.",
+    "Fixed an issue where The Mastermind would briefly float in the air when vaulting from a higher vantage point while using Virulent Bound.",
+    "Fixed an issue where The Mastermind's supply crate could be climbed on when forcing collision with other players.",
+    "Fixed an issue where the chase music would end after successfully hitting a healthy Survivor with the Virulent Bound as The Mastermind.",
+    "Fixed an issue where Survivors could be stuck in rocks after being charged by The Mastermind on Thompson House.",
+    "Fixed an issue where a Survivor could lose control of their character if The Mastermind used Virulent Bound as they entered a locker.",
+    "Fixed an issue where players could escape a trial when grabbed by The Mastermind under high latency conditions.",
+    "Fixed an issue where the collision box was too large when using Charge Bound on a Survivor towards another Survivor as The Mastermind."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in the Disturbed Wall where there`s not enough space to interact in front of a hook.",
+    "Fixed an issue in the Treatment Theater where the Plague's Vile Purge was blocked by an invisible collision.",
+    "Fixed an issue where The Mastermind could bound off a balcony on The Sanctum of Wrath",
+    "Fixed an issue where The Nurse could blink into the caged bathroom stalls in Midwich Elementary."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where the Phantom Fear perk could trigger during the mori animation for The Shape with the Tombstone add-on.",
+    "Fixed an issue where Survivors held item's rarity would increase when using Blast Mine and the Exultation perk on a cloaked The Wraith.",
+    "Fixed an issue where Face The Darkness did not activate with Claw Traps and For The People.",
+    "Fixed an issue where the Recover bar could appear reduced after interacting with a generator while Invocation: Weaving Spiders was active.",
+    "Fixed an issue where the wolf form pounce special attack did not remove Play With Your Food tokens for The Dark Lord.",
+    "Fixed an issue where Turn Back The Clock's ability button was briefly visible when several Killers used their power.",
+    "Fixed an issue where Low Profile could activate more than once per match.",
+    "Fixed an issue where Off The Record failed to activate when unhooked by Shoulder The Burden.",
+    "Fixed an issue where Thrilling Tremors would trigger Secret Project's Undetectable effect after all generators were completed."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Bottom Navigation menu buttons now display their input prompts for Controllers.",
+    "Fixed an issue where the Survivor HUD would update whenever a Survivor used a locker against The Lich."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an error preventing Tutorial Bot matches from starting.",
+    "Fixed an issue where Survivor could unhook themselves in the Tutorial, softlocking them.",
+    "Fixed an issue where Survivors were unable to use Fog Vials near ledges.",
+    "Fixed an issue where the Potent Extract Fog Vial add-on had no effect on the duration."
+   ]
+  }
+ ]
+}

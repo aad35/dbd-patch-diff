@@ -1,0 +1,37 @@
+{
+ "id": "6.7.2",
+ "version": "6.7.2",
+ "kind": "release",
+ "title": "6.7.2 | Bugfix Patch",
+ "date": "2023-05-18",
+ "url": "https://store.steampowered.com/news/app/381210/view/3703692662174103358?l=english",
+ "changes": [
+  {
+   "entity": "Content",
+   "cat": "system",
+   "section": "Content",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added two outfits for in-game store",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added some of the Charms for the Anniversary and Pride Celebrations",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added two outfits for in-game store",
+    "Added some of the Charms for the Anniversary and Pride Celebrations"
+   ]
+  }
+ ],
+ "fixes": []
+}

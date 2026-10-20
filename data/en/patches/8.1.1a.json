@@ -1,0 +1,17 @@
+{
+ "id": "8.1.1a",
+ "version": "8.1.1a",
+ "kind": "release",
+ "title": "8.1.1a | Hotfix",
+ "date": "2024-07-31",
+ "url": "https://store.steampowered.com/news/app/381210/view/4327480529710258030?l=english",
+ "changes": [],
+ "fixes": [
+  {
+   "group": "Bug Fixes",
+   "items": [
+    "Fixed an issue which caused a desync between the map tiles generated on the server and what players see"
+   ]
+  }
+ ]
+}

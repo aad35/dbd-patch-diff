@@ -1,0 +1,824 @@
+{
+ "id": "8.1.0",
+ "version": "8.1.0",
+ "kind": "release",
+ "title": "8.1.0 | Tomb Raider",
+ "date": "2024-07-16",
+ "url": "https://store.steampowered.com/news/app/381210/view/6486955549515881480?l=english",
+ "changes": [
+  {
+   "entity": "New perk: Finesse",
+   "cat": "survivor",
+   "section": "New Survivor: Lara Croft",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "This perk activates while you are healthy. Your fast vaults are 20% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "This perk goes on cool-down for 40/35/30 seconds after performing a fast vault",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "This perk activates while you are healthy. Your fast vaults are 20% faster",
+    "This perk goes on cool-down for 40/35/30 seconds after performing a fast vault"
+   ]
+  },
+  {
+   "entity": "New Perk: Hardened",
+   "cat": "survivor",
+   "section": "New Survivor: Lara Croft",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "This perk activates after you complete all of the following: unlock a chest; cleanse or bless a totem",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "For the rest of the trial, anytime you would scream, reveal the Killer's aura for 3/4/5 seconds instead",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "This perk activates after you complete all of the following: unlock a chest; cleanse or bless a totem",
+    "For the rest of the trial, anytime you would scream, reveal the Killer's aura for 3/4/5 seconds instead"
+   ]
+  },
+  {
+   "entity": "New Perk: Specialist",
+   "cat": "survivor",
+   "section": "New Survivor: Lara Croft",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Each time you open or rummage through a chest, gain 1 token, up to 6/6/6. When you hit a great skill check on a generator, consume all tokens. Then for each token consumed, reduce the maximum required generator progress by 2/3/4",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Each time you open or rummage through a chest, gain 1 token, up to 6/6/6. When you hit a great skill check on a generator, consume all tokens. Then for each token consumed, reduce the maximum required generator progress by 2/3/4"
+   ]
+  },
+  {
+   "entity": "Killer Perk Updates",
+   "cat": "system",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the duration of the aura reveal to 6/7/8 seconds",
+     "after": null,
+     "before": "3/4/5 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the cooldown to 60/45/30 seconds",
+     "after": null,
+     "before": "60/50/40 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the cooldown to 60/45/30 seconds",
+     "after": null,
+     "before": "80/70/60 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the cooldown to 60/50/40 seconds",
+     "after": null,
+     "before": "120/100/80 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the cooldown to 60/50/40 seconds",
+     "after": null,
+     "before": "120/100/80 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the Undetectable and Haste duration to 40/50/60 seconds",
+     "after": null,
+     "before": "20/25/30 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Darkness Revealed:",
+    "Increased the duration of the aura reveal to 6/7/8 seconds. (was 3/4/5 seconds)",
+    "I'm All Ears:",
+    "Decreased the cooldown to 60/45/30 seconds. (was 60/50/40 seconds)",
+    "Trail of Torment:",
+    "Decreased the cooldown to 60/45/30 seconds. (was 80/70/60 seconds)",
+    "Oppression:",
+    "Decreased the cooldown to 60/50/40 seconds. (was 120/100/80 seconds)",
+    "Dragon's Grip:",
+    "Decreased the cooldown to 60/50/40 seconds. (was 120/100/80 seconds)",
+    "Machine Learning:",
+    "Increased the Undetectable and Haste duration to 40/50/60 seconds. (was 20/25/30 seconds)"
+   ]
+  },
+  {
+   "entity": "Survivor Perk Updates",
+   "cat": "system",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased the initial progress penalty to 15%",
+     "after": null,
+     "before": "25%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the speed at which you heal others to 30% faster",
+     "after": null,
+     "before": "10%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the grunts of pain reduction to 80/90/100%",
+     "after": null,
+     "before": "25/50/75%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the healing progress gained to 50/60/70%",
+     "after": null,
+     "before": "40/45/50%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the heal conversion rate to 50/60/70%",
+     "after": null,
+     "before": "40/45/50%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the Haste bonus to 10%",
+     "after": null,
+     "before": "7%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the duration to 20/25/30 seconds",
+     "after": null,
+     "before": "4/6/8 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Autodidact:",
+    "Decreased the initial progress penalty to 15%. (was 25%)",
+    "Empathic Connection:",
+    "Increased the speed at which you heal others to 30% faster. (was 10%)",
+    "Iron Will:",
+    "Increased the grunts of pain reduction to 80/90/100%. (was 25/50/75%)",
+    "Resurgence:",
+    "Increased the healing progress gained to 50/60/70%. (was 40/45/50%)",
+    "Solidarity:",
+    "Increased the heal conversion rate to 50/60/70%. (was 40/45/50%)",
+    "Babysitter:",
+    "Increased the Haste bonus to 10%. (was 7%)",
+    "Increased the duration to 20/25/30 seconds. (was 4/6/8 seconds)"
+   ]
+  },
+  {
+   "entity": "The Knight - Basekit",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decrease the camera push distance when entering path creation mode to 80 cm",
+     "after": null,
+     "before": "160 cm",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased The Carnifex's hunt duration to 12 seconds",
+     "after": null,
+     "before": "24 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased The Jailer's hunt duration to 24 seconds",
+     "after": null,
+     "before": "12 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the time it takes for each Guard to perform the Order action: Carnifex: 1.8 seconds",
+     "after": null,
+     "before": "2 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Assassin: 5 seconds",
+     "after": null,
+     "before": "6 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Jailer: 5 seconds",
+     "after": null,
+     "before": "6 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased each Guard's detection range: Carnifex: 10 meters",
+     "after": null,
+     "before": "8 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Assassin: 10 meters",
+     "after": null,
+     "before": "8 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Jailer: 16 meters",
+     "after": null,
+     "before": "14 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases the Guard's detection range by 2 meters",
+     "after": null,
+     "before": "4 meters",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreases the Break or Damage action of Guards by 10%",
+     "after": null,
+     "before": "15%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Sharpened Mount",
+     "after": null,
+     "before": "Chain Mail Fragment",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When a Guard detects a Survivor during a Patrol, the Survivor suffers from the Blindness Status Effect for the next 75 seconds",
+     "after": null,
+     "before": "60 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Guards inflict the Haemorrhage and Mangled Status Effects when damaging a Survivor",
+     "after": null,
+     "before": "only Mangled",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "If a Guard fails to damage a Survivor during a Hunt, the Survivor suffers from the Oblivious Status Effect for 60 seconds",
+     "after": null,
+     "before": "20 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "After summoning The Carnifex, the auras of all Survivors within 24 meters of any unbroken dropped Pallets are revealed for 8 seconds",
+     "after": null,
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Jailer's Chimes",
+     "after": null,
+     "before": "Lightweight Greaves",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Drawing a Patrol Path through Windows blocks them for all Survivors for 25 seconds after summoning a Guard",
+     "after": null,
+     "before": "15 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Added the ability to cycle between guards using the Secondary Ability button",
+    "Decrease the camera push distance when entering path creation mode to 80 cm. (was 160 cm)",
+    "The Knight must create a patrol path of at least 10 meters before being able to spawn a Guard. It's possible to cancel early by using the Secondary Ability button",
+    "Adjusted the Guards' detection to reduce the likelihood of being detected through walls",
+    "While The Knight is within 8 meters of a Guard that is actively hunting, the hunt timer will deplete at 3x the normal speed",
+    "While drawing a patrol path, its length applies a modifier on the base total hunt time: 1-15 meters: 1x 16-25 meters: 1.25x 26+ meters: 1.5x",
+    "While drawing a patrol path, its length applies a modifier on the base banner spawn time: 1-15 meters: 1x 16-25 meters: 1.5x 26+ meters: 2x",
+    "Decreased The Carnifex's hunt duration to 12 seconds. (was 24 seconds)",
+    "Increased The Jailer's hunt duration to 24 seconds. (was 12 seconds)",
+    "Decreased the time it takes for each Guard to perform the Order action: Carnifex: 1.8 seconds (was 2 seconds) Assassin: 5 seconds (was 6 seconds) Jailer: 5 seconds (was 6 seconds)",
+    "Increased each Guard's detection range: Carnifex: 10 meters (was 8 meters) Assassin: 10 meters (was 8 meters) Jailer: 16 meters (was 14 meters)",
+    "The Knight - Addons Map of the Realm:",
+    "Increases the Guard's detection range by 2 meters. (was 4 meters)",
+    "Pillaged Mead:",
+    "Decreases the Break or Damage action of Guards by 10%. (was 15%)",
+    "Battleaxe Head:",
+    "Decreases the cooldown after calling upon The Carnifex by 20%. (Rework)",
+    "Treated Blade:",
+    "Decreases the cooldown after calling upon The Assassin by 20%. (Rework)",
+    "Cold Steel Manacles:",
+    "Decreases the cooldown after calling upon The Jailer by 20%. (Rework)",
+    "Sharpened Mount (was Chain Mail Fragment):",
+    "Increases the time it takes for the Standard to spawn by 15%. (Rework)",
+    "Grim Iron Mask:",
+    "When a Guard detects a Survivor during a Patrol, the Survivor suffers from the Blindness Status Effect for the next 75 seconds. (was 60 seconds)",
+    "Broken Hilt:",
+    "Guards inflict the Haemorrhage and Mangled Status Effects when damaging a Survivor. (was only Mangled)",
+    "Ironworker's Tongs:",
+    "If a Guard fails to damage a Survivor during a Hunt, the Survivor suffers from the Oblivious Status Effect for 60 seconds. (was 20 seconds)",
+    "Town Watch's Torch:",
+    "While a Guard is actively Hunting a Survivor, gain the Undetectable Status Effect. (Rework)",
+    "Blacksmith's Hammer:",
+    "Guards inflict the Broken Status Effect for 60 seconds when damaging a Survivor. (Rework)",
+    "Flint and Steel:",
+    "After summoning The Carnifex, the auras of all Survivors within 24 meters of any unbroken dropped Pallets are revealed for 8 seconds. (was 5 seconds)",
+    "Healing Poultice:",
+    "After summoning The Assassin, all Survivors within 8 meters of The Assassin's spawn location have their auras revealed for 8 seconds. (Rework)",
+    "Jailer's Chimes (was Lightweight Greaves):",
+    "After summoning The Jailer, Survivors that cross The Jailer's Patrol Path have their auras revealed for 8 seconds. (Rework)",
+    "Knight's Contract:",
+    "After giving an Order, the Guard will remain for an extra 8 seconds, triggering a Hunt should they detect a Survivor. (Rework)",
+    "Iridescent Company Banner:",
+    "Drawing a Patrol Path through Windows blocks them for all Survivors for 25 seconds after summoning a Guard. (was 15 seconds)",
+    "The Exit Gates are blocked by the Entity Spikes for the Hunted Survivor",
+    "All Windows vaulted by the Hunted Survivor are blocked for all Survivors for the remained of the Hunt"
+   ],
+   "character": "The Knight"
+  },
+  {
+   "entity": "The Singularity",
+   "cat": "killer",
+   "section": "The Singularity",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When tagging a Survivor from a Pod (and Slipstream is not completed), the Tagging progress goes down gradually over 0.5 sec",
+     "after": null,
+     "before": "instant",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Tag depletion starts after 0.25 seconds after Slipstream has been accumulated (but not completed)",
+     "after": null,
+     "before": "0.3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "When destroying a pod while controlling it, hold down M1-Attack Button for 1.25 sec to destroy it",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Tagging cooldown for Pods after Slipstreaming a Survivor to 3.0 sec",
+     "after": null,
+     "before": "3.5 - allows less downtime after shooting a Survivor",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased distance that Survivor can see Supply Crate aura when not Slipstreamed to 28M",
+     "after": null,
+     "before": "32",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Killer Wake Up time after controlling a Pod decreased to 0.5 seconds",
+     "after": null,
+     "before": "1.0",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Killer Wake Up time near a Hooked survivor decreased to 1.5 seconds",
+     "after": null,
+     "before": "5",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Overclock Duration no longer scales based on the number of Slipstreamed Survivors. Base value has been increased to 5.7 seconds",
+     "after": null,
+     "before": "4.7",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "After exiting a Pod, the aura of the last used Pod is displayed in yellow for 10.0 seconds",
+     "after": null,
+     "before": "5",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Made valid location target placement easier (increased placement timing from 0.1 seconds to 0.2 seconds)",
+     "after": "0.2 seconds",
+     "before": "0.1 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "After using an EMP, Survivors are invincible to Slipstream for 1.0 second",
+     "after": null,
+     "before": "2.0",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "EMP Range effect has been increased from 8M to 10M",
+     "after": "10M",
+     "before": "8M",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When tagging a Survivor from a Pod (and Slipstream is not completed), the Tagging progress goes down gradually over 0.5 sec (was instant)",
+    "Tag depletion starts after 0.25 seconds after Slipstream has been accumulated (but not completed) (was 0.3 seconds)",
+    "When destroying a pod while controlling it, hold down M1-Attack Button for 1.25 sec to destroy it (new)",
+    "New Killer Instinct Effect for 3.0 sec. on Survivors receiving Slipstream from another Slipstreamed Survivor or from a Bio-Pod",
+    "Added Aim Assist effect when aiming at a Slipstreamed Survivor",
+    "Decreased Tagging cooldown for Pods after Slipstreaming a Survivor to 3.0 sec (was 3.5 - allows less downtime after shooting a Survivor)",
+    "Decreased distance that Survivor can see Supply Crate aura when not Slipstreamed to 28M (was 32)",
+    "Added Hindered Icon to show the slow down when Survivors charge the EMP tool",
+    "Killer Wake Up time after controlling a Pod decreased to 0.5 seconds (was 1.0)",
+    "Killer Wake Up time near a Hooked survivor decreased to 1.5 seconds (was 5) to account for the anti-camp feature",
+    "Decreased World Detection of the aiming radius to reduce collisions and interference for shots",
+    "Overclock Duration no longer scales based on the number of Slipstreamed Survivors. Base value has been increased to 5.7 seconds (was 4.7)",
+    "Increased readability of the Survivor-in-range indicator - Highlight is On = can be tagged / Highlight is Off = cannot be tagged",
+    "After exiting a Pod, the aura of the last used Pod is displayed in yellow for 10.0 seconds (was 5)",
+    "Soma Family Photo Addon +3% Haste effect for the duration of the Overclock is now base kit",
+    "UltraSonic Sensor Addon sound effect is now base kit. Killer can hear sounds through a controlled Biopod after 0.20 seconds by default",
+    "Made valid location target placement easier (increased placement timing from 0.1 seconds to 0.2 seconds)",
+    "After using an EMP, Survivors are invincible to Slipstream for 1.0 second (was 2.0)",
+    "EMP Range effect has been increased from 8M to 10M",
+    "EMPs stop printing when reaching 97%. Survivors now need to complete the last 3% manually. Supply Crate auras are shown in yellow when maximum progress has been reached",
+    "No longer forced to pick up EMPs after opening Supply Cases",
+    "Perks: Blast Mine and Head-on now both apply the Overheat effect when affected by a stun during Overclock"
+   ],
+   "character": "The Singularity"
+  },
+  {
+   "entity": "The Good Guy",
+   "cat": "killer",
+   "section": "The Good Guy",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Hidey-Ho Mode cooldown reduced to 10 seconds",
+     "after": null,
+     "before": "12 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Hidey-Ho Mode cooldown now starts at the end of a Slice & Dice",
+    "Hidey-Ho Mode cooldown reduced to 10 seconds (was 12 seconds)"
+   ],
+   "character": "The Good Guy"
+  },
+  {
+   "entity": "Map Updates",
+   "cat": "system",
+   "section": "Map Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added 2 new Map variations to the Mount Ormond Resort",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added 1 new Map variation to the Family Residence from the Yamaoka's Estate Realm",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added 1 new Map variation to the Sanctum of Wrath from the Yamaoka's Estate Realm",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Gameplay pass on the Forgotten Ruins map to add pallets on at the ground level",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added variations to the maze tiles in the pool of tiles for the Coldwind Farm Realm",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added lockers in the existing maze tiles in the Coldwind Farm Realm",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Updated the placement of the Exit Gates",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Updated new maze tile safety from the feedback collected during the PTB",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added 2 new Map variations to the Mount Ormond Resort",
+    "Added 1 new Map variation to the Family Residence from the Yamaoka's Estate Realm",
+    "Added 1 new Map variation to the Sanctum of Wrath from the Yamaoka's Estate Realm",
+    "Gameplay pass on the Forgotten Ruins map to add pallets on at the ground level",
+    "Added variations to the maze tiles in the pool of tiles for the Coldwind Farm Realm",
+    "Added lockers in the existing maze tiles in the Coldwind Farm Realm",
+    "Updated the placement of the Exit Gates",
+    "Updated new maze tile safety from the feedback collected during the PTB"
+   ]
+  },
+  {
+   "entity": "Events & Archives",
+   "cat": "system",
+   "section": "Events & Archives",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Tome 20 - Mystic level 1 opens July 16 at 11:00:00 Eastern",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Tome 20 - Mystic level 1 opens July 16 at 11:00:00 Eastern"
+   ]
+  },
+  {
+   "entity": "Hook Respawn",
+   "cat": "system",
+   "section": "Hook Respawn",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Hooks broken by a Sacrifice will now respawn after 60 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Hooks broken by a Sacrifice will now respawn after 60 seconds"
+   ]
+  },
+  {
+   "entity": "UX - Knight Guard's Chase",
+   "cat": "system",
+   "section": "UX - Knight Guard's Chase",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added a visual feedback when you have successfully distracted a guard by passing near a Window or downed Pallet",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added a visual feedback when you have successfully distracted a guard by passing near a Window or downed Pallet"
+   ]
+  },
+  {
+   "entity": "UX - Lobby Update",
+   "cat": "system",
+   "section": "UX - Lobby Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Cosmetics and Character selection are merged into a single section. As in the store, players can use subtabs to navigate between options, including Characters' bio pages",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Perks widget is added to the Lobby, available when looking at the Characters Menu, allowing players to view Perks and Powers while selecting Characters",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Filter option allows for players to show locked cosmetics if they want to do so",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "As long as players are not waiting for a match to start, they can unlock Characters and Cosmetics directly on the Lobby",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Now Moris can be previewed in the Lobby",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Merged certain functionalities of the Killer and Survivor lobbies to make it easier to maintain in the future",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Following PTB feedback, we've adjusted the Cosmetics and Character selection back to 4 columns for a smoother browsing & selection (note that these changes will not be present on Switch but will be coming in a Hotfix)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Cosmetics and Character selection are merged into a single section. As in the store, players can use subtabs to navigate between options, including Characters' bio pages",
+    "Perks widget is added to the Lobby, available when looking at the Characters Menu, allowing players to view Perks and Powers while selecting Characters",
+    "Filter option allows for players to show locked cosmetics if they want to do so",
+    "As long as players are not waiting for a match to start, they can unlock Characters and Cosmetics directly on the Lobby",
+    "Now Moris can be previewed in the Lobby",
+    "Merged certain functionalities of the Killer and Survivor lobbies to make it easier to maintain in the future",
+    "Following PTB feedback, we've adjusted the Cosmetics and Character selection back to 4 columns for a smoother browsing & selection (note that these changes will not be present on Switch but will be coming in a Hotfix)"
+   ]
+  },
+  {
+   "entity": "UX - Singularity's Podding and Controlling",
+   "cat": "system",
+   "section": "UX - Singularity's Podding and Controlling",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Biopod & Killer reticule was updated to better communicate states: Green state: Idle, Firing Biopod, Slipstreaming Survivor Purple state: Teleport to Survivor Grey state: On cooldown Red state: Destroying Biopod, Disabled Biopod",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Biopods will now indicate to Survivors when they are about to be reactivated",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Biopod & Killer reticule was updated to better communicate states: Green state: Idle, Firing Biopod, Slipstreaming Survivor Purple state: Teleport to Survivor Grey state: On cooldown Red state: Destroying Biopod, Disabled Biopod",
+    "Biopods will now indicate to Survivors when they are about to be reactivated"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "The Voice-Over of the Lich is now correctly playing in the Mori Preview.",
+    "Fixed an issue that caused The Knight's guards audio to remain audible after being despawned during a Hunt.",
+    "The Knight's Hunt audio cue is now triggered correctly when using the addon \"Knight's Contract\"",
+    "The Legion's (Susie) \"Backstabber\" outfit now match the correct voice."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "The Trapper Bot in the Survive with Friends Tutorial now correctly looks at the target it is chasing.",
+    "The Trapper Bot in the Survive with Friends Tutorial should be better at not stepping into his own traps.",
+    "Prevented multiple Bots in the same Trial to accidentally spawn with the same digits at the end of the name.",
+    "Disconnect Bots correctly interact with the Anonymous Mode setting."
+   ]
+  },
+  {
+   "group": "The Knight",
+   "items": [
+    "Fixed an issue that allowed The Knight to spawn a Guard while another was already spawned.",
+    "Fixed an issue that caused survivors to not play their downed animation while using Bardic Inspiration.",
+    "Fixed an issue that causes the camera to see into The Knight's leg when vaulting with the 'Menacing Knight' outfit.\"",
+    "Fixed an issue that causes The Huntress's 'Were-Elk' outfit arms to bend weirdly when throwing an axe while looking down.\""
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue Mother's Dwelling where players would get stuck in the ground",
+    "Fixed an issue in Greenville Square where the singularity could place pogs on part of the stairs of the Theater",
+    "Fixed an issue where a survivor spawner was misplaced",
+    "Fixed an issue with Projectiles going through metal sheets of the Shack in Autohaven Wreckers",
+    "Fixed an issue in the map Torment Creek where the killer could not navigate and be blocked in a chase",
+    "Fixed an issue in Midwich Elementary School where the traps would get hidden under rubbles",
+    "Fixed an issue in stairs of Midwich Elementary School where players would get stuck",
+    "Fixed an issue of floating pallets in the corn fields",
+    "Fixed an issue with stair in Midwich Elementary School where the players could not navigate smoothly near the Exit Door",
+    "Fixed an issue in Rotten Fields causing unnecessary network corrections"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "The Illusion created using the Mirrored Illusion perk now despawns when the killer walks through it.",
+    "The Decisive Strike stun now always has the correct duration."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where some perks' descriptions have an improper number format",
+    "Fixed an issue where the account name is displayed in the main menu when turning on or off the \"Hide your name\" setting",
+    "Fixed an issue where the Auric cell packs purchase screen can be accessible when starting the final countdown."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue that could soft-lock loading into a Trial due to a player's loadout bringing an invalid Item.",
+    "Fixed issues arising from leaving another player's Custom Game lobby.",
+    "Fixed several server-side crashes.",
+    "Survivor animations are now correctly playing when performing various interactions.",
+    "The anti-camp system now correctly fills up when the Killer is standing on top of the Basement."
+   ]
+  }
+ ]
+}

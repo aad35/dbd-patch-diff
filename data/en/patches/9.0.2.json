@@ -1,0 +1,160 @@
+{
+ "id": "9.0.2",
+ "version": "9.0.2",
+ "kind": "release",
+ "title": "9.0.2 | Bugfix Patch",
+ "date": "2025-07-02",
+ "url": "https://store.steampowered.com/news/app/381210/view/538857783458530576?l=english",
+ "changes": [
+  {
+   "entity": "The Animatronic Add-Ons",
+   "cat": "killer",
+   "section": "The Animatronic Add-Ons",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "• Security Guard’s Badge Decreased effect to 25%",
+     "after": "Security Guard’s Badge",
+     "before": "50%",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "• Streamers Decreased effect to 15%",
+     "after": "Streamers",
+     "before": "20%",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "• Party Hat Increased duration to -20%",
+     "after": "Party Hat",
+     "before": "-50%",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "• Bonnie’s Guitar Strings Decreased undetectable duration to -100%",
+     "after": "Bonnie’s Guitar Strings",
+     "before": "-50%",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "• Foxy’s Hook Increased duration to 6 seconds",
+     "after": "Foxy’s Hook",
+     "before": "3s",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "• Endo CPU Increased break speeds to 40%",
+     "after": "Endo CPU",
+     "before": "25%",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "• Security Guard’s Badge Decreased effect to 25% (was 50%)",
+    "• Streamers Decreased effect to 15% (was 20%)",
+    "• Party Hat Increased duration to -20% (was -50%)",
+    "• Bonnie’s Guitar Strings Decreased undetectable duration to -100% (was -50%)",
+    "• Foxy’s Hook Increased duration to 6 seconds (was 3s)",
+    "• Endo CPU Increased break speeds to 40% (was 25%)"
+   ],
+   "character": "The Animatronic"
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Anniversary Event",
+   "items": [
+    "The Dark Lord can no longer see Invitation Orbs of Survivors while in Bat form.",
+    "The VFX of the ''Endure any Stun'' Ability no longer triggers when the Killer is stunned by Decisive Strike.",
+    "Fixed an issue that caused the remote hook SFX to remains active when the killer holds the ability then looks away from a hook."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue that caused The Ghoul to be missing its grunts at the start of the Trial when using the Legendary Outfit Rize Kamishiro.",
+    "Fixed an issue where the male and female breathing SFX played simultaneously when switching from The Legion's Subliminal Menace (Frank) customization to any female Legion customization."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Fixed an issue that caused Survivor Bots to be unable to rotate their camera vertically.",
+    "Fixed an issue that caused Survivor Bots to stay stuck trying to reveal the Animatronic when below or over the Security Door."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused the Survivor's left arm pointing emote to not animate properly.",
+    "The Nightmare's Dream Pallets now consistently play the rupturing animation in the POV of Survivors.",
+    "The Artist's Dire crow acceleration speed is now consistent when fired at different angles.",
+    "The Artist's Dire crow projectiles no longer miss moving survivors.",
+    "The Artist's Dire crows now correctly reduce a health state on a survivor with a swarm, instead of triggering killer instinct.",
+    "The Artist no longer jitters when pressing the Power Button twice in quick succession.",
+    "Pressing M2 multiple times as The Artist no longer causes stuttering for the killer's power.",
+    "The Ghoul can no longer use another \"Kagune Leap\" after being pallet stunned while performing a \"grab-attack\".",
+    "Survivors are no longer temporarily stuck in an animation while dropping a pallet during The Ghoul's grab-attack.",
+    "Fixed an issue where The Ghoul's Enraged Mode bonus cooldown was not applied to any actions.",
+    "Fixed an issue where occasionally The Ghoul's camera POV moved rapidly and aggressively when grabbing Survivors with the power.",
+    "The Nurse no longer stutters when blinks are cancelled by the Server.",
+    "Fixed an issue where The Legion did not lose equipped add-ons after a match.",
+    "Fixed an issue where The Xenomorph was invisible during the idle animation with the Deep Sea outfit equipped on low graphic settings."
+   ]
+  },
+  {
+   "group": "The Animatronic",
+   "items": [
+    "Security Door enter animation/audio now plays for the Killer when a Survivor enters a security door, regardless of Killer's facing direction.",
+    "The Animatronic's Oblivious and Broken Icons now appear when spectating a Survivor affected by the \"Office Phone\" add-on.",
+    "The Animatronic's Axe Grab power icon no longer stays dim and transparent while in range as the Spectator.",
+    "The Killer can now perform the \"Grab Axe\" animation when affected Survivors drop their equipped item",
+    "The Animatronic's \"Camera disabled\" text no longer stays after Security Camera is enabled."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue to prevent Survivors being able to stand on the bench and chandelier in the Father Campbell's Chapel map",
+    "Fixed an issue in The Macmillan Estate Realm where an invisible collision around the shack prevented players navigation",
+    "Fixed an issue in The Suffocation Pit map where The Knight's guard would have issue navigating a ramp",
+    "Fixed an issue in Treatment Theatre where the Knight's guard would have issues vaulting windows",
+    "Fixed an issue in The Macmillan Estate Realm where a placeholder tile would spawn in the maps",
+    "Fixed issues in The Underground Complex where The Nightmare could not launch its powers through some walls",
+    "Fixed an issue in Haddonfield where The Animatronics could not interrupt a survivor when interacting with the security room door"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue that caused the wrong percentage to be shown in Up The Ante's description."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Fixed an issue that caused Steam players to be stuck on the Initialization screen when joining a match"
+   ]
+  },
+  {
+   "group": "Quests",
+   "items": [
+    "Fixed an issue that caused Rift Pass / Week6 / Be Chased FOR 200 SECONDS to be unable to complete.",
+    "Fixed an issue that caused Challenge 'I want it, I got it' in Tome 15 to be unable to complete."
+   ]
+  },
+  {
+   "group": "Known Issues",
+   "items": [
+    "The Chase music is missing for Survivor POV when being chased by Victor. The previous fix done for the Chapter 9.0.1 Hot Fix 1 release has been reverted whilst this issue is being addressed",
+    "The Animatronic can be blinded during the Security Room interrupt grab."
+   ]
+  }
+ ]
+}

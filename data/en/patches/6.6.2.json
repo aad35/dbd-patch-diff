@@ -1,0 +1,254 @@
+{
+ "id": "6.6.2",
+ "version": "6.6.2",
+ "kind": "release",
+ "title": "6.6.2 | Bugfix Patch",
+ "date": "2023-03-22",
+ "url": "https://store.steampowered.com/news/app/381210/view/3722827337090816591?l=english",
+ "changes": [
+  {
+   "entity": "Base power changes",
+   "cat": "system",
+   "section": "Killer: The Skull Merchant",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Skull Merchant gains a flat Haste Status Effect for each Survivor detected on the radar. This bonus is lost when no Survivor is detected on the Radar",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "One Survivor : +3%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Two Survivors: +5%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Three Survivors: +6%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Four Survivors: +7%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors with a Claw Trap cause Drones to be Unhackable while they are nearby",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Drones only return to the Killer after their respective Claw Trap battery is empty",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Entering an Active Zone no longer recharges Claw Trap batteries",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Failing the Claw Trap hack no longer recharges its battery",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Claw Trapped Survivors who fast vault pallets break the pallet and their Claw Trap at the same time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Claw traps are automatically removed when their battery is empty",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Skull Merchant gains a flat Haste Status Effect for each Survivor detected on the radar. This bonus is lost when no Survivor is detected on the Radar",
+    "One Survivor : +3%",
+    "Two Survivors: +5%",
+    "Three Survivors: +6%",
+    "Four Survivors: +7%",
+    "Survivors with a Claw Trap cause Drones to be Unhackable while they are nearby",
+    "Drones only return to the Killer after their respective Claw Trap battery is empty",
+    "Entering an Active Zone no longer recharges Claw Trap batteries",
+    "Failing the Claw Trap hack no longer recharges its battery",
+    "Claw Trapped Survivors who fast vault pallets break the pallet and their Claw Trap at the same time",
+    "Claw traps are automatically removed when their battery is empty"
+   ],
+   "devNote": "Note: You do not need to be Inspecting the Radar in order to get this bonus."
+  },
+  {
+   "entity": "Addon changes",
+   "cat": "system",
+   "section": "Killer: The Skull Merchant",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Ultrasonic Trap Speaker",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "Increase the “Expired Batteries” addon rarity to Ultra Rare",
+     "after": null,
+     "before": "Very Rare",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Decrease the “Prototype Rotor” addon rarity to Very Rare",
+     "after": null,
+     "before": "Ultra Rare",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increase Adaptive Lighting to 50%",
+     "after": null,
+     "before": "20%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decrease Expired Batteries to 40%",
+     "after": null,
+     "before": "150%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Ultrasonic Trap Speaker (NEW EFFECT): Decrease the time it takes for Undetectable to take effect by 50%",
+    "Increase the “Expired Batteries” addon rarity to Ultra Rare (was Very Rare)",
+    "Decrease the “Prototype Rotor” addon rarity to Very Rare (was Ultra Rare)",
+    "Increase Adaptive Lighting to 50% (was 20%)",
+    "Decrease Expired Batteries to 40% (was 150%)"
+   ]
+  },
+  {
+   "entity": "Miscellaneous",
+   "cat": "system",
+   "section": "Miscellaneous",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "A previous patch note stated that the perk Leverage no longer worked on self-healing. This was not the case. Leverage has worked on self-healing and still does",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Updated screams caused by Perks to be heard map-wide, as they were prior to version 6.6.0",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "A previous patch note stated that the perk Leverage no longer worked on self-healing. This was not the case. Leverage has worked on self-healing and still does",
+    "Updated screams caused by Perks to be heard map-wide, as they were prior to version 6.6.0"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Archives & Challenges",
+   "items": [
+    "Fixed an issue where pallets broken by The Knight's Guards were not contributing progress towards applicable challenges, such as \"Rault's Strength\" and \"Unleash the Rage\"."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue in the Archives where the French voice over for Memory 714 of Tome 13 would cut before the end.",
+    "Fixed an issue where The Trapper would fail to trigger a voice over when a Survivor escapes his grab."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Bots can now ask other players to move out of their way.",
+    "Bots no longer give up when Broken and within the area of a Boon: Circle of Healing.",
+    "Tentatively fixed an issue where Bots would shut themselves down when injured by an Artist's Dire Crow.",
+    "When playing against Freddy Krueger with the Dream Pallets Power, Bots no longer stop moving after passing a Dream Pallet.",
+    "When playing against The Skull Merchant, Bots can now disable Drones placed on stairs."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that cause Yun-Jin and a few other female survivors' face to be different when been on the hook.",
+    "Fixed an issue that cause The Nurse's Grim Veil to stretches unnaturally on the tally screen.",
+    "Fixed an issue that cause Males survivors grabbed from lockers to have stretched eyebrows.",
+    "Fixed an issue where The Knight's Healing Poultice, The Onryo's Distorted Photo and The Oni's Iridescent Family Crest Add-ons incorrectly revealed auras for the duration of their effect."
+   ]
+  },
+  {
+   "group": "Map",
+   "items": [
+    "Fixed a bug that made two chests spawn in the Shattered Square basement of the main building."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "The Haste status effect icon no longer appears on screen when Teamwork: Collective Stealth is active",
+    "The Friendly Competition repair bonus speed buff is no longer lost if the Perk owner disconnects from the Trial.",
+    "A Survivor fast vaults a Pallet with the Skull Merchant Claw trap no longer triggers the Perk Thwack!",
+    "Failing one skill check caused by the Merciless Storm Perk no longer causes subsequent skill checks to fail."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Intro cinematics should no longer stutter on Xbox One."
+   ]
+  },
+  {
+   "group": "Killer - Skull Merchant",
+   "items": [
+    "Drones no longer show the scanning VFX for one frame when starting the scan phase.",
+    "Claw Traps removed by hacking now correctly self-destruct instead of disappearing"
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed Perk description tooltips being incorrectly positioned in the Edit Bot Loadout menu.",
+    "Corrected 'Shotgun Speakers' add-on icon to avoid trypophobia trigger."
+   ]
+  }
+ ]
+}

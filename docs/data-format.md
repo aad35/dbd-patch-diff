@@ -2,9 +2,11 @@
 
 パイプライン（`npm run update`）が `data/` に出力する JSON の形式。アプリはこのファイルだけを読む。
 
+日本語版と英語版のパッチノートを別々に取得・解析し、`data/ja/` と `data/en/` に同じ形式で出力する（`<lang>` は `ja` か `en`）。
+
 ## 取得元
 
-Steam の公式お知らせ（日本語版）:
+Steam の公式お知らせ（`l=japanese` と `l=english` の2回取得）:
 `https://store.steampowered.com/events/ajaxgetpartnereventspageable/?appid=381210&l=japanese`
 
 タイトルが `10.2.0 | パッチノート` や `PTB 10.2.0 | ...` の形のものだけをパッチとして扱う。
@@ -21,16 +23,18 @@ Steam の公式お知らせ（日本語版）:
 
 | パス | 内容 |
 |---|---|
-| `data/raw/<id>.json` | Steam から取ってきた本文そのまま（再解析用） |
-| `data/index.json` | パッチ一覧（画面①） |
-| `data/patches/<id>.json` | パッチ1件分の全変更点（画面①のタブ・画面②） |
-| `data/entities.json` | キラー・パークごとの調整履歴（キャラ別・検索） |
-| `data/dict/killers.json` | キラー名の辞書（手で管理。新キラーが出たら追加する） |
-| `data/dict/overrides.json` | 自動判定の手直し（`"パッチid/名前": "buff"` など）。直した変更点には `"reviewed": true` が付く |
+| `data/raw/<lang>/<id>.json` | Steam から取ってきた本文そのまま（再解析用） |
+| `data/<lang>/index.json` | パッチ一覧（画面①） |
+| `data/<lang>/patches/<id>.json` | パッチ1件分の全変更点（画面①のタブ・画面②） |
+| `data/<lang>/entities.json` | キラー・パークごとの調整履歴（キャラ別・検索） |
+| `data/dict/killers.json` | キラー名の辞書。`{ "ja": "ナース", "en": "The Nurse" }` の組（手で管理。新キラーが出たら追加する） |
+| `data/dict/overrides.json` | 自動判定の手直し。言語ごとに `"パッチid/名前": "buff"` など。直した変更点には `"reviewed": true` が付く |
+
+パッチによっては片方の言語でしか公開されていないことがある（そのパッチはもう一方の `index.json` に載らない）。
 
 `<id>` はバージョン。PTB は `ptb-10.2.0` のように前に `ptb-` が付く。
 
-## data/index.json
+## data/&lt;lang&gt;/index.json
 
 ```jsonc
 {
@@ -51,7 +55,7 @@ Steam の公式お知らせ（日本語版）:
 
 新しい順に並ぶ。
 
-## data/patches/&lt;id&gt;.json
+## data/&lt;lang&gt;/patches/&lt;id&gt;.json
 
 ```jsonc
 {
@@ -81,7 +85,7 @@ Steam の公式お知らせ（日本語版）:
 }
 ```
 
-## data/entities.json
+## data/&lt;lang&gt;/entities.json
 
 キャラ別・検索で使う。対象はキラー（辞書にある名前）とパークだけ。サバイバーはキャラ個別の調整がなく、アイテムやクラスの話になるため入れていない。
 
@@ -89,6 +93,7 @@ Steam の公式お知らせ（日本語版）:
 {
   "憎悪の囁き": {
     "cat": "perk", "role": "killer",
+    "alt": "Bitter Murmur",     // もう一方の言語での名前（言語を切り替えたときに同じページを開くため）。分からなければ無し
     "history": [                // 新しい順。PTB は含めない
       { "id": "10.2.0", "version": "10.2.0", "date": "2026-10-06", "type": "buff", "diffs": [ ... ] },
       { "id": "9.6.0", "version": "9.6.0", "date": "...", "type": "nerf", "part": "ナースのアドオン", "diffs": [ ... ] }  // part = 本人以外の見出し

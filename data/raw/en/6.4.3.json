@@ -1,0 +1,10 @@
+{
+ "version": "6.4.3",
+ "kind": "release",
+ "id": "6.4.3",
+ "title": "6.4.3 | Bugfix Patch",
+ "gid": "3650761419025315441",
+ "posttime": 1671118580,
+ "url": "https://store.steampowered.com/news/app/381210/view/3650761419025315441?l=english",
+ "body": "[h2]BUG FIXES[/h2]\n[h3]THE KNIGHT[/h3]\n[list]\n[*] The Knight no longer encounters issues entering a chase while a Guard is active.\n[/list]\n[h3]BONE CHILL[/h3]\n[list]\n[*] Killers no longer occasionally turn invisible upon leaving a Snowman.\n[*] Killers entering a snowman should no longer get stuck in collision terrain.\n[/list]\n[h3]SURVIVOR PERKS[/h3]\n[list]\n[*] The Killer’s Aura no longer fails to display while using Kindred.\n[*] Inner Healing now operates as intended, where cleansing a Totem and entering a Locker for a duration heals 1 Health State.\n[/list]\n[h3]MAPS[/h3]\n[list]\n[*] [b]The Game[/b] is no longer haunted by an invisible collision zone.\n[/list]\n[h3]MISC[/h3]\n[list]\n[*] Undetectable Killers no longer experience unintended Aura reveals.\n[/list]\n[h2]KNOWN ISSUES[/h2]\n[list]\n[*] [b]Nowhere To Hide’s[/b] Aura reveal zone currently remains centered on the Generator instead of the Killer.\n[*] [b]Nowhere To Hide[/b] does not reveal the Aura of Survivors who were out of range when the Perk was triggered, but enter the detection zone while it’s still activated.\n[*] The Knight’s feet have no animation when looking down during an Attack.\n[/list]"
+}

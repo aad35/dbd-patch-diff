@@ -1,0 +1,823 @@
+{
+ "id": "10.0.0",
+ "version": "10.0.0",
+ "kind": "release",
+ "title": "10.0.0 | Jason Patch Notes",
+ "date": "2026-06-16",
+ "url": "https://store.steampowered.com/news/app/381210/view/518623384317200228?l=english",
+ "changes": [
+  {
+   "entity": "POWER: OMNIPRESENT EVIL",
+   "cat": "system",
+   "section": "POWER: OMNIPRESENT EVIL",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Press the Active Ability button to activate Omnipresent Evil. The Slasher becomes invisible and gains Undetectable, but cannot see Survivors or their Scratch Marks. Mist Clouds reveal the location of Survivors who are not moving. Footprints reveal the path of Survivors who are walking or running",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Omnipresent Evil is deactivated by using Jump Scare",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Press the Active Ability button to activate Omnipresent Evil. The Slasher becomes invisible and gains Undetectable, but cannot see Survivors or their Scratch Marks. Mist Clouds reveal the location of Survivors who are not moving. Footprints reveal the path of Survivors who are walking or running",
+    "Omnipresent Evil is deactivated by using Jump Scare"
+   ]
+  },
+  {
+   "entity": "SPECIAL ABILITY: JUMP SCARE",
+   "cat": "system",
+   "section": "SPECIAL ABILITY: JUMP SCARE",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "While Omnipresent Evil is activated, look at a Pallet, Breakable Wall, or Window to quickly move to it and perform a special-break or special-vault action. The Secondary Action button switches the side you will face when performing Jump Scare",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Jump Scare exits Omnipresent Evil mode, grants Haste, and reveals detected Survivors with Killer Instinct",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "While Omnipresent Evil is activated, look at a Pallet, Breakable Wall, or Window to quickly move to it and perform a special-break or special-vault action. The Secondary Action button switches the side you will face when performing Jump Scare",
+    "Jump Scare exits Omnipresent Evil mode, grants Haste, and reveals detected Survivors with Killer Instinct"
+   ]
+  },
+  {
+   "entity": "SPECIAL ABILITY: THROWING SPIKES",
+   "cat": "system",
+   "section": "SPECIAL ABILITY: THROWING SPIKES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Grab a Spike from Scrap Piles or Hooks. Hold the Secondary Action button to ready the Spike and tap the Attack button to throw. Spikes are replenished throughout the map when Omnipresent Evil is activated",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "A Spike knocks back a Survivor and damages them for one health state",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors will be Impaled if they are hit with a Hook Spike. They cannot heal past the injured state and the embedded Hook Spike will have an Aura visible to the Killer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Injured Survivors will be both Impaled and Immobilized if they are hit with a Spike and knocked into a wall",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Grab a Spike from Scrap Piles or Hooks. Hold the Secondary Action button to ready the Spike and tap the Attack button to throw. Spikes are replenished throughout the map when Omnipresent Evil is activated",
+    "A Spike knocks back a Survivor and damages them for one health state",
+    "Survivors will be Impaled if they are hit with a Hook Spike. They cannot heal past the injured state and the embedded Hook Spike will have an Aura visible to the Killer",
+    "Injured Survivors will be both Impaled and Immobilized if they are hit with a Spike and knocked into a wall"
+   ]
+  },
+  {
+   "entity": "Hex: Scared to Death",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After you hook 3 different Survivors, a Dull Totem ignites",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While chasing a Survivor, whenever you basic-break a Pallet, Survivors within 13m:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Scream",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Gain 11/12/13% Hindered for 3s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After you hook 3 different Survivors, a Dull Totem ignites",
+    "While chasing a Survivor, whenever you basic-break a Pallet, Survivors within 13m:",
+    "Scream",
+    "Gain 11/12/13% Hindered for 3s"
+   ]
+  },
+  {
+   "entity": "Silent Shadow",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you hook a Survivor, you gain Undetectable for 11/12/13s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When all Generators are completed, you gain Undetectable",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you hook a Survivor, you gain Undetectable for 11/12/13s",
+    "When all Generators are completed, you gain Undetectable"
+   ]
+  },
+  {
+   "entity": "Rampage",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you basic-break a Pallet or Breakable Wall, you earn 1 Token, up to 13",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Whenever you are blinded or Pallet-stunned, for the next 13s you gain 1% Haste for each Token. Cooldown: 30/25/20s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you basic-break a Pallet or Breakable Wall, you earn 1 Token, up to 13",
+    "Whenever you are blinded or Pallet-stunned, for the next 13s you gain 1% Haste for each Token. Cooldown: 30/25/20s"
+   ]
+  },
+  {
+   "entity": "Auras Customization",
+   "cat": "system",
+   "section": "Auras Customization",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "New aura types are available for color customization",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Blocked Objects (e.g. Corrupt Intervention or Repressed Alliance)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Completed Generators (e.g as The Houndmaster sending The Dog on a Search Command)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Generator Progress (The starting color when a Generator's progress is revealed e.g. Hex: Hive Mind or the add-on \"All Seeing\" - Spirit)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Dull Totems (When a player doesn't know the state of a Totem it will show as a Dull Totem e.g. Detectives Hunch)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Cleansed Totems (e.g. Hex: Pentimento)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hex Totems",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Boon Totems",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hatch",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Exit Gate Switches",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "New aura types are available for color customization",
+    "Blocked Objects (e.g. Corrupt Intervention or Repressed Alliance)",
+    "Completed Generators (e.g as The Houndmaster sending The Dog on a Search Command)",
+    "Generator Progress (The starting color when a Generator's progress is revealed e.g. Hex: Hive Mind or the add-on \"All Seeing\" - Spirit)",
+    "Dull Totems (When a player doesn't know the state of a Totem it will show as a Dull Totem e.g. Detectives Hunch)",
+    "Cleansed Totems (e.g. Hex: Pentimento)",
+    "Hex Totems",
+    "Boon Totems",
+    "Hatch",
+    "Exit Gate Switches"
+   ]
+  },
+  {
+   "entity": "Killer Power Match Details Tab",
+   "cat": "killer",
+   "section": "Killer Power Match Details Tab",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Match Details have been updated with a new tab to provide a simplified description of the currently faced Killer's power",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Match Details will only show this information when one of the following occurs:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Any Survivor enters a chase",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Any Survivor loses a health state",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The Killer Power Tab can be directly accessed by pressing F1 on Keyboard or pressing and holding SELECT on Controller",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Match Details have been updated with a new tab to provide a simplified description of the currently faced Killer's power",
+    "Match Details will only show this information when one of the following occurs:",
+    "Any Survivor enters a chase",
+    "Any Survivor loses a health state",
+    "The Killer Power Tab can be directly accessed by pressing F1 on Keyboard or pressing and holding SELECT on Controller"
+   ]
+  },
+  {
+   "entity": "Visual Change",
+   "cat": "system",
+   "section": "Visual Change",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Doctor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Remove the Doctor's noise vignette when using his power or when a survivor get shocked",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reduce the intensity of the light when the Doctor used his power",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reduce the intensity of the camera shake when a survivor get shocked",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Doctor",
+    "Remove the Doctor's noise vignette when using his power or when a survivor get shocked",
+    "Reduce the intensity of the light when the Doctor used his power",
+    "Reduce the intensity of the camera shake when a survivor get shocked"
+   ]
+  },
+  {
+   "entity": "NEW KILLER POWER:",
+   "cat": "system",
+   "section": "NEW KILLER POWER:",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Pinned rescues are no longer considered healing actions",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The Killer husk attack now activates with a slight delay and is no longer instant upon appearing",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Increased the slowdown effectiveness of the anti-camp system from x2 to x3 time in sec",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Increased the movement speed penalty when cancelling the charge Projectile action",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Pinned rescues are no longer considered healing actions",
+    "The Killer husk attack now activates with a slight delay and is no longer instant upon appearing",
+    "Increased the slowdown effectiveness of the anti-camp system from x2 to x3 time in sec",
+    "Increased the movement speed penalty when cancelling the charge Projectile action"
+   ]
+  },
+  {
+   "entity": "NEW KILLER ADDONS:",
+   "cat": "system",
+   "section": "NEW KILLER ADDONS:",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Toxic Waste:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Activation range increased to 8m (was 6m)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Coroner's Coffee:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Haste decreased to 8% (was 13%)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Bloody Magazine:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Detection range decreased to 8m (was 13m)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Eye Goop:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Undetectable duration increased to 13s (was 9s)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Iridescent Boat Motor:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Window block duration increased to 13s (was 5s)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Deputy's Badge:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Reworked: While in Omnipresent Evil, passing within 4m of a generator will cause it to explode, losing 5% progress and begin regressing. If any Survivors are repairing the generator, it will not explode, but they get a special Skill Check",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Toxic Waste:",
+    "Activation range increased to 8m (was 6m)",
+    "Coroner's Coffee:",
+    "Haste decreased to 8% (was 13%)",
+    "Bloody Magazine:",
+    "Detection range decreased to 8m (was 13m)",
+    "Eye Goop:",
+    "Undetectable duration increased to 13s (was 9s)",
+    "Iridescent Boat Motor:",
+    "Window block duration increased to 13s (was 5s)",
+    "Deputy's Badge:",
+    "Reworked: While in Omnipresent Evil, passing within 4m of a generator will cause it to explode, losing 5% progress and begin regressing. If any Survivors are repairing the generator, it will not explode, but they get a special Skill Check"
+   ]
+  },
+  {
+   "entity": "NEW PERKS:",
+   "cat": "system",
+   "section": "NEW PERKS:",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Silent Shadow:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Changed the perk so that the 11/12/13s Undetectable occurs whenever you hook a Survivor, instead of at the start of the trial",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Silent Shadow:",
+    "Changed the perk so that the 11/12/13s Undetectable occurs whenever you hook a Survivor, instead of at the start of the trial"
+   ]
+  },
+  {
+   "entity": "Killer Power Match Details Tab",
+   "cat": "killer",
+   "section": "Killer Power Match Details Tab",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Updated the default icon of Special Attack, Ranged Attack, and Special Ability to no longer reuse existing power icons",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Updated all descriptions to utilize more consistent language",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Updated several descriptions to provide more clarity",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Reworked the description of The Wraith, The Knight, and The Skull Merchant to be more accurate and in depth",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Updated the default icon of Special Attack, Ranged Attack, and Special Ability to no longer reuse existing power icons",
+    "Updated all descriptions to utilize more consistent language",
+    "Updated several descriptions to provide more clarity",
+    "Reworked the description of The Wraith, The Knight, and The Skull Merchant to be more accurate and in depth"
+   ]
+  },
+  {
+   "entity": "Bot Improvements",
+   "cat": "system",
+   "section": "Bot Improvements",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivor Bots will now resume goals if The Slasher stays too long inside Omnipresent Evil",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivor Bots will now resume goals if The Slasher stays too long inside Omnipresent Evil"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where Sable Ward's ''Sassy Guest'' outfit is missing the lobby music.",
+    "Fixed an issue where Survivor hit audio does not play at a long distance for the Killer when the Survivor is hit by a projectile at long distance.",
+    "Fixed an issue where the frequency rate of Dialogs for Alan Wake's is low.",
+    "Fixed an issue where there was missing voice line for The Singularity during the Mori.",
+    "Fixed an issue where Survivors do not produce grunts when they are dropped by The Animatronic.",
+    "Fixed an issue where Missing sound effects when interacting with Memory Shards and Archives Portal.",
+    "Fixed an issue where The Trickster's mori preview VO is difficult to hear due to being at a too low volume.",
+    "Fixed an issue where as a Survivor, the audio cue for The Nightmare's Dream Projection does not play when teleporting to a generator",
+    "Fixed hook voice over could play during sacrifice if the Survivor is the last one standing.",
+    "Fixed an issue where Jake Park being in a lobby could trigger other lobby dialogs when a second player also joins as Jake Park."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where The Xenomorph can see shadows through walls after exiting a Tunnel in Greenville Square.",
+    "Fixed an issue where shadows disappear after repeatedly entering and exiting the Security Room as The Animatronic in Greenville Square.",
+    "Fixed an issue where The Animatronic's Immunity to Flashlights was missing when Grabbing a Survivor inside a door.",
+    "Fixed an issue where The Executioner idle animation audio isn't synched.",
+    "Fixed an issue where the Iridescent Button add-on description was missing the fact it grants blind immunity for The Legion.",
+    "Fixed an issue where Female Survivor's facial animations were missing when caught in a locker by the Singularity.",
+    "Fixed an issue where The Knight's camera remained immobile when interrupting a Survivor who is either entering or exiting a Locker.",
+    "Fixed an issue where The Knight did not have a Highlight Aura for guard orders on Pallets.",
+    "Fixed an issue where The Knight's Killer Power and the basic attack were accessible immediately after cancelling the Killer Power.",
+    "Fixed an issue where The First's Vines Attack hitting a Survivor while they were Dropping a Pallet caused them to be unable to enter the Floating State.",
+    "Fixed an issue where the headset was misaligned with the hand and head of the Survivor when interacting with a Grandfather Clock.",
+    "Fixed an issue where The Legion's Feral Frenzy stopped recharging during the Mori.",
+    "Fixed an issue where Survivors received no Exposed SFX after removing Crows from The Artist's Garden of Rot add-on.",
+    "Fixed an issue where the \"Warg's Fang\" add-on for The Dark Lord only showed the aura of the last Survivor's Scent Orb.",
+    "Fixed an issue where, sometimes, The Houndmaster's Dog was unable to Jump Pallets at sharp angles.",
+    "Fixed an issue where The Demogorgon's Active Portals auras were always revealed for the Survivors.",
+    "Fixed an issue where The Mastermind was unable to freely move the Camera direction between Dash Buffering.",
+    "Fixed an issue where The Mastermind could hit a Survivor at a lower altitude after vaulting with Virulent Bound.",
+    "Fixed an issue where The Mastermind's supply case auras were hidden to Survivors suffering from Blindness.",
+    "Fixed an issue where The Mastermind Virulent Bound Dash buffering \"resetting hand\" Animation was played too early.",
+    "Fixed an issue where Survivors were frequently missing the thrown and the colliding against obstacle animations from The Mastermind's Virulent Bound.",
+    "Fixed an issue where The Doctor was able to see the auras of Illusionary Doctors at Madness Tier without add-ons.",
+    "Fixed an issue where Survivors were missing their Reverse Bear Trap when The Pig used the Video Tape Add-On.",
+    "Fixed an issue where a Survivor was counted as 'Escaped' despite dying with the Reverse Bear Trap on while playing against The Pig.",
+    "Fixed an issue where the legs animation was missing after a Slice & Dice attack, and after missing a Basic Attack as The Good Guy.",
+    "Fixed an issue where the camera, Look-At, and carry FPV animations for The Good Guy were broken during some interactions.",
+    "Fixed an issue where The Hag was missing 2 lobby animations.",
+    "Fixed an issue where the lobby animation was choppy as The Spirit with the Nightmare Serpent skin.",
+    "Fixed an issue where Killers were able to see Survivors through the Generator's auras.",
+    "Fixed an issue where multiple torso cosmetics appeared distorted around the stomach area when paired with Orela Rose's shorts.",
+    "Fixed an issue where Baermar Uraz had his arms moving abruptly periodically, and his right hand clipping through his guitar when playing it.",
+    "Fixed an issue where Jill Valentine had clipping issues during multiple animations with the 'Sturdy Skirt' pants cosmetic."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue by adjusting a collision In the astrology room in The Forgotten Ruins, a vault point has extended collision, blocking projectiles from being thrown through at an angle.",
+    "Fixed an issue by adjusting a collision, plus moving a generator on the shrimp boat in Pale Rose, players was remain trapped if another player was repairing the generator.",
+    "Fixed an issue in the Underground Complex where killers could get blocked by a hanging a survivor on a hook in a corridor",
+    "Fixed an issue in The Sanctum Of Wrath where killers could block the entrance to the basement on the side of the main structure",
+    "Fixed an issue in Crotus Prenn where the Nurse could not blink through the walls",
+    "Fixed an issue in Treatment Theater where the red stain would disappear in certain area of the map",
+    "Fixed an issue in Treatment Theater where a killer could not navigate through a door when a survivor was place on a hook",
+    "Fixed an issue in The MacMillan Estate Killer Shack, where an invisible collision hindered Survivors and Killers navigation.",
+    "Fixed an issue in the realm of Coldwind Farm where projectiles would get blocked around the combine harvester",
+    "Fixed an issue in Groaning Storehouse where the players would get stuck where walking up the stairs of the basement",
+    "Fixed an issue in Shattered Square where projectiles would be blocked by collisions",
+    "Fixed an issue in Sanctum of Wrath where a killer could not grab survivor entering a locker",
+    "Fixed an issue in the realm Withered Isle where collision would block projectiles around picnic tables",
+    "Fixed an issue In the Raccoon City Police Station East Wing, by repositioned walls, where gap could be seen in several locations allowing the player to see through, or out of world.",
+    "Fixed an issue in the east wing of the Raccoon City Police Station, by repositioning, where a gap was visible in several places, allowing the player to see through, or out of the world.",
+    "Fixed an issue where The Artist was unable to place a Dire Crow in front of a window vault between specific tiles in the Trickster's Delusion map.",
+    "Fixed an issue where the passage aura color was pink on Forgotten Ruins.",
+    "Fixed an issue in Crotus Prenn where characters could stand on top of a rock",
+    "Fixed an issue in Badham Preschool where characters could walk on top a rock",
+    "Fixed an issue in MacMillan's Estate where killers could be blocked by assets",
+    "Fixed an issue in The Underground Complex where a collision would prevent a smooth navigation",
+    "Fixed an issue in Father Campbell's Chapel where projectiles were blocked on the ceilings of the chapel",
+    "Fixed an issue in Red Forest maps where Dream Pallets would get stuck in the wall of the shack",
+    "Fixed an issue in Badham Preschool where branches clipped through the walls of a house structures",
+    "Fixed an issue in Grim Pantry where collisions would hinder the navigation of the players",
+    "Fixed an issue in Suffocation Pit where collisions would hinder the navigation of the players",
+    "Fixed an issue in Gideon Meat Plant where collisions would hinder the navigation of the players",
+    "Fixed an issue in the Raccoon City Police Station where the Nurse could blink out of the world",
+    "Fixed an issue in The Underground Complex where a collision was missing over the a table in the clinic section of the map",
+    "Fixed an issue in the Yamaoka Mansion where the Trapper could hide the trap under an assets",
+    "Fixed issues where the Nurse could not blink through walls of the Asylum",
+    "Fixed an issue where The Lich's Hand of Vecna failed to teleport a Survivor when used on a specific locker in Badham Preschool I.",
+    "Fixed an issue where the Secret Room's Chest was unable to give a Survivor a Flashlight when using the perk Residual Manifest on Nostromo Wreckage.",
+    "Fixed an issue where The Lich's Hand of Vecna failed to teleport a Survivor when used on a specific locker in Raccoon City Police Station West Side.",
+    "Fixed an issue where The Lich's Hand of Vecna failed to teleport a Survivor when used on a specific locker in the Treatment Theatre."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where Hex: No One Escapes Death was revealed to Survivors immediately when generators were completed.",
+    "Fixed an issue where, rarely, the Aura of Fake Pallets could be seen by The Xenomorph throughout the map while using Ultimate Weapon and a Survivor had Apocalyptic Ingenuity.",
+    "Fixed an issue where Hex: The Third Seal activated when The Trickster hit a Survivor with a blade for the first time.",
+    "Fixed an issue where the Heal progress bar remained grey while healing another Survivor with Do No Harm activated.",
+    "Fixed an issue where Streetwise's aura reading activated with 3 Killer Items.",
+    "Fixed an issue where THWACK! was unable to be activated on Breakable Walls.",
+    "Fixed an issue where the external perk icon for Thanatophobia was displayed when performing actions with no injured, downed or hooked Survivors.",
+    "Fixed an issue where AFK crows could appear on Survivor's heads while working on a generator after using the perk Plot Twist and being picked up by the Killer."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Fixed an issue where an Asynchronous Load between the Survivor and the Killer caused the Killer to load partially invisible and Uncontrollable.",
+    "Fixed an issue where Player shadows could be seen at the bottom of lockers on Switch.",
+    "Fixed an issue where players could not accept or view each other's profile in the friend list on the Epic Game Store version.",
+    "Fixed an issue where it was unable to make progress on the \"Resourceful\" achievement/trophy."
+   ]
+  },
+  {
+   "group": "Quests",
+   "items": [
+    "Fixed an issue where selecting Knockout (Remix) Challenge from the Tomes whilst having a Survivor Challenge make perk randomization impossible."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue in the Quests Menu where the Match queue text for Killers overlapped some Quest buttons",
+    "Fixed a localization issue with the scroll prompt in the quest menu.",
+    "Fixed an issue where Keybind icon buttons were missing on the HUD when channeling interactions."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue where, rarely, the loading screen temporarily freezes on 'Initializing Shaders' screen",
+    "Fixed entity potentially making an invalid purchase move on the Bloodweb.",
+    "Fixed certain map specific achievements failing to complete in 2v8.",
+    "Fixed an issue with the Survivor having the Killer Name after using 'Play While You Wait'.",
+    "Fixed an issue where using 'Play While You Wait' and leaving a Survivor Lobby the priority queue for the Killer Lobby was also lost.",
+    "Fixed an issue where the Flicker VFX was missing when a Survivor used a Flashlight with the Broken Bulb Add-on."
+   ]
+  },
+  {
+   "group": "Bot Improvements",
+   "items": [
+    "Fixed an issue with AI characters being unable to navigate Trickster's Delusion map.",
+    "Fixed an issue causing Survivor Bots to continue hiding during the Slasher's Omnipresent Evil after the End Game Collapse has begun.",
+    "Fixed an issue with Survivor Bots not running away immediately after escaping from the wiggle state."
+   ]
+  },
+  {
+   "group": "BUG FIXES",
+   "items": [
+    "Fixed an issue where there was a missing slashing SFX when performing a jump scare on an already broken pallet/wall with The Slasher.",
+    "Fixed an issue where the impact SFX is missing when damaging a generator if the Killer is not holding a projectile with The Slasher.",
+    "Fixed an issue where Basic Attack SFX can be heard when performing 3 specifics interactions with The Slasher.",
+    "Fixed an issue where there was missing SFX during the Lobby Idle animation for The Slasher.",
+    "Fixed an issue where there was a missing SFX when vaulting with The Slasher.",
+    "Fixed an issue where the weapon wipe SFX is missing after injuring a Survivor as The Slasher.",
+    "Fixed an issue where Rick VO lines are triggered when Daryl joins Glenn on a generator repair.",
+    "Fixed an issue where The Slasher is missing SFX when performing specific animations.",
+    "Fixed an issue where Blinding SFX can be heard while aiming the flashlight at The Slasher's face during Omnipresent Evil.",
+    "Fixed a prestige reward level 10 data issue with The Slasher.",
+    "Fixed an issue where The Slasher's Undetectable status icon was missing when using Omnipresent Evil after injuring a Survivor.",
+    "Fixed an issue where The Killer sighted SFX stinger played while The Slasher was still invisible while exiting Omnipresent Evil mode.",
+    "Fixed an issue where a Survivor pinned on moving doors left a shadow in The Slasher's Red Stain when dissolving.",
+    "Fixed an issue where The Slasher was unable to gain a Spike when using Jump Scare on a Window or Pallet when using the Dirty Money addon.",
+    "Fixed an issue where jittering occurred after The Slasher picked up a Survivor Pinned to a small doorframe.",
+    "Fixed an issue where, with The Slasher's Iridescent Boat Motor add-on, a window could be marked for an infinite amount of time.",
+    "Fixed an issue where, as The Slasher, a duplicate projectile appeared briefly when pinning and unpinning a Survivor.",
+    "Fixed an issue where Bada Bada Boom was unable to be activated by The Slasher using Jump Scare at a trapped Vault.",
+    "Fixed an issue where Survivors could see spikes disappear from containers while The Slasher picked up a Spike in Omnipresent Evil mode.",
+    "Fixed an issue where the time increase to remove the Spike was inaccurate for The Slasher's Add-on \"Knitting Needle\".",
+    "Fixed an issue where The Slasher's \"Dirty Money\" add-on granted The Slasher a spike when teleporting to a breakable door.",
+    "Fixed an issue where The Slasher gained score events when throwing a spike on a hooked Survivor.",
+    "Fixed an issue where Survivors hit during an unhook could still be impaled and pushed by The Slasher's projectile before they could otherwise take damage.",
+    "Fixed an issue where The Slasher's Spike became misaligned when picking up a Survivor.",
+    "Fixed an issue where, rarely, The Slasher's hook projectile would not get reloaded when the Killer hooked a Survivor.",
+    "Fixed an issue where Spectators were unable to perceive the mist from The Slasher's POV during Omnipresent Evil.",
+    "Fixed an issue where Spectators were able to perceive The Slasher during Omnipresent Evil from the Survivor's POV.",
+    "Fixed an issue where The Slasher exited a Jump Scare vault too high on specific vault points.",
+    "Fixed an issue where charging the throw action during the teleport part of a Jump Scare transition automatically cancelled the throw action for The Slasher.",
+    "Fixed an issue where, sometimes, pallets were desynced between users after The Slasher attempted to break them with Jump Scare while a Survivor reset them with the Perk Any Means Necessary when the Killer had high latency.",
+    "Fixed an issue where The Slasher's Omnipresent Evil red mist appeared visible on other Survivors from the Spectator POV in Custom Games.",
+    "Fixed an issue where The Slasher lost collision with Survivors during the reload animation.",
+    "Fixed an issue where Visual issues occurred for The Slasher when using the Mini Mori before the Spike expired.",
+    "Fixed an issue where The Slasher's Jump Scare range radius enlargement from the Bent Wheel Add-on was missing.",
+    "Fixed an issue where Survivors appeared floating when Pinned against a specific wood scaffolding inside the library on Qtm_Level_02 tile 193B by The Slasher.",
+    "Fixed an issue where The Slasher's Hook Spike pickup hitbox was misplaced for one specific Hook location in the Chalet entrance in the Mount Ormond Resort map.",
+    "Fixed an issue where The Slasher's Scrap Piles spawned too closely to each other in their respective tiles on The Underground Complex map.",
+    "Fixed an issue where placeholder text was floating below Glyphs.",
+    "Fixed an issue where Hex: Scared To Death's icon became dimmed when Survivors cleansed any Totem.",
+    "Fixed an issue where Hex: Scared To Death's icon was put back in the regular disabled state when the related Hex Totem was cleansed.",
+    "Fixed an issue where Windows were only blocked for 4 seconds when The Slasher vaulted with the Jump Scare alongside the Perk Bamboozle.",
+    "Fixed an issue where Play With Your Food stacks did not get used when using The Slasher's ranged attack.",
+    "Fixed an issue where there were 2 inconsistencies with The Slasher's Silent Shadow Perk icons after the Perk was permanently activated.",
+    "Fixed an issue where Hex: Scared to Death caused Survivors in Lockers to Scream.",
+    "Fixed an issue where Hex: Scared To Death's icon stayed dimmed out after activating.",
+    "Fixed an issue where The First's mini mori failed to occur after sending the input.",
+    "Fixed an issue where The Oni's flames VFX from the \"Dearest Kazan\" outfit were misaligned.",
+    "Fixed an issue where Meg Thomas stayed idle after exiting the Locker in the Survivor Tutorial.",
+    "Fixed an issue where The Xenomorph's Tunnel connection aura was displayed as purple.",
+    "Fixed an issue where Female Survivors' hands clipped into the floor when holding 3 item types while in the Dying State.",
+    "Fixed an issue where The Deathslinger's Chain progression bar UI was visible on the Survivor's POV after they broke free from the Killer power.",
+    "Fixed an issue where a Survivor could pick up an item from outside The Lich's chest."
+   ]
+  }
+ ]
+}

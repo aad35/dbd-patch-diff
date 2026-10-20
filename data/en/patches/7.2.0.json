@@ -1,0 +1,954 @@
+{
+ "id": "7.2.0",
+ "version": "7.2.0",
+ "kind": "release",
+ "title": "7.2.0 | Alien",
+ "date": "2023-08-29",
+ "url": "https://store.steampowered.com/news/app/381210/view/3669924544100386827?l=english",
+ "changes": [
+  {
+   "entity": "Perks",
+   "cat": "system",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Lucky Star When you hide in a locker, this perk activates. You leave no pools of blood and make no grunts of pain for 10 seconds. When you exit the locker, you see other survivors and the closest generator's aura in yellow for 10 seconds. This perk then goes on cooldown for 40/35/30 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Chemical Trap After completing 70%/60%/50% progress on any generator, this perk activates. While standing next to a dropped pallet, press the Active Ability Button 2 to install a Trap, which stays active for 100/110/120 seconds. The aura of trapped pallets are revealed in yellow to all Survivors. When the Killer performs the break action on the trapped pallet, the trap explodes, and they are slowed by 50% for 4 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Light Footed When you are healthy, this perk activates. Your running footsteps are silent. This perk goes on cool-down for 28/24/20 seconds after doing a rushed action",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Lucky Star When you hide in a locker, this perk activates. You leave no pools of blood and make no grunts of pain for 10 seconds. When you exit the locker, you see other survivors and the closest generator's aura in yellow for 10 seconds. This perk then goes on cooldown for 40/35/30 seconds",
+    "Chemical Trap After completing 70%/60%/50% progress on any generator, this perk activates. While standing next to a dropped pallet, press the Active Ability Button 2 to install a Trap, which stays active for 100/110/120 seconds. The aura of trapped pallets are revealed in yellow to all Survivors. When the Killer performs the break action on the trapped pallet, the trap explodes, and they are slowed by 50% for 4 seconds",
+    "Light Footed When you are healthy, this perk activates. Your running footsteps are silent. This perk goes on cool-down for 28/24/20 seconds after doing a rushed action"
+   ]
+  },
+  {
+   "entity": "New Map - Nostromo Wreckage",
+   "cat": "system",
+   "section": "New Map - Nostromo Wreckage",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Explore the mysterious crash site of the iconic Nostromo. Visit landmarks familiar to the fans of the Alien franchise, in a unique setting where you will find yourself chased in and out of the ship. Run the Killer around the shuttle that brought Ripley to the world of the Entity. Navigate through the alien landscape, and you may yet escape from the remains of the wrecks",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Explore the mysterious crash site of the iconic Nostromo. Visit landmarks familiar to the fans of the Alien franchise, in a unique setting where you will find yourself chased in and out of the ship. Run the Killer around the shuttle that brought Ripley to the world of the Entity. Navigate through the alien landscape, and you may yet escape from the remains of the wrecks"
+   ]
+  },
+  {
+   "entity": "PTB - Live Changes",
+   "cat": "system",
+   "section": "PTB - Live Changes",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When burned by a Remote Flame Turret without Crawler Mode ending, Power recovery now starts after 1 second",
+     "after": null,
+     "before": "2 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "When burned by a Remote Flame Turret without Crawler Mode ending, Power now recovers at 25% per second",
+     "after": null,
+     "before": "20%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Xenomorph movement speed whilst traversing the map in the tunnel to 18ms was 16ms",
+    "Whilst inside the Tunnel, when in proximity of an exit, the tunnel connection to the Control Station aura is highlighted for the Killer",
+    "Improved visual feedback on the Tail Attack for players",
+    "Fixed the obstruct Tail Attack animation going through objects for Survivors",
+    "Movement speed after missing a Tail Attack has been increased to 2.0ms was 1.2ms whilst in cooldown",
+    "Destroyed Turrets now take 60s to return to a Control Station instead of 45s",
+    "Multiple Turrets firing at a Killer no longer stack, the Xenomorph will not lose it's power faster if it's affected by more than one Turret at a time",
+    "When burned by a Remote Flame Turret without Crawler Mode ending, Power recovery now starts after 1 second (was 2 seconds)",
+    "When burned by a Remote Flame Turret without Crawler Mode ending, Power now recovers at 25% per second (was 20%)",
+    "A Turret being carried by the Survivor, now provides the audio radar feedback to any Survivor in range",
+    "Slightly decreased the Turret placement restriction and Turret collision to allow a bit more flexibility with Turrets in enclosed locations",
+    "Emergency Helmet Addon is now Rare instead of Uncommon rarity - now offers 35% increased resistance effect instead of 50%",
+    "Brett's Cap Addon is now an Uncommon rarity instead of Rare rarity",
+    "Adjusted Xenomorph Chase Music"
+   ]
+  },
+  {
+   "entity": "Killer Tweaks",
+   "cat": "killer",
+   "section": "Killer Tweaks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Knight- Pillaged Mead - Decreases the amount of time it takes for a Guard to complete their Order action by 15%",
+     "after": null,
+     "before": "25%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "- Tattered Tabbard - Increases Patrol time for all Guards by 8 seconds",
+     "after": null,
+     "before": "6 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "- Town Watch's Torch - When Survivors escape Guard Hunts without being hit two times",
+     "after": null,
+     "before": "3 times",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Demogorgon - Killer Power - Undetectable after teleport lasts 5 seconds",
+     "after": "The Demogorgon",
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "- Rat Tail - Increases speed of opening a Portal by 50%",
+     "after": null,
+     "before": "35%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "- Unknown Egg - Decreases the cooldown after traversing the Upside Down by 2.5 seconds",
+     "after": null,
+     "before": "1.5 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "- Violet Waxcap - Increases the duration of the Undetectable effect gained when emerging from a Portal by 1 second",
+     "after": null,
+     "before": "0.5 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "",
+    "The Knight- Pillaged Mead - Decreases the amount of time it takes for a Guard to complete their Order action by 15% (was 25%). - Tattered Tabbard - Increases Patrol time for all Guards by 8 seconds (was 6 seconds). - Town Watch's Torch - When Survivors escape Guard Hunts without being hit two times (was 3 times), The Knight gains Undetectable Status for 25 seconds",
+    "The Demogorgon - Killer Power - Undetectable after teleport lasts 5 seconds (was 3 seconds). - Rat Tail - Increases speed of opening a Portal by 50% (was 35%). - Unknown Egg - Decreases the cooldown after traversing the Upside Down by 2.5 seconds (was 1.5 seconds). - Violet Waxcap - Increases the duration of the Undetectable effect gained when emerging from a Portal by 1 second (was 0.5 seconds). - Leprose Lichen - Reveals the auras of all Survivors while traversing the Upside Down. After emerging from a Portal, the auras of all Survivors within 16 meters of an active Portal are revealed for 3 seconds"
+   ]
+  },
+  {
+   "entity": "Audio",
+   "cat": "system",
+   "section": "Audio",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated the audio for Jonah Vasquez - grunts of pain, scream etc",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated the audio for Jonah Vasquez - grunts of pain, scream etc"
+   ]
+  },
+  {
+   "entity": "PC Graphics Update",
+   "cat": "system",
+   "section": "PC Graphics Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "New setting to toggle VSync on and off",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "New setting to change the FPS limit",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "New setting tog toggle the anti aliasing on and off",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Setting for resolution option update",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "New setting to toggle VSync on and off",
+    "New setting to change the FPS limit",
+    "New setting tog toggle the anti aliasing on and off",
+    "Setting for resolution option update"
+   ]
+  },
+  {
+   "entity": "Archives",
+   "cat": "system",
+   "section": "Archives",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The \"It All Leads Here\" master challenge description has been fixed to improve objective clarity",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The \"Mastering Deadly Senses\" challenge description has been fixed to improve objective clarity",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The \"It All Leads Here\" master challenge description has been fixed to improve objective clarity",
+    "The \"Mastering Deadly Senses\" challenge description has been fixed to improve objective clarity"
+   ]
+  },
+  {
+   "entity": "Audio",
+   "cat": "system",
+   "section": "Audio",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The survivor's pick up HUD soundcue is no longer heard when killer such as the Trapper, or The Cenobite pick up their respective killer item",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Tally screen music is now properly heard if the trial is ending while The Singularity was controling a Biopod",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The survivor's pick up HUD soundcue is no longer heard when killer such as the Trapper, or The Cenobite pick up their respective killer item",
+    "The Tally screen music is now properly heard if the trial is ending while The Singularity was controling a Biopod"
+   ]
+  },
+  {
+   "entity": "Bots",
+   "cat": "system",
+   "section": "Bots",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Bots are now more likely to be productive within the Terror Radius",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots' behaviour has improved when facing Killer sidekicks, such as The Nemesis' Zombies or The Knight's Guards",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer attempt to confuse the Killer by crouch-walking during a chase",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots now investigate Supply Cases more often",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots now telepathically communicate to avoid multiple Bots running to heal or unhook a Survivor at the same time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reverse Bear Traps no longer cause Bots to freeze when the Exit Gates are opened",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Bots are now more likely to be productive within the Terror Radius",
+    "Bots' behaviour has improved when facing Killer sidekicks, such as The Nemesis' Zombies or The Knight's Guards",
+    "Bots no longer attempt to confuse the Killer by crouch-walking during a chase",
+    "Bots now investigate Supply Cases more often",
+    "Bots now telepathically communicate to avoid multiple Bots running to heal or unhook a Survivor at the same time",
+    "Reverse Bear Traps no longer cause Bots to freeze when the Exit Gates are opened"
+   ]
+  },
+  {
+   "entity": "Characters",
+   "cat": "system",
+   "section": "Characters",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When facing The Onryo, the VHS is now properly aligned in survivors’ hands",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "An extra SFX no longer plays when specific Killers pick up a Killer Item",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Hide action is no longer executed upon entering the interaction zone of a Locker while holding the input",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Nurse's \"Spasmodic Breath\" addon no longer increases the carrying speed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors no longer lose deep wound when grabbed by a killer during a vault",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors hiding in a Locker and hit by The Artist's Dire Crows are now correctly revealed by Killer Instincts",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Twins no longer enter a broken state when switching control and being stunned simultaneously",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Knight is now correctly able to summon a second Guard at the same location of the first summon",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors hit by The Deathslinger's Harpoon projectile will now correctly play pain, injury or grunts on hit",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Undectable status no longer triggers Play With Your Food",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When emerging from a Portal, the Demogorgon's Add-on \"Leprose Lichen\" aura reveal is now correctly distance-limited",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Entering a locker no longer clears the duration of Blindness status effects from Killer Perks and Addons",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Cenobite's Mori animation is no longer misaligned with Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killers' camera is now always properly aligned with the Killer's orientation",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Getting hit by The Onryo no longer causes Survivors to have a VHS tape in hand at the start of retrieving the next VHS",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Dredge can no longer break locks with a Basic Attack while inside a locker",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When facing The Onryo, the VHS is now properly aligned in survivors’ hands",
+    "An extra SFX no longer plays when specific Killers pick up a Killer Item",
+    "The Hide action is no longer executed upon entering the interaction zone of a Locker while holding the input",
+    "The Nurse's \"Spasmodic Breath\" addon no longer increases the carrying speed",
+    "Survivors no longer lose deep wound when grabbed by a killer during a vault",
+    "Survivors hiding in a Locker and hit by The Artist's Dire Crows are now correctly revealed by Killer Instincts",
+    "The Twins no longer enter a broken state when switching control and being stunned simultaneously",
+    "The Knight is now correctly able to summon a second Guard at the same location of the first summon",
+    "Survivors hit by The Deathslinger's Harpoon projectile will now correctly play pain, injury or grunts on hit",
+    "The Undectable status no longer triggers Play With Your Food",
+    "When emerging from a Portal, the Demogorgon's Add-on \"Leprose Lichen\" aura reveal is now correctly distance-limited",
+    "Entering a locker no longer clears the duration of Blindness status effects from Killer Perks and Addons",
+    "The Cenobite's Mori animation is no longer misaligned with Survivors",
+    "Killers' camera is now always properly aligned with the Killer's orientation",
+    "Getting hit by The Onryo no longer causes Survivors to have a VHS tape in hand at the start of retrieving the next VHS",
+    "The Dredge can no longer break locks with a Basic Attack while inside a locker"
+   ]
+  },
+  {
+   "entity": "Perks",
+   "cat": "system",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "A Survivor's Aura is no longer revealed to the Killer when in range of a cleansed Dull Totem when using the Perk Hex: Undying",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The perk Friendly Competition now correctly activates when a Generator is completed by a Bot",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors can no longer bypass the Perk \"Overcharge\" by quickly repairing the generator and leaving it",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Blood Pact no longer fail to activate when using an Anti-Hemorrhagic Syringe add-on",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The effects of Plot Twist are now correctly disabled after being hooked",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Scene Partner Perk is now correctly activated by the Terror Radius of The Xenomorph",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "A Survivor's Aura is no longer revealed to the Killer when in range of a cleansed Dull Totem when using the Perk Hex: Undying",
+    "The perk Friendly Competition now correctly activates when a Generator is completed by a Bot",
+    "Survivors can no longer bypass the Perk \"Overcharge\" by quickly repairing the generator and leaving it",
+    "Blood Pact no longer fail to activate when using an Anti-Hemorrhagic Syringe add-on",
+    "The effects of Plot Twist are now correctly disabled after being hooked",
+    "The Scene Partner Perk is now correctly activated by the Terror Radius of The Xenomorph"
+   ]
+  },
+  {
+   "entity": "Platforms",
+   "cat": "system",
+   "section": "Platforms",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Steam experiencing a network issue will no longer cancel an existing lobby",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Steam experiencing a network issue will no longer cancel an existing lobby"
+   ]
+  },
+  {
+   "entity": "UI",
+   "cat": "system",
+   "section": "UI",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The \"Match Found\" message will no longer appear during matchmaking. Instead, the UI will go from \"Searching for Match\" directly into \"Joining Match\"",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Display the remaining time when hovering the mouse on the store character item",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The \"Match Found\" message will no longer appear during matchmaking. Instead, the UI will go from \"Searching for Match\" directly into \"Joining Match\"",
+    "Display the remaining time when hovering the mouse on the store character item"
+   ]
+  },
+  {
+   "entity": "Misc",
+   "cat": "system",
+   "section": "Misc",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Disconnected players can no longer spectate the game they disconnected from",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Disconnected players can no longer spectate the game they disconnected from"
+   ]
+  },
+  {
+   "entity": "The Xenomorph (since PTB)",
+   "cat": "killer",
+   "section": "The Xenomorph (since PTB)",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When The Xenomorph is in a tunnel, the horizontal distance no longer counts towards perks with distance requirements",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Flame Turrets can no longer be placed in such a way as to to block passage for the Killer or partially block access for Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fixed an infrequent crash when Starting a custom match as The Xenomorph",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Breaking down a Flame Turret while holding a limited item no longer causes the Survivor to be unable to pick up or place the Turret",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Xenomorph's tail placement is no longer affected by Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Xenomorph no longer alerts crows on the map while in Runner Mode",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Placeholder white orb is no longer visible in Haddonfield when the killer is The Xenomorph",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Flame Turret's detection radius VFX no longer remains visible when performing other animations while holding the Flame Turret",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Flame Turret no longer rotates in Survivors' hands when performing gestures",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors who are grabbed from a Locker no longer keep their Flame Turret",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When exiting a Control Station as The Xenomorph, it is no longer possible to briefly see out of world",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Acidic Blood Add-On now displays the correct icon when exiting a Tunnel",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors can no longer pick up multiple Flame Turrets at once",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Performing a \"Break Down Flame Turret\" action while screaming no longer causes the Flame Turret's fire VFX to play incorrectly",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The haste effect icon is now shown properly when playing The Xenomorph with Parker's Headband Add-On",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Xenomorph no longer pops into view in the Main Menu",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When in a tunnel, The Xenomorph's offscreen indicator tracking moving Survivors no longer jitters",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When The Xenomorph is in a tunnel, the horizontal distance no longer counts towards perks with distance requirements",
+    "Flame Turrets can no longer be placed in such a way as to to block passage for the Killer or partially block access for Survivors",
+    "Fixed an infrequent crash when Starting a custom match as The Xenomorph",
+    "Breaking down a Flame Turret while holding a limited item no longer causes the Survivor to be unable to pick up or place the Turret",
+    "The Xenomorph's tail placement is no longer affected by Survivors",
+    "The Xenomorph no longer alerts crows on the map while in Runner Mode",
+    "Placeholder white orb is no longer visible in Haddonfield when the killer is The Xenomorph",
+    "The Flame Turret's detection radius VFX no longer remains visible when performing other animations while holding the Flame Turret",
+    "The Flame Turret no longer rotates in Survivors' hands when performing gestures",
+    "Survivors who are grabbed from a Locker no longer keep their Flame Turret",
+    "When exiting a Control Station as The Xenomorph, it is no longer possible to briefly see out of world",
+    "The Acidic Blood Add-On now displays the correct icon when exiting a Tunnel",
+    "Survivors can no longer pick up multiple Flame Turrets at once",
+    "Performing a \"Break Down Flame Turret\" action while screaming no longer causes the Flame Turret's fire VFX to play incorrectly",
+    "The haste effect icon is now shown properly when playing The Xenomorph with Parker's Headband Add-On",
+    "The Xenomorph no longer pops into view in the Main Menu",
+    "When in a tunnel, The Xenomorph's offscreen indicator tracking moving Survivors no longer jitters"
+   ],
+   "character": "The Xenomorph"
+  },
+  {
+   "entity": "Perks - The Xenomorph and Ellen Ripley (since PTB)",
+   "cat": "system",
+   "section": "Perks - The Xenomorph and Ellen Ripley (since PTB)",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Xenomorph and Ellen Ripley perks are now in the right order in the Character Info section",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Xenomorph's Tail attacks now correctly consume Play With Your Food Tokens",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Blast Mine and Wiretap can no longer be placed on generators with zero progress",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Chemical Trap no longer stays active after being broken by one of The Knight's Guards",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Chemical Trap's HUD indicator no longer starts with progress or ends early",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Xenomorph and Ellen Ripley perks are now in the right order in the Character Info section",
+    "The Xenomorph's Tail attacks now correctly consume Play With Your Food Tokens",
+    "Blast Mine and Wiretap can no longer be placed on generators with zero progress",
+    "The Chemical Trap no longer stays active after being broken by one of The Knight's Guards",
+    "Chemical Trap's HUD indicator no longer starts with progress or ends early"
+   ]
+  },
+  {
+   "entity": "Audio",
+   "cat": "system",
+   "section": "Audio",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Killer audio such as footsteps once again correctly plays in the Tally screen",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Some of the Xenomorph footsteps sound are no longer missing for some quadruped animations",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots now avoid running to heal a downed Survivor with a nearby Killer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Killer audio such as footsteps once again correctly plays in the Tally screen",
+    "Some of the Xenomorph footsteps sound are no longer missing for some quadruped animations",
+    "Bots",
+    "Bots now avoid running to heal a downed Survivor with a nearby Killer"
+   ]
+  },
+  {
+   "entity": "Characters",
+   "cat": "system",
+   "section": "Characters",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Multiple Jonesy's will no longer spawn as part of menu idle animations",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Multiple Jonesy's will no longer spawn as part of menu idle animations"
+   ]
+  },
+  {
+   "entity": "Platforms",
+   "cat": "system",
+   "section": "Platforms",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Removed incorrectly distributed \"Attack on Titan\" cosmetics for players on the Windows Store",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Players on Switch with improperly synchronized time can now correctly start the game",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Removed incorrectly distributed \"Attack on Titan\" cosmetics for players on the Windows Store",
+    "Players on Switch with improperly synchronized time can now correctly start the game"
+   ]
+  },
+  {
+   "entity": "UI",
+   "cat": "system",
+   "section": "UI",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Report Feedback popup should now be correctly localized",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Legion and Micheal Myers now have new portrait renders on the selection screen",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Report Feedback popup should now be correctly localized",
+    "Legion and Micheal Myers now have new portrait renders on the selection screen"
+   ]
+  },
+  {
+   "entity": "Misc",
+   "cat": "system",
+   "section": "Misc",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Fixed a crash that could occur when queueing up for a Trial",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Restored missing Cosmetics that were reported as lost since the 7.1.0 release",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Fixed a crash that could occur when queueing up for a Trial",
+    "Restored missing Cosmetics that were reported as lost since the 7.1.0 release"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where Bot Loadout slots greyed out when nothing equipped.",
+    "Fixed an issue where the online subsection within social menu gets reset when choosing to restore defaults in another section of the Options."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue where the wrong killer's power could appear in the Loadout menu, preventing equipping Add-ons.",
+    "Fixed an issue where the game crashes when The Cenobite teleports to the Lament Configuration."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused Jonesy to not appear and disappear correctly in the lobby",
+    "Fixed an issue that caused the laser to be too intense when playing against the Xenomorph",
+    "Fixed an issue that caused the The Hillbilly, to clip through the camera when using the basic attack or hooking a survivor.",
+    "Fixed an issue that caused The Singularity to drop carried Survivors on the ground between its legs, rather than dropping them on its left side.",
+    "Fixed an issue that caused The Spirit's sword to not fully reset when attacking twice while holding a Survivor.",
+    "Fixed an issue that caused male Survivors to hold the First Aid Spray towards themselves when using it on a teammate in a Trial.",
+    "Fixed an issue that caused the Skull Merchant's elbow to bend and stretch during the idle animation in the lobby when equipped with the \"Executive Terror\" Torso cosmetic.",
+    "Fixed an issue that caused Survivors to still hold a VHS tape when attempting to retrieve it from a TV set after losing a VHS tape by getting hit from The Onryo."
+   ]
+  }
+ ]
+}

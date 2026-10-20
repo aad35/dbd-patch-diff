@@ -1,0 +1,19 @@
+{
+ "id": "7.7.0A",
+ "version": "7.7.0A",
+ "kind": "release",
+ "title": "7.7.0A | Bugfix Patch (Tentative Strobing Fix)",
+ "date": "2024-04-26",
+ "url": "https://store.steampowered.com/news/app/381210/view/4170972198122834038?l=english",
+ "changes": [],
+ "fixes": [
+  {
+   "group": "Bug fix",
+   "items": [
+    "Tentatively fixed an issue causing strobing / flashing white lights.",
+    "This fix is applied to Steam and Epic Game Store initially.",
+    "Please advise if you continue to encounter the flashing lights after downloading the hotfix in the Steam discussion thread."
+   ]
+  }
+ ]
+}

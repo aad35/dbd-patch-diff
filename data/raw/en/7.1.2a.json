@@ -1,0 +1,10 @@
+{
+ "version": "7.1.2a",
+ "kind": "release",
+ "id": "7.1.2a",
+ "title": "7.1.2a | Bugfix Patch",
+ "gid": "6199820457253346350",
+ "posttime": 1692109911,
+ "url": "https://store.steampowered.com/news/app/381210/view/6199820457253346350?l=english",
+ "body": "[img]{STEAM_CLAN_IMAGE}/11814497/01f0b4ee1318479df15f120d5fec80c10a07226e.png[/img]\n\n[h1]Release Information[/h1]\n\nUpdate Releases: 11AM ET\n\n[h1]Content[/h1]\n\n[h2]Bug Fixes[/h2]\n[list]\n[*] Steam and EGS: Fixed an issue that caused Stadia owned entitlements to be no longer available since the 7.1.0 release\n[/list]"
+}

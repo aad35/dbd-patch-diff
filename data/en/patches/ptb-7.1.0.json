@@ -1,0 +1,836 @@
+{
+ "id": "ptb-7.1.0",
+ "version": "7.1.0",
+ "kind": "ptb",
+ "title": "7.1.0 | PTB",
+ "date": "2023-07-05",
+ "url": "https://store.steampowered.com/news/app/381210/view/3657534571531776196?l=english",
+ "changes": [
+  {
+   "entity": "Bots",
+   "cat": "system",
+   "section": "Bots",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Disconnected Survivors will be replaced with Bots",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added support for new perks for Bots: Dramaturgy and Plot Twist",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Disconnected Survivors will be replaced with Bots",
+    "Added support for new perks for Bots: Dramaturgy and Plot Twist"
+   ]
+  },
+  {
+   "entity": "UI",
+   "cat": "system",
+   "section": "UI",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Brand New Character Portraits added for Survivors and Killers",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "New visuals for Store flags (limited time items) and New Items across all menus",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Consent popup now shows earlier",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Brand New Character Portraits added for Survivors and Killers",
+    "New visuals for Store flags (limited time items) and New Items across all menus",
+    "Consent popup now shows earlier"
+   ]
+  },
+  {
+   "entity": "Perks Dramaturgy",
+   "cat": "survivor",
+   "section": "New Survivor: Nicolas Cage",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Activates while you are healthy. While running, press the Active Ability Button 2 to run with knees high for 0.5 seconds and then gain 25% Haste for 2 seconds, followed by an unknown effect (one of the following)",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Exposed for 12 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Gain 25% Haste for 2 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Scream, but nothing happens",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Gain a random rare item in hand with random add-ons and drop any held item",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The same effect cannot happen twice in a row. Causes exhaustion for 60/50/40. Can't be used while exhausted. Scene Partner: Activates when you are in the Killer's Terror Radius. Whenever you look at the Killer, scream, then see the Killer's aura for 3/4/5 seconds. There is a chance you will scream again, if you do, you will see the Killer's aura for an additional 2 seconds. Scene Partner then goes on cool-down for 60 seconds. Plot Twist: Activates when you are injured. Press the Active Ability Button 2 while crouched and motionless to silently enter the dying state. When using Plot Twist to enter the dying state, you leave no blood pools, make no noise, and you can fully recover from the dying state. When you recover by yourself using Plot Twist, you are fully healed instantly and you gain 50% Haste for 2/3/4 seconds. This perk deactivates if you recover by yourself by any means. The perk re-activates when the exit gates are powered",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Activates while you are healthy. While running, press the Active Ability Button 2 to run with knees high for 0.5 seconds and then gain 25% Haste for 2 seconds, followed by an unknown effect (one of the following)",
+    "Exposed for 12 seconds",
+    "Gain 25% Haste for 2 seconds",
+    "Scream, but nothing happens",
+    "Gain a random rare item in hand with random add-ons and drop any held item",
+    "The same effect cannot happen twice in a row. Causes exhaustion for 60/50/40. Can't be used while exhausted. Scene Partner: Activates when you are in the Killer's Terror Radius. Whenever you look at the Killer, scream, then see the Killer's aura for 3/4/5 seconds. There is a chance you will scream again, if you do, you will see the Killer's aura for an additional 2 seconds. Scene Partner then goes on cool-down for 60 seconds. Plot Twist: Activates when you are injured. Press the Active Ability Button 2 while crouched and motionless to silently enter the dying state. When using Plot Twist to enter the dying state, you leave no blood pools, make no noise, and you can fully recover from the dying state. When you recover by yourself using Plot Twist, you are fully healed instantly and you gain 50% Haste for 2/3/4 seconds. This perk deactivates if you recover by yourself by any means. The perk re-activates when the exit gates are powered"
+   ]
+  },
+  {
+   "entity": "Projection",
+   "cat": "killer",
+   "section": "Updated Killer: The Onryo",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Projecting to a TV now applies ¾ of a stack of Condemned to all Survivors not carrying a Cursed Tape",
+     "after": null,
+     "before": "1 stack to nearby Survivors",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The time a TV is disabled after The Onryo Projects to it has been reduced to 70 seconds",
+     "after": null,
+     "before": "100 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "The time a TV is disabled after a Survivor removes the Cursed Tape has been increased to 90 seconds",
+     "after": null,
+     "before": "60 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Projecting to a TV now applies ¾ of a stack of Condemned to all Survivors not carrying a Cursed Tape (was 1 stack to nearby Survivors)",
+    "The time a TV is disabled after The Onryo Projects to it has been reduced to 70 seconds (was 100 seconds). This can be further reduced using Add-ons",
+    "The time a TV is disabled after a Survivor removes the Cursed Tape has been increased to 90 seconds (was 60 seconds)",
+    "Projection now has a 15 second cooldown. Since there is no longer a range limit on the Condemned effect, a limit is required for how frequently this can happen"
+   ]
+  },
+  {
+   "entity": "Cursed Tapes",
+   "cat": "killer",
+   "section": "Updated Killer: The Onryo",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Getting hit with a Basic Attack while carrying a Cursed Tape will apply one stack of Condemned",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When a Survivor carrying a Cursed Tape is hooked, all other Survivors gain one stack of Condemned and the Tape is destroyed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Holding a Cursed Tape no longer passively builds Condemned",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Cursed Tapes can now be placed in any TV other than the one they were retrieved from",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Getting hit with a Basic Attack while carrying a Cursed Tape will apply one stack of Condemned",
+    "When a Survivor carrying a Cursed Tape is hooked, all other Survivors gain one stack of Condemned and the Tape is destroyed",
+    "Holding a Cursed Tape no longer passively builds Condemned",
+    "Cursed Tapes can now be placed in any TV other than the one they were retrieved from"
+   ]
+  },
+  {
+   "entity": "Demanifestation",
+   "cat": "killer",
+   "section": "Updated Killer: The Onryo",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Onryo can no longer be stunned while Demanifested",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Chases are prevented when Demanifested, making it more difficult to keep track of The Onryo’s position",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Demanifesting now removes Bloodlust, similar to other Killer Powers",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Onryo can no longer be stunned while Demanifested",
+    "Chases are prevented when Demanifested, making it more difficult to keep track of The Onryo’s position",
+    "Demanifesting now removes Bloodlust, similar to other Killer Powers"
+   ]
+  },
+  {
+   "entity": "Hook Grabs",
+   "cat": "killer",
+   "section": "Hook Grabs",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Grabs from unhooking Survivors have been removed. This means that the awkward mindgame when unhooking has been eliminated, helping to improve the gameplay flow. You still aren't safe whilst unhooking however, as the Killer will still be able to hit you twice before you can escape",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Grabs from unhooking Survivors have been removed. This means that the awkward mindgame when unhooking has been eliminated, helping to improve the gameplay flow. You still aren't safe whilst unhooking however, as the Killer will still be able to hit you twice before you can escape"
+   ]
+  },
+  {
+   "entity": "Toolbox Add-On Updates",
+   "cat": "killer",
+   "section": "Toolbox Add-On Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Brand New Part - new functionality",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Toolbox Repair action is replaced with Install Brand New Part",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "During the installation, you will be faced with a difficult Skill Check",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Upon succeeding the Skill Check, the generator's required charges are reduced by 10",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Brand New Part - new functionality",
+    "Toolbox Repair action is replaced with Install Brand New Part",
+    "During the installation, you will be faced with a difficult Skill Check",
+    "Upon succeeding the Skill Check, the generator's required charges are reduced by 10"
+   ],
+   "devNote": "This add-on is consumed after use."
+  },
+  {
+   "entity": "Coup de Grace",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Each time a generator is completed, Coup de Grâce grows in power. Gain 2 tokens, with a maximum of 5 tokens at one time. Consume one token to increase the distance of your next lunge attack by 70%/75%/80%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Each time a generator is completed, Coup de Grâce grows in power. Gain 2 tokens, with a maximum of 5 tokens at one time. Consume one token to increase the distance of your next lunge attack by 70%/75%/80%"
+   ]
+  },
+  {
+   "entity": "Claustrophobia",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Every time a generator is completed, all windows and vault locations are blocked for all Survivors for the next 20/25/30 seconds. You see the aura of the vault locations blocked by Claustrophobia for the duration",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hang Man's Trick → Scourge Hook: Hangman's Trick",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Gain a notification when someone starts sabotaging a hook. While carrying a Survivor, see the aura of any Survivor within 8/9/10 meters of a scourge hook",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Every time a generator is completed, all windows and vault locations are blocked for all Survivors for the next 20/25/30 seconds. You see the aura of the vault locations blocked by Claustrophobia for the duration",
+    "Hang Man's Trick → Scourge Hook: Hangman's Trick",
+    "Gain a notification when someone starts sabotaging a hook. While carrying a Survivor, see the aura of any Survivor within 8/9/10 meters of a scourge hook"
+   ]
+  },
+  {
+   "entity": "Territorial Imperative",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Unlocks potential in one's aura reading ability. Survivors' auras are revealed to you for 4/5/6 seconds when they enter the basement and you are more than 24 meters away from the basement entrance. Territorial Imperative can only be triggered once every 45 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Remember Me",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Each time your Obsession loses a health state, gain a token. Each token increases the opening time of the exit gates by 6 seconds up to a maximum of 12/18/24 additional seconds. The obsession is not affected by Remember Me",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Unlocks potential in one's aura reading ability. Survivors' auras are revealed to you for 4/5/6 seconds when they enter the basement and you are more than 24 meters away from the basement entrance. Territorial Imperative can only be triggered once every 45 seconds",
+    "Remember Me",
+    "Each time your Obsession loses a health state, gain a token. Each token increases the opening time of the exit gates by 6 seconds up to a maximum of 12/18/24 additional seconds. The obsession is not affected by Remember Me"
+   ]
+  },
+  {
+   "entity": "Hex: Crowd Control",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Entity blocks a window for 40/50/60 seconds after a Survivor performs a rushed vault through it. The Hex effects persist as long as the related Hex Totem is standing",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Trail of Torment",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "After kicking a generator, you become Undetectable until the generator stops regressing. During this time, the generator's yellow aura is revealed to survivors. This effect can only trigger once every 80/70/60 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Entity blocks a window for 40/50/60 seconds after a Survivor performs a rushed vault through it. The Hex effects persist as long as the related Hex Totem is standing",
+    "Trail of Torment",
+    "After kicking a generator, you become Undetectable until the generator stops regressing. During this time, the generator's yellow aura is revealed to survivors. This effect can only trigger once every 80/70/60 seconds"
+   ]
+  },
+  {
+   "entity": "Prove Thyself",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "For every other Survivor working on a generator within a 4 meter range, gain 6%/8%/10% repair speed bonus. This same bonus is also applied to all other Survivors within range. Survivors can only be affected by one Prove Thyself effect at a time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "For every other Survivor working on a generator within a 4 meter range, gain 6%/8%/10% repair speed bonus. This same bonus is also applied to all other Survivors within range. Survivors can only be affected by one Prove Thyself effect at a time"
+   ]
+  },
+  {
+   "entity": "We're Gonna Live Forever",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Adjusted description to indicate that it works for ALL blinds, not just flashlights",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Adjusted description to indicate that it works for ALL blinds, not just flashlights"
+   ]
+  },
+  {
+   "entity": "Blast Mine",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Blast Mine activates after completing a total of 50% worth of repair progress on generators. After repairing a generator for at least 3 seconds, press the Active Ability Button 1 to install a trap which stays active for 100/110/120 seconds. Affected generators will be revealed to all Survivors by a yellow aura. Only one trap can be active on a generator. When the Killer kicks a trapped generator, the trap explodes, stunning them and blinding anyone nearby. Blast Mine is then deactivated",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Blast Mine activates after completing a total of 50% worth of repair progress on generators. After repairing a generator for at least 3 seconds, press the Active Ability Button 1 to install a trap which stays active for 100/110/120 seconds. Affected generators will be revealed to all Survivors by a yellow aura. Only one trap can be active on a generator. When the Killer kicks a trapped generator, the trap explodes, stunning them and blinding anyone nearby. Blast Mine is then deactivated"
+   ]
+  },
+  {
+   "entity": "Wiretap",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Wiretap activates after completing a total of 50% worth of repair progress on generators. After repairing a Generator for at least 3 seconds, press the Active Ability Button 1 to install a spy trap, which stays active for 100/110/120 seconds. Affected generators will be revealed to all Survivors by a yellow aura. Only one trap can be active on a generator. When the Killer enters within 14 meters of the trapped generator, their aura is revealed to all Survivors. Damaging the generator destroys the trap",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Wiretap activates after completing a total of 50% worth of repair progress on generators. After repairing a Generator for at least 3 seconds, press the Active Ability Button 1 to install a spy trap, which stays active for 100/110/120 seconds. Affected generators will be revealed to all Survivors by a yellow aura. Only one trap can be active on a generator. When the Killer enters within 14 meters of the trapped generator, their aura is revealed to all Survivors. Damaging the generator destroys the trap"
+   ]
+  },
+  {
+   "entity": "Saboteur",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "See hook auras in a 56-meter radius from the pickup spot if a Survivor is being carried. Scourge Hooks are shown in yellow. Unlocks the ability to sabotage hooks without a toolbox. Sabotaging a hook without a Toolbox takes 2.3 seconds. The sabotage action has a 70/65/60-second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "See hook auras in a 56-meter radius from the pickup spot if a Survivor is being carried. Scourge Hooks are shown in yellow. Unlocks the ability to sabotage hooks without a toolbox. Sabotaging a hook without a Toolbox takes 2.3 seconds. The sabotage action has a 70/65/60-second cooldown"
+   ]
+  },
+  {
+   "entity": "Clairvoyance",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Clairvoyance activates whenever you cleanse or bless a Totem. When empty-handed, hold the Ability button to unlock your full aura-reading potential. For up to 8/9/10 seconds, you see the auras of exit gate switches, generators, hooks, chests and the Hatch within a 64-meter range",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Clairvoyance activates whenever you cleanse or bless a Totem. When empty-handed, hold the Ability button to unlock your full aura-reading potential. For up to 8/9/10 seconds, you see the auras of exit gate switches, generators, hooks, chests and the Hatch within a 64-meter range"
+   ]
+  },
+  {
+   "entity": "Breakout",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When within 5 meters of a carried Survivor, you gain the Haste status effect, moving at 5%/6%/7% increased speed. The carried Survivor’s wiggle speed is increased by 25%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When within 5 meters of a carried Survivor, you gain the Haste status effect, moving at 5%/6%/7% increased speed. The carried Survivor’s wiggle speed is increased by 25%"
+   ]
+  },
+  {
+   "entity": "Buckle Up",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "While healing a Survivor in the dying state, you both can see the Killer's aura. When completing healing a Survivor from the dying state to injured, both you and the healed Survivor gain Endurance for 6/8/10 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "While healing a Survivor in the dying state, you both can see the Killer's aura. When completing healing a Survivor from the dying state to injured, both you and the healed Survivor gain Endurance for 6/8/10 seconds"
+   ]
+  },
+  {
+   "entity": "Smash Hit",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "After stunning the Killer with a pallet, break into a sprint at 150% your normal running speed for 4 seconds. Causes the Exhausted status effect for 30/25/20 seconds. This perk cannot be used while Exhausted",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "After stunning the Killer with a pallet, break into a sprint at 150% your normal running speed for 4 seconds. Causes the Exhausted status effect for 30/25/20 seconds. This perk cannot be used while Exhausted"
+   ]
+  },
+  {
+   "entity": "Spine Chill",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Get notified when the Killer within a 36-meter range. If the Killer is within range and is looking at you with a clear line of sight, your speed while repairing, sabotaging, healing, unhooking, cleansing, blessing, opening exit gates and unlocking is increased by 2%/4%/6%. The effects of Spine Chill linger for 0.5 seconds after the Killer looks away or is out of range",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Get notified when the Killer within a 36-meter range. If the Killer is within range and is looking at you with a clear line of sight, your speed while repairing, sabotaging, healing, unhooking, cleansing, blessing, opening exit gates and unlocking is increased by 2%/4%/6%. The effects of Spine Chill linger for 0.5 seconds after the Killer looks away or is out of range"
+   ]
+  },
+  {
+   "entity": "The Executioner",
+   "cat": "killer",
+   "section": "Killer Tweaks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "If he comes within 10 meters of a cage, it will disappear and reappear elsewhere on the map (used to be 5)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "If he comes within 10 meters of a cage, it will disappear and reappear elsewhere on the map (used to be 5)"
+   ],
+   "character": "The Executioner"
+  },
+  {
+   "entity": "The Spirit",
+   "cat": "killer",
+   "section": "Killer Tweaks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Mother-Daughter Ring - the movement speed bonus has been reduced to 25%",
+     "after": null,
+     "before": "40%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Dried Cherry Blossom - the Killer Instinct range of Dried Cherry Blossom has been reduced to 3 meters",
+     "after": null,
+     "before": "4 meters",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Origami Crane - Origami Crane now increases the recovery rate of Yamaoka’s Haunting by 20%",
+     "after": null,
+     "before": "10%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Rusty Flute - Rusty Flute now increases the recovery rate of Yamaoka’s Haunting by 40%",
+     "after": null,
+     "before": "25%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Mother-Daughter Ring - the movement speed bonus has been reduced to 25% (was 40%)",
+    "Dried Cherry Blossom - the Killer Instinct range of Dried Cherry Blossom has been reduced to 3 meters (was 4 meters)",
+    "Yakuyoke Amulet, Shiawase Amulet and Kaiun Talisman - these Add-ons will no longer cause Yamaoka’s Haunting to recharge faster",
+    "Origami Crane - Origami Crane now increases the recovery rate of Yamaoka’s Haunting by 20% (was 10%)",
+    "Rusty Flute - Rusty Flute now increases the recovery rate of Yamaoka’s Haunting by 40% (was 25%)"
+   ],
+   "character": "The Spirit"
+  },
+  {
+   "entity": "The Hag",
+   "cat": "killer",
+   "section": "Killer Tweaks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Waterlogged Shoe - the movement speed boost has been increased to 7.5%",
+     "after": null,
+     "before": "4.5%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Half Egg Shell and Cracked Turtle Egg - Half Egg Shell now increased Phantasm Trap duration by 45%",
+     "after": null,
+     "before": "30%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "and Cracked Turtle Egg now increases Phantasm Trap duration by 55%",
+     "after": null,
+     "before": "35%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Waterlogged Shoe - the movement speed boost has been increased to 7.5% (was 4.5%)",
+    "Mint Rag - the teleport cooldown has been reduced to 10 seconds",
+    "Half Egg Shell and Cracked Turtle Egg - Half Egg Shell now increased Phantasm Trap duration by 45% (was 30%), and Cracked Turtle Egg now increases Phantasm Trap duration by 55% (was 35%)"
+   ],
+   "character": "The Hag"
+  },
+  {
+   "entity": "Level Design",
+   "cat": "system",
+   "section": "Level Design",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Rebalance on the Fractured Cowshed and Rancid Abattoir maps",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Modified the layout of the map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Modified the main building access",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Globally changed the content on the Coldwind Farm Realm including more gameplays in the fence tiles",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Coldwind Farm Realm has received updated the corn tiles with added detail",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Rebalance on the Fractured Cowshed and Rancid Abattoir maps",
+    "Modified the layout of the map",
+    "Modified the main building access",
+    "Globally changed the content on the Coldwind Farm Realm including more gameplays in the fence tiles",
+    "Coldwind Farm Realm has received updated the corn tiles with added detail"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Bug Fixes",
+   "items": [
+    "Fixed an issue where blockers would prevent players from navigating in the Mothers Dwelling map",
+    "Fixed an issue in the Raccoon City Police Station where zombies would get stuck",
+    "Fixed an issue where a survivor would clip through the doors of a locker in the Torment Creek map",
+    "Fixed an issue in the Fractured Cowshed where the Clown's gas clipper through the walls",
+    "Fixed a collision issue on the Torment Creek Map",
+    "Fixed a collision issue around the barn in the Fractured cowshed map",
+    "Fixed an issue where shows wrong error message of \"Host unreachable\".",
+    "Fixed an issue where shows corrupted data error popup unproperly.",
+    "Fixed an issue that caused loadout sometimes are equipped in Trials when all Match Management settings are set to None in custom game.",
+    "Tentatively fixed an issue that some players aren't able to unlock Adept achievements when meeting the requirements."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Fixed an issue where bots keep getting caught in the same trap if a pallet is not broken.",
+    "Fixed an issue that cause Survivor bots repeatedly restart the use of their flashlight when attempting to Blind a Killer."
+   ]
+  },
+  {
+   "group": "Console",
+   "items": [
+    "Fixed an issue that caused trophies to not get updated properly when changing device of PS4 or PS5.",
+    "Fixed an issue where Auric Cells expired at an incorrect time in Japan on Xbox.",
+    "Fixed an issue that caused the trial to be seen when entering tally screen by disconnecting the controller, waiting a short time then reconnecting.",
+    "Fixed an issue that cause Attack on Titan charms to not being given on Switch.",
+    "Tentatively fixed an issue which caused error 8,001 happens on Windows Store.",
+    "Fixed an issue which caused the subtitle \"On\" setting to be disabled when restarting the game."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused many killers to not follow the rule of looking down after successfully hitting a survivor.",
+    "Fixed an issue that caused some killers to not follow the rule of looking down when damaging a generator.",
+    "Fixed an issue that caused Ghost Face to fail to play the attack animation and instead play the standing-up animation when performing a basic attack while crouched.",
+    "Fixed an issue that caused The Clown's Afterpiece bottle in his left hand to become invisible during the reload animation when reloading bottles as The Clown.",
+    "Fixed an issue that caused the VHS tape model to remain in Survivors' hands even after they inserted it into a TV.",
+    "As The Wraith, the lingering undetectable status effect icon is correctly displayed when Uncloaking with \"The Ghost - Soot\" add-on equipped",
+    "The Knight has a more robust strategy to prevent becoming stuck in Orb Patrol on top obstacles",
+    "Survivors no longer get stuck with a Lament Configuration when they get downed while picking it up",
+    "The HUD no longer can disappear after triggering the Shape's standing mori",
+    "The Demogorgon's Shred is no longer cancelled when pressing the Esc key",
+    "When throwing an Afterpiece Antidote close to an obstacle, the emanation will no longer incorrectly become an Afterpiece Tonic.",
+    "The charge bar now correctly visibly depletes on Items dropped by Franklin's Demise until the player leaves and returns to the dropped item",
+    "Skill Checks which hit the edge of the success zone during the Merciless Storm are no longer handled as fails",
+    "Survivors can no longer see the Red Stain or hear the Terror Radius when the Demogorgon uses a portal",
+    "The Deathslinger's projectile is no longer cancelled when a survivor performs a rushed action",
+    "The Black Ward now works correctly when controlling Victor at the end of the trial",
+    "Adept achievements are now correctly unlocked in all cases when meeting the requirements",
+    "The Medkit bonus progression on a great skill check now have the correct values",
+    "When Wesker performs a Virulent Bound on a fully-infected survivor vaulting a pallet or window, the survivor will no longer incorrectly be grabbed and slammed",
+    "Hex: Face The Darkness no longer incorrectly affects Survivors on hooks",
+    "The Hindered Status effect from the \"Waterlogged Shoe\" Hag add-on no longer persists indefinitely when two Survivors trigger the Phantasm Trap and remain inside the radius",
+    "The Cannibal no longer takes too long to reach maximum max speed when using the Carburetor Tuning Guide",
+    "The Nurse can no longer start holding the Killer Power button when a Blink is not currently charged to be able to Blink once it becomes charged",
+    "The Shape is no longer returned to level 1 of Evil Within if someone disconnects during the standing mori"
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "FFixed an issue where the loadout page is reset when the host changed the match management setting.",
+    "Fixed an issue which prevented adding a 4th bot due to player lists overlapping the button.",
+    "Fixed an issue where icons that should not be visible are visible while observing other players.",
+    "Fixed an issue where the challenge tracker is dismissed too fast.",
+    "Fixed an issue where the currency tooltip is behind survivor names in the lobby."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "version": "8.1.1a",
+ "kind": "release",
+ "id": "8.1.1a",
+ "title": "8.1.1a | Hotfix",
+ "gid": "4327480529710258030",
+ "posttime": 1722436204,
+ "url": "https://store.steampowered.com/news/app/381210/view/4327480529710258030?l=english",
+ "body": "[img]{STEAM_CLAN_IMAGE}/11814497/acf63df977d503dc35f78e7ee82ed3475862b978.png[/img]\n[i]This update will release as soon as it becomes available on each platform. Players on version 8.1.1a will be unable to matchmake or join parties with players on version 8.1.1.[/i]\n\n[h3]Bug Fixes[/h3]\n[list]\n[*]Fixed an issue which caused a desync between the map tiles generated on the server and what players see\n[/list]"
+}

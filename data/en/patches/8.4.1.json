@@ -1,0 +1,344 @@
+{
+ "id": "8.4.1",
+ "version": "8.4.1",
+ "kind": "release",
+ "title": "8.4.1 | Bugfix Patch",
+ "date": "2024-12-09",
+ "url": "https://store.steampowered.com/news/app/381210/view/4461474037375174493?l=english",
+ "changes": [
+  {
+   "entity": "The Houndmaster - Basekit",
+   "cat": "killer",
+   "section": "The Houndmaster - Basekit",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Chase Command cooldown reduced to 4 seconds",
+     "after": null,
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Completed Generators now appear light orange to The Houndmaster after charging Search Command",
+     "after": null,
+     "before": "Completed Generators were visible at all times",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Houndsense Radius only visible to a Survivor when the dog is within 20 meters of them",
+     "after": null,
+     "before": "was visible at any range",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Chase Command cooldown reduced to 4 seconds (was 5 seconds)",
+    "Completed Generators now appear light orange to The Houndmaster after charging Search Command (previously Completed Generators were visible at all times)",
+    "Houndsense Radius only visible to a Survivor when the dog is within 20 meters of them (previously was visible at any range)",
+    "Survivors afflicted with Houndsense appear with reduced color and opacity outline to The Houndmaster (red tint used to blend too much with Killer Instinct feedback)"
+   ],
+   "character": "The Houndmaster"
+  },
+  {
+   "entity": "Training Bell",
+   "cat": "killer",
+   "section": "The Houndmaster - Addons",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Survivor aura reveals to 8 seconds",
+     "after": null,
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Survivor aura reveals to 8 seconds (was 5 seconds)"
+   ]
+  },
+  {
+   "entity": "Spiked Collar",
+   "cat": "killer",
+   "section": "The Houndmaster - Addons",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increase the duration of the Mangled and Haemorrhage status effects to 60 seconds",
+     "after": null,
+     "before": "45 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increase the duration of the Mangled and Haemorrhage status effects to 60 seconds (was 45 seconds)"
+   ]
+  },
+  {
+   "entity": "Gunpowder Tin",
+   "cat": "killer",
+   "section": "The Houndmaster - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Reduced the action speed bonus to 30%",
+     "after": null,
+     "before": "40%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Reduced the action speed bonus to 30% (was 40%)"
+   ]
+  },
+  {
+   "entity": "Marlinspike",
+   "cat": "killer",
+   "section": "The Houndmaster - Addons",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated effect to exclude grabbed Survivor from receiving Houndsense",
+     "after": null,
+     "before": "previously all Survivors within 20m of location of Dog Grab",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated effect to exclude grabbed Survivor from receiving Houndsense (was previously all Survivors within 20m of location of Dog Grab) Description updated to reflect change of effect"
+   ]
+  },
+  {
+   "entity": "Medusa's Hair",
+   "cat": "killer",
+   "section": "The Dark Lord - Addons",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased the Hindered penalty to 8%",
+     "after": null,
+     "before": "15%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the Hindered penalty duration to 3 seconds",
+     "after": null,
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the Hindered penalty to 8%. (was 15%) Decreased the Hindered penalty duration to 3 seconds. (was 5 seconds)"
+   ]
+  },
+  {
+   "entity": "The Demogorgon - Basekit",
+   "cat": "killer",
+   "section": "The Demogorgon - Basekit",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increase Upside Down suggested velocity to 32 m/s",
+     "after": null,
+     "before": "28 m/s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increase Upside Down suggested velocity to 32 m/s (was 28 m/s)"
+   ],
+   "character": "The Demogorgon"
+  },
+  {
+   "entity": "The Good Guy - Basekit",
+   "cat": "killer",
+   "section": "The Good Guy - Basekit",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased Hidey-Ho Mode's cooldown to 14 seconds",
+     "after": null,
+     "before": "12 sec",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased Slice & Dice duration to 1.8 sec",
+     "after": null,
+     "before": "1.2 sec",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Slice & Dice movement speed to 8 m/s",
+     "after": null,
+     "before": "10 m/s",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increased Hidey-Ho Mode's cooldown to 14 seconds (was 12 sec)",
+    "Increased Slice & Dice duration to 1.8 sec. (was 1.2 sec)",
+    "Decreased Slice & Dice movement speed to 8 m/s. (was 10 m/s)"
+   ],
+   "character": "The Good Guy"
+  },
+  {
+   "entity": "The Shape - Basekit",
+   "cat": "killer",
+   "section": "The Shape - Basekit",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Evil Within gain multiplier when stalking from up close to 0.6",
+     "after": null,
+     "before": "0.4",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Evil Within gain multiplier when stalking from up close to 0.6 (was 0.4)"
+   ],
+   "character": "The Shape"
+  },
+  {
+   "entity": "Human Greed",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You see Unopened Chests auras and Survivor auras are revealed for 3/4/5 seconds when they enter a 8/8/8-meter range",
+     "after": null,
+     "before": "3/3/3 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "You also gain the ability to kick chests to close them. This ability has a 10/10/10-second cooldown",
+     "after": null,
+     "before": "30/25/20 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "You see Unopened Chests auras and Survivor auras are revealed for 3/4/5 seconds when they enter a 8/8/8-meter range. (was 3/3/3 seconds) You also gain the ability to kick chests to close them. This ability has a 10/10/10-second cooldown. (was 30/25/20 seconds)"
+   ]
+  },
+  {
+   "entity": "Weave Attunement",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When any item becomes depleted for the first time each match, it is dropped. You see the auras of dropped items. Survivors within 12 meters of dropped items have their auras revealed to you",
+     "after": null,
+     "before": "8 meters",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When any item becomes depleted for the first time each match, it is dropped. You see the auras of dropped items. Survivors within 12 meters of dropped items have their auras revealed to you. (was 8 meters) Affected Survivors see the item's aura. When a Survivor picks up a Survivor item, they suffer the Oblivious status effect for 20/25/30 seconds"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Archives & Events",
+   "items": [
+    "Fixed an issue where the challenge \"Means To An End\" in Tome 6 - DIVERGENCE was not properly tracking progress from successful pallet stuns after a dropped pallet was reset.",
+    "The Tome 6 challenge Means To An End can now be correctly completed"
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue that caused Memory Shard idling sound to be audible after collecting it.",
+    "Fixed an issue that caused the Demogorgon to be able to spam Grunts while interacting with a Glyph.",
+    "Fixed an issue that caused The Skull Merchant's Radar to persist when inspecting the Radar multiple time.",
+    "Fixed an issue that caused The Spirit and Yun-Jin Lee to play the wrong menu theme music for their 'Cozy Break' outfits.",
+    "Fixed an issue that caused The Dark Lord Hellfire's sound to keep playing after getting Stunned during charging."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused the Lute to not dissolve after selecting any item for Aestri Yazar or Baermar Uraz.",
+    "Updated the animation for Female Survivors: it is now intentional for them to no longer grip the Huntress's axe during the Memento Mori.",
+    "The Lich's Fly spell can now correctly fly through vaults when the Survivor is on another side",
+    "Survivors' M1 action to remove The Doctor's Madness no longer randomly fails",
+    "Getting downed by Deep Wound while in the Struggle phase with a Mimic no longer locks the animation",
+    "Fixed an issue that caused the Plague to no longer have a cooldown when cancelling Vile Purge.",
+    "The Cenobite's chains correctly spawn faster while a Survivor blesses a totem while carrying the Lament Configuration"
+   ]
+  },
+  {
+   "group": "The Houndmaster",
+   "items": [
+    "Fixed an issue that caused the Dog to grab Survivors that are being killed by the Entity during the End Game Collapse.",
+    "Fixed an issue that caused the Dog's Chase command to always vault if it is next to a vault location in Redirect mode.",
+    "Fixed an issue that caused the trail boost to have no effect when starting a chase on the search path.",
+    "Fixed an issue that caused the Dog to get stuck on walls and fail to dash when the Killer quickly sends the dash command on the other side of a wall.",
+    "Fixed multiple path finding issues with the Dog in various maps.",
+    "The Dog no longer teleports at the start of a dash.",
+    "The Dog patrol path can appear above ground level when the patrol is sent to a different elevation.",
+    "Fixed an issue that caused the Houndsense Killer Effect to be removed when an injured Survivor is grabbed.",
+    "Fixed an issue that caused the Houndsense Killer Effect timer to reset if a Survivor was hit while having the Endurance effect.",
+    "Fixed an issue that caused the power not to visually appear on cooldown when spectating.",
+    "Fixed an issue that caused spectators not to see the reverse Red arrow marker when The Houndmaster points at objects with the patrol ability",
+    "The Nipping at Your Heels score event is no longer earned twice when the survivor escapes the trial with Houndsense"
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed issues of Camera Fade exclusion for the Mori Update feature.",
+    "Fixed a placeholder textures in the main building tile on the Eyrie Of Crows map.",
+    "Fixed issues related to the collisions around the Shuttle on the Nostromo Wreckage map",
+    "Fixed issue in the Raccoon Police Department where collisions were preventing The Nurse, The Houndmaster, and The Cenobite to use their powers properly in the front part of the building"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "The Corrective Action perk no longer gains tokens on a successful \"Snap Out of It\" Skill Check from The Doctor.",
+    "Fixed an issue that caused the Invocation perks to use the wrong input button prompts.",
+    "Fixed an issue that caused Survivors auras to be missing around a newly created Scourge Hook when using Scourge Hook: Jagged Compass and Scourge Hook: Hangman's Trick while carrying a Survivor.",
+    "Fixed an issue that caused the Clean Break prompt to be seen briefly after recovering from the Dying State with the Broken status effect.",
+    "Fixed an issue that caused Unnerving Presence to only affect the first skill check when No Quarter is active.",
+    "The White Aura of the Invocation Ring is no longer visible to all Survivors after an Invocation has been completed",
+    "The Dance With Me perk is no longer missing 3 seconds of cooldown"
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue with a superfluous Blood Mark displayed behind the Survivor's HUD portrait icon when a Survivor stuns the Houndmaster's Dog using a Pallet while being chased.",
+    "Fixed an issue where the Perk Inventory was not instantly refreshed after purchasing a perk in the Shrine of Secrets.",
+    "Fixed an issue with the Inventory Tooltip in the Tally Scoreboard that could be partially cut-off."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue where unowned perks show up as disabled in the loadout presets with \"None Remaining\" in tooltip description"
+   ]
+  }
+ ]
+}

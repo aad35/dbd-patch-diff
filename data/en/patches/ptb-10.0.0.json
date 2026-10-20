@@ -1,0 +1,569 @@
+{
+ "id": "ptb-10.0.0",
+ "version": "10.0.0",
+ "kind": "ptb",
+ "title": "10.0.0 | Jason PTB Patch Notes",
+ "date": "2026-05-26",
+ "url": "https://store.steampowered.com/news/app/381210/view/662736579634135748?l=english",
+ "changes": [
+  {
+   "entity": "Reminder",
+   "cat": "system",
+   "section": "Reminder",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "All characters you have unlocked via Steam will be unlocked on the PTB, including any new character(s) introduced in this update",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When accessing a character's Bloodweb, the character will be automatically set to Level 50 and Prestige 3, unlocking their perks to Tier 3, as well as any items that would regularly be obtained during this process",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "All offerings, items, and add-ons will be pre-loaded with 99 units available",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "12,500 Auric Cells and 1 million Bloodpoints will be given on each new PTB version, available to explore Outfits and Characters in the Store",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "All characters you have unlocked via Steam will be unlocked on the PTB, including any new character(s) introduced in this update",
+    "When accessing a character's Bloodweb, the character will be automatically set to Level 50 and Prestige 3, unlocking their perks to Tier 3, as well as any items that would regularly be obtained during this process",
+    "All offerings, items, and add-ons will be pre-loaded with 99 units available",
+    "12,500 Auric Cells and 1 million Bloodpoints will be given on each new PTB version, available to explore Outfits and Characters in the Store"
+   ],
+   "devNote": "If DLC content has been unlocked via a platform other than Steam (including the in-game Store), this will not be automatically unlocked in the PTB. This content can be unlocked with the provided Auric Cells.\nKnown Issue: After accessing a character's Bloodweb, certain UI elements may incorrectly display a Prestige level other than Prestige 3. This is only a display bug, as characters will still function as though they are Prestige 3."
+  },
+  {
+   "entity": "POWER: OMNIPRESENT EVIL",
+   "cat": "system",
+   "section": "NEW KILLER: THE SLASHER",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Press the Active Ability button to activate Omnipresent Evil. The Slasher becomes invisible and gains Undetectable, but cannot see Survivors or their Scratch Marks. Mist Clouds reveal the location of Survivors who are not moving. Footprints reveal the path of Survivors who are walking or running",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Omnipresent Evil is deactivated by using Jump Scare",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Press the Active Ability button to activate Omnipresent Evil. The Slasher becomes invisible and gains Undetectable, but cannot see Survivors or their Scratch Marks. Mist Clouds reveal the location of Survivors who are not moving. Footprints reveal the path of Survivors who are walking or running",
+    "Omnipresent Evil is deactivated by using Jump Scare"
+   ]
+  },
+  {
+   "entity": "SPECIAL ABILITY: JUMP SCARE",
+   "cat": "system",
+   "section": "NEW KILLER: THE SLASHER",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "While Omnipresent Evil is activated, look at a Pallet, Breakable Wall, or Window to quickly move to it and perform a special-break or special-vault action. The Secondary Action button switches the side you will face when performing Jump Scare",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Jump Scare exits Omnipresent Evil mode, grants Haste, and reveals detected Survivors with Killer Instinct",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "While Omnipresent Evil is activated, look at a Pallet, Breakable Wall, or Window to quickly move to it and perform a special-break or special-vault action. The Secondary Action button switches the side you will face when performing Jump Scare",
+    "Jump Scare exits Omnipresent Evil mode, grants Haste, and reveals detected Survivors with Killer Instinct"
+   ]
+  },
+  {
+   "entity": "SPECIAL ABILITY: THROWING SPIKES",
+   "cat": "system",
+   "section": "NEW KILLER: THE SLASHER",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Grab a Spike from Scrap Piles or Hooks. Hold the Secondary Action button to ready the Spike and tap the Attack button to throw. Spikes are replenished throughout the map when Omnipresent Evil is activated",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "A Spike knocks back a Survivor and damages them for one health state",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Survivors will be Impaled if they are hit with a Hook Spike. They cannot heal past the injured state and the embedded Hook Spike will have an Aura visible to the Killer",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Injured Survivors will be both Impaled and Immobilized if they are hit with a Spike and knocked into a wall",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Grab a Spike from Scrap Piles or Hooks. Hold the Secondary Action button to ready the Spike and tap the Attack button to throw. Spikes are replenished throughout the map when Omnipresent Evil is activated",
+    "A Spike knocks back a Survivor and damages them for one health state",
+    "Survivors will be Impaled if they are hit with a Hook Spike. They cannot heal past the injured state and the embedded Hook Spike will have an Aura visible to the Killer",
+    "Injured Survivors will be both Impaled and Immobilized if they are hit with a Spike and knocked into a wall"
+   ]
+  },
+  {
+   "entity": "Hex: Scared to Death",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After you hook 3 different Survivors, a Dull Totem ignites",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While chasing a Survivor, whenever you basic-break a Pallet, Survivors within 13m:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Scream",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Gain 11/12/13% Hindered for 3s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After you hook 3 different Survivors, a Dull Totem ignites",
+    "While chasing a Survivor, whenever you basic-break a Pallet, Survivors within 13m:",
+    "Scream",
+    "Gain 11/12/13% Hindered for 3s"
+   ]
+  },
+  {
+   "entity": "Silent Shadow",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When the trial starts, you gain Undetectable for 11/12/13s or until you down a Survivor",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When all Generators are completed, you gain Undetectable",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When the trial starts, you gain Undetectable for 11/12/13s or until you down a Survivor",
+    "When all Generators are completed, you gain Undetectable"
+   ]
+  },
+  {
+   "entity": "Rampage",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you basic-break a Pallet or Breakable Wall, you earn 1 Token, up to 13",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Whenever you are blinded or Pallet-stunned, for the next 13s you gain 1% Haste for each Token. Cooldown: 30/25/20s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you basic-break a Pallet or Breakable Wall, you earn 1 Token, up to 13",
+    "Whenever you are blinded or Pallet-stunned, for the next 13s you gain 1% Haste for each Token. Cooldown: 30/25/20s"
+   ]
+  },
+  {
+   "entity": "Wide Open Throttle",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "New Survivor Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you fast-vault a Pallet:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You gain 10/12.5/15% Haste for 3s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The Pallet is reset, blocked for 60s, and all Survivors see its Aura for that time",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Cooldown: 60s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you fast-vault a Pallet:",
+    "You gain 10/12.5/15% Haste for 3s",
+    "The Pallet is reset, blocked for 60s, and all Survivors see its Aura for that time",
+    "Cooldown: 60s"
+   ]
+  },
+  {
+   "entity": "Lend a Hand",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "New Survivor Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Once per trial and per Survivor, after you have blessed or cleansed 1 Totem, while healing another Survivor, use \"F\" to give them 2/3/4 permanent healing charges",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Once per trial and per Survivor, after you have blessed or cleansed 1 Totem, while healing another Survivor, use \"F\" to give them 2/3/4 permanent healing charges"
+   ]
+  },
+  {
+   "entity": "Cross-Examination",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "New Survivor Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "While in the Killer's Terror Radius, the Killer leaves Light Marks that lasts for 10s that you can see. While on the Killer's Light Marks, you gain Elusive. This ends after 3/4/5s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "While in the Killer's Terror Radius, the Killer leaves Light Marks that lasts for 10s that you can see. While on the Killer's Light Marks, you gain Elusive. This ends after 3/4/5s"
+   ]
+  },
+  {
+   "entity": "Auras Customization",
+   "cat": "system",
+   "section": "Auras Customization",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "New aura types are available for color customization",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Blocked Objects (e.g. Corrupt Intervention or Repressed Alliance)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Completed Generators (e.g as The Houndmaster sending The Dog on a Search Command)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Generator Progress (The starting color when a Generator's progress is revealed e.g. Hex: Hive Mind or the add-on \"All Seeing\" - Spirit)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Dull Totems (When a player doesn't know the state of a Totem it will show as a Dull Totem e.g. Detectives Hunch)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Cleansed Totems (e.g. Hex: Pentimento)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hex Totems",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Boon Totems",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hatch",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Exit Gate Switches",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "New aura types are available for color customization",
+    "Blocked Objects (e.g. Corrupt Intervention or Repressed Alliance)",
+    "Completed Generators (e.g as The Houndmaster sending The Dog on a Search Command)",
+    "Generator Progress (The starting color when a Generator's progress is revealed e.g. Hex: Hive Mind or the add-on \"All Seeing\" - Spirit)",
+    "Dull Totems (When a player doesn't know the state of a Totem it will show as a Dull Totem e.g. Detectives Hunch)",
+    "Cleansed Totems (e.g. Hex: Pentimento)",
+    "Hex Totems",
+    "Boon Totems",
+    "Hatch",
+    "Exit Gate Switches"
+   ]
+  },
+  {
+   "entity": "Killer Power Match Details Tab",
+   "cat": "killer",
+   "section": "Killer Power Match Details Tab",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Match Details have been updated with a new tab to provide a simplified description of the currently faced Killer's power",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Match Details will only show this information when one of the following occurs:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Any Survivor enters a chase",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Any Survivor loses a health state",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The Killer Power Tab can be directly accessed by pressing F1 on Keyboard or pressing and holding SELECT on Controller",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Match Details have been updated with a new tab to provide a simplified description of the currently faced Killer's power",
+    "Match Details will only show this information when one of the following occurs:",
+    "Any Survivor enters a chase",
+    "Any Survivor loses a health state",
+    "The Killer Power Tab can be directly accessed by pressing F1 on Keyboard or pressing and holding SELECT on Controller"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where The Mastermind was able to grab and hit Survivors behind walls and pallets.",
+    "Fixed an issue where The Mastermind could hit out of range Survivors after a Virulent Bound vault.",
+    "Fixed an issue where The Mastermind was not able to make a sidestep, ignoring any key input between the dashes.",
+    "Fixed an issue where bots were aware of killers whom had used stealth abilities.",
+    "Fixed some subtitles for Survivor Robin Buckley's French translation disappearing prematurely.",
+    "Fixed an issue where the Survivor's aura can be seen flickering when teleporting to an occupied Locker as The Dredge.",
+    "Fixed an issue where Spectating The Animatronic the audio would remain on the latest Survivor.",
+    "Fixed an issue where the Headset was misaligned when interacting with The First's Grandfather Clock.",
+    "Fixed an issue where The Ghoul could block a Survivor inside a locker when performing a second Kagune Leap on a Survivor entering a locker at the same time.",
+    "Fixed an issue where the auras of completed Generators would disappear after The Nightmare teleported.",
+    "Fixed an issue where the auras of Generators and Hooks were missing for Victor when a Survivor disconnected or was Sacrificed when playing as The Twins.",
+    "Fixed an issue where The Nemesis' zombies' auras would remain displayed in the Killer Item Aura Color after hitting a Survivor while using the S.T.A.R.S. Field Combat Manual Add-On.",
+    "Fixed an issue where the Killer's collision would not remain consistent during the pick and drop animations.",
+    "Tentatively fixed an issue where The Mastermind could land hits on Survivors that had just vaulted after using Virulent Bound.",
+    "Tentatively fixed an issue where a Survivor could be misplaced during the carry animation if The Mastermind used Virulent Bound on them when they initiated a pallet vault."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where The Krasue's grunts were not heard when hooking a survivor.",
+    "Fixed an issue where The Ghoul's power SFX were louder than usual."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in the Underground Complex where killers could get blocked by a hanging a survivor on a hook in a corridor",
+    "Fixed an issue in The Sanctum Of Wrath where killers could block the entrance to the basement on the side of the main structure",
+    "Fixed an issue in Crotus Prenn where the Nurse could not blink through the walls",
+    "Fixed an issue in Treatment Theater where the red stain would disappear in certain area of the map",
+    "Fixed an issue in Treatment Theater where a killer could not navigate through a door when a survivor was place on a hook",
+    "Fixed an issue in The MacMillan Estate Killer Shack, where an invisible collision hindered Survivors and Killers navigation.",
+    "Fixed an issue in the realm of Coldwind Farm where projectiles would get blocked around the combine harvester",
+    "Fixed an issue in Groaning House where the players would get stuck where walking up the stairs of the basement",
+    "Fixed an issue in Shattered Square where projectiles would be blocked by collisions",
+    "Fixed an issue in Sanctum of Wrath where a killer could not grab survivor entering a locker",
+    "Fixed an issue in the realm Withered Isle where collision would block projectiles around picnic tables",
+    "Fixed an issue In the Raccoon City Police Station East Wing, by repositioned walls, where gap could be seen in several locations allowing the player to see through, or out of world.",
+    "Fixed an issue in the east wing of the Raccoon City Police Station, by repositioning, where a gap was visible in several places, allowing the player to see through, or out of the world.",
+    "Fixed an issue where The Artist was unable to place a Dire Crow in front of a window vault between specific tiles in the Trickster's Delusion map.",
+    "Fixed an issue where the passage aura color was pink on Forgotten Ruins."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where Self-Care and Strength in Shadows were not worded properly according to the new description overhaul:",
+    "They now say: \"you can self-heal, but XX% slower\".",
+    "Numbers have been adjusted to match the new wording (NO GAMEPLAY CHANGE).",
+    "Fixed an issue where some perks were not displayed in the bloodweb for Survivors.",
+    "Fixed an issue where Deliverance was used when performing the Anti-Camp Unhook at the second Hook Stage.",
+    "Fixed an issue where Hex: Hive Mind would allow the 2 extra generators to remain repairable after an explosion.",
+    "Fixed an issue where the auras of Unlocked Chests were revealed when the Human Greed perk was equipped."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Fixed an issue where selecting certain Killers might cancel match start on PS4.",
+    "Fixed an issue where characters' and objects' auras revealed remain displayed when in line of sight during Killer and Survivor tutorials on some consoles."
+   ]
+  },
+  {
+   "group": "Quests",
+   "items": [
+    "Fixed an issue where the Tome 4 \"Handyman\" Challenge could not be completed with all the charge items."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where the profile contextual menu would not go away when selecting something outside the profile menu.",
+    "Fixed an issue where players could not join a match if they were in the diminishing return tooltip.",
+    "Fixed an issue where some tomes vfx could be seen in other menus."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue preventing loading into a trial with the diminishing returns menu open.",
+    "Fixed an issue to ensure placeholders are correctly used when a translation string is unavailable.",
+    "Fixed issues causing a crash when playing against bots in the tutorial matches.",
+    "Fixed an issue causing postgame events to be sent multiple times.",
+    "Fixed a hang when adding bots to a lobby when playing as Survivor.",
+    "Fixed multiple issues leading to cloud login problems.",
+    "Added that users refresh the screen to trigger Auric Cell pack expiration popup message for accounts based in Japan.",
+    "Fixed an internal issue when checking for paths existing in data.",
+    "Fixed an issue where the application would rarely become unresponsive while a user was experiencing high latency.",
+    "Fixed an issue where Survivors would remain in the trial with the Tally Screen overlay when the Killer disconnected during the Camera Pan."
+   ]
+  },
+  {
+   "group": "Known Issues",
+   "items": [
+    "The PTB Text Overlay displays twice in Lobbies.",
+    "Mother's Dwelling and Temple of Purgation will be unavailable during this PTB."
+   ]
+  }
+ ]
+}

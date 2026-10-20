@@ -1,0 +1,1639 @@
+{
+ "id": "9.0.0",
+ "version": "9.0.0",
+ "kind": "release",
+ "title": "9.0.0 | Five Nights at Freddy's",
+ "date": "2025-06-17",
+ "url": "https://store.steampowered.com/news/app/381210/view/816953886557345011?l=english",
+ "changes": [
+  {
+   "entity": "KILLER POWER: FAZBEAR'S FRIGHT",
+   "cat": "killer",
+   "section": "New Killer - The Animatronic",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The Animatronic lived to kill, even when his mechanical costume became his tomb",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The Animatronic lived to kill, even when his mechanical costume became his tomb"
+   ]
+  },
+  {
+   "entity": "SPECIAL ABILITY: FIRE AXE",
+   "cat": "killer",
+   "section": "New Killer - The Animatronic",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The Animatronic is armed with a Fire Axe that he can throw at Survivors. If the Axe hits a Survivor, the weapon becomes embedded in them, leaving the Survivor vulnerable. Survivors must remove the Axe before they can be healed",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The Animatronic is armed with a Fire Axe that he can throw at Survivors. If the Axe hits a Survivor, the weapon becomes embedded in them, leaving the Survivor vulnerable. Survivors must remove the Axe before they can be healed"
+   ]
+  },
+  {
+   "entity": "MAP FEATURE: SECURITY SYSTEM",
+   "cat": "killer",
+   "section": "New Killer - The Animatronic",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "At the start of the trial, 7 Security Doors are spawned randomly throughout the map. These doors can be accessed by both Survivors and The Animatronic",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Each Security Door has a Camera attached to it. Interacting with the Door gives the Survivor access to the Camera View, allowing the Survivor to cycle through every Camera in the map, travel to the Door they are currently looking through, and potentially reveal The Animatronic's aura to the team",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Using the Cameras and Doors too often will deplete the limited battery power available, forcing Survivors to wait until the system reboots. The Animatronic may travel between Security Doors with or without battery power",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "If The Animatronic enters a Security Door, they may choose to exit from any other Door in the map. Moving to a Door already in use by a Survivor will cause The Animatronic to grab that Survivor",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "At the start of the trial, 7 Security Doors are spawned randomly throughout the map. These doors can be accessed by both Survivors and The Animatronic",
+    "Each Security Door has a Camera attached to it. Interacting with the Door gives the Survivor access to the Camera View, allowing the Survivor to cycle through every Camera in the map, travel to the Door they are currently looking through, and potentially reveal The Animatronic's aura to the team",
+    "Using the Cameras and Doors too often will deplete the limited battery power available, forcing Survivors to wait until the system reboots. The Animatronic may travel between Security Doors with or without battery power",
+    "If The Animatronic enters a Security Door, they may choose to exit from any other Door in the map. Moving to a Door already in use by a Survivor will cause The Animatronic to grab that Survivor"
+   ]
+  },
+  {
+   "entity": "Help Wanted",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When you damage a Generator, it becomes Compromised. Only one Generator can be Compromised at a time",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When the Compromised Generator is completed, your successful basic attack cooldowns are 25/25/25% faster for 40/50/60 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When you damage a Generator, it becomes Compromised. Only one Generator can be Compromised at a time",
+    "When the Compromised Generator is completed, your successful basic attack cooldowns are 25/25/25% faster for 40/50/60 seconds"
+   ]
+  },
+  {
+   "entity": "Phantom Fear",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When a Survivor within your Terror Radius looks at you, they scream and you see their aura for 2/2/2 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "This perk has a 80/70/60 second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When a Survivor within your Terror Radius looks at you, they scream and you see their aura for 2/2/2 seconds",
+    "This perk has a 80/70/60 second cooldown"
+   ]
+  },
+  {
+   "entity": "Haywire",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Exit gates switches with at least 80% progress regress at a rate of 80/90/100% of gate opening speed",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While they are regressing, Survivors see the exit gate lights flicker randomly",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Exit gates switches with at least 80% progress regress at a rate of 80/90/100% of gate opening speed",
+    "While they are regressing, Survivors see the exit gate lights flicker randomly"
+   ]
+  },
+  {
+   "entity": "New Map - Freddy Fazbear's Pizza",
+   "cat": "system",
+   "section": "New Map - Freddy Fazbear's Pizza",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The rotting brainchild of a sadistic murderer still stands over the grassy plains. A place of joy for some, and unspeakable terror for others. Do not let the bright colors and parlor tricks deceive you; many have died within these walls, and many more will die still",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The rotting brainchild of a sadistic murderer still stands over the grassy plains. A place of joy for some, and unspeakable terror for others. Do not let the bright colors and parlor tricks deceive you; many have died within these walls, and many more will die still"
+   ]
+  },
+  {
+   "entity": "AFK Crow System Update",
+   "cat": "system",
+   "section": "AFK Crow System Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivors are considered AFK when not interacting within the last 10 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "While AFK, Survivors accrue AFK points, during which crows gradually begin spawning above the Survivor, beginning with 1 and capping at 3",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "AFK points increase more slowly while moving or while in proximity to the Killer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "After 90 seconds, the Survivor reaches 3 crows and Loud Noises trigger at regular intervals",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Additionally, the Survivor loses collision with other players for 10 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Completing interactions removes AFK points",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Crows are removed as AFK points decrease",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "This system is disabled when the Hatch spawns or when End Game Collapse is triggered by any means",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivors are considered AFK when not interacting within the last 10 seconds",
+    "While AFK, Survivors accrue AFK points, during which crows gradually begin spawning above the Survivor, beginning with 1 and capping at 3",
+    "AFK points increase more slowly while moving or while in proximity to the Killer",
+    "After 90 seconds, the Survivor reaches 3 crows and Loud Noises trigger at regular intervals",
+    "Additionally, the Survivor loses collision with other players for 10 seconds",
+    "Completing interactions removes AFK points",
+    "Crows are removed as AFK points decrease",
+    "This system is disabled when the Hatch spawns or when End Game Collapse is triggered by any means"
+   ]
+  },
+  {
+   "entity": "Bloodweb Spending Improvements",
+   "cat": "system",
+   "section": "Bloodweb Spending Improvements",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added an Auto Bloodweb button available after prestiging any one character for the first time, enabling players to automatically progress to a selected character level, Bloodpoints permitting",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Removed the following pop-ups across all other characters after they have been shown for the first time:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "“The Bloodweb” introductory pop-up",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "“Unpredictability” pop-up",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Perk slot unlocks",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added an Auto Bloodweb button available after prestiging any one character for the first time, enabling players to automatically progress to a selected character level, Bloodpoints permitting",
+    "Removed the following pop-ups across all other characters after they have been shown for the first time:",
+    "“The Bloodweb” introductory pop-up",
+    "“Unpredictability” pop-up",
+    "Perk slot unlocks"
+   ]
+  },
+  {
+   "entity": "Disconnection Penalties",
+   "cat": "system",
+   "section": "Disconnection Penalties",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Disconnection penalty points decrease as you play matches without disconnecting",
+     "after": null,
+     "before": "decayed at the rate of 1 point per day",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Disconnection Penalties are now based on your last 20 matches played",
+    "Each disconnect in this set of 20 matches counts as a disconnection penalty point",
+    "Disconnection penalty points decrease as you play matches without disconnecting (previously decayed at the rate of 1 point per day)"
+   ]
+  },
+  {
+   "entity": "Gamma Setting",
+   "cat": "system",
+   "section": "Gamma Setting",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Upon launch, new gamma calibration popup will be presented to all players",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "This visual setting can be accessed at all times via the Settings menu, under the Graphics tab",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Upon launch, new gamma calibration popup will be presented to all players",
+    "This visual setting can be accessed at all times via the Settings menu, under the Graphics tab"
+   ]
+  },
+  {
+   "entity": "\"Going Next\" Prevention",
+   "cat": "system",
+   "section": "\"Going Next\" Prevention",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increased the Abandoned score event to 2,000 Bloodpoints",
+     "after": null,
+     "before": "600",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Added a system to detect Survivors who intentionally die early in the match",
+    "When a Survivor is determined to be doing this, they receive a disconnection penalty and lose one full grade",
+    "The Attempt Unhook ability is now only available in the following circumstances:",
+    "Two Survivors remain in the Trial",
+    "A Survivor's Luck is increased with an Offering",
+    "A Survivor has equipped the Slippery Meat or Up the Ante perk",
+    "When more than two Survivors remain, they may struggle while on a hook, but with no chance of escape or penalty for failure",
+    "Letting two struggle skill checks pass without any input will no longer instantly kill you",
+    "The Abandoned score event (given to Survivors when a teammate disconnects) is now also granted when a Survivor gives up via this system",
+    "Increased the Abandoned score event to 2,000 Bloodpoints (was 600)"
+   ]
+  },
+  {
+   "entity": "Mori Update",
+   "cat": "system",
+   "section": "Mori Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Near the end of a Trial, the Killer can now activate a Mori when 2 Survivors are alive and the following conditions occur simultaneously (up from 1 Survivor alive):",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "1 Survivor is Hooked and in the Struggle Phase",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "1 Survivor is in the Dying State",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When the above criteria are met, starting a Mori on a Survivor will now immediately start the Sacrifice of remaining Hooked Survivors in the Struggle Phase",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Near the end of a Trial, the Killer can now activate a Mori when 2 Survivors are alive and the following conditions occur simultaneously (up from 1 Survivor alive):",
+    "1 Survivor is Hooked and in the Struggle Phase",
+    "1 Survivor is in the Dying State",
+    "When the above criteria are met, starting a Mori on a Survivor will now immediately start the Sacrifice of remaining Hooked Survivors in the Struggle Phase"
+   ],
+   "devNote": "Dev note: The change means that you do not need to wait for the hooked Survivor to be Sacrificed to be able to trigger a Mori. Performing a Mori with a single Survivor remaining will continue to function as it did before."
+  },
+  {
+   "entity": "Offerings Updates",
+   "cat": "system",
+   "section": "Offerings Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "All Realm/Map offerings now grant a flat 20% chance to be sent the associated Realm/Map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Duplicate Realm & Map offerings no longer stack",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Most gameplay-altering offerings are now treated as secret during the loading screen reveal",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "All Realm/Map offerings now grant a flat 20% chance to be sent the associated Realm/Map",
+    "Duplicate Realm & Map offerings no longer stack",
+    "Most gameplay-altering offerings are now treated as secret during the loading screen reveal"
+   ]
+  },
+  {
+   "entity": "Spawn Rules",
+   "cat": "system",
+   "section": "Spawn Rules",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivors now spawn within 12m of each other by default, when possible",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors now spawn on the same floor as each other by default, when possible",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Survivor offering, Shroud of Binding, has been replaced with a new offering, the Shroud of Separation. Its new effect causes Survivors to spawn apart from one another",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Killer offering, Shroud of Separation, has been replaced with a new offering, the Shroud of Vanishing. Its new effect causes all Survivor spawn offerings to be rejected by The Entity",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivors now spawn within 12m of each other by default, when possible",
+    "Survivors now spawn on the same floor as each other by default, when possible",
+    "The Survivor offering, Shroud of Binding, has been replaced with a new offering, the Shroud of Separation. Its new effect causes Survivors to spawn apart from one another",
+    "The Killer offering, Shroud of Separation, has been replaced with a new offering, the Shroud of Vanishing. Its new effect causes all Survivor spawn offerings to be rejected by The Entity"
+   ],
+   "devNote": "Any owned Shrouds of Binding are converted to Shrouds of Separation.\nAny owned Shrouds of Separation are converted to Shrouds of Vanishing."
+  },
+  {
+   "entity": "Spectator Mode",
+   "cat": "system",
+   "section": "Spectator Mode",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased spectator slots in Custom Game to 5",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hotkeys have been assigned in Spectator Mode to make changing between players easier",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Looping between players using the top bar while in Spectator Mode can now be done via hotkey",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added controller support for the above improvements",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increased spectator slots in Custom Game to 5",
+    "Hotkeys have been assigned in Spectator Mode to make changing between players easier",
+    "Looping between players using the top bar while in Spectator Mode can now be done via hotkey",
+    "Added controller support for the above improvements"
+   ]
+  },
+  {
+   "entity": "Voiceover Language Setting",
+   "cat": "system",
+   "section": "Voiceover Language Setting",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "\"Voice Language\" is a new setting added under the General tab",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "French can now be chosen for voiceovers on select characters:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Sable Ward, Gabriel Soma, The Good Guy, The Good Gal, Ellen Ripley & Rain are now available",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "\"Voice Language\" is a new setting added under the General tab",
+    "French can now be chosen for voiceovers on select characters:",
+    "Sable Ward, Gabriel Soma, The Good Guy, The Good Gal, Ellen Ripley & Rain are now available"
+   ]
+  },
+  {
+   "entity": "Performance",
+   "cat": "system",
+   "section": "Performance",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Improved optimization at game launch to reduce instances of stuttering in-game",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Improved optimization at game launch to reduce instances of stuttering in-game"
+   ]
+  },
+  {
+   "entity": "The Lich",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "All of The Lich's Spells are now available at the start of a Trial",
+     "after": null,
+     "before": "15 seconds starting cooldown",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Decreased Dispelling Sphere cooldown to 30 seconds",
+     "after": null,
+     "before": "35 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Fly cooldown to 20 seconds",
+     "after": null,
+     "before": "25 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Mage Hand cooldown to 35 seconds",
+     "after": null,
+     "before": "40 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Flight of the Damned cooldown to 30 seconds",
+     "after": null,
+     "before": "35 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Removed the interaction time locking the Killer's camera when activating Dispelling Sphere",
+     "after": null,
+     "before": "2 seconds",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increased the Killer Instinct duration once Survivors exit Dispelling Sphere to 5 seconds",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the end interaction time of Fly to 2.75 seconds",
+     "after": null,
+     "before": "2.5 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the duration of Fly to 5 seconds",
+     "after": null,
+     "before": "4 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the duration of the Survivor pallet interaction delay after lifting a pallet with Mage Hand to 0.55 second",
+     "after": null,
+     "before": "0.15 second",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased The Lich's aura reveal duration to 2 seconds when the associated Spell is cast for each Magic Item",
+     "after": null,
+     "before": "1.5 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the duration of Haste to 4 seconds for Survivors equipped with Boots or Gauntlets of the Interloper when The Lich activates Mage Hand",
+     "after": null,
+     "before": "3.5 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "All of The Lich's Spells are now available at the start of a Trial (was 15 seconds starting cooldown)",
+    "Decreased Dispelling Sphere cooldown to 30 seconds (was 35 seconds)",
+    "Decreased Fly cooldown to 20 seconds (was 25 seconds)",
+    "Decreased Mage Hand cooldown to 35 seconds (was 40 seconds)",
+    "Decreased Flight of the Damned cooldown to 30 seconds (was 35 seconds)",
+    "Removed the interaction time locking the Killer's camera when activating Dispelling Sphere (was 2 seconds)",
+    "Updated Dispelling Sphere's projectile to move quickly when first cast and slow down over the following 3 seconds, in order to spend less time revealing the area immediately in front of the Killer",
+    "Increased the Killer Instinct duration once Survivors exit Dispelling Sphere to 5 seconds (was 3 seconds)",
+    "Increased the end interaction time of Fly to 2.75 seconds (was 2.5 seconds)",
+    "Increased the duration of Fly to 5 seconds (was 4 seconds)",
+    "Increased the duration of the Survivor pallet interaction delay after lifting a pallet with Mage Hand to 0.55 second (was 0.15 second)",
+    "Increased The Lich's aura reveal duration to 2 seconds when the associated Spell is cast for each Magic Item (was 1.5 seconds)",
+    "Increased the duration of Haste to 4 seconds for Survivors equipped with Boots or Gauntlets of the Interloper when The Lich activates Mage Hand (was 3.5 seconds)"
+   ],
+   "character": "The Lich"
+  },
+  {
+   "entity": "The Lich Add-ons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Trickster's Glove add-on now increases the time Mage Hand holds a pallet up by 0.3 second",
+     "after": null,
+     "before": "0.5 second",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "The Crystal Ball add-on now increases the Killer Instinct effect by an additional 1 second when a Survivor is revealed by Dispelling Sphere",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "The Potion of Speed add-on now decreases the period where you cannot attack after casting Fly by 0.15 seconds",
+     "after": null,
+     "before": "0.3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "The Ring of Telekinesis add-on now increases your vaulting speed by 10% for the next 10 seconds when using the Mage Hand Spell on an upright pallet",
+     "after": null,
+     "before": "8 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "The Ring of Spell Storing add-on decreases the cooldown of all spells by 1 second",
+     "after": null,
+     "before": "2 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "The Cloak of Elvenkind add-on now decreases Terror Radius by 22 meters when activating the Fly spell",
+     "after": null,
+     "before": "8 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "The Boots of Speed add-on now grants you 3% Haste for 2 seconds when casting Mage Hand",
+     "after": null,
+     "before": "5%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "The Staff of Withering add-on now causes Exhaustion for 30 seconds to Survivors who enter the radius of Dispelling Sphere",
+     "after": null,
+     "before": "20 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "The Pearl of Power add-on now decreases the remaining cooldown for your spells by 2 seconds each time you land a basic attack",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "The Robe of Eyes add-on now reveals the auras of Survivors within 6 meters of a treasure chest for 4 seconds each time you cast a spell",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "The Dragontooth Dagger add-on now applies Haemorrhage and Mangled status effects to Survivors hit with a basic attack while holding a Magic Item for 60 seconds",
+     "after": null,
+     "before": "45 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "The Cloak of Invisibility add-on now activates Undetectable for 20 seconds each time all of your spells are on cooldown at the same time",
+     "after": null,
+     "before": "10 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "The Trickster's Glove add-on now increases the time Mage Hand holds a pallet up by 0.3 second (was 0.5 second)",
+    "The Crystal Ball add-on now increases the Killer Instinct effect by an additional 1 second when a Survivor is revealed by Dispelling Sphere (was 3 seconds)",
+    "The Potion of Speed add-on now decreases the period where you cannot attack after casting Fly by 0.15 seconds (was 0.3 seconds)",
+    "The Ring of Telekinesis add-on now increases your vaulting speed by 10% for the next 10 seconds when using the Mage Hand Spell on an upright pallet (was 8 seconds)",
+    "The Ring of Spell Storing add-on decreases the cooldown of all spells by 1 second (was 2 seconds)",
+    "The Cloak of Elvenkind add-on now decreases Terror Radius by 22 meters when activating the Fly spell (was 8 meters)",
+    "The Boots of Speed add-on now grants you 3% Haste for 2 seconds when casting Mage Hand (was 5%)",
+    "The Staff of Withering add-on now causes Exhaustion for 30 seconds to Survivors who enter the radius of Dispelling Sphere (was 20 seconds)",
+    "The Pearl of Power add-on now decreases the remaining cooldown for your spells by 2 seconds each time you land a basic attack (was 3 seconds)",
+    "The Robe of Eyes add-on now reveals the auras of Survivors within 6 meters of a treasure chest for 4 seconds each time you cast a spell (was 3 seconds)",
+    "The Dragontooth Dagger add-on now applies Haemorrhage and Mangled status effects to Survivors hit with a basic attack while holding a Magic Item for 60 seconds (was 45 seconds)",
+    "The Cloak of Invisibility add-on now activates Undetectable for 20 seconds each time all of your spells are on cooldown at the same time (was 10 seconds)"
+   ],
+   "character": "The Lich"
+  },
+  {
+   "entity": "The Twins",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Victor is now able to trigger chases with Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Victor is now able to trigger chases with Survivors"
+   ],
+   "character": "The Twins"
+  },
+  {
+   "entity": "Batteries Included",
+   "cat": "perk",
+   "section": "Killer Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reduced Haste bonus to 5%",
+     "after": null,
+     "before": "7%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased area around completed Generator to 16 meters",
+     "after": null,
+     "before": "12 meters",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Reduced Haste bonus to 5% (was 7%)",
+    "Increased area around completed Generator to 16 meters (was 12 meters)"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Call of Brine",
+   "cat": "perk",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased duration to 70 seconds",
+     "after": null,
+     "before": "60 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased bonus Generator regression to 130/140/150%",
+     "after": null,
+     "before": "115/120/125%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased duration to 70 seconds (was 60 seconds)",
+    "Increased bonus Generator regression to 130/140/150% (was 115/120/125%)"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Dark Devotion",
+   "cat": "system",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased duration of Terror Radius transfer to Obsession to 35/40/45 seconds",
+     "after": null,
+     "before": "20/25/30 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased size of transferred Terror Radius to 40 meters",
+     "after": null,
+     "before": "32 meters",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased duration of Terror Radius transfer to Obsession to 35/40/45 seconds (was 20/25/30 seconds)",
+    "Increased size of transferred Terror Radius to 40 meters (was 32 meters)"
+   ]
+  },
+  {
+   "entity": "Hex: Retribution",
+   "cat": "system",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Oblivious duration caused by Survivor interacting with Dull or Hex Totems to 40/50/60 seconds",
+     "after": null,
+     "before": "35/40/45 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Survivor aura reveal triggered by Hex Totem removal to 20 seconds",
+     "after": null,
+     "before": "15 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Oblivious duration caused by Survivor interacting with Dull or Hex Totems to 40/50/60 seconds (was 35/40/45 seconds)",
+    "Increased Survivor aura reveal triggered by Hex Totem removal to 20 seconds (was 15 seconds)"
+   ]
+  },
+  {
+   "entity": "Machine Learning",
+   "cat": "perk",
+   "section": "Killer Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased Haste value to 8%",
+     "after": null,
+     "before": "10%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased duration to 40/50/60 seconds",
+     "after": null,
+     "before": "30/35/40 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased Haste value to 8% (was 10%)",
+    "Increased duration to 40/50/60 seconds (was 30/35/40 seconds)",
+    "Updated the text description to match that of Help Wanted"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Remember Me",
+   "cat": "killer",
+   "section": "Killer Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated description to more accurately reflect its in-game effect",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated description to more accurately reflect its in-game effect"
+   ]
+  },
+  {
+   "entity": "Superior Anatomy",
+   "cat": "perk",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased area of detection to 12 meters",
+     "after": null,
+     "before": "8 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased cooldown to 25 seconds",
+     "after": null,
+     "before": "30 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased area of detection to 12 meters (was 8 meters)",
+    "Decreased cooldown to 25 seconds (was 30 seconds)"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Terminus",
+   "cat": "system",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Broken duration once exit gates are open to 35/40/45 seconds",
+     "after": null,
+     "before": "20/25/30 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Broken duration once exit gates are open to 35/40/45 seconds (was 20/25/30 seconds)"
+   ]
+  },
+  {
+   "entity": "Thrilling Tremors",
+   "cat": "system",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Reduced cooldown to 40/35/30 seconds",
+     "after": null,
+     "before": "100/80/60 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Reduced cooldown to 40/35/30 seconds (was 100/80/60 seconds)"
+   ]
+  },
+  {
+   "entity": "THWACK!",
+   "cat": "perk",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased reveal area to 36 meters",
+     "after": null,
+     "before": "24 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Survivor aura reveal to 4/5/6 seconds",
+     "after": null,
+     "before": "3/4/5 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased reveal area to 36 meters (was 24 meters)",
+    "Increased Survivor aura reveal to 4/5/6 seconds (was 3/4/5 seconds)"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Unbound",
+   "cat": "perk",
+   "section": "Killer Perks",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Reduced Haste bonus after vaulting a window to 7%",
+     "after": null,
+     "before": "10%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Reduced Haste bonus after vaulting a window to 7% (was 10%)"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Babysitter",
+   "cat": "perk",
+   "section": "Survivor Perks",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Reduced Haste bonus for the unhooked Survivor to 10%",
+     "after": null,
+     "before": "15%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Reduced Haste bonus for the unhooked Survivor to 10% (was 15%)"
+   ],
+   "role": "survivor"
+  },
+  {
+   "entity": "Botany Knowledge",
+   "cat": "system",
+   "section": "Survivor Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Healing item efficiency reduction removed",
+     "after": null,
+     "before": "20%",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Healing item efficiency reduction removed (was 20%)"
+   ]
+  },
+  {
+   "entity": "Champion of Light",
+   "cat": "perk",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased cooldown to 60/50/40 seconds",
+     "after": null,
+     "before": "80/70/60 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased cooldown to 60/50/40 seconds (was 80/70/60 seconds)"
+   ],
+   "role": "survivor"
+  },
+  {
+   "entity": "Counterforce",
+   "cat": "system",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased bonus Totem cleansing speed to 25%",
+     "after": null,
+     "before": "20%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased furthest Totem aura reveal duration to 10/12/14 seconds",
+     "after": null,
+     "before": "2/3/4 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased stackable Totem cleansing speed bonus to 25%",
+     "after": null,
+     "before": "20%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased bonus Totem cleansing speed to 25% (was 20%)",
+    "Increased furthest Totem aura reveal duration to 10/12/14 seconds (was 2/3/4 seconds)",
+    "Increased stackable Totem cleansing speed bonus to 25% (was 20%)"
+   ]
+  },
+  {
+   "entity": "Desperate Measures",
+   "cat": "system",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased scaling bonus speed to healing and unhook actions to 16/18/20%",
+     "after": null,
+     "before": "10/12/14%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased scaling bonus speed to healing and unhook actions to 16/18/20% (was 10/12/14%)"
+   ]
+  },
+  {
+   "entity": "Empathic Connection",
+   "cat": "perk",
+   "section": "Survivor Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Injured Survivor(s) can now see the aura of Survivor(s) with Empathic Connection anywhere on a map",
+     "after": null,
+     "before": "32/64/96 meters",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Updated healing speed bonus to other Survivors to 25/30/35% across Tiers",
+     "after": null,
+     "before": "30% across all Tiers",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Injured Survivor(s) can now see the aura of Survivor(s) with Empathic Connection anywhere on a map (was 32/64/96 meters)",
+    "Updated healing speed bonus to other Survivors to 25/30/35% across Tiers (was 30% across all Tiers)"
+   ],
+   "role": "survivor"
+  },
+  {
+   "entity": "Exultation",
+   "cat": "perk",
+   "section": "Survivor Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased the item recharge amount for stunning the Killer with a pallet to 75%",
+     "after": null,
+     "before": "25%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased cooldown to 30/25/20 seconds",
+     "after": null,
+     "before": "40/35/30 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the item recharge amount for stunning the Killer with a pallet to 75% (was 25%)",
+    "Decreased cooldown to 30/25/20 seconds (was 40/35/30 seconds)"
+   ],
+   "role": "survivor"
+  },
+  {
+   "entity": "Light-footed",
+   "cat": "killer",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased cooldown to 14/12/10 seconds",
+     "after": null,
+     "before": "28/24/20 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased cooldown to 14/12/10 seconds (was 28/24/20 seconds)"
+   ]
+  },
+  {
+   "entity": "Lightbringer",
+   "cat": "system",
+   "section": "Emblem Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased Lightbringer points earned when a teammate repairs a Generator while you are being chased to 0.5 per percent of progress",
+     "after": null,
+     "before": "0.33",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Lightbringer points earned for repairing generators to 0.8 per percent of progress",
+     "after": null,
+     "before": "1",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased Lightbringer points earned when other Survivors cleanse a Dull Totem while you are chased to 10",
+     "after": null,
+     "before": "5",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Lightbringer points earned when other Survivors cleanse a Hex Totem while you are chased to 25",
+     "after": null,
+     "before": "10",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Performing an Invocation now awards 0.8 Lightbringer points per percent of progress",
+    "Being chased while a teammate performs an Invocation now awards 0.4 Lightbringer points per percent of progress",
+    "Blessing a Totem for the first time now awards 50 Lightbringer points",
+    "Being chased while a teammate blesses a Totem for the first time now awards 25 Lightbringer points",
+    "Increased Lightbringer points earned when a teammate repairs a Generator while you are being chased to 0.5 per percent of progress (was 0.33)",
+    "Decreased Lightbringer points earned for repairing generators to 0.8 per percent of progress (was 1)",
+    "Increased Lightbringer points earned when other Survivors cleanse a Dull Totem while you are chased to 10 (was 5)",
+    "Increased Lightbringer points earned when other Survivors cleanse a Hex Totem while you are chased to 25 (was 10)"
+   ]
+  },
+  {
+   "entity": "Evader",
+   "cat": "system",
+   "section": "Emblem Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased Evader points earned after a 15 second chase to 60",
+     "after": null,
+     "before": "25",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Evader chase multiplier at 10 meters to 1x",
+     "after": null,
+     "before": "0.6x",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Evader chase multiplier at 6 meters to 1x",
+     "after": null,
+     "before": "1.2x",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increased Evader points earned after a 15 second chase to 60 (was 25)",
+    "Increased Evader chase multiplier at 10 meters to 1x (was 0.6x)",
+    "Decreased Evader chase multiplier at 6 meters to 1x (was 1.2x)"
+   ]
+  },
+  {
+   "entity": "Quest Rewards",
+   "cat": "system",
+   "section": "Quest Rewards",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Daily Quest Blood Point rewards (2500 → 5000)",
+     "after": "5000",
+     "before": "2500",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Daily Quest Blood Point rewards (2500 → 5000)"
+   ]
+  },
+  {
+   "entity": "Map Showcase",
+   "cat": "system",
+   "section": "Map Showcase",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added new Map Game Mode that allows for players to queue up for a single, predetermined map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added new Map Game Mode that allows for players to queue up for a single, predetermined map"
+   ]
+  },
+  {
+   "entity": "Hellraiser DLC Changes",
+   "cat": "system",
+   "section": "Hellraiser DLC Changes",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The following perks have become General Perks, and their names and icons have changed:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Deadlock is now No Holds Barred",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hex: Plaything is now Hex: Fortune's Fool",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Scourge Hook: Gift of Pain is now Scourge Hook: Weeping Wounds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The following achievements/trophies have been updated, and their names, icons and unlock conditions have changed:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Tear Their Soul Apart is now Beyond Broken",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Injure a Survivor afflicted by the Broken Status Effect with a Basic Attack a total of 50 times",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Punch Drunk is now Neither Seen Nor Heard",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Apply the Oblivious status effect to Survivors 30 times in public matches",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Adept Cenobite is now Lost All Hope",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Down a Survivor within the bounds of any Exit Gate",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The following perks have become General Perks, and their names and icons have changed:",
+    "Deadlock is now No Holds Barred",
+    "Hex: Plaything is now Hex: Fortune's Fool",
+    "Scourge Hook: Gift of Pain is now Scourge Hook: Weeping Wounds",
+    "The following achievements/trophies have been updated, and their names, icons and unlock conditions have changed:",
+    "Tear Their Soul Apart is now Beyond Broken",
+    "Injure a Survivor afflicted by the Broken Status Effect with a Basic Attack a total of 50 times",
+    "Punch Drunk is now Neither Seen Nor Heard",
+    "Apply the Oblivious status effect to Survivors 30 times in public matches",
+    "Adept Cenobite is now Lost All Hope",
+    "Down a Survivor within the bounds of any Exit Gate"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "The Lich",
+   "items": [
+    "Fixed a bug which prevented The Lich from reaching the intended movement speed (8.0 m/s) when casting Fly.",
+    "Fixed a bug which made the Survivor pallet interaction delay inconsistent for both Killers and Survivors after lifting a pallet with Mage Hand."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where The Huntress' Were-Elk outfit lullaby was quieter than her other outfits.",
+    "Fixed an issue where The Plague's Corrupt Purge activation sound effect would play multiple time in a row when all Pools of Devotion were corrupted.",
+    "Fixed an issue where the basic attack SFX for The Unknown's Savage Shovel weapon from his Missing Zookeeper outfit was missing."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where the Madness tier up animation would not trigger on Survivors when playing against The Doctor.",
+    "Fixed an issue where The Nightmare's left hand would snap briefly when aiming at a Dream Pallet.",
+    "Fixed an issue where Rupture could be activated while dropping a pallet as The Nightmare.",
+    "Fixed an issue where Awake Survivors could heal Sleeping Survivors after the \"Wake Up\" interaction was interrupted.",
+    "Fixed an issue where The Nightmare was unable to use Dream Projection in Trials.",
+    "Fixed an issue where The Trickster did not have a fatigued animation after ending a Main Event.",
+    "Fixed an issue where The Dark Lord could see the lute floating when a Survivor was using Bardic Inspiration while in Bat form.",
+    "Fixed an issue where The Lich's Spell indicator became distorted when changing window modes on an ultra wide monitor.",
+    "Fixed an issue where pallets would shake after lifting a pallet with The Lich's Mage Hand.",
+    "Fixed an issue where the animation for The Lich's Mage Hand would repeat after raising a pallet.",
+    "Fixed an issue where the activation prompt for the Eye of Vecna was not clearly labeled.",
+    "Fixed an issue where the grace period to drop a pallet after it was raised by The Lich's Mage Hand was inconsistent.",
+    "Fixed an issue where The Houndmaster's dog would appear to slide when charging the Chase command while blocked by obstacles.",
+    "Fixed an issue where the speed line vignette VFX lingered indefinitely after using Fly as The Lich.",
+    "Fixed stretching issues with The Plague’s vomit decals.",
+    "Fixed an issue where The Plague could get stuck at 4.4 base speed after getting pallet stunned while charging Vile Purge.",
+    "Fixed an issue where Survivors would briefly float after being pushed by The Mastermind's Bound Attack.",
+    "Fixed an issue where The Skull Merchant's lobby animation would be interrupted.",
+    "Fixed an issue where the Survivor's pointing animation would not play correctly.",
+    "Fixed an issue where the Survivor's scream animation would not play correctly when vaulting.",
+    "Fixed an issue where Felix Richter's Off The Shoulder torso outfit would flip over his shoulder and clip through his body.",
+    "Fixed an issue where, while playing as The Twins, quickly unbinding Victor after leaping on an object or getting crushed would prevent Victor from performing any actions."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in the Coldwind Farm Realm where players could not vault in the combine harvester.",
+    "Fixed an issue in the Autohaven Wreckers Realm where players could not vault in the crashed bus.",
+    "Fixed an issue in the Toba Landing map where a placeholder tile would appear.",
+    "Fixed an issue in the Autohaven Wreckers Realm where both window vaults in the crashed bus would be blocked.",
+    "Fixed an issue where a black line would appear on the ground in the Main Menu after backing out of the Rift Pass.",
+    "Fixed an issue where a shadow can be seen following Survivors and the Killer in various Realms on Low Quality Graphic settings."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where the durability icon remained visible after emptying a Toolbox with the Streetwise perk equipped."
+   ]
+  },
+  {
+   "group": "Quests",
+   "items": [
+    "Fixed an issue that caused Auric Cells Expiry Notice to not appear for players affected by the Act of Settlement when gaining Auric Cells from the Rift."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed a potential crash issue when selecting a Journal entry.",
+    "Fixed an issue where the UI scale in the Match Details screen would be inconsistent after updating the UI Scale setting.",
+    "Fixed an issue where the player’s name would overlap with other icons on the scoreboard in the Tally screen.",
+    "Fixed a crash issue when leveling up in the Bloodweb.",
+    "Fixed an issue where the input prompts did not initially match the input mode after switching from a keyboard & mouse to a controller.",
+    "Fixed issues with text formatting on the Main Menu play buttons."
+   ]
+  },
+  {
+   "group": "Bug Fixes",
+   "items": [
+    "Fixed an issue that caused Survivors to be heard while they teleport in the Security Door.",
+    "Fixed an issue that caused Loud Noise notifications to be inaudible when the Animatronic was inside a Security Door.",
+    "Fixed an issue that caused Survivors close to another Survivor using Security Cameras to not hear their surroundings.",
+    "Fixed an issue that caused the scanning SFX of Security Camera to continue playing when the Killer moved out of the scanning range.",
+    "Fixed an issue that caused scanning SFX to continue playing when switching Security Cameras.",
+    "Fixed an issue that caused SFX from the area around the target Security Camera to be audible while viewing a Security Camera.",
+    "Fixed an issue in the Blackwater Swamp Realm where a Security Door would spawn facing a wall.",
+    "Fixed an issue where VFX would display inconsistently for The Animatronic’s Fire Axe abilities.",
+    "Fixed an issue where VFX would display inconsistently during characters’ movement through Security Doors.",
+    "Fixed an issue where The Animatronic’s Fire Axe ember trail VFX remained visible on Survivors when retrieving the Axe.",
+    "Fixed an issue where The Animatronic's Fire Axe wasn't automatically retrieved when the Axe was placed on various moveable map objects.",
+    "Fixed an issue where The Animatronic could see the Axe aura when it was being removed via a co-op interaction.",
+    "Fixed an issue where the \"Remove Axe\" prompt was prioritized over the vault prompt for Survivors when playing against The Animatronic.",
+    "Fixed an issue where The Animatronic could perform an Axe grab on a Survivor inside a locker.",
+    "Fixed an issue where The Animatronic and Survivor could become stuck or desynced when The Animatronic grabbed the Axe at the last second.",
+    "Fixed an issue where The Animatronic could be blinded during the Axe grab animation.",
+    "Fixed an issue where The Animatronic could not be blinded during pallet break and vault animations.",
+    "Fixed an issue where the Greasy Paper Plate add-on was missing the debuff icon and interaction penalty.",
+    "Fixed an issue where the Rotten Pizza add-on reduced the Axe radius.",
+    "Fixed an issue where there were inconsistencies with Security Door numbers when entering the door selection area as The Animatronic.",
+    "Fixed an issue where elements of Security Doors dissolved incorrectly upon opening them.",
+    "Fixed an issue where Survivor models were in their default outfits when interrupted in the Security Room.",
+    "Fixed an issue where The Animatronic's power icons appeared enabled when inside the Security Doors.",
+    "Fixed an issue where the Survivor's visual heartbeat indicator was visible when teleporting to a Security Door.",
+    "Fixed an issue where Survivors were audible when they teleported to a Security Door.",
+    "Fixed an issue where Survivors getting interrupted in the Security Room were able to see the Security Door aura.",
+    "Fixed an issue where Survivors could scan The Animatronic with a disabled Security Camera.",
+    "Fixed an issue where the interrupt animation did not play when getting interrupted while using a Security Camera.",
+    "Fixed an issue where players couldn't exit the Security Doors when using the mouse wheel as an input.",
+    "Fixed an issue where Survivors' faces were distorted when interrupted in the Security Room.",
+    "Fixed an issue where an input bind conflict was present for Survivors interacting with a Security Door while playing on controller.",
+    "This fix has resulted in a change to the Security Door input mapping for Survivor players on all platforms.",
+    "Fixed an issue where the Haywire perk wasn't disabled when both Exit Gates were open.",
+    "Fixed an issue where the Help Wanted perk was not disabled when all generators were completed.",
+    "Fixed an issue where the Decisive Strike perk did not activate when Axe grabbed by The Animatronic.",
+    "Fixed an issue where the Machine Learning and Help Wanted perks stacked when activated multiple times.",
+    "Fixed an issue where the Save The Best For Last perk did not lose a token when hitting the Obsession with The Animatronic's Axe.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where a wheel chair failed to spawn on a tile.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where players could climb on top of gift boxes.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where the Dark Lord could get stuck next to a vault.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where Killers could get stuck between a hook and the main building.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where The Nurse could get partially stuck in the ramp of the repair room.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where a Totem would clip into the ground.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where The Blight was unable to collide with certain objects behind the main stage.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where The Trapper could hide traps within the Entity's Corruption.",
+    "Fixed a loading distance issue in the Freddy Fazbear's Pizza map kitchen by adjusting blood decal trail on the floor next to the fryer",
+    "Fixed various issues with various 3D elements, both structural and decorative, in the Freddy Fazbear's Pizza map.",
+    "Fixed an issue by changing loading distances on four bricks parts of the main building of Freddy Fazbear's Pizza.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where shadows would end abruptly in various locations.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where the floor would clip through the wall.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where the intro camera would clip through The Houndmaster.",
+    "Fixed an issue in the Wreckers' Yard map where a placeholder tile would appear in the map.",
+    "Fixed an issue in the Toba Landing map where The Nurse could blink on a side of the main structure that is not accessible to any other character.",
+    "Fixed an issue where The Legion would encounter stuttering during the Feral Frenzy fatigue state.",
+    "Fixed an issue where the pick-up prompt for the Nostromo Wreckage keycard was incorrectly labeled.",
+    "Fixed an issue where the Map Showcase tooltip would remain visible after the cursor left the Map Showcase label in the lobby.",
+    "Fixed an issue where the Map Showcase tooltip would remain visible after disconnecting from a lobby.",
+    "Fixed an issue where the final level preview in the Bloodweb Bulk Spending popup was not accurate.",
+    "Fixed an issue where the Bloodweb Bulk Spending rewards popup would be missing for characters who were at max prestige level."
+   ]
+  },
+  {
+   "group": "Known Issues",
+   "items": [
+    "Survivors are misaligned during The Animatronic's locker grab animation when wearing the Yellow Rabbit outfit.",
+    "Survivor and Glitchtrap shadows can be seen when traveling through Security Doors.",
+    "Phantom Fear has no effect on add-ons that create a Terror Radius.",
+    "Survivor directional SFX may not work properly.",
+    "Killers selecting The Animatronic will crash when loading into a lobby on the Switch 2 platform only."
+   ]
+  }
+ ]
+}

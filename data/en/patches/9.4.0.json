@@ -1,0 +1,704 @@
+{
+ "id": "9.4.0",
+ "version": "9.4.0",
+ "kind": "release",
+ "title": "9.4.0 | Stranger Things Chapter 2",
+ "date": "2026-01-27",
+ "url": "https://store.steampowered.com/news/app/381210/view/491589016220601507?l=english",
+ "changes": [
+  {
+   "entity": "SPECIAL ABILITY: VINE ATTACK",
+   "cat": "killer",
+   "section": "NEW KILLER - THE FIRST",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Press and hold the Power button to charge a Vine Attack. When charged, press the Attack button to activate it, creating a small area of effect on the ground",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Any Survivors caught within the area of the Vine Attack earn a Worldbreaker token",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "SPECIAL ABILITY: THE UPSIDE DOWN & UNDERGATE",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The Killer can enter The Upside Down to navigate the map quickly by tapping the Ability button. While in The Upside Down, the Killer can activate an Undergate attack to return to the map, creating a large area of effect on the ground. Survivors caught within its radius gain 2 Worldbreaker tokens",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "SPECIAL CONDITION / ITEM: WORLDBREAKER & GRANDFATHER CLOCKS",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Once a Survivor has gained enough tokens, Worldbreaker activates, and the Worldbreaker Timer begins. While Worldbreaker is active, both the Vine Attack and Undergate attacks do damage to Survivors instead of adding Worldbreaker tokens, and 4 Grandfather Clocks activate",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Worldbreaker lasts for a predetermined amount of time, based on the number of Survivors alive. Survivors can interact with the Grandfather Clocks spread around the map to speed up the Worldbreaker Timer",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Press and hold the Power button to charge a Vine Attack. When charged, press the Attack button to activate it, creating a small area of effect on the ground",
+    "Any Survivors caught within the area of the Vine Attack earn a Worldbreaker token",
+    "SPECIAL ABILITY: THE UPSIDE DOWN & UNDERGATE",
+    "The Killer can enter The Upside Down to navigate the map quickly by tapping the Ability button. While in The Upside Down, the Killer can activate an Undergate attack to return to the map, creating a large area of effect on the ground. Survivors caught within its radius gain 2 Worldbreaker tokens",
+    "SPECIAL CONDITION / ITEM: WORLDBREAKER & GRANDFATHER CLOCKS",
+    "Once a Survivor has gained enough tokens, Worldbreaker activates, and the Worldbreaker Timer begins. While Worldbreaker is active, both the Vine Attack and Undergate attacks do damage to Survivors instead of adding Worldbreaker tokens, and 4 Grandfather Clocks activate",
+    "Worldbreaker lasts for a predetermined amount of time, based on the number of Survivors alive. Survivors can interact with the Grandfather Clocks spread around the map to speed up the Worldbreaker Timer"
+   ]
+  },
+  {
+   "entity": "Turn Back the Clock",
+   "cat": "killer",
+   "section": "NEW KILLER - THE FIRST",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After hooking a Survivor, for 40/50/60 seconds, press Ability button 1 to make target generator within 20/20/20 meters explode, lose 10/10/10% progress and start regressing",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After hooking a Survivor, for 40/50/60 seconds, press Ability button 1 to make target generator within 20/20/20 meters explode, lose 10/10/10% progress and start regressing"
+   ]
+  },
+  {
+   "entity": "Secret Project",
+   "cat": "killer",
+   "section": "NEW KILLER - THE FIRST",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When a totem is blessed or cleansed, block a random unblocked generator for 20/25/30 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When 1 or more generators become blocked, you gain Undetectable for 30/30/30 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When a totem is blessed or cleansed, block a random unblocked generator for 20/25/30 seconds",
+    "When 1 or more generators become blocked, you gain Undetectable for 30/30/30 seconds"
+   ]
+  },
+  {
+   "entity": "Hex: Hive Mind",
+   "cat": "killer",
+   "section": "NEW KILLER - THE FIRST",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The first time you hook any Survivor, a Dull Totem becomes a Hex Totem",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Generators are highlighted; the intensity of generator auras reveals their repair progress",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When 1/1/1 generator remains, all remaining generators explode, lose 6/8/10% progress and start regressing, and the Hex Totem becomes dull",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The first time you hook any Survivor, a Dull Totem becomes a Hex Totem",
+    "Generators are highlighted; the intensity of generator auras reveals their repair progress",
+    "When 1/1/1 generator remains, all remaining generators explode, lose 6/8/10% progress and start regressing, and the Hex Totem becomes dull"
+   ]
+  },
+  {
+   "entity": "Bada Bada Boom",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR - DUSTIN HENDERSON",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After completing 20/20/20% worth of repairs, press Ability button 1 next to a window to trap it for 40/50/60 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The trap triggers when the Killer performs a vault on the window, inflicting them with 50/50/50% Hindered for 6/6/6 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After completing 20/20/20% worth of repairs, press Ability button 1 next to a window to trap it for 40/50/60 seconds",
+    "The trap triggers when the Killer performs a vault on the window, inflicting them with 50/50/50% Hindered for 6/6/6 seconds"
+   ]
+  },
+  {
+   "entity": "Change of Plan",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR - DUSTIN HENDERSON",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "You start with 2/2/2 tokens",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While inside a locker and holding a non-event Toolbox, press Ability button 2 to spend 1/1/1 token and transform your Toolbox into a Med-kit of the same rarity with a random add-on of the same rarity",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The new Med-kit has 80/90/100% of its charges",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "You start with 2/2/2 tokens",
+    "While inside a locker and holding a non-event Toolbox, press Ability button 2 to spend 1/1/1 token and transform your Toolbox into a Med-kit of the same rarity with a random add-on of the same rarity",
+    "The new Med-kit has 80/90/100% of its charges"
+   ]
+  },
+  {
+   "entity": "Teamwork: Full Circuit",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR - DUSTIN HENDERSON",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "For each other Survivor repairing a generator with you, the size of the Good Skill Check zone is increased by 15/20/25%",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While repairing with at least 1 other Survivor, you repair 5/5/5% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "For each other Survivor repairing a generator with you, the size of the Good Skill Check zone is increased by 15/20/25%",
+    "While repairing with at least 1 other Survivor, you repair 5/5/5% faster"
+   ]
+  },
+  {
+   "entity": "Extrasensory Perception",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR - ELEVEN",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After crouching for 4/4/4 seconds, you see auras in an expanding radius, up to 44/44/44 meters, have Elusive and Oblivious",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When you stop crouching or after 11/11/11 seconds, this perk enters a 60/50/40-second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After crouching for 4/4/4 seconds, you see auras in an expanding radius, up to 44/44/44 meters, have Elusive and Oblivious",
+    "When you stop crouching or after 11/11/11 seconds, this perk enters a 60/50/40-second cooldown"
+   ]
+  },
+  {
+   "entity": "We See You",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR - ELEVEN",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When the Killer reveals your aura, gain one token",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When you have 4/4/4 tokens, spend all tokens and you and other Survivors see the Killer's aura for 10/12.5/15 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "This perks has a 10/10/10-second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When the Killer reveals your aura, gain one token",
+    "When you have 4/4/4 tokens, spend all tokens and you and other Survivors see the Killer's aura for 10/12.5/15 seconds",
+    "This perks has a 10/10/10-second cooldown"
+   ]
+  },
+  {
+   "entity": "Teamwork: Soft-Spoken",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR - ELEVEN",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "For each other Survivor repairing a generator with you, the range at which generator repair noise is heard is reduced by 15/20/25%",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While repairing with at least 1 other Survivor, you repair 5/5/5% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "For each other Survivor repairing a generator with you, the range at which generator repair noise is heard is reduced by 15/20/25%",
+    "While repairing with at least 1 other Survivor, you repair 5/5/5% faster"
+   ]
+  },
+  {
+   "entity": "Visual Terror Radius",
+   "cat": "system",
+   "section": "Visual Terror Radius",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated the 2D version of the Visual Terror Radius heart to be animated",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Matches 3D heart behavior",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Has its own Lullaby version",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated the 2D version of the Visual Terror Radius heart to be animated",
+    "Matches 3D heart behavior",
+    "Has its own Lullaby version"
+   ]
+  },
+  {
+   "entity": "Jump Start Quests",
+   "cat": "system",
+   "section": "Jump Start Quests",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Quest set in the Rift Pass Quests that offers double the Rift Fragments. Available at the start of a new Rift, for the duration of the whole Rift",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Quest set in the Rift Pass Quests that offers double the Rift Fragments. Available at the start of a new Rift, for the duration of the whole Rift"
+   ]
+  },
+  {
+   "entity": "Halloween DLC Changes",
+   "cat": "system",
+   "section": "Halloween DLC Changes",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Shape, Laurie Strode and their respective outfits are no longer available in the store. These characters will remain playable for players who already had them unlocked",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The following perks have become General Perks, and their names and icons have changed:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Sole Survivor is now Down to the Last",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Object of Obsession is now Bound by Obsession",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Decisive Strike is now Will to Live",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Save the Best for Last is now Keep Them Waiting",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Play With Your Food is now See How They Run",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Dying Light is now Cull the Weak",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Lampkin Lane map has been removed from map rotation and custom game selection:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Strode Realty Key offering has been retired and can no longer be used",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The following achievements/trophies have been updated, and their names, icons and unlock conditions have changed:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Adept Laurie is now Key to Success",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "As a Survivor, use a key to open a chest",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Adept Shape is now Share the Pain",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "As a Killer, have all four Survivors injured at the same time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Evil Incarnate is now Prized Possession",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "As a Killer, finish a match with at least one Hex totem standing",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Man Behind the Bush is now Deadly Obsession",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "As a Killer, hook the Obsession the specified number of times",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "House of Pain is now Working Overtime",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "As a Survivor, repair generators for at least 300 seconds in a single match",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Shape, Laurie Strode and their respective outfits are no longer available in the store. These characters will remain playable for players who already had them unlocked",
+    "The following perks have become General Perks, and their names and icons have changed:",
+    "Sole Survivor is now Down to the Last",
+    "Object of Obsession is now Bound by Obsession",
+    "Decisive Strike is now Will to Live",
+    "Save the Best for Last is now Keep Them Waiting",
+    "Play With Your Food is now See How They Run",
+    "Dying Light is now Cull the Weak",
+    "The Lampkin Lane map has been removed from map rotation and custom game selection:",
+    "The Strode Realty Key offering has been retired and can no longer be used",
+    "The following achievements/trophies have been updated, and their names, icons and unlock conditions have changed:",
+    "Adept Laurie is now Key to Success",
+    "As a Survivor, use a key to open a chest",
+    "Adept Shape is now Share the Pain",
+    "As a Killer, have all four Survivors injured at the same time",
+    "Evil Incarnate is now Prized Possession",
+    "As a Killer, finish a match with at least one Hex totem standing",
+    "The Man Behind the Bush is now Deadly Obsession",
+    "As a Killer, hook the Obsession the specified number of times",
+    "House of Pain is now Working Overtime",
+    "As a Survivor, repair generators for at least 300 seconds in a single match"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where we were missing the beeping SFX when installing the trap on a vault.",
+    "Fixed an issue where the Blight's \"Jingle Cane\" weapon is missing bells sounds when swinging it.",
+    "Fixed an issue where some Stranger Thing characters and Legendary Cosmetic's special Voice Lines are missing sometime when joining an Online Lobby with a Specific Survivor present.",
+    "Fixed an issue where Jonathan Byers Legendary Outfit's Grunts SFX are delayed when using the Perk Any Mean Necessary.",
+    "Fixed an issue where Dustin got superfluous word present in the Subtitles of a specific Lobby Voice Line.",
+    "Fixed an issue where Survivor voice lines can be cut off by the Hook Phase 2 struggling animation sometimes.",
+    "Fixed an issue where Nancy voicelines and subtitles are mismatched.",
+    "Fixed an issue where Stranger Things characters Escape voice lines are missing.",
+    "Fixed an issue where missing SFX when a Survivor misses a Skill Check on a Mimic Chest.",
+    "Fixed an issue where missing SFX when Slaughting Strike Charge is ready when using certain weapon cosmetics as The Shape.",
+    "Fixed an issue where the Blight's 'Bellringer' weapon no longer has bell ringing SFX.",
+    "Fixed an issue where Dustin scream SFX is missing upon being slipstreamed by The Singularity's Biopod.",
+    "Fixed an issue where some VO lines for Dustin and Eleven during mori sequence were missing.",
+    "Fixed an issue where some VO lines audio volume were tweaks for better audio balance.",
+    "Fixed an issue where Nicolas Cage reference Sadako Voice Line fires on non-Onryo killers in a chase."
+   ]
+  },
+  {
+   "group": "Bot Improvements",
+   "items": [
+    "Improved Survivor bots' usage of Flashlights during chases.",
+    "Survivor bots are now able to perform Flashlight, Flashbang and pallet saves.",
+    "Fixed an issue where Survivor bots were able to blind a Killer through obstacles with Flashlights.",
+    "Fixed multiple issues preventing Survivor bots from correctly using various perks.",
+    "Fixed multiple issues causing Survivor bots to not participate correctly in group heals.",
+    "Fixed multiple issues where Nemesis' Zombies could jump up and hit Survivors from a lower level in the Forgotten Ruins map, Forsaken Boneyard Realm and the Raccoon City Realm.",
+    "Improved the behavior of Killer Bots against Flashlights and successful blinds.",
+    "Fixed an issue causing Bots to get stuck in Hawkins Laboratory's Portal room."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where reticule stickiness did not disappear when The Ghoul lost line of sight with the target, allowing unintended hits through walls.",
+    "Fixed an issue where The Spirit’s exit from Phase Walk was missing.",
+    "Fixed an issue where The Onryo appeared in an A-pose during the Mori animation.",
+    "Fixed an issue where the torture device was missing during The Animatronic's Mori animation.",
+    "Fixed an issue where some Killers appeared too low to the ground in online or custom lobbies.",
+    "Fixed an issue where The Nurse's Blink position would be too far from the expected position.",
+    "Fixed an issue where The Houndmaster would experience drops in framerate while aiming the Chase command at certain map locations.",
+    "Fixed an issue where Snug prevented The Houndmaster from using the perk Turn Back The Clock while in front of a generator.",
+    "Fixed an issue where The Dredge could remain stuck after teleporting to a locker at the same time that a Survivor was entering the same locker.",
+    "Fixed an issue where Survivors would sometimes not receive damage or infection from The Mastermind's Virulent Bound when standing in front of a vault, prior to vaulting.",
+    "Fixed an issue where The Knight could get stuck in the summoning animation if stunned by a pallet while summoning a Guard.",
+    "Fixed an issue where The Knight could fall off the roof when tracing a path in certain map locations.",
+    "Fixed an issue where the input icon was still shown in The Knight's power widget after having used the power.",
+    "Fixed an issue where The Singularity was able to shoot a Biopod under the ground.",
+    "Fixed an issue where The Ghoul's Kagune Leap would cause the player to become stuck in a decreased speed state.",
+    "Fixed an issue where Survivors playing against The Krasue received the cleanse score event twice after fully cleansing their curse by eating a mushroom.",
+    "Fixed an issue where The Krasue's Leeching Gland would automatically aim at occupied snowmen.",
+    "Fixed an issue where The Lich's spell indicator VFX was visible during his spawn animation.",
+    "Fixed an issue where Survivors could cancel The Lich's Mimic trap by activating ''Run to Cancel''.",
+    "Fixed an issue where The Lich's Vile Darkness power UI was invisible.",
+    "Fixed an issue where The Nurse's POV was slightly shifted to the side when Blinking while turning the camera.",
+    "Fixed an issue where The Ghoul was able to cancel mid-swing while Kagune Leaping to a Survivor, bypassing part of the recovery.",
+    "Fixed an issue where an unselected spell remained displayed for The Lich after selecting several spells quickly.",
+    "Fixed an issue where The Cenobite's grunt SFX would play when switching to Killer perspective while spectating.",
+    "Fixed an issue where The Shape's knife was misaligned while charging Slaughtering Strike repeatedly in Evil Incarnate Mode.",
+    "Fixed an issue where The Shape could become soft-locked when attempting to destroy a pallet with Slaughtering Strike after being stunned.",
+    "Fixed an issue where The Skull Merchant's drone could become invisible and unusable for the remainder of the Trial after being recalled.",
+    "Fixed an issue where The Skull Merchant's drone failed to deploy after being forcibly recalled from hooking a Survivor.",
+    "Fixed an issue where The Skull Merchant's radar briefly became invisible when activating the perk Turn Back The Clock.",
+    "Fixed an issue where The Twins could become stuck when stunned while releasing Victor.",
+    "Fixed an issue where The Deathslinger was not aiming with the rifle from Survivor POV.",
+    "Fixed an issue where The First's Add-on \"Smashed Cassette Deck\" reduced the amount of Grandfather Clocks by 2 instead of 1.",
+    "Fixed an issue where The First's World Breaker Mode could be activated hitting a Survivor who had already escaped through the Exit Gates with a Vine Attack.",
+    "Fixed an issue where the Mind Break animation was missing for The First when hitting a vaulting Survivor with a Vine Attack during Mini-Mori requirements.",
+    "Fixed an issue where The First's \"Traverse Upside Down\" ability icon would not dim when using the Vine Attack ability.",
+    "Fixed an issue where The First's \"Traverse Upside Down\" prompt was displayed when holding the Charge Vine Attack button.",
+    "Fixed an issue where Memento Mori dialogue lines for The First would play when performing the mini-mori animation.",
+    "Fixed an issue where the ground attack combo scoring event was earned for The First when hitting a single Survivor.",
+    "Fixed an issue where The First's \"Traverse Upside Down\" prompt remained visible when performing interactions blocking Killer powers.",
+    "Fixed an issue where The First's Vine Attack charges were missing on the UI while using the Chess Piece addon.",
+    "Fixed an issue where when a Survivor was in The First's mini-mori state, their collision would cause other Survivors' cameras to shake.",
+    "Fixed an issue where The First's vine attack and ground attack did not progress the Chaser score event on damaging hits.",
+    "Fixed an issue where The First would become invisible when exiting the Upside-Down after being pallet stunned just before entering.",
+    "Fixed an issue where The First's Gutted Supercom add-on was not extended by Lethal Pursuer.",
+    "Fixed an issue where The First's Electrode Cap add-on aura reveal effect was still shown for 6 seconds when paired with the Lethal Pursuer perk.",
+    "Fixed an issue where The First's Shattered Wrist Rocket addon could affect interactables on different floors.",
+    "Fixed an issue where The First was unable to grab a Survivor after having previously grabbed them once.",
+    "Fixed an issue where The First could misfire when quickly activating the Vine Attack during packet loss.",
+    "Fixed an issue where the Mind Break animation was missing for The First when Survivors used a flashlight while Mini-Mori requirements were met.",
+    "Fixed an issue where The First's vine attack indicator was smaller while spectating.",
+    "Fixed an issue where The First's vine attack indicator would remain visible for Spectators when switching between Killer and Survivor POV.",
+    "Fixed an issue where Vine Attack visuals were affected by lag, resulting in valid hits received when beyond the targeting indicator as perceived by Survivors.",
+    "Fixed an issue where rarely, The First was unable to Traverse Upside Down after hooking a Survivor."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in the Ormond Lake Mine map where the player could land on top of crates near the building.",
+    "Fixed an issue in the Eyrie of Crows map where the Killer could access an exploitable ledge.",
+    "Fixed an issue in the Fractured Cowshed map where players would not be able to navigate between a set of hay bales and a fence.",
+    "Fixed multiple issues related to the camera clipping inside The Houdmaster at the start of a Trial.",
+    "Fixed an issue in the Coldwind Farm Realm where The Plague's projectiles would be blocked near the shack.",
+    "Fixed an issue in the Wretched Shop map where objects would spawn close to a truck and prevent proper navigation around it.",
+    "Fixed an issue in the Forgotten Ruins map where players would get stuck in a threshold between rooms.",
+    "Fixed an issue in the Wretched Shop map where the player could not interact with one side of a generator.",
+    "Fixed multiple issues related to the placement of the trap when the perk Bada Bada Boom is being used.",
+    "Fixed an issue in the Mount Ormond Resort map where The Trapper could not place his traps properly on a section of the stairs landing near the generator.",
+    "Fixed an issue in the Shelter Woods map where a pallet did not lean against any object.",
+    "Fixed an issue in the Dead Dawg Saloon map where interactions with chests on porches were not working properly.",
+    "Fixed an issue in the Grim Pantry map where a chest and totem were overlapping and rendered the totem inaccessible.",
+    "Fixed multiple issues in The Thompson House map where pallets were partially clipping in the ground.",
+    "Fixed an issue in the Treatment Theater map where dropped items partially clipped into the ground."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where the perk Bada Bada Boom's trap was popping out of place on several vault locations once the animation is over.",
+    "Fixed an issue where the \"Teamwork: Soft-Spoken\" perk icon would turn off after failing a skill check.",
+    "Fixed an issue where the \"Teamwork: Full Circuit\" perk would deactivate after failing a Skill Check on a Generator.",
+    "Fixed an issue where players could not rebind the button for Turn Back The Clock.",
+    "Fixed an issue where the external Perk icon for Turn Back The Clock was brown.",
+    "Fixed an issue where Bada Bada Boom could be placed on vault locations from lower ground.",
+    "Fixed an issue where Survivors could use Bada Bada Boom further than intended from vault locations.",
+    "Fixed an issue where Turn Back The Clock's indicator arrow remained displayed when killers used their power while looking at a generator.",
+    "Fixed an issue where The Trapper was unable to trigger Bear Traps during Turn Back The Clock's interaction."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Improved the visuals of the Friends List.",
+    "Fixed an issue where starting a search with \"B\" in the Friend List would cause a crash.",
+    "Fixed an issue where the scroll input prompt was missing in some menus when using a controller.",
+    "Fixed an issue where trying to access the friend submenu would not work, resulting in issues trying to invite friends.",
+    "Fixed an issue where the scroll bar in the friends list was abnormally slow."
+   ]
+  },
+  {
+   "group": "Miscellaneous",
+   "items": [
+    "Fixed a crash that could occur during the game's initialization process.",
+    "Fixed a crash that could occur when closing the game while being in a lobby.",
+    "Fixed an issue where Survivors could clip into Killers during the pickup animation.",
+    "Fixed an issue where Killer models became distorted when swapping from the spawn animation to Killer POV in spectator mode.",
+    "Fixed an issue where Survivors were unable to interact with an occupied locker.",
+    "Fixed an issue where a Survivor's footsteps SFX remained suppressed after leaving the Fog Vial's cloud."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "9.1.3",
+ "version": "9.1.3",
+ "kind": "release",
+ "title": "9.1.3 | Bugfix Patch",
+ "date": "2025-08-26",
+ "url": "https://store.steampowered.com/news/app/381210/view/538862856947368158?l=english",
+ "changes": [
+  {
+   "entity": "Content",
+   "cat": "system",
+   "section": "Content",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Last Stand perk has been re-enabled",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Last Stand perk has been re-enabled"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where The Spirit's hands would remain extended after using the Phase-Walk power.",
+    "Fixed an issue where The Deathslinger was unable to spear Survivors with the Redeemer while they were fast-vaulting pallets using the Last Stand perk.",
+    "Fixed an issue where The Dark Lord's Hellfire would not pass through the Killer shack pallets."
+   ]
+  },
+  {
+   "group": "Miscellaneous",
+   "items": [
+    "Fixed an issue where Killers were unable to injure Survivors fast-vaulting pallets using the Last Stand perk.",
+    "Fixed an issue where Survivors could get trapped inside lockers.",
+    "Fixed an issue where Survivors could use the Finesse perk infinitely.",
+    "Fixed an issue where the Fog Vial's fog blocked certain Killers' projectiles.",
+    "Fixed an issue where Survivors appeared to be floating in the lobby."
+   ]
+  }
+ ]
+}

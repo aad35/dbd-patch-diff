@@ -1,0 +1,1477 @@
+{
+ "id": "7.0.0",
+ "version": "7.0.0",
+ "kind": "release",
+ "title": "7.0.0 | End Transmission",
+ "date": "2023-06-13",
+ "url": "https://store.steampowered.com/news/app/381210/view/3649651368762805768?l=english",
+ "changes": [
+  {
+   "entity": "Power: Quantum Instatiation",
+   "cat": "system",
+   "section": "Power: Quantum Instatiation",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "A dark crystalline structure in an ancient ruin gifted—or perhaps cursed—Hux with sentience. He built a new body, and with it, a terrifying way to bend the rules of physics to his benefit. The Singularity can shoot and spawn Biopods around the map; these Biopods can attach to any vertical surface they land on. The Singularity can control a Biopod remotely and look through it, and tag Survivors, afflicting them with a Temporal Slipstream. When Slipstreamed, The Singularity can teleport next to the Slipstreamed Survivor either by using the Biopods to tag them, or by shooting them. When a Slipstreamed Survivor is in proximity to another Survivor, the Slipstream can spread. Special State: Overclock Mode - After a successful Slipstream teleport, the Singularity enters Overclock Mode. In this state, walls and pallets can be destroyed faster, vaulting speed is faster, and he cannot be stunned by pallets. Attempts to stun by pallet merely remove Overlock Mode and momentarily slow the Singularity. Special Interaction: Electromagnetic Pulse - At the beginning of each Trial, several Supply Cases spawn, each containing an EMP. Survivors can use these EMPs to remove the Slipstream from themselves or others, or to destroy a Biopod. Once used, the EMP is destroyed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "A dark crystalline structure in an ancient ruin gifted—or perhaps cursed—Hux with sentience. He built a new body, and with it, a terrifying way to bend the rules of physics to his benefit. The Singularity can shoot and spawn Biopods around the map; these Biopods can attach to any vertical surface they land on. The Singularity can control a Biopod remotely and look through it, and tag Survivors, afflicting them with a Temporal Slipstream. When Slipstreamed, The Singularity can teleport next to the Slipstreamed Survivor either by using the Biopods to tag them, or by shooting them. When a Slipstreamed Survivor is in proximity to another Survivor, the Slipstream can spread. Special State: Overclock Mode - After a successful Slipstream teleport, the Singularity enters Overclock Mode. In this state, walls and pallets can be destroyed faster, vaulting speed is faster, and he cannot be stunned by pallets. Attempts to stun by pallet merely remove Overlock Mode and momentarily slow the Singularity. Special Interaction: Electromagnetic Pulse - At the beginning of each Trial, several Supply Cases spawn, each containing an EMP. Survivors can use these EMPs to remove the Slipstream from themselves or others, or to destroy a Biopod. Once used, the EMP is destroyed"
+   ]
+  },
+  {
+   "entity": "Genetic Limits",
+   "cat": "perk",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Survivor finishes the healing action, they suffer the Exhausted status effect for 24/28/32 seconds. Forced Hesitation: When a Survivor is put into the dying state by any means, all other Survivors standing within 16/16/16 meters around them suffer the hindered Status effect for 10/10/10 seconds, reducing their Movement speed by 20%. This perk goes on cooldown for 40/35/30 seconds. Machine Learning: After performing the damage generator action, Machine Learning activates. While this perk is active, the next generator you damage will be compromised until it is completed. The generator is highlighted in Yellow. When the compromised generator is completed, you become undetectable and gain 10% Haste for 20/25/30 seconds. Then, Machine Learning deactivates. If you break a gen while another generator is compromised, the compromised generator moves to the latest one kicked",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Survivor finishes the healing action, they suffer the Exhausted status effect for 24/28/32 seconds. Forced Hesitation: When a Survivor is put into the dying state by any means, all other Survivors standing within 16/16/16 meters around them suffer the hindered Status effect for 10/10/10 seconds, reducing their Movement speed by 20%. This perk goes on cooldown for 40/35/30 seconds. Machine Learning: After performing the damage generator action, Machine Learning activates. While this perk is active, the next generator you damage will be compromised until it is completed. The generator is highlighted in Yellow. When the compromised generator is completed, you become undetectable and gain 10% Haste for 20/25/30 seconds. Then, Machine Learning deactivates. If you break a gen while another generator is compromised, the compromised generator moves to the latest one kicked"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Troubleshooter",
+   "cat": "perk",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When you are chased by the Killer, this perk activates. You see the aura of the Generator with the most progress. You see the aura of the Killer for 4/5/6 seconds after dropping a Pallet. The effect lasts for 6/8/10 seconds after being in chase, then deactivates.  Made for This: This perk activates while you are in the injured state. You run 1/2/3% faster. After you finish healing another Survivor, gain the endurance status effect for 6/8/10 seconds. Made for This cannot be used when suffering from Exhaustion but does not cause the Exhausted Status Effect. Scavenger: While you are holding an empty toolbox, this perk activates. Succeeding a great skill check while repairing gives the perk 1 token, up to 5. when you reach maximum tokens, Once you have maximum tokens, lose all tokens and recharge the toolbox to full. Then, your generator repair speed is 50% slower for 40/35/30 seconds. This perk grants the ability to rummage through an opened chest once per Trial and will guarantee a basic Toolbox",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When you are chased by the Killer, this perk activates. You see the aura of the Generator with the most progress. You see the aura of the Killer for 4/5/6 seconds after dropping a Pallet. The effect lasts for 6/8/10 seconds after being in chase, then deactivates.  Made for This: This perk activates while you are in the injured state. You run 1/2/3% faster. After you finish healing another Survivor, gain the endurance status effect for 6/8/10 seconds. Made for This cannot be used when suffering from Exhaustion but does not cause the Exhausted Status Effect. Scavenger: While you are holding an empty toolbox, this perk activates. Succeeding a great skill check while repairing gives the perk 1 token, up to 5. when you reach maximum tokens, Once you have maximum tokens, lose all tokens and recharge the toolbox to full. Then, your generator repair speed is 50% slower for 40/35/30 seconds. This perk grants the ability to rummage through an opened chest once per Trial and will guarantee a basic Toolbox"
+   ]
+  },
+  {
+   "entity": "Map",
+   "cat": "system",
+   "section": "Map",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Landing was a promise for humanity to rebuild on a new planet. The climate resources were ideal to start anew, until all went wrong, and a new lifeform takes over and it has no connection to humanity. The environment his split in two distinct biomes. A rocky and bare area that will give players a more open space to explore. A destroyed vehicle incased on spiky rocks serves as a testament of a fierce battle and can now serves as a landmark. On the opposite side of the map a lush and busy jungle will give the players a claustrophobic feeling even outside. The vegetation although menacing can be used by the survivors to hide and wait for the real threat to pass by.Between the two biomes the Toba Landing, now a desolate remnant of what was once a second chance of life is now a carcass of advance technology. Players will be able to explore every level from underneath, all the way to the top of the structure.This planet looks wild and untouched, but the more you look around, it is possible to notice a civilization once thrived and left evidence of its presence on some familiar elements, such as the shack and the exit gate.Wild life is present in the environment and a good guide to help players find their way around. Enigmatic blue flowers seem to feed on the energy of the entity and light up when source of energy like generators and exit gates are around",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Landing was a promise for humanity to rebuild on a new planet. The climate resources were ideal to start anew, until all went wrong, and a new lifeform takes over and it has no connection to humanity. The environment his split in two distinct biomes. A rocky and bare area that will give players a more open space to explore. A destroyed vehicle incased on spiky rocks serves as a testament of a fierce battle and can now serves as a landmark. On the opposite side of the map a lush and busy jungle will give the players a claustrophobic feeling even outside. The vegetation although menacing can be used by the survivors to hide and wait for the real threat to pass by.Between the two biomes the Toba Landing, now a desolate remnant of what was once a second chance of life is now a carcass of advance technology. Players will be able to explore every level from underneath, all the way to the top of the structure.This planet looks wild and untouched, but the more you look around, it is possible to notice a civilization once thrived and left evidence of its presence on some familiar elements, such as the shack and the exit gate.Wild life is present in the environment and a good guide to help players find their way around. Enigmatic blue flowers seem to feed on the energy of the entity and light up when source of energy like generators and exit gates are around"
+   ]
+  },
+  {
+   "entity": "The Artist",
+   "cat": "killer",
+   "section": "The Artist",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increase the maximum capacity of Dire Crows by 1. Decreases the time Dire Crows stay idle before disintegrating by 2 seconds",
+     "after": null,
+     "before": "4 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increases the length of time a Dire Crow’s Killer Instinct reveals Survivors by 3 seconds",
+     "after": null,
+     "before": "1.5 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Ink Egg",
+    "Increase the maximum capacity of Dire Crows by 1. Decreases the time Dire Crows stay idle before disintegrating by 2 seconds (was 4 seconds)",
+    "Vibrant Obituary",
+    "Increases the length of time a Dire Crow’s Killer Instinct reveals Survivors by 3 seconds (was 1.5 seconds)"
+   ],
+   "character": "The Artist"
+  },
+  {
+   "entity": "The Nemesis",
+   "cat": "killer",
+   "section": "The Nemesis",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increases time it takes Survivors to use a Vaccine by 3 seconds",
+     "after": null,
+     "before": "2 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases length of Killer Instinct when Survivors use a Vaccine by 3 seconds",
+     "after": null,
+     "before": "2 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases mutation rate when destroying zombies with Tentacle Strike by 75%",
+     "after": null,
+     "before": "50%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreases zombie respawn time by 7.5 seconds",
+     "after": null,
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases mutation rate when destroying zombies with Tentacle Strike by 75%",
+     "after": null,
+     "before": "50%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Damaged Syringe",
+    "Increases time it takes Survivors to use a Vaccine by 3 seconds (was 2 seconds). Increases length of Killer Instinct when Survivors use a Vaccine by 3 seconds (was 2 seconds)",
+    "Tyrant Gore",
+    "Increases mutation rate when destroying zombies with Tentacle Strike by 75% (was 50%). Decreases zombie respawn time by 7.5 seconds (was 5 seconds)",
+    "Zombie Heart",
+    "Increases mutation rate when destroying zombies with Tentacle Strike by 75% (was 50%)"
+   ],
+   "character": "The Nemesis"
+  },
+  {
+   "entity": "The Trickster",
+   "cat": "killer",
+   "section": "The Trickster",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increase the duration of Main Event by 0.3 seconds",
+     "after": null,
+     "before": "0.2 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases the duration of Main Event by 0.4 seconds",
+     "after": null,
+     "before": "0.3 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Lucky Blade",
+    "Increase the duration of Main Event by 0.3 seconds (was 0.2 seconds) for each Blade hit while it is active",
+    "Waiting For You Watch",
+    "Increases the duration of Main Event by 0.4 seconds (was 0.3 seconds) for each Blade hit while it is active"
+   ],
+   "character": "The Trickster"
+  },
+  {
+   "entity": "The Ghost Face",
+   "cat": "killer",
+   "section": "The Ghost Face",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Movement speed while crouched: 3.8 m/s",
+     "after": null,
+     "before": "3.6 m/s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Night Shroud recharge time: 20 seconds",
+     "after": null,
+     "before": "24 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Killer Instinct duration after being revealed: 4 seconds",
+     "after": null,
+     "before": "2 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Reduces the Terror Radius by 12 meters",
+     "after": null,
+     "before": "8 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "A Survivor that reveals The Ghost Face is inflicted with Exhausted for 10 seconds",
+     "after": null,
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Power",
+    "Movement speed while crouched: 3.8 m/s (was 3.6 m/s)",
+    "Night Shroud recharge time: 20 seconds (was 24 seconds)",
+    "Killer Instinct duration after being revealed: 4 seconds (was 2 seconds)",
+    "Knife Belt Clip",
+    "Reduces the Terror Radius by 12 meters (was 8 meters) while crouching",
+    "Night Vision Monocular",
+    "A Survivor that reveals The Ghost Face is inflicted with Exhausted for 10 seconds (was 5 seconds)"
+   ],
+   "character": "The Ghost Face"
+  },
+  {
+   "entity": "Perk Updates",
+   "cat": "system",
+   "section": "Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "After hooking a Survivor, the next generator you damage instantly loses 30%",
+     "after": null,
+     "before": "20%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "We have noticed growing concerns surrounding excessively long matches caused by 3-genning (Killer defending a cluster of three generators). We are working on a long term solution for a future update to limit how effective this strategy can be. However, we recognize that Survivors need more options at their disposal right now to combat 3-genning. With this in mind, some adjustments have been made to Déjà Vu: The perk will now reveal the auras of 3 generators which are in close proximity to one another indefinitely",
+     "after": "indefinitely",
+     "before": "for 30/45/60 seconds at the start of the trial and everytime a generator was completed",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "and grant a 4%/5%/6% repair speed bonus on the revealed generators",
+     "after": "4%/5%/6% repair speed bonus",
+     "before": "3%/4%/5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Pop Goes the Weasel",
+    "After hooking a Survivor, the next generator you damage instantly loses 30% (was 20%) of its current progress. Normal generator regression applies after the Damage Generator action. Pop Goes the Weasel is active for 35/40/45 seconds after the Survivor is hooked",
+    "Déjà Vu",
+    "We have noticed growing concerns surrounding excessively long matches caused by 3-genning (Killer defending a cluster of three generators). We are working on a long term solution for a future update to limit how effective this strategy can be. However, we recognize that Survivors need more options at their disposal right now to combat 3-genning. With this in mind, some adjustments have been made to Déjà Vu: The perk will now reveal the auras of 3 generators which are in close proximity to one another indefinitely (previously for 30/45/60 seconds at the start of the trial and everytime a generator was completed) and grant a 4%/5%/6% repair speed bonus on the revealed generators (previously 3%/4%/5%)",
+    "Flashbang",
+    "After completing 70%/60%/50% progress on any generator, Flashbang activates. Enter a locker and press the Active Ability Button 1 to craft a flash grenade. (No longer requires being empty-handed)"
+   ]
+  },
+  {
+   "entity": "Events",
+   "cat": "system",
+   "section": "Events",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The 7th Anniversary \"Twisted Masquerade\" event begins June 21, 2023 at 11:00 ET",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Level 1 of the \"Twisted Masquerade\" event tome opens June 21, 2023 at 11:00 ET",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The 7th Anniversary \"Twisted Masquerade\" event begins June 21, 2023 at 11:00 ET",
+    "Level 1 of the \"Twisted Masquerade\" event tome opens June 21, 2023 at 11:00 ET"
+   ]
+  },
+  {
+   "entity": "Search Bar",
+   "cat": "system",
+   "section": "Search Bar",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Yes, it's the moment you've been waiting for: the loadout and customization screens finally have a search bar. You can now filter your Items, Add-ons, Offerings, Perks, Cosmetics, Outfits and Charms using this textbox. The following text parts can be searched for:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Name",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Description / flavor text",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Rarity",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Collection name of a Cosmetic",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Outfit name of a Cosmetic",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Item that an Add-on attaches to",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "For teachable Perks, the name of the character that unlocks it",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Yes, it's the moment you've been waiting for: the loadout and customization screens finally have a search bar. You can now filter your Items, Add-ons, Offerings, Perks, Cosmetics, Outfits and Charms using this textbox. The following text parts can be searched for:",
+    "Name",
+    "Description / flavor text",
+    "Rarity",
+    "The Collection name of a Cosmetic",
+    "The Outfit name of a Cosmetic",
+    "The Item that an Add-on attaches to",
+    "For teachable Perks, the name of the character that unlocks it"
+   ]
+  },
+  {
+   "entity": "Item Rules Rework",
+   "cat": "system",
+   "section": "Item Rules Rework",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Items are now divided into categories:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivor Item",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "These can return to a player's inventory at the end of a match",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "e.g. Toolbox, Firecracker, etc",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Special Item",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Items related to playing against specific Killers",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "e.g. Lament Configuration, VHS Tape, etc",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Temporary Item",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Items that do not return to a player's inventory at the end of a match",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "e.g. the White Glyph's Pocket Mirror, Flashbang",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Items are now divided into categories:",
+    "Survivor Item",
+    "These can return to a player's inventory at the end of a match",
+    "e.g. Toolbox, Firecracker, etc",
+    "Special Item",
+    "Items related to playing against specific Killers",
+    "e.g. Lament Configuration, VHS Tape, etc",
+    "Temporary Item",
+    "Items that do not return to a player's inventory at the end of a match",
+    "e.g. the White Glyph's Pocket Mirror, Flashbang"
+   ]
+  },
+  {
+   "entity": "Misc",
+   "cat": "system",
+   "section": "Misc",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added an update popup requiring players to back out to the splash screen when a backend update is deployed. This may happen with a Kill Switch change, release of new store items, or other similar changes. This popup will only appear in the Main Menu, in the Store, or before queueing as a Killer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added protection against hackers using characters they do not own",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Error messages produced by a disconnection, a timeout from the server, or a kick are now distinct and clearer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added an update popup requiring players to back out to the splash screen when a backend update is deployed. This may happen with a Kill Switch change, release of new store items, or other similar changes. This popup will only appear in the Main Menu, in the Store, or before queueing as a Killer",
+    "Added protection against hackers using characters they do not own",
+    "Error messages produced by a disconnection, a timeout from the server, or a kick are now distinct and clearer"
+   ]
+  },
+  {
+   "entity": "Killer - The Singularity",
+   "cat": "killer",
+   "section": "Killer - The Singularity",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Singularity's Hologram Generator Add-on no longer shows a Placeholder icon to affected Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Singularity can no longer slipstream to the wrong Survivor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Singularity's Power UI no longer appears enabled during the wake-up sequence",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Singularity can no longer place Biopods where Survivors stand to interact with generators",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Singularity's Biopods are no longer missing their Killer Item Aura when spotted by the Map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Slipstream Pods on Survivors self-destruct before The Singularity's Mori is confirmed and begins",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When The Singularity performs a Slipstream Teleportation, the POV now correctly starts at ground level",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Singularity no longer gets stuck in the ground or level objects after Teleporting to a Survivor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Slipstream pods on Survivors no longer stretch when the Survivor is placed on a hook",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Singularity, while in shutdown mode, can no longer interrupt Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Singularity's Add-ons are now correctly affected by the Vigil perk",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Terror-Radius caused by the Hyperawareness Spray Add-On is now correctly blocked when affected by the Oblivious status effect",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Killer now teleports instead of slides when performing a Slipstream Teleport to an already-assimilated Survivor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When playing as or against The Singularity, EMP Crates are correctly spawned on both floors of Gideon Meat Plant",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Slipstream Slime Overlay VFX is no longer visible during the Mori, when bleeding out, escaping the exit gates or dying in the end-game scenario",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Slipstream Pods are now removed when Survivors leave the Trial",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "There is no more choppiness apparent when The Singularity walks into a still Survivor after teleporting to them",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The description of the Forced Hesitation perk has been corrected",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Blood Pact external perk icon is no longer visible to the Survivor with it equipped while affected by the Haste status effect",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Auras effect of Perks and Add-ons are no longer visible when controlling a Biopod as The Singularity",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Singularity's Hologram Generator Add-on no longer shows a Placeholder icon to affected Survivors",
+    "The Singularity can no longer slipstream to the wrong Survivor",
+    "The Singularity's Power UI no longer appears enabled during the wake-up sequence",
+    "The Singularity can no longer place Biopods where Survivors stand to interact with generators",
+    "The Singularity's Biopods are no longer missing their Killer Item Aura when spotted by the Map",
+    "Slipstream Pods on Survivors self-destruct before The Singularity's Mori is confirmed and begins",
+    "When The Singularity performs a Slipstream Teleportation, the POV now correctly starts at ground level",
+    "The Singularity no longer gets stuck in the ground or level objects after Teleporting to a Survivor",
+    "Slipstream pods on Survivors no longer stretch when the Survivor is placed on a hook",
+    "The Singularity, while in shutdown mode, can no longer interrupt Survivors",
+    "The Singularity's Add-ons are now correctly affected by the Vigil perk",
+    "The Terror-Radius caused by the Hyperawareness Spray Add-On is now correctly blocked when affected by the Oblivious status effect",
+    "The Killer now teleports instead of slides when performing a Slipstream Teleport to an already-assimilated Survivor",
+    "When playing as or against The Singularity, EMP Crates are correctly spawned on both floors of Gideon Meat Plant",
+    "The Slipstream Slime Overlay VFX is no longer visible during the Mori, when bleeding out, escaping the exit gates or dying in the end-game scenario",
+    "Slipstream Pods are now removed when Survivors leave the Trial",
+    "There is no more choppiness apparent when The Singularity walks into a still Survivor after teleporting to them",
+    "The description of the Forced Hesitation perk has been corrected",
+    "The Blood Pact external perk icon is no longer visible to the Survivor with it equipped while affected by the Haste status effect",
+    "The Auras effect of Perks and Add-ons are no longer visible when controlling a Biopod as The Singularity"
+   ]
+  },
+  {
+   "entity": "Bots",
+   "cat": "system",
+   "section": "Bots",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Bots can now use the following Perks:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Background Player",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Blood Rush",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Potential Energy",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Power Struggle",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reassurance",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Urban Evasion",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots are more likely to run out of the Basement after wiggling off the Killer while in the Basement or on its stairs",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer attempt to use Dead Hard when the Killer is unable to hit them (for example, when chased by a Demanifsted Onryo)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer drop held Items after wiping The Hag's Phantasm Trap",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer have trouble with one window on the Rancid Abattoir Map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer make the horror trope decision to run away from a chasing Killer into the Basement",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer stubbornly stay in a flee loop when there are important goals available (e.g. escape through opened gates)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots now avoid dropping an unsafe pallet when separated from the Killer by a small wall",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots playing against Freddy Krueger can now use Alarm Clocks",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots playing against Pyramid Head can now attempt to cross a Trail of Torment while crouching",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots playing against The Dredge now lock Lockers near Generators they work on",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots playing against The Knight no longer consider a loop to be safe if a Guard is chasing alongside the Killer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots playing against The Trapper have learned to avoid Bear Traps set at pallets",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots playing against The Twins are more likely to run up to and kick Victor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots playing against The Twins can now use the Shove Door or Push interaction to remove Victor from a locker",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Multiple Bots no longer attempt to sabotage the same hook at the same time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Bots can now use the following Perks:",
+    "Background Player",
+    "Blood Rush",
+    "Potential Energy",
+    "Power Struggle",
+    "Reassurance",
+    "Urban Evasion",
+    "Bots are more likely to run out of the Basement after wiggling off the Killer while in the Basement or on its stairs",
+    "Bots no longer attempt to use Dead Hard when the Killer is unable to hit them (for example, when chased by a Demanifsted Onryo)",
+    "Bots no longer drop held Items after wiping The Hag's Phantasm Trap",
+    "Bots no longer have trouble with one window on the Rancid Abattoir Map",
+    "Bots no longer make the horror trope decision to run away from a chasing Killer into the Basement",
+    "Bots no longer stubbornly stay in a flee loop when there are important goals available (e.g. escape through opened gates)",
+    "Bots now avoid dropping an unsafe pallet when separated from the Killer by a small wall",
+    "Bots playing against Freddy Krueger can now use Alarm Clocks",
+    "Bots playing against Pyramid Head can now attempt to cross a Trail of Torment while crouching",
+    "Bots playing against The Dredge now lock Lockers near Generators they work on",
+    "Bots playing against The Knight no longer consider a loop to be safe if a Guard is chasing alongside the Killer",
+    "Bots playing against The Trapper have learned to avoid Bear Traps set at pallets",
+    "Bots playing against The Twins are more likely to run up to and kick Victor",
+    "Bots playing against The Twins can now use the Shove Door or Push interaction to remove Victor from a locker",
+    "Multiple Bots no longer attempt to sabotage the same hook at the same time"
+   ]
+  },
+  {
+   "entity": "Characters",
+   "cat": "system",
+   "section": "Characters",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Frumious Jabberwock skin for The Artist no longer causes FPS spikes after completing a game",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Skull Merchant Add-on Prototype Rotor now properly gives haste",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The same T-Virus vaccine can no longer be picked up at the same time by two Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Chain Hunt is no longer reset when Survivors are interrupted during certain actions",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Wraith's lunge attack when uncloaking now correctly benefits from the extra distance and speed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Onryo's Tape Editing Deck Add-on now correctly causes Survivors to start with a Tape in hand",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Add-on \"The Serpent - Soot\" now correctly causes The Wraith to uncloak when performing a break action",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Frumious Jabberwock skin for The Artist no longer causes FPS spikes after completing a game",
+    "The Skull Merchant Add-on Prototype Rotor now properly gives haste",
+    "The same T-Virus vaccine can no longer be picked up at the same time by two Survivors",
+    "Chain Hunt is no longer reset when Survivors are interrupted during certain actions",
+    "The Wraith's lunge attack when uncloaking now correctly benefits from the extra distance and speed",
+    "The Onryo's Tape Editing Deck Add-on now correctly causes Survivors to start with a Tape in hand",
+    "The Add-on \"The Serpent - Soot\" now correctly causes The Wraith to uncloak when performing a break action"
+   ]
+  },
+  {
+   "entity": "Environment",
+   "cat": "system",
+   "section": "Environment",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Fixed a texture issue on a sign in the exit gate of Silent Hill - Midwich Elementary School",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Fixed a texture issue on a sign in the exit gate of Silent Hill - Midwich Elementary School"
+   ]
+  },
+  {
+   "entity": "Maps",
+   "cat": "system",
+   "section": "Maps",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated the placement of the Generators in the corridors of Midwich Elementary School to avoid 3 gens to spawn in the same corridor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Triggering The Hag's Phantasm Trap when specific cosmetics are equipped no longer causes a crash",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fixed an invisible collision on a staircase in the Eyrie of Crows Map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated the placement of the Generators in the corridors of Midwich Elementary School to avoid 3 gens to spawn in the same corridor",
+    "Triggering The Hag's Phantasm Trap when specific cosmetics are equipped no longer causes a crash",
+    "Fixed an invisible collision on a staircase in the Eyrie of Crows Map"
+   ]
+  },
+  {
+   "entity": "Perks",
+   "cat": "system",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Using For the People to heal a Survivor to healthy no longer triggers the Endurance effect from Made for This",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Hex: The Third Seal perk now correctly applies the Blindness status effect to the last Survivors hit rather than the first Survivors hit",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Perk Quick and Quiet no longer goes into cooldown if the perk is activated during an interaction that already has started and notified the Killer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Using For the People to heal a Survivor to healthy no longer triggers the Endurance effect from Made for This",
+    "The Hex: The Third Seal perk now correctly applies the Blindness status effect to the last Survivors hit rather than the first Survivors hit",
+    "The Perk Quick and Quiet no longer goes into cooldown if the perk is activated during an interaction that already has started and notified the Killer"
+   ]
+  },
+  {
+   "entity": "UI",
+   "cat": "system",
+   "section": "UI",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Disconnecting a controller while transitioning to the Tally Screen no longer hard-locks the UI",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Disconnecting and quickly reconnecting a controller while transition to a lobby no longer soft-locks the UI",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fixed a soft-lock that could occur when changing role while in the Characters menu",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fixed a potential crash when quitting the Game",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Trimmed extraneous space entered in the Promo Code input text",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fixed a navigation issue in the Onboarding Menu when switching Tabs with a Gamepad",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fixed Score Events that do not appear in the HUD when Spectating a Custom Game",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Disconnecting a controller while transitioning to the Tally Screen no longer hard-locks the UI",
+    "Disconnecting and quickly reconnecting a controller while transition to a lobby no longer soft-locks the UI",
+    "Fixed a soft-lock that could occur when changing role while in the Characters menu",
+    "Fixed a potential crash when quitting the Game",
+    "Trimmed extraneous space entered in the Promo Code input text",
+    "Fixed a navigation issue in the Onboarding Menu when switching Tabs with a Gamepad",
+    "Fixed Score Events that do not appear in the HUD when Spectating a Custom Game"
+   ]
+  },
+  {
+   "entity": "Misc",
+   "cat": "system",
+   "section": "Misc",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Black bars around the screen no longer appear in the Main Menu when using an unexpected aspect ratio",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Cosmetics accessories such as hair and cloths should now be correctly in sync",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Multiple players with the same display name within the same lobby no longer body-swap to each other's characters",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Outlines now correctly display when playing the Tutorials on a \"Core Chunk\"/\"Ready to Play\" partial installation on consoles",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The loadout is correctly reloaded after re-enabling parts of it in the Custom Game match settings",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fixed multiple issues with VFX when changing characters or Cosmetics",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fast vaulting no longer causes survivors to briefly snap back to before the vault point",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Dead Survivors no longer stay in the crawling pose after bleeding out",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When escaping, a Survivor will no longer disappear before the end of the fade out",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Players are now able to exit through the Hatch in the Survivor Tutorial",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Regular items are no longer lost when escaping with a special item",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The camera no longer jitters when picking up a Survivor from a locker",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Black bars around the screen no longer appear in the Main Menu when using an unexpected aspect ratio",
+    "Cosmetics accessories such as hair and cloths should now be correctly in sync",
+    "Multiple players with the same display name within the same lobby no longer body-swap to each other's characters",
+    "Outlines now correctly display when playing the Tutorials on a \"Core Chunk\"/\"Ready to Play\" partial installation on consoles",
+    "The loadout is correctly reloaded after re-enabling parts of it in the Custom Game match settings",
+    "Fixed multiple issues with VFX when changing characters or Cosmetics",
+    "Fast vaulting no longer causes survivors to briefly snap back to before the vault point",
+    "Dead Survivors no longer stay in the crawling pose after bleeding out",
+    "When escaping, a Survivor will no longer disappear before the end of the fade out",
+    "Players are now able to exit through the Hatch in the Survivor Tutorial",
+    "Regular items are no longer lost when escaping with a special item",
+    "The camera no longer jitters when picking up a Survivor from a locker"
+   ]
+  },
+  {
+   "entity": "The Singularity",
+   "cat": "killer",
+   "section": "The Singularity",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated Biopods' disabled state to be more obvious visually",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Made Overclock duration more obvious by adding a meter around the power icon",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Diagnostic Tool (Add on): Updated to work during Overclock mode for clarity and consistency",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Nanomachine Gel (Add on): Updated to work during Overclock mode for clarity and consistency",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated Biopods' disabled state to be more obvious visually",
+    "Made Overclock duration more obvious by adding a meter around the power icon",
+    "Diagnostic Tool (Add on): Updated to work during Overclock mode for clarity and consistency",
+    "Nanomachine Gel (Add on): Updated to work during Overclock mode for clarity and consistency"
+   ],
+   "character": "The Singularity"
+  },
+  {
+   "entity": "EMPs and Supply Crates",
+   "cat": "system",
+   "section": "EMPs and Supply Crates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Number of Supply Crates decreased from 7 to 5",
+     "after": "5",
+     "before": "7",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased the time it takes for EMPs to be generated from 80 to 90 seconds",
+     "after": "90 seconds",
+     "before": "80",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Survivors holding an EMP no longer see Supply Crates",
+    "Number of Supply Crates decreased from 7 to 5",
+    "Increased the time it takes for EMPs to be generated from 80 to 90 seconds"
+   ]
+  },
+  {
+   "entity": "Toba Landing",
+   "cat": "system",
+   "section": "Toba Landing",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reduced the amount of vegetation to help players navigate in the map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Updated the amount of loops considered safe",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reduced the amount of vegetation to help players navigate in the map",
+    "Updated the amount of loops considered safe"
+   ]
+  },
+  {
+   "entity": "Bots",
+   "cat": "system",
+   "section": "Bots",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Bots have realized that a Killer on a different floor directly above or below them is not as dangerous, and are now less likely to drop pallets in that situation",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots playing against The Singularity are now slower at hiding from an active Biopod",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots playing against The Singularity no longer pace back and forth when a Survivor is on a Hook near a Biopod",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots using Flashbang can once again interact with Killer-specific items",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Bots have realized that a Killer on a different floor directly above or below them is not as dangerous, and are now less likely to drop pallets in that situation",
+    "Bots playing against The Singularity are now slower at hiding from an active Biopod",
+    "Bots playing against The Singularity no longer pace back and forth when a Survivor is on a Hook near a Biopod",
+    "Bots using Flashbang can once again interact with Killer-specific items"
+   ]
+  },
+  {
+   "entity": "Platforms",
+   "cat": "system",
+   "section": "Platforms",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Fixed a crash occurring when receiving an in-game friend request on the Nintendo Switch",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "PlayStation players that are friends with a party host but not mutual friends can now join that party",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Inputting an invalid code in the Store twice in a row no longer breaks the text field on some platforms",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Fixed a crash occurring when receiving an in-game friend request on the Nintendo Switch",
+    "PlayStation players that are friends with a party host but not mutual friends can now join that party",
+    "Inputting an invalid code in the Store twice in a row no longer breaks the text field on some platforms"
+   ]
+  },
+  {
+   "entity": "Misc",
+   "cat": "system",
+   "section": "Misc",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Adjustments to The Executioner (Punishment of the Damned) have been reverted",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fixed multiples issues in the Singularity's Mori, where the Survivor's face was not dissolving correctly,",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Perk Preview icons are now disabled in Anonymous Mode",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Loadout parts are now correctly blocked by Match Management settings in a Custom Game",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Adjustments to The Executioner (Punishment of the Damned) have been reverted",
+    "Fixed multiples issues in the Singularity's Mori, where the Survivor's face was not dissolving correctly,",
+    "The Perk Preview icons are now disabled in Anonymous Mode",
+    "Loadout parts are now correctly blocked by Match Management settings in a Custom Game"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where The Nurse's chase music was louder than the other themes.",
+    "Fixed an issue where the Skull Merchant's Body Cleaver customization weapon SFX were missing."
+   ]
+  },
+  {
+   "group": "Killer - The Singularity",
+   "items": [
+    "Fixed an issue causing pallets broken by The Singularity to occasionally remain visible."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where, when playing as The Executioner, Survivors who were rescued from a Cage of Atonement while the Killer was looking away from their location resulted in the rescued Survivor being displayed in their caged animation for the remainder of the Trial, but only for the Killer.",
+    "Fixed an issue where The Pig's hand would move unnaturally when mainly moving sideways to the left.",
+    "Fixed an issue where The Cenobite appeared to be sliding around instead of walking.",
+    "Fixed an issue where breakables interactions would appear misaligned when playing as The Huntress in a Trial and having the Torso cosmetics Chain Mail (Blue Rift), or Sand Flower Dress equipped.",
+    "Fixed an issue that caused Victor of The Twin's arms to disappear behind the camera during the running animation.",
+    "Fixed an issue that caused The Skull Merchant's kick animation of breaking pallets to be off-set when wearing the 'Cyber Assassin' customization.",
+    "Fixed an issue that caused The Legion to experience a small animation hitch when strafing to the sides from the Killer's point of view.",
+    "Fixed an issue that caused The Artist to go into A-Pose instead of playing the her wipe animation.",
+    "Fixed an issue that caused Ashley Williams to no longer have an idle animation when Ashy Slashy or Maniac Puppet Hand customizations were equipped.",
+    "Fixed an issue that caused The Mastermind's trench coat to fail to unravel in order to properly cover his legs in the main menu.",
+    "Fixed an issue that caused the Survivors dying during the The Mastermind's Mori to go back to the crawling position and jitter.",
+    "Fixed an issue that caused The Spirit, when carrying a Survivor, to have the ability to see through walls and objects."
+   ]
+  },
+  {
+   "group": "Environment",
+   "items": [
+    "Fixed an issue with a window on the roof of the Léry's Memorial Institute."
+   ]
+  },
+  {
+   "group": "Maps",
+   "items": [
+    "Fixed an issue that prevented players from reaching Victor in the Toba Landing Map.",
+    "Fixed an issue that were preventing Killers from going down the stairs in Toba Landing basement.",
+    "Fixed an issue preventing The Mastermind from pushing Survivors and get them stuck in collisions on the Gas Haven maps.",
+    "Fixed issues in maps where the Biopods were placed in areas that could not be deactivated.",
+    "Fixed an issue in Toba Landing where one side of the generator was not accessible.",
+    "Fixed an issue in Haddonfield where Killers could land on top of Hedges.",
+    "Fixed an issue in Crotus Prenn's shack the placement of locker where Survivors were clipping through the doors.",
+    "Fixed an issue in Toba Landing where The Nurse could blink out of the walls."
+   ]
+  },
+  {
+   "group": "Events & Archives",
+   "items": [
+    "Fixed an issue where Survivors could collect memory fragments while on a hook.",
+    "Fixed an issue where memory fragments were still visible after their respective challenge had been completed.",
+    "Fixed an issue where the Survivor's held Item would disappear when they collected the fragile mirror from the White Glyph \"Glyph Caretaker\" challenge."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue which could allow Survivors to reach unintended places by using the perk Any Means Necessary."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue in the Settings menu where some settings were not reset properly after selecting the \"Reset to Default\" option.",
+    "Fixed an issue where the Character name could sometimes overlap with the preset buttons in the Lobby.",
+    "Fixed an issue in the Bloodweb where players' Bloodpoints show 0 when pressing on the prestige button while having less Bloodpoints than the required amount.",
+    "Fixed an issue in the Promo Code popup where the player could not reselect text field to try entering another code after inputting an invalid code.",
+    "Fixed an issue in the Bot Loadout popup where the pagination can sometimes be unsynced with the actual displayed page."
+   ]
+  }
+ ]
+}

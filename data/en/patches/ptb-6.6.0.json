@@ -1,0 +1,819 @@
+{
+ "id": "ptb-6.6.0",
+ "version": "6.6.0",
+ "kind": "ptb",
+ "title": "6.6.0 | PTB",
+ "date": "2023-02-15",
+ "url": "https://store.steampowered.com/news/app/381210/view/3640634026206856655?l=english",
+ "changes": [
+  {
+   "entity": "Game Afoot",
+   "cat": "perk",
+   "section": "Perks:",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "While you are chasing the Obsession, this perk activates. Damaging Generators and destroying Breakable Walls and Pallets gives you a 5% Haste Status for 8/9/10 seconds. Whenever you hit the Survivor with the total most time in chase with a Basic Attack, they become the Obsession. The Killer can only be Obsessed with one Survivor at a time. THWACK!: After hooking a Survivor, performing the break action on the next Breakable Wall or Pallet will make Survivors within 32 meters scream and reveal their Aura for 4 seconds. THWACK! is active for 45/60/75 seconds after the Survivor is Hooked. Leverage: Each time you Hook a Survivor, gain 1 token, up to 10. When you Hook a Survivor, this perk activates. For each token, reduces the speed at which Survivors heal by 3/4/5% for 30 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "While you are chasing the Obsession, this perk activates. Damaging Generators and destroying Breakable Walls and Pallets gives you a 5% Haste Status for 8/9/10 seconds. Whenever you hit the Survivor with the total most time in chase with a Basic Attack, they become the Obsession. The Killer can only be Obsessed with one Survivor at a time. THWACK!: After hooking a Survivor, performing the break action on the next Breakable Wall or Pallet will make Survivors within 32 meters scream and reveal their Aura for 4 seconds. THWACK! is active for 45/60/75 seconds after the Survivor is Hooked. Leverage: Each time you Hook a Survivor, gain 1 token, up to 10. When you Hook a Survivor, this perk activates. For each token, reduces the speed at which Survivors heal by 3/4/5% for 30 seconds"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Cut Loose",
+   "cat": "perk",
+   "section": "Perks:",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "After performing a rushed vault in a chase, this Perk activates. While active, your rushed vaults are silent for up to 4/5/6 seconds, and successfully performing a rushed vault during that time resets the timer. This perk goes on cool-down for 45 seconds. Friendly Competition: Whenever you finish Repairing a Generator with at least one other Survivor, this Perk activates. You and other Survivors who finished Repairing the Generator with you get 5% increased Repair progress speed for 45/60/75 seconds. Survivors can only have one instance of this Perk's ability active at once. Teamwork: Power of Two: Whenever you finish healing another Survivor, you both move 5% faster as long as you stay within 12 meters of the Survivor you healed or until one of you loses a Health State. Teamwork: Power of Two can only trigger once every 180/160/140 seconds. Survivors can only be affected by one Teamwork: Power of Two effect at a time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "After performing a rushed vault in a chase, this Perk activates. While active, your rushed vaults are silent for up to 4/5/6 seconds, and successfully performing a rushed vault during that time resets the timer. This perk goes on cool-down for 45 seconds. Friendly Competition: Whenever you finish Repairing a Generator with at least one other Survivor, this Perk activates. You and other Survivors who finished Repairing the Generator with you get 5% increased Repair progress speed for 45/60/75 seconds. Survivors can only have one instance of this Perk's ability active at once. Teamwork: Power of Two: Whenever you finish healing another Survivor, you both move 5% faster as long as you stay within 12 meters of the Survivor you healed or until one of you loses a Health State. Teamwork: Power of Two can only trigger once every 180/160/140 seconds. Survivors can only be affected by one Teamwork: Power of Two effect at a time"
+   ]
+  },
+  {
+   "entity": "Background Player",
+   "cat": "perk",
+   "section": "Perks:",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "After you unhook another Survivor, break into a sprint at 150% of your normal running speed for 6 seconds and gain Exhaustion for 60/50/40 seconds. This Perk cannot be used while suffering from Exhaustion. Exhaustion prevents Survivors from activating other Perks that cause Exhaustion. Blood Rush: This Perk activates once you are one Hook away from instant death. While healthy, running, and suffering from Exhaustion, press the Active Ability Button 1 to lose a Health State and recover from Exhaustion instantly and gain the Broken status effect for 28/24/20 seconds. You are automatically healed from injured to healthy after 28/24/20 seconds. Being put into the Dying State will cancel the healing effect. Activating Blood Rush will disable it for the remainder of the trial. Exhaustion prevents Survivors from activating other Perks that cause Exhaustion. Broken prevents Survivors from being healed. Teamwork: Collective Stealth: Whenever another Survivor finishes healing you, you both leave no scratch marks as long as you stay within 12 meters of the Survivor who healed you or until one of you loses a health state. Teamwork: Collective Stealth can only trigger once every 180/160/140 seconds. Survivors can only be affected by one Teamwork: Collective Stealth effect at a time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "After you unhook another Survivor, break into a sprint at 150% of your normal running speed for 6 seconds and gain Exhaustion for 60/50/40 seconds. This Perk cannot be used while suffering from Exhaustion. Exhaustion prevents Survivors from activating other Perks that cause Exhaustion. Blood Rush: This Perk activates once you are one Hook away from instant death. While healthy, running, and suffering from Exhaustion, press the Active Ability Button 1 to lose a Health State and recover from Exhaustion instantly and gain the Broken status effect for 28/24/20 seconds. You are automatically healed from injured to healthy after 28/24/20 seconds. Being put into the Dying State will cancel the healing effect. Activating Blood Rush will disable it for the remainder of the trial. Exhaustion prevents Survivors from activating other Perks that cause Exhaustion. Broken prevents Survivors from being healed. Teamwork: Collective Stealth: Whenever another Survivor finishes healing you, you both leave no scratch marks as long as you stay within 12 meters of the Survivor who healed you or until one of you loses a health state. Teamwork: Collective Stealth can only trigger once every 180/160/140 seconds. Survivors can only be affected by one Teamwork: Collective Stealth effect at a time"
+   ],
+   "role": "survivor"
+  },
+  {
+   "entity": "Map Changes: Shelter Woods",
+   "cat": "system",
+   "section": "Map Changes: Shelter Woods",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "A makeshift command center was erected here, its rigid walls and sharp angles standing in stark contrast to the twisted wood and soil. For those who chance upon this crude structure, the realization that this complex belongs to an apex hunter—a hunter whose prey is human—usually comes too late",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "A makeshift command center was erected here, its rigid walls and sharp angles standing in stark contrast to the twisted wood and soil. For those who chance upon this crude structure, the realization that this complex belongs to an apex hunter—a hunter whose prey is human—usually comes too late"
+   ]
+  },
+  {
+   "entity": "Visual Update: Red Forest",
+   "cat": "system",
+   "section": "Visual Update: Red Forest",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "We’ve taken a lengthy visit to the Red Forest Realm, which includes the Maps Temple of Purgation and Mother’s Dwelling. How about a nice, long walk in the woods?",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "We’ve taken a lengthy visit to the Red Forest Realm, which includes the Maps Temple of Purgation and Mother’s Dwelling. How about a nice, long walk in the woods?"
+   ]
+  },
+  {
+   "entity": "Visual Update: Haddie Kaur",
+   "cat": "system",
+   "section": "Visual Update: Haddie Kaur",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Visual improvement to eyes and hair",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hair shape and color adjusted to be more reflective of her lore",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added blood to Prestige hair",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Visual update to her uncommon skin makeup",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Icons and portrait updated",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Visual improvement to eyes and hair",
+    "Hair shape and color adjusted to be more reflective of her lore",
+    "Added blood to Prestige hair",
+    "Visual update to her uncommon skin makeup",
+    "Icons and portrait updated"
+   ]
+  },
+  {
+   "entity": "Map Repeat Prevention",
+   "cat": "system",
+   "section": "Map Repeat Prevention",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "This update improves the Map selection process. Now, the possibility that players in a Trial will see the same Map as their previous Trial has been reduced to near-zero. It’s also unlikely that they will be sent to a recently visited Map, though the likelihood will be a little higher than near-zero. This will not impact the efficacy of Map Offerings, nor will it affect Custom Games",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "This update improves the Map selection process. Now, the possibility that players in a Trial will see the same Map as their previous Trial has been reduced to near-zero. It’s also unlikely that they will be sent to a recently visited Map, though the likelihood will be a little higher than near-zero. This will not impact the efficacy of Map Offerings, nor will it affect Custom Games"
+   ]
+  },
+  {
+   "entity": "Loading Timeout",
+   "cat": "system",
+   "section": "Loading Timeout",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "After analyzing the data on our side, we have established a set of expected loading times for each of the steps while loading into a Trial. As a result, if any player crashes or hangs while loading, we will now be able to return everyone to the Tally much earlier",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "After analyzing the data on our side, we have established a set of expected loading times for each of the steps while loading into a Trial. As a result, if any player crashes or hangs while loading, we will now be able to return everyone to the Tally much earlier"
+   ]
+  },
+  {
+   "entity": "Reporting Players",
+   "cat": "system",
+   "section": "Reporting Players",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "We know that sometimes you may face unsportsmanlike behaviour even before a match. We have now added the option to report a player from the online lobby",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "We know that sometimes you may face unsportsmanlike behaviour even before a match. We have now added the option to report a player from the online lobby"
+   ]
+  },
+  {
+   "entity": "Any Means Necessary",
+   "cat": "perk",
+   "section": "Perk Changes",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "removed cooldown",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "removed cooldown"
+   ],
+   "role": "survivor"
+  },
+  {
+   "entity": "Eruption",
+   "cat": "perk",
+   "section": "Perk Changes",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "After kicking a Generator, its aura is highlighted in yellow. Whenever a Survivor enters the Dying State, every affected Generator explodes, losing 10% worth of current progress and starts to regress. Any Survivor repairing a Generator when it explodes will scream and reveal their aura 8/10/12 seconds. Eruption has a cooldown of 30 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "After kicking a Generator, its aura is highlighted in yellow. Whenever a Survivor enters the Dying State, every affected Generator explodes, losing 10% worth of current progress and starts to regress. Any Survivor repairing a Generator when it explodes will scream and reveal their aura 8/10/12 seconds. Eruption has a cooldown of 30 seconds"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Pre-game Improvements",
+   "cat": "system",
+   "section": "Pre-game Improvements",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Bots are now assigned to specific slots in the Custom Match party lobby",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots can now use a selection of Perks in Custom Games. Up to 4 Bot Perk loadouts can be saved",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Bots are now assigned to specific slots in the Custom Match party lobby",
+    "Bots can now use a selection of Perks in Custom Games. Up to 4 Bot Perk loadouts can be saved"
+   ],
+   "devNote": "Dev Note: Not all options for loadout are currently supported by Bots. You may notice that some options of Perks, Items, Add-ons or Offerings are missing; these exclusions are intentional."
+  },
+  {
+   "entity": "In-game Improvements",
+   "cat": "system",
+   "section": "In-game Improvements",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Bots respond better while in the Terror Radius on multi-floor Maps",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots are more likely to pick up dropped Items",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots will use the Haste Effect more effectively after being hit by the Killer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots are no longer overcome with existential dread when Broken and holding a Medkit",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer automatically know where their rekindled Hex: Pentimento Totem is located",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer automatically know the Perk associated with a Hex Totem",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots should now make more strategically sound rescues in the Killer’s presence",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Improved Bot decision-making while dodging ranged attacks and looping",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Improved Bot pathing while obstructed by a teammate",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots now prioritize gaining distance from the Killer over seeking a nearby loop",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots react more accurately to sound, especially from Killer Powers",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Injured Bots are now more effective at healing one another",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When searching for the closest Locker, Bots are no longer confused by Lockers on a floor below or above",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Bots respond better while in the Terror Radius on multi-floor Maps",
+    "Bots are more likely to pick up dropped Items",
+    "Bots will use the Haste Effect more effectively after being hit by the Killer",
+    "Bots are no longer overcome with existential dread when Broken and holding a Medkit",
+    "Bots no longer automatically know where their rekindled Hex: Pentimento Totem is located",
+    "Bots no longer automatically know the Perk associated with a Hex Totem",
+    "Bots should now make more strategically sound rescues in the Killer’s presence",
+    "Improved Bot decision-making while dodging ranged attacks and looping",
+    "Improved Bot pathing while obstructed by a teammate",
+    "Bots now prioritize gaining distance from the Killer over seeking a nearby loop",
+    "Bots react more accurately to sound, especially from Killer Powers",
+    "Injured Bots are now more effective at healing one another",
+    "When searching for the closest Locker, Bots are no longer confused by Lockers on a floor below or above"
+   ]
+  },
+  {
+   "entity": "Killer-specific Improvements",
+   "cat": "killer",
+   "section": "Killer-specific Improvements",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Bots are more willing to solve The Lament Configuration when playing against Pinhead",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer automatically know which Generator Freddy Krueger will emerge from while using the Class Photo Add-On",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer automatically know which Portal The Demogorgon will emerge from while using the Red Moss Add-On",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer fear approaching Charlotte while Victor is active",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots now know to crouch to avoid triggering The Hag’s Phantasm Traps",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer attempt to blind The Demogorgon while it’s travelling in the Upside Down",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots no longer automatically know which Pallets are fake when playing against Freddy Krueger or The Doctor",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots more accurately react to the Terror Radius when the Obsession is affected by Dark Devotion",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots are far more willing to disarm The Trapper’s Bear Traps when required",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Bots are more willing to solve The Lament Configuration when playing against Pinhead",
+    "Bots no longer automatically know which Generator Freddy Krueger will emerge from while using the Class Photo Add-On",
+    "Bots no longer automatically know which Portal The Demogorgon will emerge from while using the Red Moss Add-On",
+    "Bots no longer fear approaching Charlotte while Victor is active",
+    "Bots now know to crouch to avoid triggering The Hag’s Phantasm Traps",
+    "Bots no longer attempt to blind The Demogorgon while it’s travelling in the Upside Down",
+    "Bots no longer automatically know which Pallets are fake when playing against Freddy Krueger or The Doctor",
+    "Bots more accurately react to the Terror Radius when the Obsession is affected by Dark Devotion",
+    "Bots are far more willing to disarm The Trapper’s Bear Traps when required"
+   ]
+  },
+  {
+   "entity": "Audio",
+   "cat": "system",
+   "section": "Audio",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Generator sounds are no longer muffled to those Repairing it",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reworked how Survivors scream when getting Hooked to make it sound more natural",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Generator sounds are no longer muffled to those Repairing it",
+    "Reworked how Survivors scream when getting Hooked to make it sound more natural"
+   ]
+  },
+  {
+   "entity": "Characters",
+   "cat": "system",
+   "section": "Characters",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated The Nurse's Power description",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Dredge no longer becomes invisible when teleporting into a Locker at the same time a Survivor enters it",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Dredge no longer retains Bloodlust when teleporting to Lockers",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Dredge's Power, The Gloaming, can no longer be incorrectly cancelled while charging",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killer Instinct is no longer revealed on Survivors in Lockers from which The Dredge had previously teleported",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fixed a rare crash after teleporting to a Portal as the Demogorgon",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Trickster can no longer see the impact effects of thrown blades when Blinded",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Oni's Demon Dash progress bar no longer remains white when the Scalped Topknot Add-On is equipped",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Torment Trail is no longer applied to Survivors grabbed by The Executioner while doing another action",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "After vaulting but without moving as The Knight, Guardia Compagnia is no longer disabled until the Killer moves",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "After Summoning a Guard for an Order, The Knight's Guardia Compagnia Patrol Path now fades out in its entirety",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Knight's Guards are no longer spawning in mid-air in certain areas, such as near door frames",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "During The Knight's Guardia Compagnia, it is no longer possible to see the Killer's Red Stain or Idle Crows spawned while in Guard Summon mode",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Knight's Guards no longer trigger the hidden corpse jumpscare event when patrolling in the Midwich Locker Room",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated The Nurse's Power description",
+    "The Dredge no longer becomes invisible when teleporting into a Locker at the same time a Survivor enters it",
+    "The Dredge no longer retains Bloodlust when teleporting to Lockers",
+    "The Dredge's Power, The Gloaming, can no longer be incorrectly cancelled while charging",
+    "Killer Instinct is no longer revealed on Survivors in Lockers from which The Dredge had previously teleported",
+    "Fixed a rare crash after teleporting to a Portal as the Demogorgon",
+    "The Trickster can no longer see the impact effects of thrown blades when Blinded",
+    "The Oni's Demon Dash progress bar no longer remains white when the Scalped Topknot Add-On is equipped",
+    "The Torment Trail is no longer applied to Survivors grabbed by The Executioner while doing another action",
+    "After vaulting but without moving as The Knight, Guardia Compagnia is no longer disabled until the Killer moves",
+    "After Summoning a Guard for an Order, The Knight's Guardia Compagnia Patrol Path now fades out in its entirety",
+    "The Knight's Guards are no longer spawning in mid-air in certain areas, such as near door frames",
+    "During The Knight's Guardia Compagnia, it is no longer possible to see the Killer's Red Stain or Idle Crows spawned while in Guard Summon mode",
+    "The Knight's Guards no longer trigger the hidden corpse jumpscare event when patrolling in the Midwich Locker Room"
+   ]
+  },
+  {
+   "entity": "Perks",
+   "cat": "system",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The perk Deja Vu is no longer activated after the last Generator is completed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The perk Coup de Grace now correctly extends the distance of the first lunge when a token has been gained",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Knight's Guardia Compagnia can now be cancelled by the perk Head-On",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Maps",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Killer shack loop in the Garden of Joy Map is no longer disrupted by debris",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Haddonfield Porch Lights will now operate as intended when the Generator is complete",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Killer will no longer be able to climb on top of (or get trapped in) the Eyrie of Crows Killer Shack Pallet",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Pallets in the Decimated Borgo no longer fail to shake when kicked",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killers can no longer become desynched when standing in certain tiles in the Eyrie of Crows Killer Shack",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The perk Deja Vu is no longer activated after the last Generator is completed",
+    "The perk Coup de Grace now correctly extends the distance of the first lunge when a token has been gained",
+    "The Knight's Guardia Compagnia can now be cancelled by the perk Head-On",
+    "Maps",
+    "The Killer shack loop in the Garden of Joy Map is no longer disrupted by debris",
+    "The Haddonfield Porch Lights will now operate as intended when the Generator is complete",
+    "The Killer will no longer be able to climb on top of (or get trapped in) the Eyrie of Crows Killer Shack Pallet",
+    "Pallets in the Decimated Borgo no longer fail to shake when kicked",
+    "Killers can no longer become desynched when standing in certain tiles in the Eyrie of Crows Killer Shack"
+   ]
+  },
+  {
+   "entity": "UI",
+   "cat": "system",
+   "section": "UI",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Killer can now consistently open the character info menu while in the lobby",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Corrected wrong character swap button prompts in the Lobby and the Store",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Killer can now consistently open the character info menu while in the lobby",
+    "Corrected wrong character swap button prompts in the Lobby and the Store"
+   ]
+  },
+  {
+   "entity": "Misc",
+   "cat": "system",
+   "section": "Misc",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Players affected by a disconnection penalty should now see it correctly when returning to the lobby after a Match",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fixed a few cases where subtitles for voiceover lines would linger longer than the audio itself",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Players are no longer stuck in an infinite loop when matchmaking fails while queueing for a Custom Match",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The wiggle Skill Check check no longer becomes partly incompletable when picked up from a Generator",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "A Survivor self-Unhooking and running away no longer experiences a small rubber-banding issue",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Generators blocked by the Entity no longer continue regressing and losing progress",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Exposed status effect no longer incorrectly displays a timed icon when the player is permanently Exposed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "All Perks can now be bound to, and triggered by a mouse scroll",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Input bindings changed while being displayed by a button prompt no longer stay permanently displayed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Players affected by a disconnection penalty should now see it correctly when returning to the lobby after a Match",
+    "Fixed a few cases where subtitles for voiceover lines would linger longer than the audio itself",
+    "Players are no longer stuck in an infinite loop when matchmaking fails while queueing for a Custom Match",
+    "The wiggle Skill Check check no longer becomes partly incompletable when picked up from a Generator",
+    "A Survivor self-Unhooking and running away no longer experiences a small rubber-banding issue",
+    "Generators blocked by the Entity no longer continue regressing and losing progress",
+    "The Exposed status effect no longer incorrectly displays a timed icon when the player is permanently Exposed",
+    "All Perks can now be bound to, and triggered by a mouse scroll",
+    "Input bindings changed while being displayed by a button prompt no longer stay permanently displayed"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where, if ending a Trial as The Cenobite while in the Gateway, playing the next Trial as The Cenobite would cause the Killer's sounds to be muffled."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that cause injured female Survivor body to clips through The Wraith when being grabbed from a locker while he's cloaked."
+   ]
+  }
+ ]
+}

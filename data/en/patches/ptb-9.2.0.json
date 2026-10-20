@@ -1,0 +1,2161 @@
+{
+ "id": "ptb-9.2.0",
+ "version": "9.2.0",
+ "kind": "ptb",
+ "title": "9.2.0 | PTB Patch Notes",
+ "date": "2025-09-03",
+ "url": "https://store.steampowered.com/news/app/381210/view/538863491448046603?l=english",
+ "changes": [
+  {
+   "entity": "KILLER POWER: UNBODIED FLESH",
+   "cat": "killer",
+   "section": "New Killer - The Krasue",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The Krasue detaches from its body, emerging as a floating head with a trail of organs drifting behind it",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The Krasue detaches from its body, emerging as a floating head with a trail of organs drifting behind it"
+   ]
+  },
+  {
+   "entity": "SPECIAL ABILITY: CORPOREAL WEAVE",
+   "cat": "killer",
+   "section": "New Killer - The Krasue",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Press Ability button 1 to shift between Body and Head Form",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Body Form has a 32 meter Terror Radius",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Head Form has a 40 meter Terror Radius. It is slightly faster but cannot break pallets and is not granted the Bloodlust status effect",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Press Ability button 1 to shift between Body and Head Form",
+    "Body Form has a 32 meter Terror Radius",
+    "Head Form has a 40 meter Terror Radius. It is slightly faster but cannot break pallets and is not granted the Bloodlust status effect"
+   ]
+  },
+  {
+   "entity": "KILLER EFFECT: LEECHED",
+   "cat": "killer",
+   "section": "New Killer - The Krasue",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Hitting a Survivor with Intestinal Whip and Regurgitate adds to their Leech Meter. When the meter is filled, the Survivor is afflicted with Leeched I",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Leeched I: The Leech Meter automatically fills over time, up to Leeched II",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Leeched II: The Survivor is afflicted with Broken. If healthy, they become injured",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Hitting a Survivor with Intestinal Whip and Regurgitate adds to their Leech Meter. When the meter is filled, the Survivor is afflicted with Leeched I",
+    "Leeched I: The Leech Meter automatically fills over time, up to Leeched II",
+    "Leeched II: The Survivor is afflicted with Broken. If healthy, they become injured"
+   ]
+  },
+  {
+   "entity": "SPECIAL ABILITY: INTESTINAL WHIP",
+   "cat": "killer",
+   "section": "New Killer - The Krasue",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "In Head Form, press the Attack button to lash out with your internal organs",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Survivors afflicted with Leeched can be damaged by Intestinal Whip",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Intestinal Whip partially fills a Survivor’s Leech Meter, up to Leech I",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "In Head Form, press the Attack button to lash out with your internal organs",
+    "Survivors afflicted with Leeched can be damaged by Intestinal Whip",
+    "Intestinal Whip partially fills a Survivor’s Leech Meter, up to Leech I"
+   ]
+  },
+  {
+   "entity": "SPECIAL ABILITY: REGURGITATE",
+   "cat": "killer",
+   "section": "New Killer - The Krasue",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "In Body Form, press and hold the Power button to charge Regurgitate. When charged, tap the Attack button to spew a Leeching Gland",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Leeching Gland completely fills a Survivor’s Leech Meter, up to Leech I",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "In Body Form, press and hold the Power button to charge Regurgitate. When charged, tap the Attack button to spew a Leeching Gland",
+    "Leeching Gland completely fills a Survivor’s Leech Meter, up to Leech I"
+   ]
+  },
+  {
+   "entity": "SPECIAL ABILITY: HEADLONG FLIGHT",
+   "cat": "killer",
+   "section": "New Killer - The Krasue",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "In Head Form, press and hold the Power button to speed through the air",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "In Head Form, press and hold the Power button to speed through the air"
+   ]
+  },
+  {
+   "entity": "SPECIAL ITEM: GLOWING FUNGUS",
+   "cat": "killer",
+   "section": "New Killer - The Krasue",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Survivors can eat Glowing Fungus to decrease the Leech Meter over time. Being hit ends the effect",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Survivors can eat Glowing Fungus to decrease the Leech Meter over time. Being hit ends the effect"
+   ]
+  },
+  {
+   "entity": "Ravenous",
+   "cat": "killer",
+   "section": "New Killer - The Krasue",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you hook a Survivor for the first time, gain 1 token, up to 4",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When you have 4 tokens, all Survivors scream and gain Exposed for 40/50/60 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you hook a Survivor for the first time, gain 1 token, up to 4",
+    "When you have 4 tokens, all Survivors scream and gain Exposed for 40/50/60 seconds"
+   ]
+  },
+  {
+   "entity": "Wandering Eye",
+   "cat": "killer",
+   "section": "New Killer - The Krasue",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you start chasing a Survivor, reveal the auras of all other injured Survivors within 16/16/16 meters for 5/5/5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "This perk has a 40/35/30-second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you start chasing a Survivor, reveal the auras of all other injured Survivors within 16/16/16 meters for 5/5/5 seconds",
+    "This perk has a 40/35/30-second cooldown"
+   ]
+  },
+  {
+   "entity": "Hex: Overture of Doom",
+   "cat": "killer",
+   "section": "New Killer - The Krasue",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Spawns a Hex Totem that curses the farthest generator and reveals its aura to you in yellow",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When a Survivor repairs the cursed generator for 5/5/5 seconds, you gain Undetectable and your Terror Radius is applied to the generator for 20/25/30 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When the cursed generator is repaired, the next farthest generator is cursed",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Spawns a Hex Totem that curses the farthest generator and reveals its aura to you in yellow",
+    "When a Survivor repairs the cursed generator for 5/5/5 seconds, you gain Undetectable and your Terror Radius is applied to the generator for 20/25/30 seconds",
+    "When the cursed generator is repaired, the next farthest generator is cursed"
+   ]
+  },
+  {
+   "entity": "Road Life",
+   "cat": "survivor",
+   "section": "New Survivor - Vee Boonyasak",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "While injured, not Broken and repairing a generator, gain 1/1/1 token for each regular great skill check success",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When you have 8/7/6 tokens, spend all tokens and gain 100%/100%/100% healing speed until you stop healing",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Lose 2/2/2 tokens when you fail a regular skill check",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "While injured, not Broken and repairing a generator, gain 1/1/1 token for each regular great skill check success",
+    "When you have 8/7/6 tokens, spend all tokens and gain 100%/100%/100% healing speed until you stop healing",
+    "Lose 2/2/2 tokens when you fail a regular skill check"
+   ]
+  },
+  {
+   "entity": "ONE-TWO-THREE-FOUR!",
+   "cat": "survivor",
+   "section": "New Survivor - Vee Boonyasak",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Press Ability button 2 while standing and idle to enter the \"performance\" interaction that lasts up to 15/15/15 seconds and empowers Survivors within 16/16/16 meters. You will get continuous skill checks during the performance. The effect lasts for 90/90/90 seconds if the performance is completed",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Increases the odds of getting healing and repair skill checks by 20/20/20%",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When the ability is cancelled or the performance completes, it goes on cooldown for 110/100/90 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Press Ability button 2 while standing and idle to enter the \"performance\" interaction that lasts up to 15/15/15 seconds and empowers Survivors within 16/16/16 meters. You will get continuous skill checks during the performance. The effect lasts for 90/90/90 seconds if the performance is completed",
+    "Increases the odds of getting healing and repair skill checks by 20/20/20%",
+    "When the ability is cancelled or the performance completes, it goes on cooldown for 110/100/90 seconds"
+   ]
+  },
+  {
+   "entity": "Ghost Notes",
+   "cat": "survivor",
+   "section": "New Survivor - Vee Boonyasak",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "While you have Exhausted, your scratch marks disappear 50/50/50% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You recover 5/7.5/10% faster from Exhausted",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "While you have Exhausted, your scratch marks disappear 50/50/50% faster",
+    "You recover 5/7.5/10% faster from Exhausted"
+   ]
+  },
+  {
+   "entity": "Tunneling Reduction Update",
+   "cat": "system",
+   "section": "Tunneling Reduction Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added Custom Match options to enable/disable this feature",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added Custom Match options to enable/disable this feature"
+   ]
+  },
+  {
+   "entity": "Unhook Protections Update",
+   "cat": "system",
+   "section": "Tunneling Reduction Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivors that are unhooked or unhook themselves receive Unhook Protections for 30 seconds, which include:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "10% Haste status effect",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Endurance status effect",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Elusive status effect (new status effect that hides grunts of pain, aura, scratch marks, and pools of blood)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "No collision with other players",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reveal the Killer's aura within 32 meters",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Immunity to Killer Instinct",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Immunity to AFK crows",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "These effects linger for 3 seconds after being healed for a full health state",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "These effects are lost when performing a Conspicuous Action",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "These effects are disabled when all generators are completed, except for the Haste and Endurance status effects",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Survivor is still susceptible to attacks and powers",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivors that are unhooked or unhook themselves receive Unhook Protections for 30 seconds, which include:",
+    "10% Haste status effect",
+    "Endurance status effect",
+    "Elusive status effect (new status effect that hides grunts of pain, aura, scratch marks, and pools of blood)",
+    "No collision with other players",
+    "Reveal the Killer's aura within 32 meters",
+    "Immunity to Killer Instinct",
+    "Immunity to AFK crows",
+    "These effects linger for 3 seconds after being healed for a full health state",
+    "These effects are lost when performing a Conspicuous Action",
+    "These effects are disabled when all generators are completed, except for the Haste and Endurance status effects",
+    "The Survivor is still susceptible to attacks and powers"
+   ]
+  },
+  {
+   "entity": "Hook Status Update",
+   "cat": "system",
+   "section": "Tunneling Reduction Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Survivor is hooked, the hook's status is obscured for the Killer:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Killer cannot see the hook's status in the HUD",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Killer can no longer see the hook's aura",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When a Survivor is unhooked:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "There is no loud noise notification",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The hook's status in the HUD is revealed 10 seconds later",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "These effects are disabled when all generators are completed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Survivor is hooked, the hook's status is obscured for the Killer:",
+    "The Killer cannot see the hook's status in the HUD",
+    "The Killer can no longer see the hook's aura",
+    "When a Survivor is unhooked:",
+    "There is no loud noise notification",
+    "The hook's status in the HUD is revealed 10 seconds later",
+    "These effects are disabled when all generators are completed"
+   ]
+  },
+  {
+   "entity": "Unique Hook Bonuses",
+   "cat": "system",
+   "section": "Tunneling Reduction Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When hooking a Survivor that is different than the last hooked Survivor, the Killer gains the following effects:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "20% bonus to the next damage generator action (\"kicking\" the generator)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "10% Haste for 15 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Breaking a pallet or damaging a Survivor removes this bonus",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reveal all Survivors outside of 40 meters that have less than or equal hook states for 4 seconds (think: basekit Barbecue & Chili)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "These effects can only be gained when the Killer performs the hook interaction themselves",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The following Killers have a different set of bonuses:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Blight, The Dark Lord, The Ghoul, The Hillbilly, The Krasue, and The Nurse",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "They get:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "10% bonus to the next damage generator action",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "5% Haste for 10 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The same aura reveal bonus as above",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "These effects are disabled when all generators are completed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When hooking a Survivor that is different than the last hooked Survivor, the Killer gains the following effects:",
+    "20% bonus to the next damage generator action (\"kicking\" the generator)",
+    "10% Haste for 15 seconds",
+    "Breaking a pallet or damaging a Survivor removes this bonus",
+    "Reveal all Survivors outside of 40 meters that have less than or equal hook states for 4 seconds (think: basekit Barbecue & Chili)",
+    "These effects can only be gained when the Killer performs the hook interaction themselves",
+    "The following Killers have a different set of bonuses:",
+    "The Blight, The Dark Lord, The Ghoul, The Hillbilly, The Krasue, and The Nurse",
+    "They get:",
+    "10% bonus to the next damage generator action",
+    "5% Haste for 10 seconds",
+    "The same aura reveal bonus as above",
+    "These effects are disabled when all generators are completed"
+   ]
+  },
+  {
+   "entity": "Tunneling Penalties",
+   "cat": "system",
+   "section": "Tunneling Reduction Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Survivor dies to a hook action or Mori before 6 total hook states, the remaining Survivors gain a 25% repair speed bonus",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When a Survivor that was previously hooked is Killed or Sacrificed, the Killer loses the ability to block, damage, or regress generators by any means",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Survivor dies to a hook action or Mori before 6 total hook states, the remaining Survivors gain a 25% repair speed bonus",
+    "When a Survivor that was previously hooked is Killed or Sacrificed, the Killer loses the ability to block, damage, or regress generators by any means"
+   ]
+  },
+  {
+   "entity": "Perks",
+   "cat": "system",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The following perks have been updated. See the Perk Updates sections below for more details:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The following perks have been updated. See the Perk Updates sections below for more details:"
+   ]
+  },
+  {
+   "entity": "Killer",
+   "cat": "killer",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Barbecue & Chili, Eruption, Pop Goes the Weasel, Scourge Hook: Pain Resonance",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Deerstalker, A Nurse's Calling",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Barbecue & Chili, Eruption, Pop Goes the Weasel, Scourge Hook: Pain Resonance",
+    "Deerstalker, A Nurse's Calling"
+   ]
+  },
+  {
+   "entity": "Survivor",
+   "cat": "survivor",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Babysitter, Borrowed Time, Off the Record",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Tenacity, No Mither, Plot Twist",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Babysitter, Borrowed Time, Off the Record",
+    "Tenacity, No Mither, Plot Twist"
+   ]
+  },
+  {
+   "entity": "Self-Recovery",
+   "cat": "perk",
+   "section": "Slugging Reduction Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "While in the Dying State, the Resolve bar appears below the Recovery bar",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Resolve bar takes 90 seconds to fill. Progress does not reset between downs",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Once the Resolve bar is full, the Survivor gains the ability to pick themselves up from the Dying State after fully recovering",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added a custom game setting to disable full recovery",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "While in the Dying State, the Resolve bar appears below the Recovery bar",
+    "The Resolve bar takes 90 seconds to fill. Progress does not reset between downs",
+    "Once the Resolve bar is full, the Survivor gains the ability to pick themselves up from the Dying State after fully recovering",
+    "Added a custom game setting to disable full recovery"
+   ],
+   "devNote": "Note: Perks can allow a Survivor to pick themselves up before the Resolve bar has been filled, so long as their conditions are met.",
+   "role": "survivor"
+  },
+  {
+   "entity": "Quality of Life Improvements",
+   "cat": "system",
+   "section": "Slugging Reduction Update",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Crawling speed increases over time when left in the Dying State, from 0.7m/s to 1.05m/s",
+     "after": "1.05m/s",
+     "before": "0.7m/s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Survivors can now crawl and recover at the same time",
+    "Recovery is now automatic and no longer requires a button to be held",
+    "When full self-recovery is available, tap the Interact button to pick yourself up",
+    "Crawling speed increases over time when left in the Dying State, from 0.7m/s to 1.05m/s",
+    "Added a new scenario to the Abandon option: After recovering or being healed from the Dying State twice, the option to Abandon becomes available the next time you are downed"
+   ]
+  },
+  {
+   "entity": "Perks",
+   "cat": "system",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The following perks have been updated. See the Perk Updates sections below for more details:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The following perks have been updated. See the Perk Updates sections below for more details:"
+   ]
+  },
+  {
+   "entity": "Pallet Density Quality of Life Update",
+   "cat": "system",
+   "section": "Pallet Density Quality of Life Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated various Realms to adjust the quantity and distribution of pallets, reducing the presence of \"dead zones\"",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Affected Realms: The MacMillan Estate, Autohaven Wreckers, Coldwind Farm, Crotus Prenn Asylum, Haddonfield, Backwater Swamp, Red Forest, Yamaoka Estate, Ormond, The Decimated Borgo",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated various Realms to adjust the quantity and distribution of pallets, reducing the presence of \"dead zones\"",
+    "Affected Realms: The MacMillan Estate, Autohaven Wreckers, Coldwind Farm, Crotus Prenn Asylum, Haddonfield, Backwater Swamp, Red Forest, Yamaoka Estate, Ormond, The Decimated Borgo"
+   ]
+  },
+  {
+   "entity": "Summary",
+   "cat": "killer",
+   "section": "Killer Rework - The Shape",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Stalker Mode",
+     "after": "Stalker Mode",
+     "before": "Evil Within I",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Pursuer Mode",
+     "after": "Pursuer Mode",
+     "before": "Evil Within II",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Evil Incarnate Mode",
+     "after": "Evil Incarnate Mode",
+     "before": "Evil Within III",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Shape now has three modes: Stalker, Pursuer, and Evil Incarnate",
+    "The Shape can swap between Stalker & Pursuer modes without needing to Stalk",
+    "The Shape must Stalk Survivors to unlock Evil Incarnate mode",
+    "While Evil Incarnate mode is active, The Shape has a new special attack: Slaughtering Strike",
+    "Updated most Add-Ons",
+    "Stalker Mode (Previously Evil Within I)",
+    "The Shape is Undetectable and moves at 4.2m/s",
+    "Hold the Power button to Stalk nearby Survivors",
+    "When the Stalk meter is full, automatically enter Pursuer Mode. Stalker Mode becomes unavailable",
+    "Pursuer Mode (Previously Evil Within II)",
+    "The Shape has a 24m Terror Radius and moves at 4.6m/s",
+    "Vault speed is increased by 15%",
+    "Lunge range, breaking speed, and stun recovery speeds are increased by 10%",
+    "Evil Incarnate Mode (Previously Evil Within III)",
+    "When the Stalk meter is full, tap the Ability button to activate Evil Incarnate Mode",
+    "Evil Incarnate mode lasts 40 seconds",
+    "The Shape has a 40m Terror Radius and moves at 4.6m/s",
+    "Vault speed is increased by 15%",
+    "Unlocks a new special attack: Slaughtering Strike",
+    "Unlocks the ability to kill Survivors who have reached the final hook stage. This cannot be used on Survivors with Endurance"
+   ],
+   "devNote": "Note: No longer decreases lunge range.\nNote: Survivors are no longer Exposed.\nNote: No longer increases lunge range."
+  },
+  {
+   "entity": "Special Attack: Slaughtering Strike",
+   "cat": "killer",
+   "section": "Killer Rework - The Shape",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Hold the Power button to charge a lunge, then press the Attack button to begin the attack",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Holding the Power button longer extends the lunge's duration up to a maximum of 2 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Slaughtering Strike has a base speed of 6.9m/s",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Hits with Slaughtering Strike instantly down healthy Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Slaughtering Strike can break pallets and breakable walls",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Slaughtering Strike has a 6 second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Hold the Power button to charge a lunge, then press the Attack button to begin the attack",
+    "Holding the Power button longer extends the lunge's duration up to a maximum of 2 seconds",
+    "Slaughtering Strike has a base speed of 6.9m/s",
+    "Hits with Slaughtering Strike instantly down healthy Survivors",
+    "Slaughtering Strike can break pallets and breakable walls",
+    "Slaughtering Strike has a 6 second cooldown"
+   ]
+  },
+  {
+   "entity": "Stalking",
+   "cat": "killer",
+   "section": "Killer Rework - The Shape",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Stalk meter now takes 5 points to fill",
+     "after": "5 points",
+     "before": "3 for Tier 1, 6 for Tier 2",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the movement speed multiplier when Stalking a Survivor to 60%",
+     "after": "60%",
+     "before": "20%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the maximum Stalking range to 32m",
+     "after": "32m",
+     "before": "40m",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "The Stalk meter now takes 5 points to fill (was 3 for Tier 1, 6 for Tier 2)",
+    "Increased the movement speed multiplier when Stalking a Survivor to 60% (was 20%)",
+    "Stalk rate is decreased by 25% while moving",
+    "When the Stalk meter is not full, after 20 seconds of not Stalking, Stalk progress decays to 50%",
+    "Decreased the maximum Stalking range to 32m (was 40m)"
+   ],
+   "devNote": "Note: Survivors no longer have a limited amount of Stalk points.\nNote: Stalk rate is no longer affected by distance."
+  },
+  {
+   "entity": "The Shape's Add-Ons",
+   "cat": "killer",
+   "section": "Killer Rework - The Shape",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases movement speed while Stalking by 20%",
+     "after": "20%",
+     "before": "10%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases the duration of Evil Incarnate by 20 seconds",
+     "after": "20 seconds",
+     "before": "30",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Tacky Earrings:",
+    "Increases movement speed while Stalking by 20% (was 10%)",
+    "Memorial Flower (Rework):",
+    "Increases movement speed in Stalker Mode to 4.4m/s",
+    "Boyfriend's Memo (Rework):",
+    "Increases maximum Stalk range by 8 meters",
+    "Blond Hair (Rework):",
+    "Scratch marks and pools of blood last 100% longer while in Stalker Mode",
+    "Reflective Fragment (Rework):",
+    "Slaughtering Strike only deals a single health state of damage. Hitting a Survivor with Slaughtering Strike adds 20 seconds to Evil Incarnate's duration",
+    "Jewelry (Rework):",
+    "Increases Stalk rate when Stalking stationary Survivors by 10%",
+    "Hair Brush (Rework):",
+    "When Evil Incarnate is activated, the next pallet you break is destroyed 50% faster",
+    "Glass Fragment (Rework):",
+    "Increases the movement speed of Slaughtering Strike by 5%. Decreases the charge speed of Slaughtering Strike by 25%",
+    "Dead Rabbit:",
+    "Decreases Terror Radius in Pursuer Mode by 25%. Increases Terror Radius in Evil Incarnate by 25%",
+    "Mirror Shard (Rework):",
+    "Increases the base duration of Slaughtering Strike by 0.25 seconds. Decreases the charge speed of Slaughtering Strike by 25%",
+    "Jewelry Box (Rework):",
+    "Decreases Stalk range by 16 meters. Increases Stalk rate by 30%",
+    "J. Myers Memorial (Rework):",
+    "While Evil Incarnate is active, your pickup and hook speeds are increased by 40%",
+    "Hair Bow:",
+    "Increases the duration of Evil Incarnate by 20 seconds (was 30). Decreases Stalk rate by 20%",
+    "Vanity Mirror (Rework):",
+    "When Evil Incarnate ends, you see the auras of all Survivors for 4 seconds",
+    "Tombstone Piece (Rework):",
+    "When Evil Incarnate is activated, you become Undetectable for 20 seconds",
+    "Lock of Hair (Rework):",
+    "While Evil Incarnate is active, hold the Ability button to end it prematurely and retain 50% of the remaining duration as Stalk progress",
+    "Judith's Tombstone (Rework):",
+    "Hooking a Survivor during Evil Incarnate refreshes its duration. Limits the duration of Evil Incarnate to 40 seconds",
+    "Fragrant Tuft of Hair (Rework):",
+    "Survivors become Exposed while Evil Incarnate is active. Your lunge range is increased by 50% while in Evil Incarnate mode. You can no longer use Slaughtering Strike"
+   ],
+   "character": "The Shape"
+  },
+  {
+   "entity": "The Unknown",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased Weakened duration increase upon injuring a healthy Survivor with UVX projectile to 8 seconds",
+     "after": "Weakened / 8 seconds",
+     "before": "6 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Reduced movement speed recovery time after teleporting to 1.3 seconds",
+     "after": "1.3 seconds",
+     "before": "1.4 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increased Weakened duration increase upon injuring a healthy Survivor with UVX projectile to 8 seconds (was 6 seconds)",
+    "Reduced movement speed recovery time after teleporting to 1.3 seconds (was 1.4 seconds)",
+    "Increased The Unknown's vertical camera axis to allow higher aim elevation with the UVX Projectile"
+   ],
+   "character": "The Unknown"
+  },
+  {
+   "entity": "The Unknown's Add-Ons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Afflicts the Hemorrhage status effect to Survivors injured by UVX for 45 seconds",
+     "after": "Hemorrhage / 45 seconds",
+     "before": "30 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "After Teleporting, regain full movement speed 7% faster",
+     "after": "7%",
+     "before": "15%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reduces the Hallucinations’ aura range visible to Survivors by 35%",
+     "after": "35%",
+     "before": "25%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Destroying a Hallucination with UVX decreases the time until the next Hallucination spawns by 65%",
+     "after": "65%",
+     "before": "75%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increases Hallucination spawn time by 120%",
+     "after": "120%",
+     "before": "80%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Inflicts the Exhausted status effect for 15 seconds",
+     "after": "Exhausted / 15 seconds",
+     "before": "10 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Inflicts the Exhausted status effect for 15 seconds",
+     "after": "Exhausted / 15 seconds",
+     "before": "10 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Rabbit's Foot:",
+    "Afflicts the Hemorrhage status effect to Survivors injured by UVX for 45 seconds (was 30 seconds)",
+    "Blurry Photo:",
+    "After Teleporting, regain full movement speed 7% faster (was 15%)",
+    "Last Known Recording:",
+    "Reduces the Hallucinations’ aura range visible to Survivors by 35% (was 25%)",
+    "Slashed Backpack:",
+    "Destroying a Hallucination with UVX decreases the time until the next Hallucination spawns by 65% (was 75%). The extra time should allow for more precise placement",
+    "Vanishing Box:",
+    "Increases Hallucination spawn time by 120% (was 80%)",
+    "Hypnotist’s Watch:",
+    "Inflicts the Exhausted status effect for 15 seconds (was 10 seconds)",
+    "Serum Vial:",
+    "Inflicts the Exhausted status effect for 15 seconds (was 10 seconds)"
+   ],
+   "character": "The Unknown"
+  },
+  {
+   "entity": "The Dark Lord",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reduced the cooldown of Hellfire to 9.5 seconds",
+     "after": "9.5 seconds",
+     "before": "10 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the number of Hellfire pillars to 8",
+     "after": "8",
+     "before": "7",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Reduced Hellfire charge movement speed to 3.68m/s",
+     "after": "3.68m/s",
+     "before": "3.8m/s",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased movement speed recovery time after activating Hellfire to 2.35 seconds",
+     "after": "2.35 seconds",
+     "before": "2.25 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Pounce Attack charge time to 0.9 seconds",
+     "after": "0.9 seconds",
+     "before": "0.85 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased Scent Orb spawn time to 6 seconds",
+     "after": "6 seconds",
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Bat Form flying movement friction to reduce sliding motion to 2.2",
+     "after": "2.2",
+     "before": "1.6",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Vampire Form:",
+    "Reduced the cooldown of Hellfire to 9.5 seconds (was 10 seconds)",
+    "Increased the number of Hellfire pillars to 8 (was 7)",
+    "Reduced Hellfire charge movement speed to 3.68m/s (was 3.8m/s)",
+    "Increased movement speed recovery time after activating Hellfire to 2.35 seconds (was 2.25 seconds)",
+    "Wolf Form:",
+    "Increased Pounce Attack charge time to 0.9 seconds (was 0.85 seconds)",
+    "Increased Scent Orb spawn time to 6 seconds (was 5 seconds)",
+    "Bat Form:",
+    "Increased Bat Form flying movement friction to reduce sliding motion to 2.2 (was 1.6)"
+   ],
+   "character": "The Dark Lord"
+  },
+  {
+   "entity": "The Dark Lord's Add-Ons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reduces the cooldown of Hellfire by 5%",
+     "after": "5%",
+     "before": "10%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reduces the cooldown of Shapeshift by 5%",
+     "after": "5%",
+     "before": "10%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increases Shapeshift speed by 5%",
+     "after": "5%",
+     "before": "10%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reduces the size of the Terror Radius in Vampire and Wolf Forms by 8 meters",
+     "after": "8 meters",
+     "before": "4 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases the duration of Scent Orbs by 60%",
+     "after": "60%",
+     "before": "50%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases Killer Instinct duration by 1 second while in Wolf Form after Survivors complete rushed actions",
+     "after": "1 second",
+     "before": "0.8 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases the cooldown reduction of Pounce Attacks from Scent Orbs by 30%",
+     "after": "30%",
+     "before": "50%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increases the spawn rate of Scent Orbs by 10%",
+     "after": "10%",
+     "before": "17%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Survivors within 8 meters",
+     "after": "8 meters",
+     "before": "12 meters",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "of your teleport destination suffer from an 8% Hindered status effect for 2 seconds",
+     "after": "Hindered / 2 seconds",
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reveals the auras of all Survivors whose Scent Orbs you have collected for 5 seconds",
+     "after": "5 seconds",
+     "before": "4 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "After teleporting to a window, it is blocked for 8 seconds",
+     "after": "8 seconds",
+     "before": "15 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Hellfire pillar reduction downside removed",
+     "after": "removed",
+     "before": "reduced by 1 pillar",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Ruby Circlet:",
+    "Reduces the cooldown of Hellfire by 5% (was 10%)",
+    "Clock Tower Gear:",
+    "Reduces the cooldown of Shapeshift by 5% (was 10%)",
+    "Traveler's Hat:",
+    "Increases Shapeshift speed by 5% (was 10%)",
+    "Moonstone Necklace:",
+    "Reduces the size of the Terror Radius in Vampire and Wolf Forms by 8 meters (was 4 meters)",
+    "Blood-Filled Goblet:",
+    "Increases the duration of Scent Orbs by 60% (was 50%)",
+    "White Wolf Medallion:",
+    "Increases Killer Instinct duration by 1 second while in Wolf Form after Survivors complete rushed actions (was 0.8 seconds)",
+    "Killer Doll:",
+    "Increases the cooldown reduction of Pounce Attacks from Scent Orbs by 30% (was 50%)",
+    "Force of Echo:",
+    "Increases the spawn rate of Scent Orbs by 10% (was 17%)",
+    "Medusa's Hair:",
+    "Survivors within 8 meters (was 12 meters) of your teleport destination suffer from an 8% Hindered status effect for 2 seconds (was 3 seconds)",
+    "Warg's Fang:",
+    "Reveals the auras of all Survivors whose Scent Orbs you have collected for 5 seconds (was 4 seconds)",
+    "Lapis Lazuli:",
+    "After teleporting to a window, it is blocked for 8 seconds (was 15 seconds)",
+    "Ring of Vlad:",
+    "Hellfire pillar reduction downside removed (was reduced by 1 pillar)"
+   ],
+   "character": "The Dark Lord"
+  },
+  {
+   "entity": "The Clown",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased the time it takes for Afterpiece Antidote clouds to activate to 1.6 seconds",
+     "after": "1.6 seconds",
+     "before": "1",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased the duration of the Hindered effect after leaving an Afterpiece Tonic cloud to 1.6 seconds",
+     "after": "Hindered / 1.6 seconds",
+     "before": "1",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the time it takes for Afterpiece Antidote clouds to activate to 1.6 seconds (was 1)",
+    "Increased the duration of the Hindered effect after leaving an Afterpiece Tonic cloud to 1.6 seconds (was 1)"
+   ],
+   "character": "The Clown"
+  },
+  {
+   "entity": "The Ghoul",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When grabbing a Survivor on the other side of a vault with Kagune Leap, the Survivor is released at the start of the vault instead of the end",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When grabbing a Survivor on the other side of a vault with Kagune Leap, the Survivor is released at the start of the vault instead of the end"
+   ],
+   "character": "The Ghoul"
+  },
+  {
+   "entity": "The Oni",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the number of Blood Orbs that spawn when hooking a Survivor to 5",
+     "after": "5",
+     "before": "2",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the number of Blood Orbs that spawn when hooking a Survivor to 5 (was 2)"
+   ],
+   "character": "The Oni"
+  },
+  {
+   "entity": "Babysitter (Rework)",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "After unhooking a Survivor, you see the Survivor's aura and the Killer's aura for 8/10/12 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "After unhooking a Survivor, you see the Survivor's aura and the Killer's aura for 8/10/12 seconds"
+   ]
+  },
+  {
+   "entity": "Borrowed Time",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivors you unhook retain their Unhook Protections for an additional 8/10/12 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivors you unhook retain their Unhook Protections for an additional 8/10/12 seconds"
+   ]
+  },
+  {
+   "entity": "Clairvoyance",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased aura reading duration to 10/11/12 seconds",
+     "after": "10/11/12 seconds",
+     "before": "8/9/10 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased aura reading duration to 10/11/12 seconds (was 8/9/10 seconds)"
+   ]
+  },
+  {
+   "entity": "Friendly Competition",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the bonus repair progress speed duration to 100/110/120 seconds",
+     "after": "100/110/120 seconds",
+     "before": "45/60/75 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the bonus repair progress speed duration to 100/110/120 seconds (was 45/60/75 seconds)"
+   ]
+  },
+  {
+   "entity": "Hope",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased the Haste status effect gained when the Exit Gates are powered to 3/4/5%",
+     "after": "Haste / 3/4/5%",
+     "before": "5/6/7%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased the Haste status effect gained when the Exit Gates are powered to 3/4/5% (was 5/6/7%)"
+   ]
+  },
+  {
+   "entity": "No Mither",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the volume reduction for grunts of pain to 100% across all tiers",
+     "after": "100%",
+     "before": "25/50/75%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the volume reduction for grunts of pain to 100% across all tiers (was 25/50/75%)"
+   ]
+  },
+  {
+   "entity": "Off the Record",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Removed the Endurance status effect",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Removed the stipulation that it disables once Exit Gates are powered",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added a new effect: While active, you do not leave scratch marks while sprinting",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Removed the Endurance status effect",
+    "Removed the stipulation that it disables once Exit Gates are powered",
+    "Added a new effect: While active, you do not leave scratch marks while sprinting"
+   ]
+  },
+  {
+   "entity": "Leader",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased action speed bonus value to 20/25/30%",
+     "after": "20/25/30%",
+     "before": "15/20/25%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased action speed bonus range to 10 meters",
+     "after": "10 meters",
+     "before": "8 meters",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased action speed bonus value to 20/25/30% (was 15/20/25%)",
+    "Increased action speed bonus range to 10 meters (was 8 meters)",
+    "Updated perk description to simplify linger effect"
+   ]
+  },
+  {
+   "entity": "Lucky Star",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased cooldown to 35/30/25 seconds",
+     "after": "35/30/25 seconds",
+     "before": "40/35/30 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased cooldown to 35/30/25 seconds (was 40/35/30 seconds)"
+   ]
+  },
+  {
+   "entity": "Pharmacy",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Unlocking chests is 75/100/125% faster",
+     "after": "75/100/125%",
+     "before": "70/85/100%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "The hearing distance for noises from unlocking chests is reduced by 12 meters",
+     "after": "12 meters",
+     "before": "16 meters",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Unlocking chests is 75/100/125% faster (was 70/85/100%)",
+    "The hearing distance for noises from unlocking chests is reduced by 12 meters (was 16 meters)",
+    "Guarantees an Emergency Med-Kit upon completing the interaction"
+   ]
+  },
+  {
+   "entity": "Plot Twist",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added a new effect: Increases recovery speed by 25% when used",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added a new effect: Increases recovery speed by 25% when used"
+   ]
+  },
+  {
+   "entity": "Poised",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Killer aura reveal duration when repairing a generator for the first time to 8 seconds",
+     "after": "8 seconds",
+     "before": "6 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased time where you leave no scratch marks after a generator is completed to 20/25/30 seconds",
+     "after": "20/25/30 seconds",
+     "before": "10/12/14 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Killer aura reveal duration when repairing a generator for the first time to 8 seconds (was 6 seconds)",
+    "Increased time where you leave no scratch marks after a generator is completed to 20/25/30 seconds (was 10/12/14 seconds)"
+   ]
+  },
+  {
+   "entity": "Quick Gambit",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased the cooldown when losing a health state to 40 seconds",
+     "after": "40 seconds",
+     "before": "60 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the cooldown when losing a health state to 40 seconds (was 60 seconds)"
+   ]
+  },
+  {
+   "entity": "Tenacity",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased crawling speed bonus to 15/20/25%",
+     "after": "15/20/25%",
+     "before": "30/40/50%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Added a new effect: Prevents your aura from being read while in the Dying State",
+    "Decreased crawling speed bonus to 15/20/25% (was 30/40/50%)"
+   ]
+  },
+  {
+   "entity": "Vigil",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivors can now only benefit from one Vigil perk's effect at a time",
+     "after": null,
+     "before": "stacked with other versions of itself",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivors can now only benefit from one Vigil perk's effect at a time (previously stacked with other versions of itself)"
+   ]
+  },
+  {
+   "entity": "All-Shaking Thunder",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased lunge attack distance increase duration to 15/20/25 seconds",
+     "after": "15/20/25 seconds",
+     "before": "8/12/16 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased lunge attack distance increase duration to 15/20/25 seconds (was 8/12/16 seconds)"
+   ]
+  },
+  {
+   "entity": "A Nurse's Calling",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased range to 28/30/32m",
+     "after": "28/30/32m",
+     "before": "20/24/28",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased range to 28/30/32m (was 20/24/28). No longer affects Survivors who are in the Dying State",
+    "Barbecue and Chili (Rework):",
+    "After hooking all Survivors once, increase the base generator damage by 3/4/5%"
+   ]
+  },
+  {
+   "entity": "Dark Arrogance",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased the blind and pallet stun duration increase to 15%",
+     "after": "15%",
+     "before": "25%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased the blind and pallet stun duration increase to 15% (was 25%)"
+   ]
+  },
+  {
+   "entity": "Dead Man's Switch",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased generator blocking duration to 25/30/35 seconds",
+     "after": "25/30/35 seconds",
+     "before": "40/45/50 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased generator blocking duration to 25/30/35 seconds (was 40/45/50 seconds)",
+    "Deerstalker (Rework):",
+    "When a Survivor sees your aura, you see their aura. Every 40/35/30 seconds, reveal your aura to the Survivor with the lowest chase time for 3 seconds"
+   ]
+  },
+  {
+   "entity": "Eruption",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased generator progress loss to 5/5/5%",
+     "after": "5/5/5%",
+     "before": "10/10/10%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased generator progress loss to 5/5/5% (was 10/10/10%)"
+   ]
+  },
+  {
+   "entity": "Hex: Ruin",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the generator regression to 100/125/150%",
+     "after": "100/125/150%",
+     "before": "50/75/100%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the generator regression to 100/125/150% (was 50/75/100%)"
+   ]
+  },
+  {
+   "entity": "Leverage",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased healing speed reduction value to 20/25/30%",
+     "after": "20/25/30%",
+     "before": "30/40/50%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased healing speed reduction duration to 60 seconds",
+     "after": "60 seconds",
+     "before": "30 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased healing speed reduction value to 20/25/30% (was 30/40/50%)",
+    "Increased healing speed reduction duration to 60 seconds (was 30 seconds)"
+   ]
+  },
+  {
+   "entity": "Monitor and Abuse",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "While in a chase, your terror radius is now increased by 5/10/15%",
+     "after": "5/10/15%",
+     "before": "6/7/8 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Otherwise, your terror radius is now decreased by 15/20/25%",
+     "after": "15/20/25%",
+     "before": "6/7/8 meters",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While in a chase, your terror radius is now increased by 5/10/15% (was 6/7/8 meters)",
+    "Otherwise, your terror radius is now decreased by 15/20/25% (was 6/7/8 meters)"
+   ]
+  },
+  {
+   "entity": "Pop Goes the Weasel",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased generator progress loss to 15/15/15%",
+     "after": "15/15/15%",
+     "before": "20/20/20%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased generator progress loss to 15/15/15% (was 20/20/20%)"
+   ]
+  },
+  {
+   "entity": "Oppression",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased random generator selection to 4",
+     "after": "4",
+     "before": "3",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased cooldown to 45/40/35 seconds",
+     "after": "45/40/35 seconds",
+     "before": "60/50/40 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased random generator selection to 4 (was 3)",
+    "Decreased cooldown to 45/40/35 seconds (was 60/50/40 seconds)"
+   ]
+  },
+  {
+   "entity": "Scourge Hook: Pain Resonance",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased generator progress loss to 8/10/12%",
+     "after": "8/10/12%",
+     "before": "10/15/20%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased generator progress loss to 8/10/12% (was 10/15/20%)"
+   ]
+  },
+  {
+   "entity": "Septic Touch",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increased the linger duration of the Blindness and Exhausted status effects to 20/25/30 seconds",
+     "after": "Blindness / Exhausted / 20/25/30 seconds",
+     "before": "6/8/10 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increased the linger duration of the Blindness and Exhausted status effects to 20/25/30 seconds (was 6/8/10 seconds)"
+   ]
+  },
+  {
+   "entity": "Ultimate Weapon",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased range when opening a locker to 40 meters",
+     "after": "40 meters",
+     "before": "32 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Reduced cooldown to 55/50/45 seconds",
+     "after": "55/50/45 seconds",
+     "before": "80/70/60 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased range when opening a locker to 40 meters (was 32 meters)",
+    "Reduced cooldown to 55/50/45 seconds (was 80/70/60 seconds)"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where the Pharmacy perk would remove chest SFX.",
+    "Fixed an issue where The Dark Lord's Wolf Form would be silent.",
+    "Fixed an issue where The Twins' chase music was missing for survivors when chased by Victor.",
+    "Fixed an issue where The Twins' chase music would not stop when switching from Victor to Charlotte in a chase.",
+    "Fixed an issue where The Good Guy's Trial win voiceover would trigger every time a Survivor died.",
+    "Fixed an issue where the \"Geralt of Rivia\" outfit voiceover at the start of a Trial would not trigger when playing against The Animatronic.",
+    "Fixed an issue where Rick and Michonne Grimes' voiceover at the start of a Trial would not trigger when playing against The Animatronic.",
+    "Fixed an issue where The Houndmaster's stunned voiceover would not play."
+   ]
+  },
+  {
+   "group": "Bots Improvements",
+   "items": [
+    "Fixed an issue where bots were unable to move when a player disconnected in specific locations.",
+    "Fixed multiple issues where bots would vault at undesired times.",
+    "Survivor bots will now crawl toward pallets instead of toward other Survivors."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where certain VFX wouldn't play when switching between cosmetics.",
+    "Fixed an issue where The Trapper's \"Iridescent Stone\" add-on would not arm the last trap.",
+    "Fixed an issue where generators would not be highlighted white for The Knight when ordering a guard to break them.",
+    "Fixed an issue where certain Killer power icons would not become transparent during cooldown.",
+    "Fixed an issue where dying Survivors would be missing animations and movement from other players' perspectives after being discovered by The Knight's Carnifex.",
+    "Fixed an issue where status effects belonging to The Twins' Charlotte would be displayed while controlling Victor.",
+    "Fixed an issue where The Knight's Guard would not de-spawn when a Survivor picked up the Standard.",
+    "Fixed an issue where certain Nightfall VFX would not display from the Spectator POV when watching The Dredge.",
+    "Fixed an issue where The Nemesis' Tentacle Strike could hit Survivors crouching behind windows.",
+    "Fixed an issue where The Knight's Guards would struggle to navigate between tables and chairs in the Freddy Fazbear's Pizza map.",
+    "Fixed an issue where The Hillbilly could completely turn around when breaking a door while using the LoPro Chains add-on.",
+    "Fixed an issue where The Animatronic would slide toward the hook from another Survivor's perspective when hooking a Survivor.",
+    "Fixed an issue where The Knight's Jailer would have a delay before beginning to chase a Survivor.",
+    "Fixed an issue where The Animatronic's Fire Axe would disappear from a Survivor upon entering and leaving a locker.",
+    "Fixed an issue where Security Doors would not be highlighted in yellow if The Animatronic entered one while a Survivor was teleporting.",
+    "Fixed an issue where The Lich would display unselected spells after quickly choosing several.",
+    "Fixed an issue where smoke color would display incorrectly in the Spectator's HUD when watching The Clown.",
+    "Fixed an issue where The Lich's Dispelling Sphere could become stuck on his model.",
+    "Fixed an issue where The Knight's Guards would take a longer-than-intended path when a Survivor vaulted.",
+    "Fixed an issue where Broken Keys obtained from The Lich's Treasure Chests would not work.",
+    "Fixed an issue where The Executioner's Punishment of the Damned trail VFX would appear off-centered.",
+    "Fixed an issue where Survivors afflicted with The Animatronic's Fire Axe could not unhook other Survivors."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in the Badham Preschool map where players could not drop through a hole.",
+    "Fixed an issue in The Underground Complex map where invisible collisions blocked the navigation of players."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where Knock Out would remain inactive after dropping a Fragile Pallet.",
+    "Fixed an issue where the first wiggle skill check after being grabbed off a generator by a Killer with Unnerving Presence would be smaller than intended.",
+    "Fixed an issue where Finesse would not go on cooldown if a vaulted pallet was destroyed by a Killer's power.",
+    "Fixed an issue where Survivor auras were not revealed to the Killer when Blood Warden was equipped.",
+    "Fixed an issue where leaving a locker with Head On could be blocked by another Survivor.",
+    "Fixed an issue where players could get stuck when using Plot Twist at the same time they were grabbed by The Animatronic."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Fixed an issue where input settings were incorrectly applied to newly created accounts."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where the \"Lisa Garland\" outfit was missing an earring in her in-game portrait.",
+    "Fixed an issue where the fire wings would not show up on The Wraith's \"Phantom of Vengeance\" outfit in the Store icons.",
+    "Fixed an issue where quest tooltips would still show their prerequisite quest needs despite being already unlocked.",
+    "Fixed an issue where declining a party join request would not send a confirmation popup to the requesting player.",
+    "Fixed an issue where the virtual keyboard would not load when adding a friend on Xbox touch interfaces.",
+    "Fixed an issue where the matchmaking popup would display the wrong text.",
+    "Improved animated smoke shader on tooltips."
+   ]
+  },
+  {
+   "group": "Miscellaneous",
+   "items": [
+    "Fixed an issue where the game could softlock on the Tally Screen.",
+    "Fixed an issue where spamming the ready button could result in a connection error message.",
+    "Fixed an issue where the Fragile Pallet animation would not transition from the downed to upright position.",
+    "Fixed an issue where certain Survivors would not play voiceover related to crows when surrounded by AFK crows.",
+    "Fixed an issue where Fog Vial VFX would display incorrectly when falling after use.",
+    "Fixed an issue where some users could not unlock the Lost All Hope achievement."
+   ]
+  }
+ ]
+}

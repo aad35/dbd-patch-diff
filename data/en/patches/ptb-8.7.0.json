@@ -1,0 +1,447 @@
+{
+ "id": "ptb-8.7.0",
+ "version": "8.7.0",
+ "kind": "ptb",
+ "title": "8.7.0 | PTB",
+ "date": "2025-04-15",
+ "url": "https://store.steampowered.com/news/app/381210/view/587264582368625748?l=english",
+ "changes": [
+  {
+   "entity": "New Perks",
+   "cat": "survivor",
+   "section": "New Survivor: Orela Rose",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Do no Harm: When you heal another Survivor, for each hook state they have, heal 30/40/50% faster and gain +3/3/3% progress for succeeding great skill checks",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Duty of Care: When you take a protection hit while healthy, all other Survivors within 16/16/16 meters gain 25/25/25% Haste for 4/5/6 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Rapid Response: When you do a Fast Locker Exit, you suffer from the Exhausted status effect for 30/30/30 seconds. When you gain Exhausted, you see the Killer's aura for 1/1.5/2 seconds. Exhausted prevents one from using perks that cause Exhausted",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Do no Harm: When you heal another Survivor, for each hook state they have, heal 30/40/50% faster and gain +3/3/3% progress for succeeding great skill checks",
+    "Duty of Care: When you take a protection hit while healthy, all other Survivors within 16/16/16 meters gain 25/25/25% Haste for 4/5/6 seconds",
+    "Rapid Response: When you do a Fast Locker Exit, you suffer from the Exhausted status effect for 30/30/30 seconds. When you gain Exhausted, you see the Killer's aura for 1/1.5/2 seconds. Exhausted prevents one from using perks that cause Exhausted"
+   ]
+  },
+  {
+   "entity": "The Doctor",
+   "cat": "killer",
+   "section": "KILLERS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added a cooldown to interrupting Unhooks with Shock Therapy repeatedly",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added a cooldown to interrupting Unhooks with Shock Therapy repeatedly"
+   ],
+   "character": "The Doctor"
+  },
+  {
+   "entity": "The Houndmaster",
+   "cat": "killer",
+   "section": "KILLERS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased the Dog's vault speed during Chase Command to 0.65 seconds",
+     "after": null,
+     "before": "0.45 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the Dog's vault speed during Chase Command to 0.65 seconds (was 0.45 seconds)",
+    "Doubled the Bloodpoint rewards of all her Deviousness Scoring Events"
+   ],
+   "character": "The Houndmaster"
+  },
+  {
+   "entity": "The Oni",
+   "cat": "killer",
+   "section": "KILLERS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Removed the turn rate limit during the open phase of Demon Strike",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Removed the turn rate limit during the open phase of Demon Strike"
+   ],
+   "character": "The Oni"
+  },
+  {
+   "entity": "Boon: Dark Theory",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Haste effect to 3%",
+     "after": null,
+     "before": "2%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Haste effect to 3% (was 2%)"
+   ]
+  },
+  {
+   "entity": "Breakout",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Haste effect while near a carried Survivor to 6/8/10%",
+     "after": null,
+     "before": "5/6/7%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Haste effect while near a carried Survivor to 6/8/10% (was 5/6/7%)"
+   ]
+  },
+  {
+   "entity": "Champion of Light",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Haste effect while using a Flashlight to 70%",
+     "after": null,
+     "before": "50%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Haste effect while using a Flashlight to 70% (was 50%)"
+   ]
+  },
+  {
+   "entity": "No One Left Behind",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Now increases the Haste effect for unhooked Survivors by 10% instead of applying a separate Haste effect",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Now increases the Haste effect for unhooked Survivors by 10% instead of applying a separate Haste effect"
+   ]
+  },
+  {
+   "entity": "Furtive Chase",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Haste effect after hooking the Obsession to 10%",
+     "after": null,
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Haste effect after hooking the Obsession to 10% (was 5%)"
+   ]
+  },
+  {
+   "entity": "Hex: Pentimento (Rework)",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "You see the aura of cleansed totems and can Rekindle each Totem once. While a Totem is Rekindled, Survivors Heal and Repair 15% slower +3/4/5% for each additional Rekindled Totem. If all five totems are Rekindled simultaneously, all Totems are permanently blocked by The Entity. Survivors cursed by this perk see Rekindled Totems' auras within 16m",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "You see the aura of cleansed totems and can Rekindle each Totem once. While a Totem is Rekindled, Survivors Heal and Repair 15% slower +3/4/5% for each additional Rekindled Totem. If all five totems are Rekindled simultaneously, all Totems are permanently blocked by The Entity. Survivors cursed by this perk see Rekindled Totems' auras within 16m"
+   ]
+  },
+  {
+   "entity": "Unbound",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Haste effect after vaulting a window to 10%",
+     "after": null,
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Haste effect after vaulting a window to 10% (was 5%)"
+   ]
+  },
+  {
+   "entity": "Quest System",
+   "cat": "system",
+   "section": "Quest System",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Introducing a unified place for all Quest, which will include daily, event, rift quests and much more",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Introducing a unified place for all Quest, which will include daily, event, rift quests and much more"
+   ]
+  },
+  {
+   "entity": "Base Game Adjustments",
+   "cat": "system",
+   "section": "Base Game Adjustments",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added a protection to Survivors when their teammates spam the Unhook interaction without ever Unhooking",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added a protection for failing Skill Checks that trigger right when the interaction is stopped",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added a protection to Survivors when their teammates spam the Unhook interaction without ever Unhooking",
+    "Added a protection for failing Skill Checks that trigger right when the interaction is stopped"
+   ]
+  },
+  {
+   "entity": "Haste & Hindered Stacking",
+   "cat": "system",
+   "section": "Haste & Hindered Stacking",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The effects of Haste and Hindered no longer stack with themselves",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "While multiple Haste or Hindered effects are active, the largest percentage for each is used",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The speed bonus/penalty of Haste and Hindered are now shown on their respective status effect icons",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Perks which affect movement speed now mention Haste or Hindered in their descriptions",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The effects of Haste and Hindered no longer stack with themselves",
+    "While multiple Haste or Hindered effects are active, the largest percentage for each is used",
+    "The speed bonus/penalty of Haste and Hindered are now shown on their respective status effect icons",
+    "Perks which affect movement speed now mention Haste or Hindered in their descriptions"
+   ]
+  },
+  {
+   "entity": "Surrender Option",
+   "cat": "system",
+   "section": "Surrender Option",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added a new Killer scenario: 10 minutes after the last generator is completed, the Killer has the option to Surrender",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added a new Killer scenario: 10 minutes after the last generator is completed, the Killer has the option to Surrender"
+   ]
+  },
+  {
+   "entity": "Rarity Rework",
+   "cat": "system",
+   "section": "Rarity Rework",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Rarity levels have been revised to better surface different tier value and adding a new tag-based system that allows to surface extra information to players",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Rarity levels have been revised to better surface different tier value and adding a new tag-based system that allows to surface extra information to players"
+   ]
+  },
+  {
+   "entity": "Bot Improvements",
+   "cat": "system",
+   "section": "Bot Improvements",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Smoothened the camera direction of Bots while they are turning corners",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivor Bots are no longer trigger-happy with their Flashlights",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Smoothened the camera direction of Bots while they are turning corners",
+    "Survivor Bots are no longer trigger-happy with their Flashlights"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where the wrong terrain type SFX would play when walking in the Grim Pantry's big Cabin.",
+    "Fixed an issue where the wrong terrain type SFX would play when walking on the balcony of the mine tower in the Ormond Lake Mine map.",
+    "Fixed an issue where the wrong terrain type SFX would plat when walking on parts of the ramp inside the mine building in the Ormond Lake Mine map"
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Fixed an issue where survivor bots revealing The Ghost Face and clearing their Weakened status against The Unknown from normally impossible locations."
+   ]
+  },
+  {
+   "group": "Character",
+   "items": [
+    "Fixed an issue where the Knight would be stunned at the Guard's spawn location.",
+    "Fixed an issue where the Knight's power could break when being stunned at the start of a summon.",
+    "Fixed an issue where the Knight could stay in the Patrol Path creation speed due to latency.",
+    "Fixed an issue where Deep Wound would not stop depleting when a Survivor is grabbed by the Houndmaster's Dog.",
+    "Fixed an issue where there was no Cancel interaction prompt when the Trickster was in Main Event.",
+    "Fixed an issue where the Nurse could briefly see Survivors in a locker when blinking through a nearby wall.",
+    "Fixed an issue where the Ghoul's hair and mask would briefly appear off his head when reaching the tally screen.",
+    "Fixed an issue where Survivors could bleed out during a Mori."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue Midwich Elementary School error in the script created slowdowns",
+    "Fixed an issue on Temple of Purgation adding new collision to let zombies reach the arch base",
+    "Fixed an issue on Treatment Theatre by hiding a yellow collision box visible on a chair",
+    "Fixed an issue on Father Campbell's Chapel by removing an Invisible Collision present between 2 assets on Carnival section",
+    "Fixed an issue on Disturbed Ward by reworking collision to avoid zombies that can get stuck on the ramp leading inside the Asylum"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where Teamwork: Collective Stealth would show a second cooldown after exiting the perk's range.",
+    "Fixed an issue where the reduced action speed color and icon were missing on the progress bar when co-oping Invocation: Treacherous Crows."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where the Tally Screen would leave the Bloodpoints Earned page before displaying all bonuses.",
+    "Fixed an issue where toast notifications would disappear when transitioning to the main menu.",
+    "Fixed a visual glitch with equipped add-ons in the loadout menu.",
+    "Added audio feedback when hovering collected nodes in the Bloodweb.",
+    "Added audio feedback when hovering items in the offering sequence.",
+    "Added audio feedback when hovering items in the Tally Screen Match Consequences page."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue where the What Lurks Beneath achievement/trophy would gain progress when the damage source was caused by a Survivor perk.",
+    "Fixed an issue where the Demogorgon could perform actions while inside portals after pressing F11 throughout the Traverse charge."
+   ]
+  }
+ ]
+}

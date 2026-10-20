@@ -1,0 +1,1292 @@
+{
+ "id": "ptb-8.0.0",
+ "version": "8.0.0",
+ "kind": "ptb",
+ "title": "8.0.0 | PTB",
+ "date": "2024-05-14",
+ "url": "https://store.steampowered.com/news/app/381210/view/4194617370628073872?l=english",
+ "changes": [
+  {
+   "entity": "Mirrored Illusion",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "New Survivor Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "This perk activates after completing a total of 50% worth of repair progress on generators. Press the ability button 2 when next to a totem, chest, generator or exit gate to spawn a static illusion that lasts for 100/110/120 seconds. Then, the perk deactivates",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "This perk activates after completing a total of 50% worth of repair progress on generators. Press the ability button 2 when next to a totem, chest, generator or exit gate to spawn a static illusion that lasts for 100/110/120 seconds. Then, the perk deactivates"
+   ]
+  },
+  {
+   "entity": "Bardic Inspiration",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "New Survivor Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Press the ability button 1 while standing and motionless to enter the \"performance\" interaction that lasts up to 15 seconds and empowers Survivors within 16 meters. Roll a d20. This effect lasts for 60 seconds if the performance is completed. When the ability is cancelled or the performance completes, it goes on cooldown for 90/75/60 seconds. 1 | You scream, but nothing happens 2-10 | skill checks give +1% progress 11-19 | skill checks give +2% progress 20 | skill checks give +3% progress",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Press the ability button 1 while standing and motionless to enter the \"performance\" interaction that lasts up to 15 seconds and empowers Survivors within 16 meters. Roll a d20. This effect lasts for 60 seconds if the performance is completed. When the ability is cancelled or the performance completes, it goes on cooldown for 90/75/60 seconds. 1 | You scream, but nothing happens 2-10 | skill checks give +1% progress 11-19 | skill checks give +2% progress 20 | skill checks give +3% progress"
+   ]
+  },
+  {
+   "entity": "Still Sight",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "New Survivor Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After standing still for 6/5/4 seconds, this perk activates. Until you start moving, you see the aura of the Killer as well as all generators and chests within 18 meters",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After standing still for 6/5/4 seconds, this perk activates. Until you start moving, you see the aura of the Killer as well as all generators and chests within 18 meters"
+   ]
+  },
+  {
+   "entity": "New Killer - The Lich",
+   "cat": "killer",
+   "section": "New Killer - The Lich",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Killer Power Bound with the skin and flesh of men, the Book is packed with spells both forbidden and wicked. To select a Spell, hold the Ability Button to open the Spell selection. The Lich has access to 4 different Spells:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Killer Power Bound with the skin and flesh of men, the Book is packed with spells both forbidden and wicked. To select a Spell, hold the Ability Button to open the Spell selection. The Lich has access to 4 different Spells:"
+   ]
+  },
+  {
+   "entity": "Mage Hand",
+   "cat": "killer",
+   "section": "New Killer - The Lich",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Creates a magical hand that lifts a downed pallet or blocks an upright pallet for 4 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Creates a magical hand that lifts a downed pallet or blocks an upright pallet for 4 seconds"
+   ]
+  },
+  {
+   "entity": "Flight of the Damned",
+   "cat": "killer",
+   "section": "New Killer - The Lich",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Conjures 5 flying spectral entities that can pass through obstacles and injure Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Conjures 5 flying spectral entities that can pass through obstacles and injure Survivors"
+   ]
+  },
+  {
+   "entity": "Dispelling Sphere",
+   "cat": "killer",
+   "section": "New Killer - The Lich",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Casts a moving invisible sphere that reveals Survivors and temporarily disables their Magic Items",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Casts a moving invisible sphere that reveals Survivors and temporarily disables their Magic Items"
+   ]
+  },
+  {
+   "entity": "Fly",
+   "cat": "killer",
+   "section": "New Killer - The Lich",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Gain a flying speed for a short period of time, allowing you to travel a long distance quickly and move over vaults and pallets",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "SPECIAL ITEM: MAGIC ITEMS Treasure Chests found around the map can contain Magic Items. Each Survivor can equip up to two Magic Items at once: one pair of Boots and one pair of Gauntlets. These Magic Items are each connected to a specific Spell, and activate when The Lich casts that spell",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Gain a flying speed for a short period of time, allowing you to travel a long distance quickly and move over vaults and pallets",
+    "SPECIAL ITEM: MAGIC ITEMS Treasure Chests found around the map can contain Magic Items. Each Survivor can equip up to two Magic Items at once: one pair of Boots and one pair of Gauntlets. These Magic Items are each connected to a specific Spell, and activate when The Lich casts that spell"
+   ]
+  },
+  {
+   "entity": "Boots/Gauntlets of the Interloper",
+   "cat": "killer",
+   "section": "New Killer - The Lich",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The Survivor sees the aura of pallets affected by Mage Hand and gains Haste for 3 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The Survivor sees the aura of pallets affected by Mage Hand and gains Haste for 3 seconds"
+   ]
+  },
+  {
+   "entity": "Boots/Gauntlets of the Nightwatch",
+   "cat": "killer",
+   "section": "New Killer - The Lich",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The Survivor can see the auras of the spectral entities conjured by Flight of the Damned",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The Survivor can see the auras of the spectral entities conjured by Flight of the Damned"
+   ]
+  },
+  {
+   "entity": "Boots/Gauntlets of the Archivist",
+   "cat": "killer",
+   "section": "New Killer - The Lich",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The Survivor can see the Dispelling Sphere",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The Survivor can see the Dispelling Sphere"
+   ]
+  },
+  {
+   "entity": "Boots/Gauntlets of the Skyguard",
+   "cat": "killer",
+   "section": "New Killer - The Lich",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The Survivor can see The Lich's aura during Fly and for a few seconds after",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "SPECIAL ITEMS: HAND & EYE OF VECNA Rarely, Survivors can instead find the Hand or Eye of Vecna in a Treasure Chest. When picked up and used, Survivors gain a special ability while at full health. Using one of these special abilities costs the Survivor a health state and reveals their location with Killer Instinct for 3 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The Survivor can see The Lich's aura during Fly and for a few seconds after",
+    "SPECIAL ITEMS: HAND & EYE OF VECNA Rarely, Survivors can instead find the Hand or Eye of Vecna in a Treasure Chest. When picked up and used, Survivors gain a special ability while at full health. Using one of these special abilities costs the Survivor a health state and reveals their location with Killer Instinct for 3 seconds"
+   ]
+  },
+  {
+   "entity": "Hand of Vecna",
+   "cat": "killer",
+   "section": "New Killer - The Lich",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When doing a Fast Locker Entry, the Survivor is teleported to a further locker",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When doing a Fast Locker Entry, the Survivor is teleported to a further locker"
+   ]
+  },
+  {
+   "entity": "Eye of Vecna",
+   "cat": "killer",
+   "section": "New Killer - The Lich",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When doing a Fast Locker Exit, the Survivor cannot be seen by The Lich and gains Haste for 12 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When doing a Fast Locker Exit, the Survivor cannot be seen by The Lich and gains Haste for 12 seconds"
+   ]
+  },
+  {
+   "entity": "Weave Attunement",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When any item becomes depleted for the first time each match, it is dropped. You see the auras of dropped items. Survivors within 8 meters of dropped items have their auras revealed to you. When a Survivor picks up a Survivor item, they suffer the Oblivious status effect for 20/25/30 seconds. Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When any item becomes depleted for the first time each match, it is dropped. You see the auras of dropped items. Survivors within 8 meters of dropped items have their auras revealed to you. When a Survivor picks up a Survivor item, they suffer the Oblivious status effect for 20/25/30 seconds. Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius"
+   ]
+  },
+  {
+   "entity": "Languid Touch",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When a Survivor within 36 meters of you scares a crow, they gain the Exhausted status effect for 6/8/10 seconds. This perk has a 20-second cooldown. Exhausted prevents Survivors from activating exhausting perks",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When a Survivor within 36 meters of you scares a crow, they gain the Exhausted status effect for 6/8/10 seconds. This perk has a 20-second cooldown. Exhausted prevents Survivors from activating exhausting perks"
+   ]
+  },
+  {
+   "entity": "Dark Arrogance",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Increases the duration you are blinded and the duration of pallet stuns by 25%. Increases regular vault speed by 16/18/20%",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Increases the duration you are blinded and the duration of pallet stuns by 25%. Increases regular vault speed by 16/18/20%"
+   ]
+  },
+  {
+   "entity": "Deadlock",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased the block duration to 15/20/25 seconds",
+     "after": null,
+     "before": "20/25/30 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased the block duration to 15/20/25 seconds. (was 20/25/30 seconds)"
+   ]
+  },
+  {
+   "entity": "Grim Embrace",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased the block duration before reaching 4 tokens to 6/8/10 seconds",
+     "after": null,
+     "before": "8/10/12 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased the block duration before reaching 4 tokens to 6/8/10 seconds. (was 8/10/12 seconds)"
+   ]
+  },
+  {
+   "entity": "Pop Goes the Weasel",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased the amount of progress lost to 20%",
+     "after": null,
+     "before": "30%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased the amount of progress lost to 20%. (was 30%)"
+   ]
+  },
+  {
+   "entity": "Scourge Hook: Pain Resonance",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased the amount of progress lost to 10/15/20%",
+     "after": null,
+     "before": "15/20/25%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased the amount of progress lost to 10/15/20%. (was 15/20/25%)"
+   ]
+  },
+  {
+   "entity": "Background Player",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased the movement speed bonus to 150%",
+     "after": null,
+     "before": "200%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased the Exhaustion duration to 30/25/20 seconds",
+     "after": null,
+     "before": "60/50/40 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the movement speed bonus to 150%. (was 200%)",
+    "Decreased the Exhaustion duration to 30/25/20 seconds. (was 60/50/40 seconds)"
+   ]
+  },
+  {
+   "entity": "Buckle Up",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Both you and the healed Survivor gain Endurance for 6/8/10 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "removed": true,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Both you and the healed Survivor gain Endurance for 6/8/10 seconds. (Removed)",
+    "The healed Survivor breaks into a sprint at 150% of their normal Running Movement speed for 3/4/5 seconds and leaves no scratch marks during this time. (New functionality)"
+   ]
+  },
+  {
+   "entity": "Invocation: Weaving Spiders",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased the time it takes to complete the Invocation to 60 seconds",
+     "after": null,
+     "before": "120 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the time it takes for an Invocation to completely regress to 90 seconds",
+     "after": null,
+     "before": "6 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased the time it takes to complete the Invocation to 60 seconds. (was 120 seconds)",
+    "Increased the time it takes for an Invocation to completely regress to 90 seconds. (was 6 seconds)"
+   ]
+  },
+  {
+   "entity": "Decisive Strike",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased the stun duration to 4 seconds",
+     "after": null,
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased the stun duration to 4 seconds. (was 5 seconds)"
+   ]
+  },
+  {
+   "entity": "Compound Thirty-Three",
+   "cat": "killer",
+   "section": "The Blight - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increases Rush turn rate by 11%",
+     "after": null,
+     "before": "33%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increases Rush duration by 11%",
+     "after": null,
+     "before": "33%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increases Rush turn rate by 11%. (was 33%)",
+    "Increases Rush duration by 11%. (was 33%)"
+   ]
+  },
+  {
+   "entity": "Iridescent Blight Tag",
+   "cat": "killer",
+   "section": "The Blight - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increases Rush speed by 10%",
+     "after": null,
+     "before": "20%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increases Rush speed by 10%. (was 20%)"
+   ]
+  },
+  {
+   "entity": "The Cannibal - Basekit",
+   "cat": "killer",
+   "section": "The Cannibal - Basekit",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased the obstruction collision size while using the Chainsaw to 10 cm",
+     "after": null,
+     "before": "17.5 cm",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased the base Tantrum duration to 3 seconds",
+     "after": null,
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased the base Chainsaw Sweep duration to 2.5 seconds",
+     "after": null,
+     "before": "2 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the base Chainsaw Sweep movement speed to 5.35 m/s",
+     "after": null,
+     "before": "5.29 m/s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the obstruction collision size while using the Chainsaw to 10 cm. (was 17.5 cm)",
+    "Decreased the base Tantrum duration to 3 seconds. (was 5 seconds)",
+    "Increased the base Chainsaw Sweep duration to 2.5 seconds. (was 2 seconds)",
+    "Increased the base Chainsaw Sweep movement speed to 5.35 m/s. (was 5.29 m/s)"
+   ],
+   "character": "The Cannibal"
+  },
+  {
+   "entity": "Award-Winning Chili",
+   "cat": "killer",
+   "section": "The Cannibal - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increases maximum Chainsaw Sweep duration by 0.2 seconds per charge spent",
+     "after": null,
+     "before": "0.5 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreases tantrum duration by 0.25 seconds",
+     "after": null,
+     "before": "0.5 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increases maximum Chainsaw Sweep duration by 0.2 seconds per charge spent. (was 0.5 seconds)",
+    "Chainsaw File",
+    "Decreases tantrum duration by 0.25 seconds. (was 0.5 seconds)"
+   ]
+  },
+  {
+   "entity": "Chili",
+   "cat": "killer",
+   "section": "The Cannibal - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increases maximum Chainsaw Sweep duration by 0.15 seconds per charge spent",
+     "after": null,
+     "before": "0.25 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increases maximum Chainsaw Sweep duration by 0.15 seconds per charge spent. (was 0.25 seconds)"
+   ]
+  },
+  {
+   "entity": "Homemade Muffler",
+   "cat": "killer",
+   "section": "The Cannibal - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreases tantrum duration by 0.5 seconds",
+     "after": null,
+     "before": "1 second",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreases tantrum duration by 0.5 seconds. (was 1 second)"
+   ]
+  },
+  {
+   "entity": "Knife Scratches",
+   "cat": "killer",
+   "section": "The Cannibal - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increases Chainsaw Sweep movement speed by 1.5%",
+     "after": null,
+     "before": "2%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increases time required to charge the Chainsaw by 10%",
+     "after": null,
+     "before": "12%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increases Chainsaw Sweep movement speed by 1.5%. (was 2%)",
+    "Increases time required to charge the Chainsaw by 10%. (was 12%)"
+   ]
+  },
+  {
+   "entity": "The Beast's Marks",
+   "cat": "killer",
+   "section": "The Cannibal - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increases Chainsaw Sweep movement speed by 2%",
+     "after": null,
+     "before": "3%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increases time required to charge the Chainsaw by 12%",
+     "after": null,
+     "before": "14%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increases Chainsaw Sweep movement speed by 2%. (was 3%)",
+    "Increases time required to charge the Chainsaw by 12%. (was 14%)"
+   ]
+  },
+  {
+   "entity": "The Deathslinger - Basekit",
+   "cat": "killer",
+   "section": "The Deathslinger - Basekit",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased the stun duration when a Survivor breaks free to 2.7 seconds",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased the reel speed to 2.76 m/s",
+     "after": null,
+     "before": "2.6 m/s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased movement speed while reloading to 3.08 m/s",
+     "after": null,
+     "before": "2.64 m/s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the stun duration when a Survivor breaks free to 2.7 seconds. (was 3 seconds)",
+    "Increased the reel speed to 2.76 m/s. (was 2.6 m/s)",
+    "Increased movement speed while reloading to 3.08 m/s. (was 2.64 m/s)"
+   ],
+   "character": "The Deathslinger"
+  },
+  {
+   "entity": "Bayshore's Cigar",
+   "cat": "killer",
+   "section": "The Deathslinger - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreases the stun duration when Survivors break free by 0.75 seconds",
+     "after": null,
+     "before": "1 second",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreases the stun duration when Survivors break free by 0.75 seconds. (was 1 second)"
+   ]
+  },
+  {
+   "entity": "Bayshore's Gold Tooth",
+   "cat": "killer",
+   "section": "The Deathslinger - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increases the Speargun's reeling speed by 5%",
+     "after": null,
+     "before": "9%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increases the Speargun's reeling speed by 5%. (was 9%)"
+   ]
+  },
+  {
+   "entity": "Chewing Tobacco",
+   "cat": "killer",
+   "section": "The Deathslinger - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreases the stun duration when Survivors break free by 0.25 seconds",
+     "after": null,
+     "before": "0.5 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreases the stun duration when Survivors break free by 0.25 seconds. (was 0.5 seconds)"
+   ]
+  },
+  {
+   "entity": "Snake Oil",
+   "cat": "killer",
+   "section": "The Deathslinger - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increases the Speargun's reeling speed by 2.5%",
+     "after": null,
+     "before": "5%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increases the Speargun's reeling speed by 2.5%. (was 5%)"
+   ]
+  },
+  {
+   "entity": "The Mastermind - Basekit",
+   "cat": "killer",
+   "section": "The Mastermind - Basekit",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased the Hindered penalty when reaching maximum infection to 4%",
+     "after": null,
+     "before": "8%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "The Uroboros infection now resets to 1% upon being hooked",
+     "after": null,
+     "before": "50%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased the Hindered penalty when reaching maximum infection to 4%. (was 8%)",
+    "The Uroboros infection now resets to 1% upon being hooked. (was 50%)"
+   ],
+   "character": "The Mastermind"
+  },
+  {
+   "entity": "The Good Guy - Basekit",
+   "cat": "killer",
+   "section": "The Good Guy - Basekit",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Hidey-Ho Mode cooldown reduced to 12 seconds",
+     "after": null,
+     "before": "18 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Scamper time reduced to 1.3 seconds",
+     "after": null,
+     "before": "1.4 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Scamper is now only available while performing a Slice & Dice",
+    "Hidey-Ho Mode cooldown reduced to 12 seconds. (was 18 seconds)",
+    "Scamper time reduced to 1.3 seconds. (was 1.4 seconds)",
+    "Added a 1 second cooldown after cancelling a Slice & Dice charge up"
+   ],
+   "character": "The Good Guy"
+  },
+  {
+   "entity": "Strobing Light",
+   "cat": "killer",
+   "section": "The Good Guy - Addons",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreases Terror Radius by 8m when Hidey-Ho Mode is in cooldown",
+     "after": null,
+     "before": "4m",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreases Terror Radius by 8m when Hidey-Ho Mode is in cooldown. (was 4m)"
+   ]
+  },
+  {
+   "entity": "Pile of Nails",
+   "cat": "killer",
+   "section": "The Good Guy - Addons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Upon manually exiting Hidey-Ho Mode, Chucky remain Undetectable for 3 seconds",
+     "after": null,
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Upon manually exiting Hidey-Ho Mode, Chucky remain Undetectable for 3 seconds. (was 5 seconds)"
+   ]
+  },
+  {
+   "entity": "Yardstick",
+   "cat": "killer",
+   "section": "The Good Guy - Addons",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Performing a Scamper reveals Survivor auras within 16 m distance for 3 seconds",
+     "after": null,
+     "before": "12m / 5 seconds",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Performing a Scamper reveals Survivor auras within 16 m distance for 3 seconds. (was 12m / 5 seconds)"
+   ]
+  },
+  {
+   "entity": "Hard Hat",
+   "cat": "killer",
+   "section": "The Good Guy - Addons",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Removed \"and exits Hidey-Ho Mode.\" from description",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Removed \"and exits Hidey-Ho Mode.\" from description"
+   ]
+  },
+  {
+   "entity": "Toolbox",
+   "cat": "system",
+   "section": "Toolbox Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increases sabotage speed by 15%",
+     "after": null,
+     "before": "10%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increases sabotage speed by 15%. (was 10%)"
+   ]
+  },
+  {
+   "entity": "Mechanic's Toolbox",
+   "cat": "system",
+   "section": "Toolbox Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increases sabotage speed by 25%",
+     "after": null,
+     "before": "10%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increases sabotage speed by 25%. (was 10%)"
+   ]
+  },
+  {
+   "entity": "Commodious Toolbox",
+   "cat": "system",
+   "section": "Toolbox Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases sabotage speed by 50%. (New functionality)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases sabotage speed by 50%. (New functionality)"
+   ]
+  },
+  {
+   "entity": "Engineer's Toolbox",
+   "cat": "system",
+   "section": "Toolbox Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Increases sabotage speed by 10%",
+     "after": null,
+     "before": "Decreases by 25%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increases sabotage speed by 10%. (was Decreases by 25%)"
+   ]
+  },
+  {
+   "entity": "Alex's Toolbox",
+   "cat": "system",
+   "section": "Toolbox Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "18 charges",
+     "after": null,
+     "before": "24 charges",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increases sabotage speed by 100%",
+     "after": null,
+     "before": "50%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "18 charges. (was 24 charges)",
+    "Increases sabotage speed by 100%. (was 50%)"
+   ]
+  },
+  {
+   "entity": "Festive Toolbox",
+   "cat": "system",
+   "section": "Toolbox Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases sabotage speed by 50%. (New functionality)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases sabotage speed by 50%. (New functionality)"
+   ]
+  },
+  {
+   "entity": "Anniversary Toolbox",
+   "cat": "system",
+   "section": "Toolbox Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases sabotage speed by 50%. (New functionality)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases sabotage speed by 50%. (New functionality)"
+   ]
+  },
+  {
+   "entity": "Masquerade Toolbox",
+   "cat": "system",
+   "section": "Toolbox Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases sabotage speed by 50%. (New functionality)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases sabotage speed by 50%. (New functionality)"
+   ]
+  },
+  {
+   "entity": "Cutting Wire",
+   "cat": "system",
+   "section": "Toolbox Addons",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increases the Toolbox's sabotage speed by 20%",
+     "after": null,
+     "before": "15%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increases the Toolbox's sabotage speed by 20%. (was 15%)"
+   ]
+  },
+  {
+   "entity": "Grip Wrench",
+   "cat": "system",
+   "section": "Toolbox Addons",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Hooks sabotaged using the Toolbox take an extra 20 seconds to respawn",
+     "after": null,
+     "before": "15 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Hooks sabotaged using the Toolbox take an extra 20 seconds to respawn. (was 15 seconds)"
+   ]
+  },
+  {
+   "entity": "Hacksaw",
+   "cat": "system",
+   "section": "Toolbox Addons",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increases the Toolbox's sabotage speed by 30%",
+     "after": null,
+     "before": "20%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increases the Toolbox's sabotage speed by 30%. (was 20%)"
+   ]
+  },
+  {
+   "entity": "New Map - Forgotten Ruins",
+   "cat": "system",
+   "section": "New Map - Forgotten Ruins",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "A new Map comes to the world of Dead by Daylight, found in The Decimated Borgo Realm. A tower standing tall alone, but what is above ground hides a new world underground. A prison area where Vittorio Toscano was thrown in for some time. On the other side of the dungeon, the Alchemist room is found, where a scholar can learn secrets of the world, or the dimensions that surround the universe of the Entity",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "A new Map comes to the world of Dead by Daylight, found in The Decimated Borgo Realm. A tower standing tall alone, but what is above ground hides a new world underground. A prison area where Vittorio Toscano was thrown in for some time. On the other side of the dungeon, the Alchemist room is found, where a scholar can learn secrets of the world, or the dimensions that surround the universe of the Entity"
+   ]
+  },
+  {
+   "entity": "Decimated Borgo Realm Update",
+   "cat": "system",
+   "section": "Decimated Borgo Realm Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The red lighting was a big issue in the realm of The Decimated Borgo. The art and lighting team took care to make the realm more accessible to all players and bring a different ambiance to the maps",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The red lighting was a big issue in the realm of The Decimated Borgo. The art and lighting team took care to make the realm more accessible to all players and bring a different ambiance to the maps"
+   ]
+  },
+  {
+   "entity": "UX",
+   "cat": "system",
+   "section": "UX",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Started adding search tags for Charms Only \"Perks\" and \"Birds\" for the moment",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "New Item Preview Window Regular and Special Items will now display a short description of their effect inside a Trial by using a new item previewer window",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Started adding search tags for Charms Only \"Perks\" and \"Birds\" for the moment",
+    "New Item Preview Window Regular and Special Items will now display a short description of their effect inside a Trial by using a new item previewer window"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Archives",
+   "items": [
+    "Archive challenges requiring killers to complete a Trial with no more than X Survivors living should now correctly update throughout the match as Survivors die off."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue that caused some of The Good Guy's voice lines to be cut in the Mori Preview.",
+    "Fixed an issue that caused the Nightmare's Jump Rope add-on to fail increasing Survivors grunts volume."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "The names of the Bots that appear following a player disconnection have been corrected."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused The Cannibal's Tantrum animation to sometimes not play after overcharging the chainsaw or hitting a collision.",
+    "Fixed an issue that caused male Survivors to be dropped closer to Killer than female Survivors when escaping the Killer's grasp by any means.",
+    "Fixed an issue that caused The Twin's Baby Teeth add-on not to inflict the Blindness status effect when attached to a Survivor.",
+    "Fixed an issue that caused Victor's respawn animation to play on Charlotte before his cooldown finishes.",
+    "Fixed an issue that caused Victor not to trigger the anti-camp meter when he was close to the hook.",
+    "Fixed an issue that caused The Blight camera to pan down after breaking a pallet during Lethal Rush.",
+    "Fixed an issue that caused Charles Lee Ray to be invisible during certain interactions.",
+    "Fixed an issue that caused the Cenobite's camera to reset when turning while using his power.",
+    "Fixed an issue that caused Survivors camera to snap back to the default position when exiting a locker.",
+    "Fixed an issue that caused the Plague to lose Corrupt Purge when being stunned by any means."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue that caused the Nightmare to be able to hide Dream Snares under the floor at the top of Killer Basement staircase in the main building of the Ironworks of Misery map.",
+    "Fixed an issue that caused the Nightmare to be able to hide Dream Snares under the floor at the top of the staircases in the Midwich Elementary map.",
+    "Fixed an issue in the Underground Complex where two generators could spawn in the same room.",
+    "Fixed an issue in the Underground Complex where a chest would spawn in rooms and clip with different elements of the environment.",
+    "Fixed an issue in Lery's Hospital where an invisible collision was letting players walk over the stairs going down the basement in the Doctor's Office.",
+    "Fixed multiple issues related to the Nurse blinking out of the Raccoon City Police Station map.",
+    "Fixed an issue in the Eyrie of Crows map where a collision near the hill would prevent players from navigating.",
+    "Fixed an issue in the Raccoon City Police Station map where Victor could climb on blockers.",
+    "Fixed an issue in the Autohaven Wrecker's Realm where an obstacle blocked navigation for the Killer."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue that caused Victor to be unable to receive noise notifications from the Call of Brine perk.",
+    "Fixed an issue that caused the Premonition perk to activate while being carried by the Killer.",
+    "Fixed an issue that caused the Bamboozle perk to trigger when Killers used their power to vault through a window.",
+    "Fixed an issue that caused the Bite the Bullet perk not to activate.",
+    "Fixed an issue that caused the Deliverance perk to sometimes not activate.",
+    "Fixed an issue that caused the Ultimate Weapon perk to sometimes not to activate the screaming animation from Survivor POV."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Changing presets in the Loadout Menu will no longer rotate the character due to different charm layouts."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Kill-switched items should no longer appear in Bloodwebs.",
+    "Fixed a crash that could occur while in a Trial when gaining Bloodpoints.",
+    "Fixed a crash that could occur while loading between the Play as Survivor lobby and the pre-Trial lobby.",
+    "Fixed a crash that could occur when a Survivor screams.",
+    "Spamming the unhook button no longer causes the hooked Survivor's camera to swing around repeatedly.",
+    "Fixed an issue that caused the Hatch Unlock progress to reset when cancelling the interaction.",
+    "Fixed an issue that caused Survivors to be unable to unhook a teammate if that hooked Survivor had previously unhooked themselves just before reaching the struggle stage."
+   ]
+  }
+ ]
+}

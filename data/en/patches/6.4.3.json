@@ -1,0 +1,43 @@
+{
+ "id": "6.4.3",
+ "version": "6.4.3",
+ "kind": "release",
+ "title": "6.4.3 | Bugfix Patch",
+ "date": "2022-12-15",
+ "url": "https://store.steampowered.com/news/app/381210/view/3650761419025315441?l=english",
+ "changes": [],
+ "fixes": [
+  {
+   "group": "THE KNIGHT",
+   "items": [
+    "The Knight no longer encounters issues entering a chase while a Guard is active."
+   ]
+  },
+  {
+   "group": "BONE CHILL",
+   "items": [
+    "Killers no longer occasionally turn invisible upon leaving a Snowman.",
+    "Killers entering a snowman should no longer get stuck in collision terrain."
+   ]
+  },
+  {
+   "group": "SURVIVOR PERKS",
+   "items": [
+    "The Killer’s Aura no longer fails to display while using Kindred.",
+    "Inner Healing now operates as intended, where cleansing a Totem and entering a Locker for a duration heals 1 Health State."
+   ]
+  },
+  {
+   "group": "MAPS",
+   "items": [
+    "The Game is no longer haunted by an invisible collision zone."
+   ]
+  },
+  {
+   "group": "MISC",
+   "items": [
+    "Undetectable Killers no longer experience unintended Aura reveals."
+   ]
+  }
+ ]
+}

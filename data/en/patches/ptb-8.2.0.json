@@ -1,0 +1,602 @@
+{
+ "id": "ptb-8.2.0",
+ "version": "8.2.0",
+ "kind": "ptb",
+ "title": "8.2.0 | PTB Patch Notes",
+ "date": "2024-08-06",
+ "url": "https://store.steampowered.com/news/app/381210/view/4327481163709566666?l=english",
+ "changes": [
+  {
+   "entity": "New Perk: Eyes of Belmont",
+   "cat": "survivor",
+   "section": "New Survivor - Trevor Belmont",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When a generator is completed, the aura of the Killer is revealed to you for 1/2/3 seconds. Any time the Killer's aura is shown for a period of time, its duration is increased by 2 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When a generator is completed, the aura of the Killer is revealed to you for 1/2/3 seconds. Any time the Killer's aura is shown for a period of time, its duration is increased by 2 seconds"
+   ]
+  },
+  {
+   "entity": "New Perk: Exultation",
+   "cat": "survivor",
+   "section": "New Survivor - Trevor Belmont",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Stunning the Killer with a pallet upgrades your held item rarity to the next tier, then recharges 25% of the item's maximum charges. Rarity is not kept at the end of the trial. This perk has a 40/35/30-second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Stunning the Killer with a pallet upgrades your held item rarity to the next tier, then recharges 25% of the item's maximum charges. Rarity is not kept at the end of the trial. This perk has a 40/35/30-second cooldown"
+   ]
+  },
+  {
+   "entity": "New Perk: Moment of Glory",
+   "cat": "survivor",
+   "section": "New Survivor - Trevor Belmont",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "This perk activates after you open or rummage through 2 chests. When you become injured, you become broken. Automatically heal 1 health state after 80/70/60 seconds. Then, this perk deactivates. This effect is cancelled if you enter the dying state. This perk will not activate if you are already suffering from the Broken status effect",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "This perk activates after you open or rummage through 2 chests. When you become injured, you become broken. Automatically heal 1 health state after 80/70/60 seconds. Then, this perk deactivates. This effect is cancelled if you enter the dying state. This perk will not activate if you are already suffering from the Broken status effect"
+   ]
+  },
+  {
+   "entity": "New Killer - The Dark Lord",
+   "cat": "killer",
+   "section": "New Killer - The Dark Lord",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Killer Power His dark power allows him to exact revenge on humans, taking many forms to terrorize and slaughter them. The Dark Lord has access to three Forms and can freely change between them. Each Form has unique abilities and strengths",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Vampire Form - In his default state, The Dark Lord can use the powerful Hellfire spell, which creates pillars of flame that travel ahead of him and can be cast across low obstacles",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Wolf Form - In Wolf Form, The Dark Lord has access to several abilities that allow for more effective tracking. Movement speed is increased, blood pools and scratch marks are more apparent, and Survivors leave a trail of Scent Orbs behind them. The Dark Lord can collect these Scent Orbs to charge a powerful Pounce attack",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Bat Form - While in Bat Form, The Dark Lord gains the Undetectable status effect. Additionally, he moves faster, ignores vault points, and can Teleport to any vault points within 32 meters. Survivors become invisible, but scratch marks can be seen",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Killer Power His dark power allows him to exact revenge on humans, taking many forms to terrorize and slaughter them. The Dark Lord has access to three Forms and can freely change between them. Each Form has unique abilities and strengths",
+    "Vampire Form - In his default state, The Dark Lord can use the powerful Hellfire spell, which creates pillars of flame that travel ahead of him and can be cast across low obstacles",
+    "Wolf Form - In Wolf Form, The Dark Lord has access to several abilities that allow for more effective tracking. Movement speed is increased, blood pools and scratch marks are more apparent, and Survivors leave a trail of Scent Orbs behind them. The Dark Lord can collect these Scent Orbs to charge a powerful Pounce attack",
+    "Bat Form - While in Bat Form, The Dark Lord gains the Undetectable status effect. Additionally, he moves faster, ignores vault points, and can Teleport to any vault points within 32 meters. Survivors become invisible, but scratch marks can be seen"
+   ]
+  },
+  {
+   "entity": "Perks New Perk: Hex: Wretched Fate",
+   "cat": "killer",
+   "section": "New Killer - The Dark Lord",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After one generator has been repaired, a random dull totem becomes a hex totem and curses the Obsession. The Obsession has a 27/30/33% repair speed penalty. They also see this Hex totem's aura when within 12 meters. This effect persists until the Hex totem is cleansed",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After one generator has been repaired, a random dull totem becomes a hex totem and curses the Obsession. The Obsession has a 27/30/33% repair speed penalty. They also see this Hex totem's aura when within 12 meters. This effect persists until the Hex totem is cleansed"
+   ]
+  },
+  {
+   "entity": "New Perk: Human Greed",
+   "cat": "killer",
+   "section": "New Killer - The Dark Lord",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "You see Unopened Chests auras and Survivor auras are revealed for 3 seconds when they enter a 8-meter range. You also gain the ability to kick chests to close them. This ability has a 80/70/60-second cooldown. Survivors unlock these closed chests 50% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "You see Unopened Chests auras and Survivor auras are revealed for 3 seconds when they enter a 8-meter range. You also gain the ability to kick chests to close them. This ability has a 80/70/60-second cooldown. Survivors unlock these closed chests 50% faster"
+   ]
+  },
+  {
+   "entity": "New Perk: Dominance",
+   "cat": "killer",
+   "section": "New Killer - The Dark Lord",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "The first time each totem and each chest is interacted with by a Survivor, that totem or chest is blocked by the Entity for 4/6/8 seconds. The auras of blocked totems and chests are revealed to you in white",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "The first time each totem and each chest is interacted with by a Survivor, that totem or chest is blocked by the Entity for 4/6/8 seconds. The auras of blocked totems and chests are revealed to you in white"
+   ]
+  },
+  {
+   "entity": "The Doctor - Basekit",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Static Blast's cooldown is now dynamic: - If no Survivor was caught in the Static Blast, the cooldown will be 30 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    },
+    {
+     "text": "- If at least 1 Survivor was caught in the Static Blast, the cooldown will be 45 seconds",
+     "after": null,
+     "before": "60 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased movement speed while charging Static Blast to 2.99 m/s",
+     "after": null,
+     "before": "1.16 m/s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Static Blast's cooldown is now dynamic: - If no Survivor was caught in the Static Blast, the cooldown will be 30 seconds. (NEW) - If at least 1 Survivor was caught in the Static Blast, the cooldown will be 45 seconds. (was 60 seconds)",
+    "Increased movement speed while charging Static Blast to 2.99 m/s. (was 1.16 m/s)"
+   ],
+   "character": "The Doctor"
+  },
+  {
+   "entity": "The Doctor - Addons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "\"Order\" - Class II: Decreases Static Blast cooldown by 2.5 seconds",
+     "after": "\"Order\" - Class II:",
+     "before": "4 seconds",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "\"Order\" - Carter's Notes: Decreases Static Blast cooldown by 3 seconds",
+     "after": "\"Order\" - Carter's Notes:",
+     "before": "6 seconds",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "\"Order\" - Class II: Decreases Static Blast cooldown by 2.5 seconds. (was 4 seconds)",
+    "\"Order\" - Carter's Notes: Decreases Static Blast cooldown by 3 seconds. (was 6 seconds)"
+   ],
+   "character": "The Doctor"
+  },
+  {
+   "entity": "The Dredge - Basekit",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased movement speed while charging Reign of Darkness to 3.8 m/s",
+     "after": null,
+     "before": "3.68 m/s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Daytime cooldown to 10 seconds",
+     "after": null,
+     "before": "12 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Daytime teleport speed to 19 m/s",
+     "after": null,
+     "before": "12 m/s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased time to exit locked Lockers to 2.25 seconds",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased night charges per injured Survivor to 1 charge per second",
+     "after": null,
+     "before": "0.75 charges per second",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the volume of The Dredge's audio",
+    "Increased movement speed while charging Reign of Darkness to 3.8 m/s. (was 3.68 m/s)",
+    "Decreased Daytime cooldown to 10 seconds. (was 12 seconds)",
+    "Increased Daytime teleport speed to 19 m/s. (was 12 m/s)",
+    "Decreased time to exit locked Lockers to 2.25 seconds. (was 3 seconds)",
+    "Increased night charges per injured Survivor to 1 charge per second. (was 0.75 charges per second)"
+   ],
+   "character": "The Dredge"
+  },
+  {
+   "entity": "The Dredge - Addons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Boat Key Increases teleport speed during Daytime by 3 m/s",
+     "after": "Boat Key",
+     "before": "5 m/s",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Haddie's Calendar Decreases the time to exit a locked Locker by 0.4 seconds",
+     "after": "Haddie's Calendar",
+     "before": "1 second",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Malthinker's Skull Increases the charges gained per injured Survivor by 25%",
+     "after": "Malthinker's Skull",
+     "before": "66%",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Ottomarian Writing Decreases the cool-down time of The Gloaming by -2 seconds during Daytime",
+     "after": "Ottomarian Writing",
+     "before": "-4 seconds",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Boat Key Increases teleport speed during Daytime by 3 m/s. (was 5 m/s)",
+    "Haddie's Calendar Decreases the time to exit a locked Locker by 0.4 seconds. (was 1 second)",
+    "Malthinker's Skull Increases the charges gained per injured Survivor by 25%. (was 66%)",
+    "Ottomarian Writing Decreases the cool-down time of The Gloaming by -2 seconds during Daytime. (was -4 seconds)"
+   ],
+   "character": "The Dredge"
+  },
+  {
+   "entity": "The Nemesis - Basekit",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decrease the Mutation Rate 2 requirement to 5 Contamination Points",
+     "after": null,
+     "before": "6",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increase Hindered penalty duration from tentacle hits to 2 seconds",
+     "after": null,
+     "before": "0.25 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decrease the Mutation Rate 2 requirement to 5 Contamination Points. (was 6)",
+    "Increase Hindered penalty duration from tentacle hits to 2 seconds. (was 0.25 seconds)"
+   ],
+   "character": "The Nemesis"
+  },
+  {
+   "entity": "The Nemesis - Addons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Licker Tongue Survivors are Hindered for an extra 3 seconds after being Contaminated",
+     "after": "Licker Tongue",
+     "before": "0.2 seconds",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Marvin's Blood Gain an extra 0.5 mutation for infecting a Survivor",
+     "after": "Marvin's Blood",
+     "before": "0.75",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Licker Tongue Survivors are Hindered for an extra 3 seconds after being Contaminated. (was 0.2 seconds)",
+    "Marvin's Blood Gain an extra 0.5 mutation for infecting a Survivor. (was 0.75)"
+   ],
+   "character": "The Nemesis"
+  },
+  {
+   "entity": "Survivor Perk Updates",
+   "cat": "system",
+   "section": "Survivor Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Blast Mine Activates after completing a total of 40% worth of repair progress on generators",
+     "after": "Blast Mine",
+     "before": "50%",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Chemical Trap Activates after completing a total of 20% worth of repair progress on generators",
+     "after": "Chemical Trap",
+     "before": "50%",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Stays active for 40/50/60 seconds",
+     "after": null,
+     "before": "100/110/120 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Dance With Me Decreased cooldown to 30/25/20 seconds",
+     "after": "Dance With Me",
+     "before": "60/50/40 seconds",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Deception Decreased cooldown to 30/25/20 seconds",
+     "after": "Deception",
+     "before": "60/50/40 seconds",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Diversion Activates after being in the Killer's Terror Radius while not in a Chase for 30/25/20 seconds",
+     "after": "Diversion",
+     "before": "40/35/30 seconds",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Flashbang Activates after completing a total of 50/45/40% worth of repair progress on generators",
+     "after": "Flashbang",
+     "before": "70/60/50%",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Mirrored Illusion Activates after completing a total of 20% worth of repair progress on generators",
+     "after": "Mirrored Illusion",
+     "before": "50%",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Wiretap Activates after completing a total of 40% worth of repair progress on generators",
+     "after": "Wiretap",
+     "before": "50%",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Blast Mine Activates after completing a total of 40% worth of repair progress on generators. (was 50%)",
+    "Chemical Trap Activates after completing a total of 20% worth of repair progress on generators. (was 50%) Stays active for 40/50/60 seconds. (was 100/110/120 seconds)",
+    "Dance With Me Decreased cooldown to 30/25/20 seconds. (was 60/50/40 seconds)",
+    "Deception Decreased cooldown to 30/25/20 seconds. (was 60/50/40 seconds)",
+    "Diversion Activates after being in the Killer's Terror Radius while not in a Chase for 30/25/20 seconds. (was 40/35/30 seconds)",
+    "Flashbang Activates after completing a total of 50/45/40% worth of repair progress on generators. (was 70/60/50%)",
+    "Mirrored Illusion Activates after completing a total of 20% worth of repair progress on generators. (was 50%)",
+    "Wiretap Activates after completing a total of 40% worth of repair progress on generators. (was 50%)"
+   ]
+  },
+  {
+   "entity": "General Gameplay Updates",
+   "cat": "system",
+   "section": "General Gameplay Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increase hook stage drain timer to 70 seconds",
+     "after": null,
+     "before": "60 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increase hook stage drain timer to 70 seconds. (was 60 seconds)"
+   ]
+  },
+  {
+   "entity": "Map Updates",
+   "cat": "system",
+   "section": "Map Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Castle Vista Dracula's castle will spawn in the sky of Dead by Daylight original Maps when playing against Dracula. Midwich Gameplay Pass On Midwich Elementary School, a pass has been done on the gameplay. Mainly the safety of the loops has been revisited. The breakable walls have been removed in the bathroom section for both roles to use an extra set of stairs to navigate between floors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Castle Vista Dracula's castle will spawn in the sky of Dead by Daylight original Maps when playing against Dracula. Midwich Gameplay Pass On Midwich Elementary School, a pass has been done on the gameplay. Mainly the safety of the loops has been revisited. The breakable walls have been removed in the bathroom section for both roles to use an extra set of stairs to navigate between floors"
+   ]
+  },
+  {
+   "entity": "Graphics Option",
+   "cat": "system",
+   "section": "Features",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added the support for Intel XeSS for PC",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Live Data Reboot As part of our Live operations, we occasionally deploy updates to the game without needing an update of the game application itself. These updates includes killswitches and new cosmetics, amongst other data. Starting from this release, when a critical data update is required to be downloaded by the game, you may see a popup asking you to return to the splash screen. UX",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Lobby controller compatible navigation - Players can now toggle Rotation mode to use the R-stick to rotate the character preview, as in the Store, so they don't need to press A on top and use the joystick. - Cosmetic subtab defaults to Outfits instead of Heads",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Settings Menu - Disabled options are shown are greyed out, instead of having a black/transparent background",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added the support for Intel XeSS for PC",
+    "Live Data Reboot As part of our Live operations, we occasionally deploy updates to the game without needing an update of the game application itself. These updates includes killswitches and new cosmetics, amongst other data. Starting from this release, when a critical data update is required to be downloaded by the game, you may see a popup asking you to return to the splash screen. UX",
+    "Lobby controller compatible navigation - Players can now toggle Rotation mode to use the R-stick to rotate the character preview, as in the Store, so they don't need to press A on top and use the joystick. - Cosmetic subtab defaults to Outfits instead of Heads",
+    "Settings Menu - Disabled options are shown are greyed out, instead of having a black/transparent background"
+   ]
+  },
+  {
+   "entity": "Misc",
+   "cat": "system",
+   "section": "Features",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Prestige levels of other players is no longer visible within an Online Lobby (post-matchmaking)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Upgraded EasyAntiCheat to new version",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "There is now a limit of 10000 of any Item, Add-on or Offering",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Prestige levels of other players is no longer visible within an Online Lobby (post-matchmaking)",
+    "Upgraded EasyAntiCheat to new version",
+    "There is now a limit of 10000 of any Item, Add-on or Offering"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue that caused the Long Grass to make no sound on collision.",
+    "Fixed an issue where Season Grade Reset Rewards sounds triggered multiple times with no visual."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused the Trapper to sometimes not pickup bear traps despite the animation playing while wearing the Naughty Bear outfit.",
+    "Fixed an issue that caused placing a trap as multiple characters (Trapper, Hag, Nightmare) close to walls or other objects to sometimes be cancelled even though the placement indicator shows a valid location.",
+    "The Survivor grab animation is now correctly aligned when the Dredge teleports to a locker at the same time as the Survivor enters it.",
+    "The Demogorgon can no longer perform actions while travelling through a Tunnel and opening and closing the Match Details screen.",
+    "Jittering should be reduced when spectating Killers. Some issues still remain on the Killer’s weapons and are being looked at."
+   ]
+  },
+  {
+   "group": "Maps",
+   "items": [
+    "Collision update pass on the map of Garden Of Joy",
+    "Collision update pass on the realms of MacMillans Estates",
+    "Fixed an issue in Greenville Park where the Parking tile doesn't spawn",
+    "Fixed an issue in Toba Landing where invisible collisions hindered the navigation of the players",
+    "Fixed an issue in Greenville Square where Victor would dissolve when jumping in the stairs"
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "If a player disconnects from a Trial due to network issues, they will no longer see the Killers' Loadouts or name.",
+    "Fixed Player HUD text, font readability and health bar elements to their previous size.",
+    "Fixed Tally buttons navigation misalignment.",
+    "Fixed missing hair on The Good Guy default and prestige head cosmetics.",
+    "Fixed an issue with the reward size on the Tutorials screen."
+   ]
+  }
+ ]
+}

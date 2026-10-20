@@ -1,0 +1,601 @@
+{
+ "id": "8.7.0",
+ "version": "8.7.0",
+ "kind": "release",
+ "title": "8.7.0 | Steady Pulse",
+ "date": "2025-05-06",
+ "url": "https://store.steampowered.com/news/app/381210/view/538852710067208721?l=english",
+ "changes": [
+  {
+   "entity": "New Perks",
+   "cat": "survivor",
+   "section": "New Survivor: Orela Rose",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Do no Harm: When you heal another Survivor, for each hook state they have, heal 30/40/50% faster and gain +3/3/3% progress for succeeding great skill checks",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Duty of Care: When you take a protection hit while healthy, all other Survivors within 12/12/12 meters gain 25/25/25% Haste for 4/5/6 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Rapid Response: When you Fast Exit a locker, you suffer from the Exhausted status effect for 30/25/20 seconds. When you gain Exhausted, you see the Killer's aura for 2/2/2 seconds. Exhausted prevents one from using perks that cause Exhausted",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Do no Harm: When you heal another Survivor, for each hook state they have, heal 30/40/50% faster and gain +3/3/3% progress for succeeding great skill checks",
+    "Duty of Care: When you take a protection hit while healthy, all other Survivors within 12/12/12 meters gain 25/25/25% Haste for 4/5/6 seconds",
+    "Rapid Response: When you Fast Exit a locker, you suffer from the Exhausted status effect for 30/25/20 seconds. When you gain Exhausted, you see the Killer's aura for 2/2/2 seconds. Exhausted prevents one from using perks that cause Exhausted"
+   ]
+  },
+  {
+   "entity": "The Ghoul",
+   "cat": "killer",
+   "section": "KILLERS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Breaking a pallet puts the Power on a cooldown Timer based on 2 Leap Tokens",
+     "after": null,
+     "before": "1 Token",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Hindering time applied to Survivors when activating a vault using the Kagune Leap while targeting them prior to that instant has been reduced to 0.5 second",
+     "after": null,
+     "before": "1.0 second",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "''Become Enraged'' scoring event received when performing a Grab-attacks now properly activates when the killer is already in Enraged Mode and has been increased to 600 Deviousness BP",
+     "after": null,
+     "before": "250 BP",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Breaking a pallet puts the Power on a cooldown Timer based on 2 Leap Tokens. (was 1 Token)",
+    "Hindering time applied to Survivors when activating a vault using the Kagune Leap while targeting them prior to that instant has been reduced to 0.5 second. (was 1.0 second)",
+    "ADDON: Yamori's mask no longer reveal Survivors hiding in lockers",
+    "''Become Enraged'' scoring event received when performing a Grab-attacks now properly activates when the killer is already in Enraged Mode and has been increased to 600 Deviousness BP. (was 250 BP)"
+   ],
+   "character": "The Ghoul"
+  },
+  {
+   "entity": "The Doctor",
+   "cat": "killer",
+   "section": "KILLERS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added a cooldown to interrupting Unhooks with Shock Therapy repeatedly",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added a cooldown to interrupting Unhooks with Shock Therapy repeatedly"
+   ],
+   "character": "The Doctor"
+  },
+  {
+   "entity": "The Houndmaster",
+   "cat": "killer",
+   "section": "KILLERS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Reduced the Dog's vault speed during Chase Command to 0.65 seconds",
+     "after": null,
+     "before": "0.45 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Reduced the Dog's vault speed during Chase Command to 0.65 seconds (was 0.45 seconds)",
+    "Doubled the Bloodpoint rewards of all her Deviousness Scoring Events"
+   ],
+   "character": "The Houndmaster"
+  },
+  {
+   "entity": "The Oni",
+   "cat": "killer",
+   "section": "KILLERS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Removed the turn rate limit during the open phase of Demon Strike",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Removed the turn rate limit during the open phase of Demon Strike"
+   ],
+   "character": "The Oni"
+  },
+  {
+   "entity": "The Singularity",
+   "cat": "killer",
+   "section": "KILLERS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Overclock Mode now provides a 3% base speed increased instead of Haste",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Overclock Mode now provides a 3% base speed increased instead of Haste"
+   ],
+   "character": "The Singularity"
+  },
+  {
+   "entity": "Babysitter",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Haste effect granted to the unhooked Survivor to 15%",
+     "after": null,
+     "before": "10%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Haste effect granted to the unhooked Survivor to 15% (was 10%)"
+   ]
+  },
+  {
+   "entity": "Boon: Dark Theory",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Haste effect to 3%",
+     "after": null,
+     "before": "2%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Haste effect to 3% (was 2%)"
+   ]
+  },
+  {
+   "entity": "Breakout",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Haste effect while near a carried Survivor to 6/8/10%",
+     "after": null,
+     "before": "5/6/7%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Haste effect while near a carried Survivor to 6/8/10% (was 5/6/7%)"
+   ]
+  },
+  {
+   "entity": "No One Left Behind",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Now increases the Haste effect for unhooked Survivors by 10% instead of applying a separate Haste effect",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Now increases the Haste effect for unhooked Survivors by 10% instead of applying a separate Haste effect"
+   ]
+  },
+  {
+   "entity": "Batteries Included",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Haste effect when near a powered generator to 7%",
+     "after": null,
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Haste effect when near a powered generator to 7% (was 5%)"
+   ]
+  },
+  {
+   "entity": "Furtive Chase",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Haste effect after hooking the Obsession to 10%",
+     "after": null,
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Haste effect after hooking the Obsession to 10% (was 5%)"
+   ]
+  },
+  {
+   "entity": "Game Afoot",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Haste effect when breaking an object while chasing the Obsession to 7%",
+     "after": null,
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Haste effect when breaking an object while chasing the Obsession to 7% (was 5%)"
+   ]
+  },
+  {
+   "entity": "Hex: Pentimento (Rework)",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "You see the aura of cleansed Totems and can Rekindle each Totem once. While a Totem is Rekindled, Survivors Heal and Repair 20% slower +1/2/3% for each additional Rekindled Totem. If all five totems are Rekindled simultaneously, all Totems are permanently blocked by The Entity. Survivors cursed by this perk see Rekindled Totems' auras within 16m",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "You see the aura of cleansed Totems and can Rekindle each Totem once. While a Totem is Rekindled, Survivors Heal and Repair 20% slower +1/2/3% for each additional Rekindled Totem. If all five totems are Rekindled simultaneously, all Totems are permanently blocked by The Entity. Survivors cursed by this perk see Rekindled Totems' auras within 16m"
+   ]
+  },
+  {
+   "entity": "Unbound",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Haste effect after vaulting a window to 10%",
+     "after": null,
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Haste effect after vaulting a window to 10% (was 5%)"
+   ]
+  },
+  {
+   "entity": "Quest System",
+   "cat": "system",
+   "section": "Quest System",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Introducing a unified place for all Quests, which will include daily, event, rift quests and much more",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Introducing a unified place for all Quests, which will include daily, event, rift quests and much more"
+   ]
+  },
+  {
+   "entity": "Base Game Adjustments",
+   "cat": "system",
+   "section": "Base Game Adjustments",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added a protection to Survivors when their teammates spam the Unhook interaction without ever Unhooking",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added a protection for failing Skill Checks that trigger right when the interaction is stopped",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added a protection to Survivors when their teammates spam the Unhook interaction without ever Unhooking",
+    "Added a protection for failing Skill Checks that trigger right when the interaction is stopped"
+   ]
+  },
+  {
+   "entity": "Haste & Hindered",
+   "cat": "system",
+   "section": "Haste & Hindered",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The speed bonus/penalty of Haste and Hindered are now shown on their respective status effect icons",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Perks which affect movement speed now mention Haste or Hindered in their descriptions",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The speed bonus/penalty of Haste and Hindered are now shown on their respective status effect icons",
+    "Perks which affect movement speed now mention Haste or Hindered in their descriptions"
+   ]
+  },
+  {
+   "entity": "Abandon Option",
+   "cat": "system",
+   "section": "Abandon Option",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added a new Killer scenario: 10 minutes after the last generator is completed, the Killer has the option to Abandon",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added a new Killer scenario: 10 minutes after the last generator is completed, the Killer has the option to Abandon"
+   ]
+  },
+  {
+   "entity": "Rarity Rework",
+   "cat": "system",
+   "section": "Rarity Rework",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Rarity levels have been revised to better surface different tier value",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Rarity levels have been revised to better surface different tier value"
+   ]
+  },
+  {
+   "entity": "Pre-equipped Loadouts",
+   "cat": "system",
+   "section": "Pre-equipped Loadouts",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Characters now have a pre equipped perk when first unlocked",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Characters now have a set of pre equipped items and add-ons to ease learning about their gameplay",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Characters now have a pre equipped perk when first unlocked",
+    "Characters now have a set of pre equipped items and add-ons to ease learning about their gameplay"
+   ]
+  },
+  {
+   "entity": "Perk Previewer",
+   "cat": "system",
+   "section": "Perk Previewer",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added a widget highlighting a player’s own Perks in the pre-game Lobby",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added a widget highlighting a player’s own Perks in the pre-game Lobby"
+   ]
+  },
+  {
+   "entity": "Character Visual Fidelity",
+   "cat": "system",
+   "section": "Character Visual Fidelity",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "As part of our ongoing effort to boost character visual fidelity in DBD, we’ve updated our character materials to match the same physically accurate shading models (yes, fancy math!) used everywhere else in the project. What does this mean? True‑to‑life skin reflections - Skin will now reflect light just as it does in the real world yielding sharper and more accurate highlights. Broader range of looks - Artists can dial in everything from oily youth to weathered veterans, with precise control over pores, scars, and surface oils. Consistent across all lighting - Whether you’re in the swamp, the carnival, or the asylum, characters will look and behave exactly the same under any lighting. The result? More believable, responsive characters that feel grounded in the world of DBD",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "As part of our ongoing effort to boost character visual fidelity in DBD, we’ve updated our character materials to match the same physically accurate shading models (yes, fancy math!) used everywhere else in the project. What does this mean? True‑to‑life skin reflections - Skin will now reflect light just as it does in the real world yielding sharper and more accurate highlights. Broader range of looks - Artists can dial in everything from oily youth to weathered veterans, with precise control over pores, scars, and surface oils. Consistent across all lighting - Whether you’re in the swamp, the carnival, or the asylum, characters will look and behave exactly the same under any lighting. The result? More believable, responsive characters that feel grounded in the world of DBD"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Archives",
+   "items": [
+    "Fixed an issue where some users were getting an error message when selecting \"The Tomes\" in the main menu."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where the wrong audio SFX would play when walking in the Grim Pantry's big Cabin.",
+    "Fixed an issue where the wrong audio SFX would play when walking on the balcony of the mine tower in the Ormond Lake Mine map.",
+    "Fixed an issue where the wrong audio SFX would play when walking on parts of the ramp inside the mine building in the Ormond Lake Mine map.",
+    "Fixed an issue where unwanted SFX would persist in-game with certain Tome 23 survivor outfits equipped."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Fixed an issue where Survivor bots could reveal The Ghost Face and were able to clear their Weakened status against The Unknown from normally impossible locations."
+   ]
+  },
+  {
+   "group": "Character",
+   "items": [
+    "Fixed an issue where The Knight would be stunned at the Guard's spawn location.",
+    "Fixed an issue where The Knight's power could break when being stunned at the start of a summon.",
+    "Fixed an issue where The Knight could stay in the Patrol Path creation speed due to latency.",
+    "Fixed an issue where Deep Wound would not stop depleting when a Survivor is grabbed by the Houndmaster's Dog.",
+    "Fixed an issue where The Houndmaster's head customization, 'Festering Scar,' was missing her grin animation during the Mori",
+    "Fixed an issue where The Houndmaster's dog end up standing in unnatural angles and partially clip into the ground.",
+    "Fixed an issue where there was no cancel interaction prompt when The Trickster was in Main Event.",
+    "Fixed an issue where The Nurse could briefly see Survivors in a locker when blinking through a nearby wall.",
+    "Fixed an issue where The Ghoul's hair and mask would briefly appear off his head when reaching the tally screen.",
+    "Fixed an issue where The Ghoul's Kagune mark reticle clipped into male Survivors head when aiming at them.",
+    "Fixed an issue where The Ghoul's Kagune Leap could activate without playing the animation when canceling the power.",
+    "Fixed an issue where The Nemesis stopped playing his menu interrupt animations.",
+    "Fixed an issue where The Nemesis' Zombies would be invisible when using the Tyrant Gore and Depleted Ink Ribbon add-ons.",
+    "Fixed an issue where The Nemesis could vault at nearly twice the normal speed.",
+    "Fixed an issue where Survivors could become stuck inside a dropped pallet after vaulting towards the Hag's Phantasm trap with the Scarred Hand add-on.",
+    "Fixed an issue where The Twin's camera could get stuck on the Survivor after Victor pounced on them with some network lag.",
+    "Fixed an issue where The Lich's Vorpal Sword add-on did not increase the pallet break time to 4 seconds.",
+    "Fixed an issue where Survivors became infected quicker when the Plague aimed Vile Purge at the Survivors held item.",
+    "Fixed an issue where Survivors could bleed out during a Mori."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue which caused slowdowns on Midwich Elementary School",
+    "Fixed an issue on Temple of Purgation that did not allow zombies to reach the arch base",
+    "Fixed an issue with collisions on Lerys Memorial Institute",
+    "Fixed an issue with collisions on Father Campbell's Chapel",
+    "Fixed an issue on Disturbed Ward where zombies that could get stuck on a ramp",
+    "Fixed an issue in Dead Dawg Saloon where a character could land on top of Saloon decorations",
+    "Fixed multiple issues in Autohaven Wreckers Realm where the characters clipped through the lockers when exiting them",
+    "Fixed an issue in Lery's Memorial Institute where the red stain of the killer would appear through a wall",
+    "Fixed an issue in Raccoon City Police Department where the characters could get stuck on top of the hooks",
+    "Fixed an issue with lighting in Nostromo Wreckage",
+    "Fixed an issue where The Mastermind was unable to vault a specific window using Virulent Bound on Mothers Dwelling.",
+    "Fixed an issue where The Knights Guards could get stuck after vaulting on Raccoon City Police Department"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where Teamwork: Collective Stealth would show a second cooldown after exiting the perk's range.",
+    "Fixed an issue where the reduced action speed color and icon were missing on the progress bar when co-oping Invocation: Treacherous Crows.",
+    "Fixed an issue where The Wraith remained Cloaked after being stunned by a pallet mid uncloak with Enduring.",
+    "Fixed an issue where Killers with Stridor equipped could not hear grunts of pain from recently unhooked Survivors equipped with Off The Record.",
+    "Fixed an issue where The Ghouls aura would not be shown to the Survivor that had Hardened equipped, if The Ghoul had the Yamori's Mask add-on."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where the Tally Screen would leave the Bloodpoints earned page before displaying all bonuses.",
+    "Fixed an issue where notifications would disappear when transitioning to the main menu.",
+    "Fixed a visual glitch with equipped add-ons in the loadout menu.",
+    "Added audio feedback when hovering collected nodes in the Bloodweb.",
+    "Added audio feedback when hovering items in the offering sequence.",
+    "Added audio feedback when hovering items in the Tally Screen Match Consequences page.",
+    "Added plus/minus audio feedback on Rift Tier update button.",
+    "Fixed an issue where the external skills icon of any team skills would only appear in a brown color.",
+    "Fixed a potential crash issue when selecting a player card in the player profile.",
+    "Fixed a crash issue when cancelling an infinite tier purchase."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue where the What Lurks Beneath Achievement/Trophy would gain progress when the damage source was caused by a Survivor perk.",
+    "Fixed an issue where items retrieved during the match are listed as gained when reaching the Tally Screen when the Abandon Feature is used"
+   ]
+  },
+  {
+   "group": "Bug Fixes",
+   "items": [
+    "Fixed an issue where Orela Rose's idle animation was missing in lobbies.",
+    "Fixed an issue in Badham Preschool where three generators would spawn in the same house.",
+    "Fixed an issue where the Spirit's Husk was missing the Terror Radius if a Survivor entered the Terror Radius while the Spirit used her ability.",
+    "Fixed an issue where Survivors lose the Dredge's Nightfall effect after the Dredge performed a Mori."
+   ]
+  }
+ ]
+}

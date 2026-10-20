@@ -1,0 +1,248 @@
+{
+ "id": "9.3.2",
+ "version": "9.3.2",
+ "kind": "release",
+ "title": "9.3.2 | Bugfix Patch",
+ "date": "2025-12-09",
+ "url": "https://store.steampowered.com/news/app/381210/view/519732075513775809?l=english",
+ "changes": [
+  {
+   "entity": "The Skull Merchant",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Undetectable duration to 8 seconds",
+     "after": null,
+     "before": "6",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Undetectable duration to 8 seconds (was 6)",
+    "Decoupled the Undetectable status effect from Deploying a Drone",
+    "Gain Undetectable when Recalling a Drone instead"
+   ],
+   "character": "The Skull Merchant"
+  },
+  {
+   "entity": "Breakdown",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Any time you are removed from a hook (escaped or saved), the hook breaks and the Killer's aura is shown to you for 4/5/6 seconds. A hook broken by this perk takes 180 seconds to respawn (Reverted to this version)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Any time you are removed from a hook (escaped or saved), the hook breaks and the Killer's aura is shown to you for 4/5/6 seconds. A hook broken by this perk takes 180 seconds to respawn (Reverted to this version)"
+   ]
+  },
+  {
+   "entity": "Wicked",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Your self-unhook attempts in the basement always succeed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When you are unhooked or unhook yourself, you see the Killer's aura for 16/18/20 seconds (Reverted to this version)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Your self-unhook attempts in the basement always succeed",
+    "When you are unhooked or unhook yourself, you see the Killer's aura for 16/18/20 seconds (Reverted to this version)"
+   ]
+  },
+  {
+   "entity": "Archives and Events",
+   "cat": "system",
+   "section": "Archives and Events",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The \"Bone Chill\" event returns Tuesday, December 9th at 11:00 AM Eastern",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The \"Bone Chill\" event returns Tuesday, December 9th at 11:00 AM Eastern"
+   ]
+  },
+  {
+   "entity": "Pallet Density Changes",
+   "cat": "system",
+   "section": "Environment / Maps",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Evaluated and adjusted pallet loops on Autohaven Wreckers, Backwater Swamp, Crotus Prenn Asylum, The MacMillan Estate, Ormond, Red Forest, and Yamaoka Estate. These changes include:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Adjusted the length of loops that were too short and unsafe",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Prevented pallets from spawning against certain small objects, creating short and awkward loops",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reviewed pallet randomization on certain tiles to provide more spawn variation",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Evaluated and adjusted pallet loops on Autohaven Wreckers, Backwater Swamp, Crotus Prenn Asylum, The MacMillan Estate, Ormond, Red Forest, and Yamaoka Estate. These changes include:",
+    "Adjusted the length of loops that were too short and unsafe",
+    "Prevented pallets from spawning against certain small objects, creating short and awkward loops",
+    "Reviewed pallet randomization on certain tiles to provide more spawn variation"
+   ],
+   "devNote": "Dev note: We've done another pass on pallet tiles and loops in order to find a middle ground between the last two updates. We will be closely monitoring the impact of these changes as we collect data and continue to adjust to find a sweet spot that feels great for both roles!"
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where The Deathslinger's power emitted static SFX from the Survivor POV.",
+    "Fixed an issue where the chainsaw SFX of The Cannibal could be heard globally throughout the map.",
+    "Fixed an issue where a sound alert played when The Knight's Guard Summon path creation reached 75% instead of 85%.",
+    "Fixed an issue where Vittorio Toscano's \"Geralt of Rivia\" outfit's chase start voiceover could be triggered at the same time as The Animatronic performed an axe grab.",
+    "Fixed an issue where The Unknown's voiceover layers were desynchronized.",
+    "Fixed an issue where entering and exiting the game credits replaced the Killer or Survivor music.",
+    "Fixed an issue where players emitted no sounds after quitting a Trail through the Match Details menu."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where multiple characters had bright white hair when standing close to some light sources.",
+    "Fixed an issue where some Survivors' animations did not play correctly when infected by The Plague's Vile Purge.",
+    "Fixed an issue where The Deathslinger wouldn't display a rifle aiming animation from the Survivor POV.",
+    "Fixed an issue where Trevor Belmont's \"Richter Belmont\" Legendary outfit would not play its idle animation properly.",
+    "Fixed an issue where The Animatronic would not smile when getting ready to throw an axe.",
+    "Fixed an issue where The Animatronic's axe was briefly misaligned when hitting an unhooked Survivor.",
+    "Fixed an issue where the Security Camera HUD could appear when another player used a Security Camera when playing against The Animatronic.",
+    "Fixed an issue where The Animatronic's axe could trigger multiple score events when it passed near a Survivor.",
+    "Fixed an issue where The Animatronic's Reclaim Axe action became available too quickly when the axe was embedded in a Survivor.",
+    "Fixed an issue where The Animatronic could not hook a Survivor after grabbing them at the Exit Gate.",
+    "Fixed an issue where Jane Romero's \"Home at Last\" outfit did not have physics.",
+    "Fixed an issue where the sleeve of The Doctor’s \"Fire Moon Doctor\" outfit would stretch at the end of the Static Blast animation.",
+    "Fixed an issue where Nea Karlsson's tank top would warp while interacting with objects.",
+    "Fixed an issue where The Houndmaster's dog could get stuck after being sent to vault a window or pallet.",
+    "Fixed an issue where The Houndmaster's dog had a weaker pull when grabbing onto a Survivor if their game was running at a lower FPS.",
+    "Fixed an issue where the Survivor's animation would break when being pulled by The Houndmaster's dog.",
+    "Fixed an issue where The Dark Lord had two capes during his Mori preview.",
+    "Fixed an issue where The Knight could fall out of world when being stunned by a pallet immediately after summoning a Guard.",
+    "Fixed an issue where The Knight's Guards would not display their generator break animation when the Entity spikes start appearing.",
+    "Fixed an issue where Entity spikes were missing on the fourth generator break when using The Knight's Guards to damage a generator.",
+    "Fixed an issue where there was input delay when The Knight ordered a Guard to destroy a nearby wall or pallet.",
+    "Fixed an issue where Survivor could become invisible to spectators in Custom Game when switching the view to a Survivor while The Knight was ending a patrol path.",
+    "Fixed an issue where Victor was invisible during The Twins' Mori when Victor's return was on cooldown.",
+    "Fixed an issue where The Skull Merchant's Adaptive Lighting add-on did not increase the Undetectable status effect.",
+    "Fixed an issue where The Huntress could hit two Survivors at once with a hatchet.",
+    "Fixed an issue where Survivors were not revealed by Killer Instinct during The Legion's Feral Frenzy when in a transferred Terror Radius.",
+    "Fixed an issue where The Spirit's hands took up more space on-screen when the FOV setting was at 87."
+   ]
+  },
+  {
+   "group": "Environment / Maps",
+   "items": [
+    "Fixed an issue in the Forgotten Ruins map where The Nurse could Blink out of bounds near the astronomy room.",
+    "Fixed an issue in the Ironworks Of Misery map where characters couldn't navigate between a wooden spool and rock.",
+    "Fixed an issue in the Coal Tower map where the Nurse could Blink onto the ledge of the building and navigate through collisions.",
+    "Fixed an issue in The MacMillan Estate Realm where a generator could not be interacted with on one side.",
+    "Fixed an issue in the Dead Dawg Saloon map where The Ghoul would incorrectly bounce off certain objects.",
+    "Fixed an issue in The MacMillan Estate Realm where a character could spawn inside a rock.",
+    "Fixed an issue in the Gas Heaven map where purple placeholder objects were visible during Moris.",
+    "Fixed an issue in the Midwich Elementary School map where the Survivor's camera would become misaligned after being hit by one of The Knight's Guards in the courtyard.",
+    "Fixed an issue in the Mount Ormond Resort map where The Knight's camera could be misplaced when summoning a Guard on the chalet stairs.",
+    "Fixed an issue in the Toba Landing map where a collision with a small tree would interrupt The Hillbilly's Chainsaw Sprint.",
+    "Fixed an issue in the Dead Dawg Saloon map where Survivors could not vault off a balcony.",
+    "Fixed an issue in the Mount Ormond Resort map where a placeholder tile would appear.",
+    "Fixed an issue in the Garden of Joy map where The Knight's Guards could not navigate properly around a door of the shack.",
+    "Fixed an issue in the Family Residence map where players could land on top of certain objects.",
+    "Fixed an issue in the Garden of Joy map where the salt circle would not appear in the basement when using an Invocation perk.",
+    "Fixed an issue in the Nostromo Wreckage map where Survivors' bodies would clip out of a locker when entering.",
+    "Fixed an issue in the Yamaoka Estate Realm where The Twins' Victor could navigate under the small shrine structure.",
+    "Fixed an issue in The Underground Complex map where only one Dream Pallet would appear for The Nightmare.",
+    "Fixed an issue in the Azarov's Resting Place map where generator flood lights clipped through a building roof.",
+    "Fixed an issue in the Greenville Square map where Survivors could get stuck next to a hook in the theater.",
+    "Fixed an issue in the Grim Pantry map where collision on a wall was missing.",
+    "Fixed an issue in the Azarov's Resting Place map where a generator could not be kicked on one side."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where there could be multiple Obsessions in a Trial when using perks that change the Obsession."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Fixed an issue where players on the same platform couldn't add each other as friends.",
+    "Fixed an issue on PlayStation 5 where DualSense vibration was missing when haptic feedback was turned on.",
+    "Fixed an issue on Xbox where the game could soft lock when trying to start the Survivor Tutorial before installation has fully completed.",
+    "Fixed an issue on Xbox where the user would not be added to a session when joining or accepting a game invite while the game was in a suspended state."
+   ]
+  },
+  {
+   "group": "Quests",
+   "items": [
+    "Fixed an issue where unlocking chest challenges wouldn't progress when using a Key item.",
+    "Fixed an issue where the dates shown on quests would be displayed incorrectly.",
+    "Fixed an issue where healing quests earned progress from recovery while in the Dying State."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where The Animatronic's axe icon was missing when a Survivor had the axe embedded in them.",
+    "Fixed an issue where the healing icon stopped progressing when healing a Survivor from the Dying State."
+   ]
+  },
+  {
+   "group": "Miscellaneous",
+   "items": [
+    "Fixed an issue where Flashbangs and Firecrackers did not blind players when used too close to an object.",
+    "Fixed an issue where the AFK Crows would not dissolve properly when disappearing."
+   ]
+  }
+ ]
+}

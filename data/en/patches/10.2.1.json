@@ -1,0 +1,234 @@
+{
+ "id": "10.2.1",
+ "version": "10.2.1",
+ "kind": "release",
+ "title": "10.2.1 | Bugfix Patch",
+ "date": "2026-10-14",
+ "url": "https://store.steampowered.com/news/app/381210/view/716792458916138263?l=english",
+ "changes": [
+  {
+   "entity": "Surrender Option",
+   "cat": "system",
+   "section": "Surrender and End Trial",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivor Condition - When there are no other human survivors, and at least one bot, the remaining player gets the option to Surrender",
+     "after": "Surrender.",
+     "before": "Abandon",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivor Condition - When there are no other human survivors, and at least one bot, the remaining player gets the option to Surrender. (was Abandon)",
+    "Survivor is considered Surrendered"
+   ]
+  },
+  {
+   "entity": "End Trial Option",
+   "cat": "system",
+   "section": "Surrender and End Trial",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Killer Condition - When all remaining Survivors are bots the Killer gains the option to End Trial. (Removed the \"in the Dying State condition\")",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Killer Condition - When all remaining Survivors are bots the Killer gains the option to End Trial. (Removed the \"in the Dying State condition\")"
+   ]
+  },
+  {
+   "entity": "Killer Updates",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Killer Powers with a stack count (e.g. Trickster, Huntress) now show \"0\" on the Killer Power HUD element when the stack is depleted",
+     "after": null,
+     "before": "showing a looping arrow icon",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Killer Powers with a stack count (e.g. Trickster, Huntress) now show \"0\" on the Killer Power HUD element when the stack is depleted (was showing a looping arrow icon)",
+    "Made adjustments to The Mastermind's Virulent Bound to improve redirection"
+   ]
+  },
+  {
+   "entity": "Event",
+   "cat": "system",
+   "section": "Event",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Haunted By Daylight event has started on Tuesday, October 13th, at 11:00am Eastern",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Void Tile from previous years is no longer accessible, however Void Portals and Void Haunts are present in all trials. Portals teleport to each other, and Void Haunts roam freely, hunting down Survivors to Hinder them",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Void Portals are paired up and always go back and forth to each other when used",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Players can open Void Rifts to create new pairs of Void Portals that remain open for the rest of the trial",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Roaming Haunts slowly traverse the map, seeking out Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killers and Survivors can collect Void Energy through various means in the trial, and spend it on Event Abilities",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Players no longer need to craft in the Void to gain Event Abilities. They can use Void Energy as soon as they have gathered enough to use an Ability",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors can use Void Portals to gather lots of Void Energy at once, but risk the Killer being able to teleport directly to that Portal and jumpscare them",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors start with Void Crystals, allowing them to drop Smoke Bombs or place the crystal on the Generator to repair it remotely. Killers can launch Void Haunts, and use Empowered Breaks to kick faster",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "See the in-game Gameplay Details for more information",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Haunted By Daylight event has started on Tuesday, October 13th, at 11:00am Eastern",
+    "The Void Tile from previous years is no longer accessible, however Void Portals and Void Haunts are present in all trials. Portals teleport to each other, and Void Haunts roam freely, hunting down Survivors to Hinder them",
+    "Void Portals are paired up and always go back and forth to each other when used",
+    "Players can open Void Rifts to create new pairs of Void Portals that remain open for the rest of the trial",
+    "Roaming Haunts slowly traverse the map, seeking out Survivors",
+    "Killers and Survivors can collect Void Energy through various means in the trial, and spend it on Event Abilities",
+    "Players no longer need to craft in the Void to gain Event Abilities. They can use Void Energy as soon as they have gathered enough to use an Ability",
+    "Survivors can use Void Portals to gather lots of Void Energy at once, but risk the Killer being able to teleport directly to that Portal and jumpscare them",
+    "Survivors start with Void Crystals, allowing them to drop Smoke Bombs or place the crystal on the Generator to repair it remotely. Killers can launch Void Haunts, and use Empowered Breaks to kick faster",
+    "See the in-game Gameplay Details for more information"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where standard basic-attack grunts plays while The Judgment is in the Zealous state from the Survivor's POV.",
+    "Fixed an issue where there is a missing part of the Xenomorph Tunnel Exit SFX.",
+    "Fixed an issue where both Tricksters VOs does not trigger when facing the advertisements"
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Fixed an issue where bots would navigate to the map center coordinates when the Exit Gates were powered."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where the face on the leg of The Judgment stretch during the Mori Animation.",
+    "Fixed an issue where The Dark Lord's face will distort while picking up a survivor.",
+    "Fixed an issue where The Ghost Face could be revealed without seeing most of the Killer Model.",
+    "Fixed an issue where The Mastermind's Velocity went to a full stop at the end of a Dash for 1 or 2 frames.",
+    "Fixed an issue where The Skull Merchant was unable to place a Drone on the lower floor in the Hideout.",
+    "Fixed an issue where The Xenomorph was getting affected by the Flame Turret while being on an elevated surface above the Flame Turret.",
+    "Fixed an issue where The Demogorgon's and the Xenomorph's models could be seen while they were using their Killer Power to travel to a different floor.",
+    "Fixed an issue where The Demogorgon would become invisible when teleporting to a Portal with a Survivor on top when the player was lagging.",
+    "Fixed an issue where The Knight's Guards would get stuck in pallets dropped during the Hunt",
+    "Fixed an issue where The Judgment's 3 specific item interactions prevented Survivors from screaming while taunting the Killer.",
+    "Fixed an issue where The Judgment's survivor bot would become invisible for the rest of the Trial when the survivor player lost connection when being sent to Exile.",
+    "Fixed an issue where attacking locks The First in place after being stunned while charging a Vine Attack"
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in Wreckers' Yard where a placeholder tile spawned",
+    "Fixed an issue in Disturbed Ward where survivors could not be picked up next to park benches",
+    "Fixed an issue in Family Residence where the power of the Executioner, Punishment of the Damned, would not travel up the stairs around the porch",
+    "Fixed an issue in Autohaven Wreckers Yard where the power of killers that can dash forward would slide against a groups of blockers",
+    "Fixed an issue in Disturbed Ward where the traps of The Trapper are hidden under debris",
+    "Fixed an issue in The Thompson House where the killer can't pick up the survivor between blockers",
+    "Fixed an issue where a section of the reachable Navmesh was disconnected on the main building of the Coal Tower."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where the Potential Energy perk could stop adding tokens when skill checks appeared.",
+    "Fixed an issue where the display of Hook States was inconsistent when Shoulder the Burden was used.",
+    "Fixed an issue where The Hag's perk Hex: The Third Seal activated inconsistently.",
+    "Fixed an issue where Decisive Strike failed to trigger when Killers were in the falling state",
+    "Fixed an issue that caused The Trickster to lose 4 Tokens instead of 2 when injuring the Obsession with Showstopper when using Save the Best for Last (Keep them Waiting) perk"
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed issue where the header of the Killer Power section in Match Details was cut off.",
+    "Fixed issue where T.G Journal Extract #1 did not show up as a Quest completion reward while inside a Trial.",
+    "Fixed issue where the Premium Rift Pass popup would show incomplete information.",
+    "Fixed issue where some search terms would not return perks, items, or add-ons containing those search terms.",
+    "Fixed issue where some Status Effects would not appear on Survivor Portraits.",
+    "Fixed issue where the loading icon would stay on screen in the Lobby.",
+    "Fixed issue where the Obsession VFX disappears from the Survivor Portrait when using a Perk that swaps the Obsession.",
+    "Fixed an issue where a ban reason did not have a corresponding text message.",
+    "Fixed an issue where the search box of the Add-ons inventory did not return results based on description text"
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue which could cause a crash when playing in a trial with Wraith",
+    "Fixed an issue where the Fog Vial animation was missing when survivors used the Fog Vial.",
+    "Fixed an issue where latency might cause Killers to be stuck with a 3rd person view",
+    "Fixed an issue where completing the Main Generator and escaping not did not trigger achievements in several maps"
+   ]
+  }
+ ]
+}

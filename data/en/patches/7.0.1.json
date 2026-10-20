@@ -1,0 +1,161 @@
+{
+ "id": "7.0.1",
+ "version": "7.0.1",
+ "kind": "release",
+ "title": "7.0.1 | Bugfix Patch",
+ "date": "2023-06-21",
+ "url": "https://store.steampowered.com/news/app/381210/view/6625405551520262625?l=english",
+ "changes": [
+  {
+   "entity": "The Singularity",
+   "cat": "killer",
+   "section": "The Singularity",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "EMP Crates per map were reduced from 5 to 4",
+     "after": "4",
+     "before": "5",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "EMP Generation time increased from 90 to 100 seconds",
+     "after": "100 seconds",
+     "before": "90",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Time to charge an EMP increased from 2.0 to 2.5 seconds",
+     "after": "2.5 seconds",
+     "before": "2.0",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Duration of pod disabling (from an EMP) decreased from 60 to 45 seconds",
+     "after": "45 seconds",
+     "before": "60",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased score points for Assimilation and Teleportation from 200 to 250",
+     "after": "250",
+     "before": "200",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "EMP Crates per map were reduced from 5 to 4",
+    "EMP Generation time increased from 90 to 100 seconds",
+    "Survivors are now slowed by 10% while charging the EMP",
+    "Time to charge an EMP increased from 2.0 to 2.5 seconds",
+    "Duration of pod disabling (from an EMP) decreased from 60 to 45 seconds",
+    "Removed score caps on the score events for Assimilation, Teleportation, and Teleportation Strikes",
+    "Increased score points for Assimilation and Teleportation from 200 to 250"
+   ],
+   "character": "The Singularity"
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Event",
+   "items": [
+    "The 7th Anniversary \"Twisted Masquerade\" event begins June 22, 2023 at 11 AM ET",
+    "Level 1 of the \"Twisted Masquerade\" event tome opens June 22, 2023 at 11 AM ET"
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue that caused the Slipstream Teleport sfx to be missing at the beginning of the animation."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Bots are less likely to follow paths that start by going towards a chasing Killer.",
+    "Bots using the Scavenger perk and affected by the repair speed penalty may now prioritize other goals over working on the Generator.",
+    "Bots have read previous Patch Notes and now correctly distinguish Survivor and Special items."
+   ]
+  },
+  {
+   "group": "The Singularity",
+   "items": [
+    "When looking away after performing a Lock On to a Survivor, The Singularity no longer can Slipstream Teleport to a different Survivor.",
+    "The face melt effect is no longer played a second time when a Survivor is Mori'd by The Singularity.",
+    "The Auras of Perks and Add-ons are no longer visible when controlling a Biopod as The Singularity.",
+    "The reticle is no longer missing when spectating and switching to The Singularity when already inside a Biopod."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused part of the female Survivor's face to be distorted when interacting with the Jigsaw box.",
+    "Fixed an issue that caused the Killer's animation to be off-center and misaligned when playing as The Cenobite and performing a Lunge Attack, resulting in the hand completely disappearing during the animation."
+   ]
+  },
+  {
+   "group": "Dvarka Deepwood - Toba Landing",
+   "items": [
+    "Increased the fog on the map, to help with visibility making it feel less cluttered when looking at a distance.",
+    "Desaturated some of the plants for a better readability of the environment."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Using For the People to heal a Survivor to healthy no longer incorrectly applies the Endurance effect from the Made for This perk.",
+    "Survivors' camera no longer sometimes stays stuck on the Killer after using the Perk Decisive Strike",
+    "The Troubleshooter perk now correctly applies a yellow Aura to Generators."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "On PlayStation 4, using a keyboard and a controller simultaneously during gameplay no longer leads to a crash.",
+    "On Nintendo Switch, leaving the console running on an error message for a long time no longer crashes the game."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "On consoles, the cursor no longer disappears after failing to put a valid code into the Store's Redeem Code popup multiple times.",
+    "The tooltip style for the hidden perk is changed.",
+    "Fixed an issue where the observed player's name does not appear when returning to the spectator mode.",
+    "Fixed an issue where incorrect values were displayed for the progress of the challenges.",
+    "Fixed an issue where addons text overlaps the search bar in the inventory.",
+    "Fixed an issue where the Rift fragment rewards were displayed in red color."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Zombies no longer stop spawning when The Nemesis uses \"Tyrant Gore\" and \"Depleted Ink Ribbon\".",
+    "Survivors carrying a Cursed Killer Item are now able to properly complete interacting with Glyphs.",
+    "The Ghost Face is no longer able to lean on all Vaults of the Main Building in Toba Landing."
+   ]
+  },
+  {
+   "group": "Level Design",
+   "items": [
+    "Fixed an issue where the character was clipping through the locker in the Garden Of Joy.",
+    "Fixed an issue where the character could get stuck near the building of the Gas Station.",
+    "Fixed issues where the Biopods of The Singularity can get placed in areas the Survivors can't deactivate them.",
+    "Fixed an issue where the Survivors are clipping through the lockers of Treatment Theatre.",
+    "Fixed an issue where The Nurse could blink under the Temple in Sanctum of Wrath.",
+    "Fixed an issue where a pallet clipped through a door frame in the Shattered Square.",
+    "Fixed an issue on Dead Dawg Saloon where the Killer could place their powers on top of small fences.",
+    "Fixed an issue where The Nightmare could not place the Dream Snares on top of the gallows in Dead Dawg Saloon.",
+    "Fixed an issue on the Toba Landing map where the Demogorgon could land on top of a rock.",
+    "Fixed an issue in the Mother's Dwelling where the character could not navigate between two assets.",
+    "Fixed an issue where a pallet can clip through assets in Raccoon City Police Station.",
+    "Fixed an issue where The Nightmare could not place Dream Snares on a surface of a Landmark in the Temple of Purgation map.",
+    "Fixed an issue in the map Garden Of Joy where the players could climb on top of a pallet."
+   ]
+  }
+ ]
+}

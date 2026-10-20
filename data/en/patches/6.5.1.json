@@ -1,0 +1,325 @@
+{
+ "id": "6.5.1",
+ "version": "6.5.1",
+ "kind": "release",
+ "title": "6.5.1 | Bugfix Patch",
+ "date": "2023-01-31",
+ "url": "https://store.steampowered.com/news/app/381210/view/3656394723656098761?l=english",
+ "changes": [
+  {
+   "entity": "Features",
+   "cat": "system",
+   "section": "Features",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Survivor activity HUD now shows Generator progress",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Survivor activity HUD now shows Generator progress"
+   ]
+  },
+  {
+   "entity": "Custom Games",
+   "cat": "system",
+   "section": "Custom Games",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "In a Custom Game, changing to Survivor after having multiple players in the Killer role now displays the correct role to all party members",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bots will now hit regular Skill Checks correctly",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "In a Custom Game, changing to Survivor after having multiple players in the Killer role now displays the correct role to all party members",
+    "Bots will now hit regular Skill Checks correctly"
+   ]
+  },
+  {
+   "entity": "Killer Bugs",
+   "cat": "killer",
+   "section": "Killer Bugs",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Knight can no longer break an un-dropped Pallet that was reset by the Perk Any Means Necessary",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors will no longer remain stuck in the the Remove Chain action when chained by The Cenobite's Summons of Pain or Chain Hunt",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Lethal Pursuer will no longer inadvertently reveal Auras while Blinded",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Hillbilly’s Chainsaw no longer risks going silent when using the Apex Muffler or Off-Brand Motor Oil Add-Ons",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Whispers icon no longer appears lit before its first activation",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The frame rate has been stabilized during Killer Moris",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Nurse will now gain Blink Charge correctly while using Jenner’s Last Breath",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Status Effects from The Pig’s Add-Ons will no longer remain after a Reverse Bear Trap has been removed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killers will no longer receive Merciless Killer after Killing fewer than 4 Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killers will no longer get stuck in the Shattered Square Map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Fixed an unreachable Bear Trap placement in the Gas Haven Map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killers can no longer climb on the Vat Room rails in The Game Map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killers can no longer completely body block access to basements in the Autohaven Wreckers Realm",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Exiting a locker as The Dredge while a Survivor is moving away no longer causes a sound cut",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Blight will no longer keep William Birkin’s voice in the menu while changing to another Outfit",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Knight's Enchanted Plates and Frosty Eyes outfits no longer disappear while he is using his Power",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Knight can no longer break an un-dropped Pallet that was reset by the Perk Any Means Necessary",
+    "Survivors will no longer remain stuck in the the Remove Chain action when chained by The Cenobite's Summons of Pain or Chain Hunt",
+    "Lethal Pursuer will no longer inadvertently reveal Auras while Blinded",
+    "The Hillbilly’s Chainsaw no longer risks going silent when using the Apex Muffler or Off-Brand Motor Oil Add-Ons",
+    "The Whispers icon no longer appears lit before its first activation",
+    "The frame rate has been stabilized during Killer Moris",
+    "The Nurse will now gain Blink Charge correctly while using Jenner’s Last Breath",
+    "Status Effects from The Pig’s Add-Ons will no longer remain after a Reverse Bear Trap has been removed",
+    "Killers will no longer receive Merciless Killer after Killing fewer than 4 Survivors",
+    "Killers will no longer get stuck in the Shattered Square Map",
+    "Fixed an unreachable Bear Trap placement in the Gas Haven Map",
+    "Killers can no longer climb on the Vat Room rails in The Game Map",
+    "Killers can no longer completely body block access to basements in the Autohaven Wreckers Realm",
+    "Exiting a locker as The Dredge while a Survivor is moving away no longer causes a sound cut",
+    "The Blight will no longer keep William Birkin’s voice in the menu while changing to another Outfit",
+    "The Knight's Enchanted Plates and Frosty Eyes outfits no longer disappear while he is using his Power"
+   ]
+  },
+  {
+   "entity": "Survivor Bugs",
+   "cat": "survivor",
+   "section": "Survivor Bugs",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Female Survivor legs will no longer clip through the ground during The Nurse’s Mori",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Red Envelope of a dead or disconnected Survivor will no longer remain visible",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Breakout Perk icon is now correctly visible to Survivors being affected by it",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Carried Survivors are now able to see if they are affected by Iron Grasp",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Missing a Skill Check when letting go of a Generator will now lead to a loss of Potential Energy Tokens",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Map Item no longer allows for indefinite Aura reading",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors using the Glass Bead Add-On can now make Markers as intended",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Healing Hud icon will not activate when a Survivor is in a Cage of Atonement",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The HUD Indicator should now reveal accurate Generator progress information",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reverse Bear Traps will now disappear correctly upon being removed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors who bleed out or die to a Killer’s Special Power (The Onryo’s Condemned, etc) will no longer see the Escaped Result on the End Game screen",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Item of Obsession Achievement can now be unlocked as intended",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Survivors can no longer trap The Knight’s Guards inside lockers with a rushed exit",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Female Survivor legs will no longer clip through the ground during The Nurse’s Mori",
+    "The Red Envelope of a dead or disconnected Survivor will no longer remain visible",
+    "The Breakout Perk icon is now correctly visible to Survivors being affected by it",
+    "Carried Survivors are now able to see if they are affected by Iron Grasp",
+    "Missing a Skill Check when letting go of a Generator will now lead to a loss of Potential Energy Tokens",
+    "The Map Item no longer allows for indefinite Aura reading",
+    "Survivors using the Glass Bead Add-On can now make Markers as intended",
+    "The Healing Hud icon will not activate when a Survivor is in a Cage of Atonement",
+    "The HUD Indicator should now reveal accurate Generator progress information",
+    "Reverse Bear Traps will now disappear correctly upon being removed",
+    "Survivors who bleed out or die to a Killer’s Special Power (The Onryo’s Condemned, etc) will no longer see the Escaped Result on the End Game screen",
+    "The Item of Obsession Achievement can now be unlocked as intended",
+    "Survivors can no longer trap The Knight’s Guards inside lockers with a rushed exit"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "General",
+   "items": [
+    "The game should no longer crash on exit.",
+    "Switching to a loadout with the same Add-On in a different position will no longer cause disconnection from a lobby.",
+    "Items on sale in the Store display the correct discounted Iridescent Shard price.",
+    "Customization Reward notifications will now correctly appear.",
+    "The copyright year has been updated in the intro trailer.",
+    "Simultaneously levelling up and swapping character should no longer trigger a soft lock."
+   ]
+  },
+  {
+   "group": "Survivor Bugs",
+   "items": [
+    "Fixed an issue that may cause Reverse Bear Traps to remain floating in front of the Jigsaw Box after being removed."
+   ]
+  }
+ ]
+}

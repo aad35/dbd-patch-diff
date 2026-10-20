@@ -1,0 +1,256 @@
+{
+ "id": "ptb-7.2.0",
+ "version": "7.2.0",
+ "kind": "ptb",
+ "title": "7.2.0 | PTB",
+ "date": "2023-08-08",
+ "url": "https://store.steampowered.com/news/app/381210/view/3655285941433681672?l=english",
+ "changes": [
+  {
+   "entity": "Killer Power",
+   "cat": "killer",
+   "section": "Killer Power",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Hidden Pursuit A series of tunnels become available on the map when the Xenomorph is in play. By accessing a Control Station, it can enter these tunnels to quickly move around the map, detect the presence of nearby Survivors, and speed up the cooldown time of its Runner Mode ability. Exiting a Control Station tags nearby Survivors with Killer Instinct. Special Ability: Runner Mode The Xenomorph enters Runner Mode automatically when not on cooldown. In Runner Mode, the Xenomorph walks on four legs and becomes stealthier, reducing its Terror Radius. While in Runner Mode the Xenomorph also has access to a brutal Tail Attack. Map Feature: Control Stations Seven Control Stations are scattered across the map. Survivors can interact with these stations to get a Remote Flame Turret, while the Xenomorph can enter and exit the tunnels underneath the Control Stations. Special Item: Remote Flame Turret Turrets can be placed in the map to counteract the Xenomorph. When the Xenomorph enters the radius and line of sight of a Turret, the Turret attacks; this attack staggers the Xenomorph and will cause Runner Mode to end. If a Turret successfully knocks the Xenomorph out of Runner Mode or fires for too long, it overheats, and must be repaired by a Survivor. The Xenomorph can attack Turrets to destroy them",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Hidden Pursuit A series of tunnels become available on the map when the Xenomorph is in play. By accessing a Control Station, it can enter these tunnels to quickly move around the map, detect the presence of nearby Survivors, and speed up the cooldown time of its Runner Mode ability. Exiting a Control Station tags nearby Survivors with Killer Instinct. Special Ability: Runner Mode The Xenomorph enters Runner Mode automatically when not on cooldown. In Runner Mode, the Xenomorph walks on four legs and becomes stealthier, reducing its Terror Radius. While in Runner Mode the Xenomorph also has access to a brutal Tail Attack. Map Feature: Control Stations Seven Control Stations are scattered across the map. Survivors can interact with these stations to get a Remote Flame Turret, while the Xenomorph can enter and exit the tunnels underneath the Control Stations. Special Item: Remote Flame Turret Turrets can be placed in the map to counteract the Xenomorph. When the Xenomorph enters the radius and line of sight of a Turret, the Turret attacks; this attack staggers the Xenomorph and will cause Runner Mode to end. If a Turret successfully knocks the Xenomorph out of Runner Mode or fires for too long, it overheats, and must be repaired by a Survivor. The Xenomorph can attack Turrets to destroy them"
+   ]
+  },
+  {
+   "entity": "Perks",
+   "cat": "system",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Ultimate Weapon When you open a locker, this perk activates for 30 seconds. Survivors entering your Terror Radius scream and reveal their position and gain Blindness for 30 seconds. This perk then goes on cooldown for 40/35/30 seconds. Rapid Brutality You can no longer gain Bloodlust. Hitting a Survivor with a basic attack gives you 5% haste for 8/9/10 seconds. Alien Instinct This perk activates when you hook a Survivor. You see the aura of the farthest injured Survivor for 5 seconds and that Survivor is oblivious for 16/18/20 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Ultimate Weapon When you open a locker, this perk activates for 30 seconds. Survivors entering your Terror Radius scream and reveal their position and gain Blindness for 30 seconds. This perk then goes on cooldown for 40/35/30 seconds. Rapid Brutality You can no longer gain Bloodlust. Hitting a Survivor with a basic attack gives you 5% haste for 8/9/10 seconds. Alien Instinct This perk activates when you hook a Survivor. You see the aura of the farthest injured Survivor for 5 seconds and that Survivor is oblivious for 16/18/20 seconds"
+   ]
+  },
+  {
+   "entity": "Perks",
+   "cat": "system",
+   "section": "Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Lucky Star When you hide in a locker, this perk activates. You leave no pools of blood and make no grunts of pain for 10 seconds. When you exit the locker, you see other survivors and the closest generator's aura in yellow for 10 seconds. This perk then goes on cooldown for 40/35/30 seconds. Chemical Trap After completing 70%/60%/50% progress on any generator, this perk activates. While standing next to a dropped pallet, press the Active Ability Button 2 to install a Trap, which stays active for 100/110/120 seconds. The aura of trapped pallets are revealed in yellow to all Survivors. When the Killer performs the break action on the trapped pallet, the trap explodes, and they are slowed by 50% for 4 seconds. Light Footed When you are healthy, this perk activates. Your running footsteps are silent. This perk goes on cool-down for 28/24/20 seconds after doing a rushed action",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Lucky Star When you hide in a locker, this perk activates. You leave no pools of blood and make no grunts of pain for 10 seconds. When you exit the locker, you see other survivors and the closest generator's aura in yellow for 10 seconds. This perk then goes on cooldown for 40/35/30 seconds. Chemical Trap After completing 70%/60%/50% progress on any generator, this perk activates. While standing next to a dropped pallet, press the Active Ability Button 2 to install a Trap, which stays active for 100/110/120 seconds. The aura of trapped pallets are revealed in yellow to all Survivors. When the Killer performs the break action on the trapped pallet, the trap explodes, and they are slowed by 50% for 4 seconds. Light Footed When you are healthy, this perk activates. Your running footsteps are silent. This perk goes on cool-down for 28/24/20 seconds after doing a rushed action"
+   ]
+  },
+  {
+   "entity": "New Map - Nostromo Wreckage",
+   "cat": "system",
+   "section": "New Map - Nostromo Wreckage",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Explore the mysterious crash site of the iconic Nostromo. Visit landmarks familiar to the fans of the Alien franchise, in a unique setting where you will find yourself chased in and out of the ship. Run the Killer around the shuttle that brought Ripley to the world of the Entity. Navigate through the alien landscape, and you may yet escape from the remains of the wrecks",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Explore the mysterious crash site of the iconic Nostromo. Visit landmarks familiar to the fans of the Alien franchise, in a unique setting where you will find yourself chased in and out of the ship. Run the Killer around the shuttle that brought Ripley to the world of the Entity. Navigate through the alien landscape, and you may yet escape from the remains of the wrecks"
+   ]
+  },
+  {
+   "entity": "The Knight",
+   "cat": "killer",
+   "section": "The Knight",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Pillaged Mead - Decreases the amount of time it takes for a Guard to complete their Order action by 15%",
+     "after": null,
+     "before": "25%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Tattered Tabbard - Increases Patrol time for all Guards by 8 seconds",
+     "after": null,
+     "before": "6 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Town Watch's Torch - When Survivors escape Guard Hunts without being hit two times",
+     "after": null,
+     "before": "3 times",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Pillaged Mead - Decreases the amount of time it takes for a Guard to complete their Order action by 15% (was 25%)",
+    "Tattered Tabbard - Increases Patrol time for all Guards by 8 seconds (was 6 seconds)",
+    "Town Watch's Torch - When Survivors escape Guard Hunts without being hit two times (was 3 times), The Knight gains Undetectable Status for 25 seconds"
+   ],
+   "character": "The Knight"
+  },
+  {
+   "entity": "The Demogorgon",
+   "cat": "killer",
+   "section": "The Demogorgon",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Killer Power - Undetectable after teleport lasts 5 seconds",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Rat Tail - Increases speed of opening a Portal by 50%",
+     "after": null,
+     "before": "35%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Unknown Egg - Decreases the cooldown after traversing the Upside Down by 2.5 seconds",
+     "after": null,
+     "before": "1.5 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Violet Waxcap - Increases the duration of the Undetectable effect gained when emerging from a Portal by 1 second",
+     "after": null,
+     "before": "0.5 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Killer Power - Undetectable after teleport lasts 5 seconds (was 3 seconds)",
+    "Rat Tail - Increases speed of opening a Portal by 50% (was 35%)",
+    "Unknown Egg - Decreases the cooldown after traversing the Upside Down by 2.5 seconds (was 1.5 seconds)",
+    "Violet Waxcap - Increases the duration of the Undetectable effect gained when emerging from a Portal by 1 second (was 0.5 seconds)",
+    "Leprose Lichen - After emerging from a Portal, the auras of all Survivors within 16 meters of an active Portal are revealed for 3 seconds"
+   ],
+   "character": "The Demogorgon"
+  },
+  {
+   "entity": "PC Graphics Update",
+   "cat": "system",
+   "section": "PC Graphics Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "New setting to toggle VSync on and off",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "New setting to change the FPS limit",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "New setting tog toggle the anti aliasing on and off",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Setting for resolution option update",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "New setting to toggle VSync on and off",
+    "New setting to change the FPS limit",
+    "New setting tog toggle the anti aliasing on and off",
+    "Setting for resolution option update"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Animation",
+   "items": [
+    "When facing The Onryo, the VHS is now properly aligned in survivors’ hands."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Survivors will now produce a scream of pain when being hit by The Deathslinger's harpoon."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Bots are now more likely to be productive within the Terror Radius.",
+    "Bots' behaviour has improved when facing Killer sidekicks, such as The Nemesis' Zombies or The Knight's Guards.",
+    "Bots no longer attempt to confuse the Killer by crouch-walking during a chase.",
+    "Bots now investigate Supply Cases more often.",
+    "Bots now telepathically communicate to avoid multiple Bots running to heal or unhook a Survivor at the same time.",
+    "Reverse Bear Traps no longer cause Bots to freeze when the Exit Gates are opened."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "The Blast Mine notification no longer appears after a delay.",
+    "The Play with your Food cooldown no longer shows in the HUD when undetectable."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Steam experiencing a network issue will no longer cancel an existing lobby."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "The \"Match Found\" message will no longer appear during matchmaking. Instead, the UI will go from \"Searching for Match\" directly into \"Joining Match\".",
+    "Display the remaining time when hovering the mouse on the store character item.",
+    "Fixed an issue where Bot Loadout slots greyed out when nothing equipped."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue where the wrong killer's power could appear in the Loadout menu, preventing equipping Add-ons.",
+    "Disconnected players can no longer spectate the game they disconnected from."
+   ]
+  }
+ ]
+}

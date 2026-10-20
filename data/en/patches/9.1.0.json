@@ -1,0 +1,2180 @@
+{
+ "id": "9.1.0",
+ "version": "9.1.0",
+ "kind": "release",
+ "title": "9.1.0 | The Walking Dead",
+ "date": "2025-07-29",
+ "url": "https://store.steampowered.com/news/app/381210/view/538860320326681059?l=english",
+ "changes": [
+  {
+   "entity": "New Perk: Apocalyptic Ingenuity",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR: RICK GRIMES",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After unlocking or rummaging through 2/2/2 chests, press the Ability Button 1 for 4/4/4 seconds next to a broken pallet to build a fragile pallet",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You see the auras of broken pallets within 24/28/32 meters",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Fragile pallets are destroyed after being dropped",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After unlocking or rummaging through 2/2/2 chests, press the Ability Button 1 for 4/4/4 seconds next to a broken pallet to build a fragile pallet",
+    "You see the auras of broken pallets within 24/28/32 meters",
+    "Fragile pallets are destroyed after being dropped"
+   ]
+  },
+  {
+   "entity": "New Perk: Come and Get Me!",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR: RICK GRIMES",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After unhooking a Survivor, while crouched and idle, press the Ability Button 1 to make injured and dying Survivors within 24/24/24 meters leave no scratch marks or pools of blood or make grunts of pain for 10/12.5/15 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You scream and the Killer sees your aura for 5/5/5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After unhooking a Survivor, while crouched and idle, press the Ability Button 1 to make injured and dying Survivors within 24/24/24 meters leave no scratch marks or pools of blood or make grunts of pain for 10/12.5/15 seconds",
+    "You scream and the Killer sees your aura for 5/5/5 seconds"
+   ]
+  },
+  {
+   "entity": "New Perk: Teamwork: Toughen Up",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR: RICK GRIMES",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When another Survivor pallet-stuns or blinds the Killer while you are injured and within 24/24/24 meters, your grunts of pain, scratch marks and pools of blood are reduced by 100/100/100% for 20/25/30 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When another Survivor pallet-stuns or blinds the Killer while you are injured and within 24/24/24 meters, your grunts of pain, scratch marks and pools of blood are reduced by 100/100/100% for 20/25/30 seconds"
+   ]
+  },
+  {
+   "entity": "New Perk: Conviction",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR: MICHONNE GRIMES",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After you have healed 1/1/1 Survivor, while downed with at least 25/25/25% recovery, press Ability Button 2 to recover instantly",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You gain Broken, then are downed after 20/25/30 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After you have healed 1/1/1 Survivor, while downed with at least 25/25/25% recovery, press Ability Button 2 to recover instantly",
+    "You gain Broken, then are downed after 20/25/30 seconds"
+   ]
+  },
+  {
+   "entity": "New Perk: Last Stand",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR: MICHONNE GRIMES",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After spending 120/105/90 seconds in the Killer's Terror Radius while not in chase, when you fast-vault, stun the Killer for 3/3/3 seconds if they are within 2.5/2.5/2.5 meters",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Then, this perk is disabled for the rest of the trial",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After spending 120/105/90 seconds in the Killer's Terror Radius while not in chase, when you fast-vault, stun the Killer for 3/3/3 seconds if they are within 2.5/2.5/2.5 meters",
+    "Then, this perk is disabled for the rest of the trial"
+   ]
+  },
+  {
+   "entity": "New Perk: Teamwork: Throw Down",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR: MICHONNE GRIMES",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When you pallet-stun or blind the Killer, other injured Survivors within 24/24/24 meters gain Endurance and see the Killer's aura for 6/8/10 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When you pallet-stun or blind the Killer, other injured Survivors within 24/24/24 meters gain Endurance and see the Killer's aura for 6/8/10 seconds"
+   ]
+  },
+  {
+   "entity": "The Executioner",
+   "cat": "killer",
+   "section": "KILLER UPDATES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased Punishment of the Damned's range to 10 meters",
+     "after": "10 meters",
+     "before": "8",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased maximum Rites of Judgement duration to 10 seconds",
+     "after": "10 seconds",
+     "before": "5",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Rites of Judgement trail lifetime to 90 seconds",
+     "after": "90 seconds",
+     "before": "75",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Rites of Judgement movement speed to 4.2m/s",
+     "after": "4.2m/s",
+     "before": "4.4",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased Bloodpoint score for rescuing a Survivor from a cage to 2000",
+     "after": "2000",
+     "before": "550",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Punishment of the Damned's range to 10 meters (was 8)",
+    "Increased maximum Rites of Judgement duration to 10 seconds (was 5)",
+    "Increased Rites of Judgement trail lifetime to 90 seconds (was 75)",
+    "Decreased Rites of Judgement movement speed to 4.2m/s (was 4.4)",
+    "The inputs for Rites of Judgement, Punishment of the Damned, and sending a Survivor to a cage can now be held, starting the action as soon as it becomes available",
+    "Survivors who are rescued from a cage now gain 10% Haste and Endurance for 10 seconds",
+    "Increased Bloodpoint score for rescuing a Survivor from a cage to 2000 (was 550)"
+   ],
+   "character": "The Executioner"
+  },
+  {
+   "entity": "The Executioner's Add-Ons",
+   "cat": "killer",
+   "section": "KILLER UPDATES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Copper Ring: Now increases maximum duration of Rites of Judgement by 5 seconds",
+     "after": "5 seconds",
+     "before": "1",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Wax Doll: Now increases Punishment of the Damned's range by 5%",
+     "after": "5%",
+     "before": "12.5%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Lead Ring (Rework): Now increases Punishment of the Damned's range by 25% and decreases its width by 25%",
+    "Dead Butterfly (Rework): Now increases Rites of Judgement's recharge rate by 10%",
+    "Black Strap (Rework): Now decreases Punishment of the Damned's range by 25% and increases its width by 25%",
+    "Copper Ring: Now increases maximum duration of Rites of Judgement by 5 seconds (was 1)",
+    "Cinderella Music Box (Rework): Now decreases Punishment of the Damned's cooldown by 10%",
+    "Forgotten Video Tape (Rework): Now increases the speed at which Punishment of the Damned travels by 10%",
+    "Wax Doll: Now increases Punishment of the Damned's range by 5% (was 12.5%)",
+    "Spearhead (Rework): Now reveals the aura of the rescuer when a Survivor is saved from a cage for 8 seconds",
+    "Leopard-Print Fabric (Rework): Now decreases the duration of stuns while using Rites of Judgement by 15%",
+    "Mannequin Foot (Rework): Now causes Rites of Judgement trails to inflict Exhausted for 10 seconds",
+    "Valtiel Sect Photograph (Rework): Now decreases your Terror Radius by 2 meters for each Survivor affected by Torment",
+    "Burning Man Painting (Rework): Now reveals the auras of Survivors within 3 meters for 6 seconds upon missing a Punishment of the Damned attack",
+    "Tablet of the Oppressor (Rework): Now grants Undetectable while using Rites of Judgement",
+    "Misty Day, Remains of Judgement (Rework): Now reveals the auras of Survivors injured by Punishment of the Damned for 8 seconds",
+    "Scarlet Egg (Rework): Now causes Survivors inflicted by Torment to spawn Rites of Judgement trails when they sprint. These trails last 5 seconds. You no longer see the auras of Rites of Judgement trails",
+    "Rust-colored Egg (Rework): Now causes Punishment of the Damned hits to replenish Rites of Judgement's charge by 30%",
+    "Lost Memories Book (Rework): Now causes Survivors injured by Punishment of the Damned to become Oblivious for 80 seconds",
+    "Obsidian Goblet (Rework): Now allows Punishment of the Damned to destroy pallets and breakable walls. Increases Punishment of the Damned's cooldown by 20%",
+    "Iridescent Seal of Metatron (Rework): Now decreases Punishment of the Damned's range by 50%. Punishment of the Damned's range increases by creating Rites of Judgement trails, up to a maximum of 200%. This resets when Punishment of the Damned hits a Survivor"
+   ],
+   "character": "The Executioner"
+  },
+  {
+   "entity": "The Clown",
+   "cat": "killer",
+   "section": "KILLER UPDATES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased Haste effect of Afterpiece Antidote to 12%",
+     "after": "12%",
+     "before": "10%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the time it takes for Afterpiece Antidote gas clouds to activate to 1 second",
+     "after": "1 second",
+     "before": "2",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the Hindered effect of Afterpiece Tonic to 14%",
+     "after": "14%",
+     "before": "15%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased the Hindered effect linger time from Afterpiece Tonic gas clouds to 1 second",
+     "after": "1 second",
+     "before": "2",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased movement speed while reloading to 2.3m/s",
+     "after": "2.3m/s",
+     "before": "1.61",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the time it takes to reload to 2.5 seconds",
+     "after": "2.5 seconds",
+     "before": "3",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Haste effect of Afterpiece Antidote to 12% (was 10%)",
+    "Decreased the time it takes for Afterpiece Antidote gas clouds to activate to 1 second (was 2)",
+    "Decreased the Hindered effect of Afterpiece Tonic to 14% (was 15%)",
+    "Decreased the Hindered effect linger time from Afterpiece Tonic gas clouds to 1 second (was 2)",
+    "Increased movement speed while reloading to 2.3m/s (was 1.61)",
+    "Decreased the time it takes to reload to 2.5 seconds (was 3)",
+    "The inputs for reloading and charging a throw can now be held, starting the action as soon as it becomes available"
+   ],
+   "character": "The Clown"
+  },
+  {
+   "entity": "The Clown's Add-Ons",
+   "cat": "killer",
+   "section": "KILLER UPDATES",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Flask of Bleach: Now increases the Hindered penalty from Intoxication by 2%",
+     "after": "2%",
+     "before": "4%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Smelly Inner Soles: Now increases movement speed while reloading by 15%",
+     "after": "15%",
+     "before": "66%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Cigar Box: Now reveals auras within 6 meters",
+     "after": "6 meters",
+     "before": "16",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Ether 15 Vol%: Now increases the duration of Intoxication by 0.5 seconds",
+     "after": "0.5 seconds",
+     "before": "1",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "VHS Porn (Rework): Now increases the size and spread of Afterpiece Tonic gas clouds by 10%",
+    "Flask of Bleach: Now increases the Hindered penalty from Intoxication by 2% (was 4%)",
+    "Smelly Inner Soles: Now increases movement speed while reloading by 15% (was 66%)",
+    "Cigar Box: Now reveals auras within 6 meters (was 16)",
+    "Ether 15 Vol%: Now increases the duration of Intoxication by 0.5 seconds (was 1)"
+   ],
+   "character": "The Clown"
+  },
+  {
+   "entity": "The Pig",
+   "cat": "system",
+   "section": "KILLER UPDATES",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Ambush movement speed to 7.1m/s",
+     "after": "7.1m/s",
+     "before": "6.9",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased crouched movement speed to 4.0m/s",
+     "after": "4.0m/s",
+     "before": "3.8",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the time it takes to crouch & un-crouch to 0.8 seconds",
+     "after": "0.8 seconds",
+     "before": "1",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the rate at which the Terror Radius fades when crouching to 0.33",
+     "after": "0.33",
+     "before": "0.25",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Bloodpoint score for escaping a Reverse Bear Trap to 1000",
+     "after": "1000",
+     "before": "400",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Bloodpoint score for searching through a Jigsaw Box to 200",
+     "after": "200",
+     "before": "100",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Searching a Jigsaw Box now awards Survival points",
+     "after": null,
+     "before": "Objective",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increased Ambush movement speed to 7.1m/s (was 6.9)",
+    "Increased crouched movement speed to 4.0m/s (was 3.8)",
+    "Decreased the time it takes to crouch & un-crouch to 0.8 seconds (was 1)",
+    "Increased the rate at which the Terror Radius fades when crouching to 0.33 (was 0.25)",
+    "The inputs for crouching and ambushing can now be held, starting the action as soon as it becomes available",
+    "Increased Bloodpoint score for escaping a Reverse Bear Trap to 1000 (was 400)",
+    "Increased Bloodpoint score for searching through a Jigsaw Box to 200 (was 100)",
+    "Searching a Jigsaw Box now awards Survival points (was Objective)"
+   ]
+  },
+  {
+   "entity": "The Pig's Add-Ons",
+   "cat": "system",
+   "section": "KILLER UPDATES",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "John's Medical File: Now increases crouched movement speed by 5%",
+     "after": "5%",
+     "before": "10%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Last Will: Now increases Ambush speed by 5%",
+     "after": "5%",
+     "before": "6%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "and increases the time to charge Ambush by 10%",
+     "after": "10%",
+     "before": "33%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Workshop Grease: No longer decreases missed Ambush attack cooldown",
+     "after": null,
+     "before": "10%",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "John's Medical File: Now increases crouched movement speed by 5% (was 10%)",
+    "Last Will: Now increases Ambush speed by 5% (was 6%) and increases the time to charge Ambush by 10% (was 33%)",
+    "Workshop Grease: No longer decreases missed Ambush attack cooldown (was 10%)"
+   ]
+  },
+  {
+   "entity": "The Knight",
+   "cat": "killer",
+   "section": "KILLER UPDATES",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased max patrol path length to 38 meters",
+     "after": "38 meters",
+     "before": "32",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased patrol path creation speed to 15m/s",
+     "after": "15m/s",
+     "before": "13.8",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased strafe speed while creating a patrol path to 100%",
+     "after": "100%",
+     "before": "25%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased max patrol path length to 38 meters (was 32)",
+    "Increased patrol path creation speed to 15m/s (was 13.8)",
+    "Increased patrol path acceleration by 2x",
+    "Increased strafe speed while creating a patrol path to 100% (was 25%)",
+    "The input for starting a patrol path can now be held, starting the action as soon as it becomes available"
+   ],
+   "character": "The Knight"
+  },
+  {
+   "entity": "The Knight's Add-Ons",
+   "cat": "killer",
+   "section": "KILLER UPDATES",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Call to Arms: Now increases patrol path length by 4 meters",
+     "after": "4 meters",
+     "before": "10",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "and path creation speed by 7%",
+     "after": "7%",
+     "before": "16%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Call to Arms: Now increases patrol path length by 4 meters (was 10) and path creation speed by 7% (was 16%)"
+   ],
+   "character": "The Knight"
+  },
+  {
+   "entity": "The Oni",
+   "cat": "killer",
+   "section": "KILLER UPDATES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased the Demon Strike turn rate limit during the open phase of the attack to 540 degrees",
+     "after": "540 degrees",
+     "before": "disabled",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increased the Demon Strike turn rate limit during the open phase of the attack to 540 degrees (was disabled)"
+   ],
+   "character": "The Oni"
+  },
+  {
+   "entity": "NEW SURVIVOR ITEM: FOG VIAL",
+   "cat": "survivor",
+   "section": "NEW SURVIVOR ITEM: FOG VIAL",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Press the Use Item button to release a cloud of fog, decreasing visibility, suppressing scratch marks, auras, and Survivor sounds within its radius. Recharges over time",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Each Fog Vial shares the following parameters:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Has 1 charge",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Has 40% opacity",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Has an 8-meter radius",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Press the Use Item button to release a cloud of fog, decreasing visibility, suppressing scratch marks, auras, and Survivor sounds within its radius. Recharges over time",
+    "Each Fog Vial shares the following parameters:",
+    "Has 1 charge",
+    "Has 40% opacity",
+    "Has an 8-meter radius"
+   ]
+  },
+  {
+   "entity": "APPRENTICE'S FOG VIAL (COMMON)",
+   "cat": "system",
+   "section": "FOG VIAL ITEM VARIANTS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reaches its maximum size after 2 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Lasts 8 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Recharges 70 seconds after use",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reaches its maximum size after 2 seconds",
+    "Lasts 8 seconds",
+    "Recharges 70 seconds after use"
+   ]
+  },
+  {
+   "entity": "ARTISAN'S FOG VIAL (UNCOMMON)",
+   "cat": "system",
+   "section": "FOG VIAL ITEM VARIANTS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reaches its maximum size after 1.5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Lasts 10 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Recharges 65 seconds after use",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reaches its maximum size after 1.5 seconds",
+    "Lasts 10 seconds",
+    "Recharges 65 seconds after use"
+   ]
+  },
+  {
+   "entity": "VIGO'S FOG VIAL (RARE)",
+   "cat": "system",
+   "section": "FOG VIAL ITEM VARIANTS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reaches its maximum size after 1.2 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Lasts 12 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Recharges 60 seconds after use",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reaches its maximum size after 1.2 seconds",
+    "Lasts 12 seconds",
+    "Recharges 60 seconds after use"
+   ]
+  },
+  {
+   "entity": "Volcanic Stone (Common)",
+   "cat": "system",
+   "section": "FOG VIAL ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreases recharge time by 5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Decreases recharge time by 5 seconds"
+   ]
+  },
+  {
+   "entity": "Reactive Compound (Uncommon)",
+   "cat": "system",
+   "section": "FOG VIAL ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreases fog cloud expansion time by 1 second",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Decreases fog cloud expansion time by 1 second"
+   ]
+  },
+  {
+   "entity": "Oily Sap (Rare)",
+   "cat": "system",
+   "section": "FOG VIAL ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases fog cloud lifetime by 2 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases fog cloud lifetime by 2 seconds"
+   ]
+  },
+  {
+   "entity": "Mushroom Formula (Very Rare)",
+   "cat": "system",
+   "section": "FOG VIAL ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases the fog cloud's maximum size by 2 meters",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases the fog cloud's maximum size by 2 meters"
+   ]
+  },
+  {
+   "entity": "Potent Extract (Visceral)",
+   "cat": "system",
+   "section": "FOG VIAL ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreases visibility by 10%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Decreases the fog cloud's maximum size by 25%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Decreases the fog cloud's maximum lifetime by 50%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Decreases visibility by 10%",
+    "Decreases the fog cloud's maximum size by 25%",
+    "Decreases the fog cloud's maximum lifetime by 50%"
+   ]
+  },
+  {
+   "entity": "SURVIVOR ITEM REWORK: KEY",
+   "cat": "survivor",
+   "section": "SURVIVOR ITEM REWORK: KEY",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Press the Use Item button to start channeling the Key",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Once fully channeled, consumes 1 charge to reveal auras of Survivors in range for a set duration",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "While near a locked chest, press the Use Item button to quickly open the chest (uncommon Key or higher)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Consumes 1 charge",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Guarantees an item of Rare rarity or higher",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Unlocking a chest with a Key reveals its aura in yellow to other Survivors in range",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "1 other Survivor can rummage through the unlocked chest once",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Guarantees an item of Rare rarity or higher",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "While performing the rummage action, the rummaging Survivor's aura appears to the Key holder",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "While near a closed hatch, press the Use Item button to unlock it (uncommon Key or higher)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Consumes 1 charge",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Key item is no longer destroyed upon Survivor completing interaction and escaping the Trial",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Press the Use Item button to start channeling the Key",
+    "Once fully channeled, consumes 1 charge to reveal auras of Survivors in range for a set duration",
+    "While near a locked chest, press the Use Item button to quickly open the chest (uncommon Key or higher)",
+    "Consumes 1 charge",
+    "Guarantees an item of Rare rarity or higher",
+    "Unlocking a chest with a Key reveals its aura in yellow to other Survivors in range",
+    "1 other Survivor can rummage through the unlocked chest once",
+    "Guarantees an item of Rare rarity or higher",
+    "While performing the rummage action, the rummaging Survivor's aura appears to the Key holder",
+    "While near a closed hatch, press the Use Item button to unlock it (uncommon Key or higher)",
+    "Consumes 1 charge",
+    "The Key item is no longer destroyed upon Survivor completing interaction and escaping the Trial"
+   ]
+  },
+  {
+   "entity": "BROKEN KEY (COMMON)",
+   "cat": "system",
+   "section": "KEY ITEM VARIANTS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reveal auras of Survivors within 48 meters for 8 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "6 charges",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reveal auras of Survivors within 48 meters for 8 seconds",
+    "6 charges"
+   ]
+  },
+  {
+   "entity": "DULL KEY (UNCOMMON)",
+   "cat": "system",
+   "section": "KEY ITEM VARIANTS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reveal auras of Survivors within 56 meters for 9 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Can unlock chests and hatch",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "5 charges",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reveal auras of Survivors within 56 meters for 9 seconds",
+    "Can unlock chests and hatch",
+    "5 charges"
+   ]
+  },
+  {
+   "entity": "SKELETON KEY (RARE)",
+   "cat": "system",
+   "section": "KEY ITEM VARIANTS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reveal auras of Survivors within 64 meters for 10 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Can unlock chests and hatch",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "6 charges",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reveal auras of Survivors within 64 meters for 10 seconds",
+    "Can unlock chests and hatch",
+    "6 charges"
+   ]
+  },
+  {
+   "entity": "Friendship Charm (Common)",
+   "cat": "system",
+   "section": "KEY ITEM ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases a Key's charges by 1",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases a Key's charges by 1"
+   ]
+  },
+  {
+   "entity": "Shrill Whistle (Uncommon)",
+   "cat": "system",
+   "section": "KEY ITEM ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreases the time to channel a Key by 35%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Decreases the time to channel a Key by 35%"
+   ]
+  },
+  {
+   "entity": "Braided Bauble (Rare)",
+   "cat": "system",
+   "section": "KEY ITEM ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases the duration of auras revealed by Keys by 2 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases the duration of auras revealed by Keys by 2 seconds"
+   ]
+  },
+  {
+   "entity": "Unique Wedding Ring (Very Rare)",
+   "cat": "system",
+   "section": "KEY ITEM ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Obsession and yourself both see each other's aura at all times",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Decreases your chances of being the Killer’s Obsession",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Obsession and yourself both see each other's aura at all times",
+    "Decreases your chances of being the Killer’s Obsession"
+   ]
+  },
+  {
+   "entity": "Blood Amber (Visceral)",
+   "cat": "system",
+   "section": "KEY ITEM ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Using this Key reveals the Killer to you, and you to the Killer",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reduces aura reveal time by 6 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reduces number of charges by 2",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Using this Key reveals the Killer to you, and you to the Killer",
+    "Reduces aura reveal time by 6 seconds",
+    "Reduces number of charges by 2"
+   ]
+  },
+  {
+   "entity": "SURVIVOR ITEM REWORK: MAP",
+   "cat": "survivor",
+   "section": "SURVIVOR ITEM REWORK: MAP",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Press the Use Item button to start channeling the Map",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Once fully channeled, consumes 1 charge to reveal auras of windows and pallets in range for a set duration",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "While revealing auras, press the Use Item button to create a beam of light at your location",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Generators within 32 meters of the beam of light are revealed to all Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Beam of light is visible and audible to Survivors only",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Press the Use Item button to start channeling the Map",
+    "Once fully channeled, consumes 1 charge to reveal auras of windows and pallets in range for a set duration",
+    "While revealing auras, press the Use Item button to create a beam of light at your location",
+    "Generators within 32 meters of the beam of light are revealed to all Survivors",
+    "Beam of light is visible and audible to Survivors only"
+   ]
+  },
+  {
+   "entity": "CRYPTIC MAP (COMMON)",
+   "cat": "system",
+   "section": "MAP ITEM VARIANTS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reveal auras of windows and pallets within 24 meters for 10 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "4 charges",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reveal auras of windows and pallets within 24 meters for 10 seconds",
+    "4 charges"
+   ]
+  },
+  {
+   "entity": "SCRIBBLED MAP (UNCOMMON)",
+   "cat": "system",
+   "section": "MAP ITEM VARIANTS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reveal auras of windows and pallets within 32 meters for 12 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "5 charges",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reveal auras of windows and pallets within 32 meters for 12 seconds",
+    "5 charges"
+   ]
+  },
+  {
+   "entity": "ANNOTATED MAP (RARE)",
+   "cat": "system",
+   "section": "MAP ITEM VARIANTS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reveal auras of windows and pallets within 40 meters for 14 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "6 charges",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reveal auras of windows and pallets within 40 meters for 14 seconds",
+    "6 charges"
+   ]
+  },
+  {
+   "entity": "BLOODSENSE MAP (EVENT)",
+   "cat": "system",
+   "section": "MAP ITEM VARIANTS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Reveal auras of windows and pallets within 48 meters for 14 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Causes pools of blood to spawn beneath you while revealing auras",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "8 charges",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Reveal auras of windows and pallets within 48 meters for 14 seconds",
+    "Causes pools of blood to spawn beneath you while revealing auras",
+    "8 charges"
+   ]
+  },
+  {
+   "entity": "Glowing Ink (Common)",
+   "cat": "system",
+   "section": "MAP ITEM ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases the duration of auras revealed by Maps by 2 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases the duration of auras revealed by Maps by 2 seconds"
+   ]
+  },
+  {
+   "entity": "Gnarled Compass (Uncommon)",
+   "cat": "system",
+   "section": "MAP ITEM ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases a Map's charges by 2",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases a Map's charges by 2"
+   ]
+  },
+  {
+   "entity": "Battered Tape (Rare)",
+   "cat": "system",
+   "section": "MAP ITEM ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases the maximum range of a Map by 8 meters",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increases the maximum range of a Map by 8 meters"
+   ]
+  },
+  {
+   "entity": "Sharpened Flint (Very Rare)",
+   "cat": "system",
+   "section": "MAP ITEM ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When using the Map, all Totems within range are revealed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When using the Map, all Totems within range are revealed"
+   ]
+  },
+  {
+   "entity": "Crimson Stamp (Visceral)",
+   "cat": "system",
+   "section": "MAP ITEM ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Killer's Aura is revealed within 8 meters of the beam of light",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reduces beam of light duration by 10 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Reduces number of charges by 2",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Killer's Aura is revealed within 8 meters of the beam of light",
+    "Reduces beam of light duration by 10 seconds",
+    "Reduces number of charges by 2"
+   ]
+  },
+  {
+   "entity": "RETIRED KEY & MAP ADD-ONS",
+   "cat": "system",
+   "section": "RETIRED KEY & MAP ADD-ONS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The following add-ons have been retired from the Bloodweb:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Key add-ons:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Scratched Pearl (Uncommon)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Gold Token (Rare)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Milky Glass (Very Rare)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Weaved Ring (Very Rare)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Map add-ons:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Yellow Wire (Uncommon)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Black Silk Cord (Rare)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Odd Stamp (Rare)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Crystal Bead (Very Rare)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "These add-ons can no longer be equipped to their corresponding items, but will remain visible in each Survivor's respective inventories",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bloodpoint compensation will be awarded as a result of retired add-ons",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The following add-ons have been retired from the Bloodweb:",
+    "Key add-ons:",
+    "Scratched Pearl (Uncommon)",
+    "Gold Token (Rare)",
+    "Milky Glass (Very Rare)",
+    "Weaved Ring (Very Rare)",
+    "Map add-ons:",
+    "Yellow Wire (Uncommon)",
+    "Black Silk Cord (Rare)",
+    "Odd Stamp (Rare)",
+    "Crystal Bead (Very Rare)",
+    "These add-ons can no longer be equipped to their corresponding items, but will remain visible in each Survivor's respective inventories",
+    "Bloodpoint compensation will be awarded as a result of retired add-ons"
+   ]
+  },
+  {
+   "entity": "Insidious",
+   "cat": "perk",
+   "role": "killer",
+   "section": "KILLER PERKS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased the time it takes to activate to 3/2/1 second",
+     "after": "3/2/1 second",
+     "before": "4/3/2",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the time it takes to activate to 3/2/1 second (was 4/3/2)"
+   ]
+  },
+  {
+   "entity": "Hubris",
+   "cat": "perk",
+   "role": "killer",
+   "section": "KILLER PERKS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the duration of the Exposed effect to 20/25/30 seconds",
+     "after": "20/25/30 seconds",
+     "before": "10/15/20",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the duration of the Exposed effect to 20/25/30 seconds (was 10/15/20)"
+   ]
+  },
+  {
+   "entity": "Dragon's Grip",
+   "cat": "perk",
+   "role": "killer",
+   "section": "KILLER PERKS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased cooldown to 60/45/30 seconds",
+     "after": "60/45/30 seconds",
+     "before": "60/50/40",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased cooldown to 60/45/30 seconds (was 60/50/40)"
+   ]
+  },
+  {
+   "entity": "Scourge Hook: Hangman's Trick",
+   "cat": "perk",
+   "role": "killer",
+   "section": "KILLER PERKS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased aura reading range to 12/14/16 meters",
+     "after": "12/14/16 meters",
+     "before": "8/10/12",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased aura reading range to 12/14/16 meters (was 8/10/12)"
+   ]
+  },
+  {
+   "entity": "Overwhelming Presence (Rework)",
+   "cat": "perk",
+   "role": "killer",
+   "section": "KILLER PERKS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Survivor starts using an item within 32 meters of you, they gain Exhausted for 15 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When a Survivor within 32 meters of you gains Exhausted, you see the closest Exhausted Survivor's aura for 2/3/4 seconds. This perk has a 25 second cooldown",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Survivor starts using an item within 32 meters of you, they gain Exhausted for 15 seconds",
+    "When a Survivor within 32 meters of you gains Exhausted, you see the closest Exhausted Survivor's aura for 2/3/4 seconds. This perk has a 25 second cooldown"
+   ]
+  },
+  {
+   "entity": "Franklin's Demise",
+   "cat": "perk",
+   "role": "killer",
+   "section": "KILLER PERKS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased aura reading range to 32/48/64 meters",
+     "after": "32/48/64 meters",
+     "before": "32/32/32",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased aura reading range to 32/48/64 meters (was 32/32/32). No longer causes dropped items to lose charges over time"
+   ]
+  },
+  {
+   "entity": "Potential Energy",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "SURVIVOR PERKS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "No longer requires a minimum time spent repairing to activate",
+     "after": null,
+     "before": "12/10/8 seconds",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Decreased the amount of repair required to earn a token to 1%",
+     "after": "1%",
+     "before": "1.5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "No longer requires a minimum time spent repairing to activate (was 12/10/8 seconds). Decreased the amount of repair required to earn a token to 1% (was 1.5%)"
+   ]
+  },
+  {
+   "entity": "Any Means Necessary",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "SURVIVOR PERKS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased the time it takes to raise a pallet to 5/4/3 seconds",
+     "after": "5/4/3 seconds",
+     "before": "6/5/4",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the time it takes to raise a pallet to 5/4/3 seconds (was 6/5/4)"
+   ]
+  },
+  {
+   "entity": "Better Together",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "SURVIVOR PERKS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "The aura of the generator you are repairing no longer has a range limit. Increased the duration of Survivor aura reading to 20/25/30 seconds",
+     "after": "20/25/30 seconds",
+     "before": "8/9/10",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "The aura of the generator you are repairing no longer has a range limit. Increased the duration of Survivor aura reading to 20/25/30 seconds (was 8/9/10)"
+   ]
+  },
+  {
+   "entity": "Still Sight",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "SURVIVOR PERKS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased the time it takes to activate to 4/3/2 seconds",
+     "after": "4/3/2 seconds",
+     "before": "6/5/4",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the time it takes to activate to 4/3/2 seconds (was 6/5/4)"
+   ]
+  },
+  {
+   "entity": "Built to Last",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "SURVIVOR PERKS",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased the time spent in a locker to 14/12/10 seconds",
+     "after": "14/12/10 seconds",
+     "before": "14/13/12",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased the time spent in a locker to 14/12/10 seconds (was 14/13/12)"
+   ]
+  },
+  {
+   "entity": "Appraisal",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "SURVIVOR PERKS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the number of tokens to 4",
+     "after": "4",
+     "before": "3",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Each chest can now be rummaged twice",
+     "after": "twice",
+     "before": "once",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increased the number of tokens to 4 (was 3). Each chest can now be rummaged twice (was once)"
+   ]
+  },
+  {
+   "entity": "Streetwise (Rework)",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "SURVIVOR PERKS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The first time you deplete an item with charges, see the Killer's aura for 8 seconds. Items with charges retrieved from chests have +60/70/80% charges",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The first time you deplete an item with charges, see the Killer's aura for 8 seconds. Items with charges retrieved from chests have +60/70/80% charges"
+   ]
+  },
+  {
+   "entity": "Detective's Hunch",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "SURVIVOR PERKS",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased aura reading duration to 20 seconds",
+     "after": "20 seconds",
+     "before": "10",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased aura reading duration to 20 seconds (was 10). Maps no longer track revealed objects"
+   ]
+  },
+  {
+   "entity": "Déjà Vu",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "SURVIVOR PERKS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Maps no longer track revealed generators",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Maps no longer track revealed generators"
+   ]
+  },
+  {
+   "entity": "THE ARCHIVES",
+   "cat": "system",
+   "section": "THE ARCHIVES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "In conjunction with the updates to the Map item, existing Map challenges in the Archives have been replaced with alternate objectives:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Tome 2 Level 2's \"Explorer\" challenge is now \"Appeal to Heal\"",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Tome 14 Level 1's \"Cartophile\" master challenge is now \"Jump-Start\"",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Tome 16 Level 4's \"One Step Ahead\" is now \"Appeal to Heal\"",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "In conjunction with the updates to the Map item, existing Map challenges in the Archives have been replaced with alternate objectives:",
+    "Tome 2 Level 2's \"Explorer\" challenge is now \"Appeal to Heal\"",
+    "Tome 14 Level 1's \"Cartophile\" master challenge is now \"Jump-Start\"",
+    "Tome 16 Level 4's \"One Step Ahead\" is now \"Appeal to Heal\""
+   ]
+  },
+  {
+   "entity": "REALM EXPANSION - FALLEN REFUGE",
+   "cat": "system",
+   "section": "REALM EXPANSION - FALLEN REFUGE",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "A new Map within the Withered Isle Realm that introduces a special The Walking Dead themed tile",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "A new Map within the Withered Isle Realm that introduces a special The Walking Dead themed tile"
+   ]
+  },
+  {
+   "entity": "CUSTOM GAMES AND SPECTATOR MODE",
+   "cat": "system",
+   "section": "CUSTOM GAMES AND SPECTATOR MODE",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Hotkeys to spectate different players are now shown in the HUD. They can be toggled off in the settings",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "A marker has been added to the HUD to show which player is being spectated",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When spectating mid-Trial, the HUD will show all players including those that have already finish playing",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The spectate button was relocated on the tally screen for easier access",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Hotkeys to spectate different players are now shown in the HUD. They can be toggled off in the settings",
+    "A marker has been added to the HUD to show which player is being spectated",
+    "When spectating mid-Trial, the HUD will show all players including those that have already finish playing",
+    "The spectate button was relocated on the tally screen for easier access"
+   ]
+  },
+  {
+   "entity": "HOOKS",
+   "cat": "system",
+   "section": "HOOKS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When only two Survivors remain, letting two struggle skill checks pass without any input will immediately skip to the sacrifice sequence",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When all remaining Survivors are hooked simultaneously, they will all skip to the sacrifice sequence",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When only two Survivors remain, letting two struggle skill checks pass without any input will immediately skip to the sacrifice sequence",
+    "When all remaining Survivors are hooked simultaneously, they will all skip to the sacrifice sequence"
+   ]
+  },
+  {
+   "entity": "KEYBOARD & MOUSE SUPPORT FOR CONSOLES",
+   "cat": "system",
+   "section": "KEYBOARD & MOUSE SUPPORT FOR CONSOLES",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Keyboard & Mouse support has been added for Xbox One, Xbox Series X|S, PlayStation 4, and PlayStation 5",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Please note that the keyboard numpad is not supported on any Xbox console at this time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Keyboard & Mouse support has been added for Xbox One, Xbox Series X|S, PlayStation 4, and PlayStation 5",
+    "Please note that the keyboard numpad is not supported on any Xbox console at this time"
+   ]
+  },
+  {
+   "entity": "PRESETS",
+   "cat": "system",
+   "section": "PRESETS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Players have access to a new preset system",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The number of available Loadout and Cosmetic presets has been increased to 7",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Presets can now be selected using a dropdown",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Presets can now be renamed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Players have access to a new preset system",
+    "The number of available Loadout and Cosmetic presets has been increased to 7",
+    "Presets can now be selected using a dropdown",
+    "Presets can now be renamed"
+   ]
+  },
+  {
+   "entity": "QUESTS",
+   "cat": "system",
+   "section": "QUESTS",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "A new set of quests called \"Into the Fog\" has been added",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "These quests are aimed towards new players",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "A new set of quests called \"Into the Fog\" has been added",
+    "These quests are aimed towards new players"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where the beam of light SFX from the Map item would keep playing after the VFX had been dismissed.",
+    "Fixed an issue where the Rift Unlock Tiers SFX would not play properly.",
+    "Fixed an issue where background ambiance audio would disappear for Survivors when The Animatronic teleported using Security Doors.",
+    "Fixed an issue with The Good Guy's grunts when picking up a Survivor from a locker.",
+    "Fixed an issue where The Good Guy's attack SFX would play after vaulting using Slice and Dice.",
+    "Fixed an issue where Dwight's \"Dare Hansel\" outfit was missing its theme music in the lobby.",
+    "Fixed an issue where the Artist's Boulet Artist outfit was missing global SFX when using her powers."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Survivor bots are now less predictable and more prone to errors while looping Killers they cannot see.",
+    "Survivor bots now remain on generators longer when a Killer approaches without being seen by the bot.",
+    "Fixed an issue where Survivor bots were unable to properly self-heal with a Med-Kit.",
+    "Fixed an issue where Survivor bots attempted to heal others while in Madness tier 3."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where an incorrect percentage was shown in the description of The Knight's Call to Arms add-on.",
+    "Fixed an issue where The Knight's Guards would become stuck when damaging generators that were being blocked.",
+    "Fixed an issue where The Pig's Slow-Release Toxin add-on would not apply the Exhausted status effect when Survivors received a 2nd Reverse Bear Trap.",
+    "Fixed an issue where the depleted item icon would become active when getting close to an unlocked locker when playing against The Dredge.",
+    "Fixed an issue where The Mastermind would get stuck in the carry animation.",
+    "Fixed an issue where The Singularity's Charge Biopod SFX would play when quickly attacking after releasing the Charge Biopod button.",
+    "Fixed an issue where Survivors would lose Houndsense when rescuing a Survivor from a hook when playing against The Houndmaster.",
+    "Fixed an issue where The Ghoul's forward momentum during Kagune Leap could be cancelled by holding backwards.",
+    "Fixed an issue where a Survivor would not receive a Protection Hit when hit by The Ghoul's Grab-Attack.",
+    "Fixed an issue where The Lich's Vorpal Sword add-on would display the wrong time for the Mage Hand to break downed pallets.",
+    "Fixed an issue where the camera for The Lich Mori would be incorrectly positioned.",
+    "Fixed an issue where Survivors could become stuck when vaulting towards a Phantasm Trap if The Hag had the Scarred Hand add-on equipped.",
+    "Fixed an issue where arrow indicators remained on The Onryo's TVs indefinitely after looking at a TV while Projection was ready.",
+    "Fixed an issue where The Animatronic turned invisible when a Survivor activated the Head On perk at the same time that the Killer interacted with a Security Door.",
+    "Fixed an issue where some Killer animations would get stuck after hooking a Survivor."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in the Toba Landing map where traps placed on door slopes would be hidden in the floor.",
+    "Fixed an issue where Mikaela's hair would glow or appear incorrectly on low and medium graphic settings.",
+    "Fixed multiple issues where the camera would clip inside The Houndmaster during their introduction.",
+    "Fixed an issue in the Ormond Lake Mine map where The Knight's Guards would become stuck in invisible collisions.",
+    "Fixed an issue in the Dead Dawg Saloon map where the debris of a broken pallet would clip into the ground.",
+    "Fixed an issue in the Garden of Joy map where Victor could get pushed out of bounds by jumping against a rock.",
+    "Fixed an issue in the Freddy Fazbear's Pizza map where a pallet could not be broken on one side.",
+    "Fixed issues in multiple maps where players could see out of bounds during Mori animations.",
+    "Fixed an issue where projectiles could travel under snowplows.",
+    "Fixed a loading distance issue on the soda machine in the Freddy Fazbear's Pizza map.",
+    "Fixed a loading distance issue on the shack wall near the exit door in the Greenville Square map.",
+    "Fixed an issue in the Gas Heaven map where black textures would appear at the top of the stairs leading to the Killer basement in the main building.",
+    "Fixed an issue in the Raccoon City Police Station East Wing map where The Deathslinger could not harpoon survivors on the other side of a vent.",
+    "Fixed an issue in The Pale Rose map where a missing texture could be seen on the boat during Mori animations.",
+    "Fixed an issue in the Treatment Theatre map where a wall in the Killer's basement would have a missing texture.",
+    "Fixed an issue in the Greenville Square map where The Singularity could place a biopod under the ground.",
+    "Fixed an issue in The Underground Complex map where The Nurse could blink out of the map.",
+    "Fixed an issue in the Shelter Woods map where players could collide against an invisible object.",
+    "Fixed an issue in the Raccoon City Realm where The Singularity could not place biopods on structures.",
+    "Fixed an issue in the Raccoon City Police Station East Wing map where the Killer could not place Survivors on a specific hook.",
+    "Fixed an issue in the Garden of Joy map where generators would spawn mainly on one side of the map.",
+    "Fixed an issue in the Temple of Purgation map where The Animatronic's Security Door could obstruct player movement.",
+    "Fixed an issue in the Mount Ormond Resort map where a Survivor would clip through the top of a locker when leaving it.",
+    "Fixed an issue in the Gas Heaven map where The Animatronic's Security Door could obstruct player movement.",
+    "Fixed an issue in the Greenville Square map where various rooms were too dark.",
+    "Fixed an issue in the Treatment Theatre map where various lights could be seen floating out of bounds.",
+    "Fixed an issue where a vault appeared to be accessible on the School Bus on Wrecker's Yard."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where using a Killer power to vault would trigger Unbound.",
+    "Fixed an issue where the Killer's obsession would change when Dramaturgy spawned a Key with a Unique Wedding Ring add-on.",
+    "Fixed a display issue where players could visually remain at 2 hooks when rescued with Shoulder the Burden.",
+    "Fixed an issue where using Shoulder the Burden would not trigger We’ll Make It.",
+    "Fixed an issue where a generator's explosion was counted twice when Surge and Eruption were equipped."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where other characters in the lobby would not appear greyed out when they were in a match.",
+    "Fixed an issue where the size of the Rift Unlock Tiers popup did not follow the set UI Scale setting.",
+    "Fixed an issue where the tier quantity in the Rift Unlock Tiers popup did not adjust correctly when holding down the quantity buttons.",
+    "Fixed an issue where notification icons would not appear for quests when opening the Quest menu.",
+    "Fixed an issue where completed quests were not sorted correctly.",
+    "Fixed an issue where the sale tag was misaligned after hovering over it.",
+    "Fixed an issue where part of the loading screen was visible when starting a Trial."
+   ]
+  },
+  {
+   "group": "Miscellaneous",
+   "items": [
+    "Fixed an issue where the English End User License Agreement to link to the French Privacy Policy documentation.",
+    "Fixed an issue where Terror Radius sounds would start at their full level before being suppressed by the Oblivious effect when inside the Terror Radius at a far distance."
+   ]
+  },
+  {
+   "group": "Bug Fixes",
+   "items": [
+    "Fixed an issue where Survivors using Last Stand could stun the Killer while vaulting away from them. This should only work if you vault into the Killer or fall on them.",
+    "Fixed an issue where the \"Rename Preset\" button prompt would remain on-screen after selecting a preset.",
+    "Fixed an issue where some shortcut buttons were not functioning as intended.",
+    "Fixed an issue where the Killer's power was not displayed when spectating in Custom Game.",
+    "Fixed an issue where the name of the first spectated player was missing.",
+    "Fixed an issue where the spectated Survivor was holding the wrong item.",
+    "Fixed an issue where the spectate hotkey was not dimmed until another player was spectated.",
+    "Fixed an issue where UI scale was not applied to the spectator HUD.",
+    "Fixed an issue where the preset dropdown could be accessed even when only a single preset was available.",
+    "Fixed an issue where new characters were not sorted properly.",
+    "Fixed an issue where selecting certain shortcut keys for Spectator Mode would not work.",
+    "Fixed an issue where the mouse cursor would disappear or revert to the console cursor when using keyboard and mouse on certain platforms.",
+    "Improved optimization in the Fallen Refuge map.",
+    "Fixed multiple loading distance issues on the Fallen Refuge map.",
+    "Fixed an issue in the Fallen Refuge map where a wall would display incorrectly.",
+    "Fixed an issue in the Fallen Refuge map where a hole was present in a door frame.",
+    "Fixed an issue in the Fallen Refuge map where The Singularity could place biopods inside the vents of the hospital/prison tile.",
+    "Fixed an issue in the Fallen Refuge map where Security Doors could clip through a wall.",
+    "Fixed an issue in the Lobby where a fence produced a bright reflection.",
+    "Fixed an issue that caused certain hanging zombie animations to appear incorrectly.",
+    "Fixed an issue where certain Killers were able to see their aura after changing their camera perspective in the Fog Vial's fog with the Potent Extract add-on equipped.",
+    "Fixed an issue where Survivors were able to scan The Animatronic while the Security Door was inside the Fog Vial's fog.",
+    "Fixed an issue where the cooldown of the Fog Vial was reset after the Built to Last perk had been used.",
+    "Fixed an issue where The Killer was able to reveal Survivors' auras while within a fog cloud.",
+    "Fixed an issue where Vigil reduced the duration of the Broken status effect from the Conviction perk.",
+    "Fixed an issue where players could not invert their Y-axis from the Options menu.",
+    "Fixed an issue where starting and stopping opening a chest quickly completed the challenge \"Open 2 chest(s)\".",
+    "Fixed an issue where players were unable to gain progress for the challenge \"Damage 3 Generator(s)\" when using the Driver's License add-on.",
+    "Fixed an issue where no progress was made with skill checks for the \"Succeed at repair skill checks\" quest.",
+    "Fixed an issue where The Executioner's Obsidian Goblet add-on would not break a pallet if a Survivor was hit while vaulting it.",
+    "Fixed an issue where loud noise notifications were missing for the Killer's POV when Last Stand was triggered on dropped pallets.",
+    "Fixed an issue where The Singularity was unable to lose Overclock and obtain Hindered after being stunned by Last Stand.",
+    "Fixed an issue where Hardened would not show the Killer's aura when Thwack! made a Survivor scream.",
+    "Fixed an issue where The Legion could vault over upright pallets",
+    "Fixed an issue where the 8-meter range was not applied when the Battered Tape add-on was equipped on each Map item's rarity.",
+    "Fixed an issue where charge-based items found in chests received more charges than intended when equipped with the Streetwise perk.",
+    "Fixed an issue where Rick and Michonne's voiceover discussion was sometimes missing.",
+    "Fixed an issue where fog cloud SFX would play each time the camera's POV was swapped.",
+    "Fixed an issue where Michonne's special vault animation was missing audio when performing a fast vault."
+   ]
+  }
+ ]
+}

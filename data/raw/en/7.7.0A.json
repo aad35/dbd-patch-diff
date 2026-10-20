@@ -1,0 +1,10 @@
+{
+ "version": "7.7.0A",
+ "kind": "release",
+ "id": "7.7.0A",
+ "title": "7.7.0A | Bugfix Patch (Tentative Strobing Fix)",
+ "gid": "4170972198122834038",
+ "posttime": 1714167743,
+ "url": "https://store.steampowered.com/news/app/381210/view/4170972198122834038?l=english",
+ "body": "[img]{STEAM_CLAN_IMAGE}/11814497/628e469884356e72312731054aefecd3d7938cc3.png[/img]\nUPDATE (5/1/2024)\n[list]\n[*] The tentative fix is now live on Windows Store, PS4, PS5, Switch and Xbox. \n\n[/list]\n\n[h2]Bug fix[/h2]\n[list]\n[*] [b]Tentatively[/b] fixed an issue causing strobing / flashing white lights.\n[*] [b]This fix is applied to Steam and Epic Game Store initially.[/b]\n[/list]\n\nPlease advise if you continue to encounter the flashing lights after downloading the hotfix in the Steam discussion thread."
+}

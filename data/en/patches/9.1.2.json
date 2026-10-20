@@ -1,0 +1,392 @@
+{
+ "id": "9.1.2",
+ "version": "9.1.2",
+ "kind": "release",
+ "title": "9.1.2 | Bugfix Patch",
+ "date": "2025-08-14",
+ "url": "https://store.steampowered.com/news/app/381210/view/517470124048910105?l=english",
+ "changes": [
+  {
+   "entity": "2V8",
+   "cat": "system",
+   "section": "2V8",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The 2V8 event returns Tuesday, August 19th at 11:00 AM Eastern",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The 2V8 event returns Tuesday, August 19th at 11:00 AM Eastern"
+   ]
+  },
+  {
+   "entity": "PLAY WHILE YOU WAIT",
+   "cat": "system",
+   "section": "PLAY WHILE YOU WAIT",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Added the option to \"Play While You Wait\" to the 2v8 game mode",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When queuing for a 2v8 Killer match, you'll receive the option to Play While You Wait",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "This allows you (and a friend, if you'd like) to play a match of 2v8 as a Survivor while saving your place in the Killer queue",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "After finishing this match, you will automatically return to your place in the Killer queue",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Added the option to \"Play While You Wait\" to the 2v8 game mode",
+    "When queuing for a 2v8 Killer match, you'll receive the option to Play While You Wait",
+    "This allows you (and a friend, if you'd like) to play a match of 2v8 as a Survivor while saving your place in the Killer queue",
+    "After finishing this match, you will automatically return to your place in the Killer queue"
+   ]
+  },
+  {
+   "entity": "Innate Skills",
+   "cat": "system",
+   "section": "THE LEGION UPDATE",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Reduced the duration of Feral Frenzy to 11s",
+     "after": null,
+     "before": "12s",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reduced number of targets seen with Killer Instinct to 4",
+     "after": null,
+     "before": "7",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reduced the number of hits needed to down a Survivor while in Feral Frenzy to 6",
+     "after": null,
+     "before": "7",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Reduced the duration of Feral Frenzy to 11s (was 12s)",
+    "Reduced number of targets seen with Killer Instinct to 4 (was 7)",
+    "Reduced the number of hits needed to down a Survivor while in Feral Frenzy to 6 (was 7)",
+    "Removed the bonus which extended the Killer Instinct detection radius beyond the Terror Radius"
+   ]
+  },
+  {
+   "entity": "Team Skill",
+   "cat": "system",
+   "section": "SHADOW CLASS UPDATE",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Grants Undetectable for 60 seconds when sending a Survivor to the Cage of Corruption",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "After the effect has elapsed, the ability will go on cooldown for 60 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "While this skill is on cooldown and you are within 32 meters of your teammate, gain 5% Haste and decrease cooldown by 25%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Grants Undetectable for 60 seconds when sending a Survivor to the Cage of Corruption",
+    "After the effect has elapsed, the ability will go on cooldown for 60 seconds",
+    "While this skill is on cooldown and you are within 32 meters of your teammate, gain 5% Haste and decrease cooldown by 25%"
+   ]
+  },
+  {
+   "entity": "ESCAPIST CLASS UPDATE",
+   "cat": "system",
+   "section": "ESCAPIST CLASS UPDATE",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Range of Silent Rush ability has been increased to 12m",
+     "after": null,
+     "before": "8m",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Team Skill (adjustment):",
+    "Escapist Team Skill is now activated by using Active Ability Button 2",
+    "Range of Silent Rush ability has been increased to 12m (was 8m)"
+   ]
+  },
+  {
+   "entity": "Team Skill",
+   "cat": "system",
+   "section": "GUIDE UPDATE",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When repairing, reveal the generator's aura and your aura to other Survivors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Gain the ability to trap a generator. Charges over 90 seconds. Repairing generators can decrease the wait time. Stand next to a generator to install a trap. The trapped generator has a yellow aura visible to Survivors and will stun and blind a Killer who tries to damage it",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The trap is deactivated when triggered or after 120 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Open Exit Gates 15% faster and reveal your aura to other Survivors within 128 meters",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When repairing, reveal the generator's aura and your aura to other Survivors",
+    "Gain the ability to trap a generator. Charges over 90 seconds. Repairing generators can decrease the wait time. Stand next to a generator to install a trap. The trapped generator has a yellow aura visible to Survivors and will stun and blind a Killer who tries to damage it",
+    "The trap is deactivated when triggered or after 120 seconds",
+    "Open Exit Gates 15% faster and reveal your aura to other Survivors within 128 meters"
+   ]
+  },
+  {
+   "entity": "Unlockable Skill",
+   "cat": "survivor",
+   "section": "GUIDE UPDATE",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "After being caged, gain access to a listening device that automatically installs on a generator after completing 35% repair progress",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "A bugged generator's yellow aura is visible to Survivors and reveals the Killer's aura when within 14 meters",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The device is deactivated when the generator is damaged or after 60 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "If a listening device is already installed on a generator when 35% repair progress is reached, install a new listening device that resets the 60 second countdown",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "After being caged, gain access to a listening device that automatically installs on a generator after completing 35% repair progress",
+    "A bugged generator's yellow aura is visible to Survivors and reveals the Killer's aura when within 14 meters",
+    "The device is deactivated when the generator is damaged or after 60 seconds",
+    "If a listening device is already installed on a generator when 35% repair progress is reached, install a new listening device that resets the 60 second countdown"
+   ]
+  },
+  {
+   "entity": "NEW MAPS",
+   "cat": "system",
+   "section": "NEW MAPS",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Treatment Theatre",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The Shattered Square",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Greenville Square",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Treatment Theatre",
+    "The Shattered Square",
+    "Greenville Square"
+   ]
+  },
+  {
+   "entity": "Content",
+   "cat": "system",
+   "section": "Content",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Game map and the Jigsaw Piece offering have been re-enabled",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The Blood Rush perk has been re-enabled",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Game map and the Jigsaw Piece offering have been re-enabled",
+    "The Blood Rush perk has been re-enabled"
+   ]
+  },
+  {
+   "entity": "SURVIVOR ITEM: FOG VIAL",
+   "cat": "system",
+   "section": "Content",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Fog Vials now have a maximum of 2 charges",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Added the ability for The Singularity to teleport to Survivors he can see within the Fog Vial's fog",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Fog Vials now have a maximum of 2 charges",
+    "Added the ability for The Singularity to teleport to Survivors he can see within the Fog Vial's fog"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where Michonne Grimes' running grunts were louder than other Survivors.",
+    "Fixed an issue where background noise was heard when Michonne Grimes was hooked.",
+    "Fixed an issue where The Xenomorph's Tail Strike Attack SFX would appear to be coming from its left side.",
+    "Fixed an issue where the \"ready up\" SFX would play when activating and deactivating perks in the Loadout.",
+    "Fixed an issue where Jonah Vasquez's \"Long Swim\" outfit would not play the appropriate footstep SFX."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where Lara Croft's \"Forged Furs\" torso would display gaps when mixed and matched with other leg customization items.",
+    "Fixed an issue where The Unknown's \"The Murder Weapon\" was held incorrectly on the match results screen.",
+    "Fixed an issue where The Unknown's \"The Murder Weapon\" was floating out of their hand on the main menu.",
+    "Fixed an issue where The Animatronic's head would not follow the direction he was aiming.",
+    "Fixed an issue where the Blind visual effect was delayed and only lasted a second when blinded as The Animatronic.",
+    "Fixed an issue where The Executioner's Cage of Atonement was invisible from the Killer's point of view."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue on PS4 where activating the Fog Vial on The Game map could make the screen go black or freeze the game.",
+    "Fixed an issue in the Treatment Theatre map where The Executioner's Punishment of the Damned would not travel through viable walls and door frames.",
+    "Fixed an issue where The Knight could not summon a Guard in multiple areas",
+    "Fixed an issue in the Greenville Square map where The Singularity's biopod could be placed outside of the fence."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where Exhaustion Perks could be reactivated by triggering Blood Rush while Exhausted.",
+    "Fixed an issue where Desperate Measures displayed the incorrect value in its description.",
+    "Fixed an issue where The Wraith would remain cloaked when stunned by Head On or Blast Mine."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Fixed an issue on Switch and Switch 2 where generator regression sparks were hard to see."
+   ]
+  },
+  {
+   "group": "Quests",
+   "items": [
+    "Fixed an issue where the amount of Bloodpoints awarded for completing a quest were not properly shown after abandoning a Trial.",
+    "Fixed an issue where some \"Into the Fog\" quest tooltips were missing images.",
+    "Fixed an issue where some quest tooltip images appeared smaller than intended."
+   ]
+  },
+  {
+   "group": "Miscellaneous",
+   "items": [
+    "Fixed an issue where bulk spending could fail if an old event item was present in the Bloodweb.",
+    "Fixed a server crash which could occur when a Survivor unlocked the secret chest in the Nostromo Wreckage map.",
+    "Fixed an issue where vault auras were not revealed when using the Sharpened Flint add-on on the Scribbled Map.",
+    "Fixed an issue where the Fog Vial would clip under the ground when dropped."
+   ]
+  }
+ ]
+}

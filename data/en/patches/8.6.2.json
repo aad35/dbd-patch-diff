@@ -1,0 +1,152 @@
+{
+ "id": "8.6.2",
+ "version": "8.6.2",
+ "kind": "release",
+ "title": "8.6.2 | Bugfix Patch",
+ "date": "2025-04-17",
+ "url": "https://store.steampowered.com/news/app/381210/view/587264582368625897?l=english",
+ "changes": [
+  {
+   "entity": "THE GHOUL",
+   "cat": "system",
+   "section": "Content",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Reduced Tentacle range from 16 meters to 14 meters",
+     "after": "14 meters",
+     "before": "16 meters",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reduced Enraged mode time from 45 seconds to 40 seconds",
+     "after": "40 seconds",
+     "before": "45 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reduced Enraged bonus time when performing a perfectly timed grab-attack from 15 seconds to 10 seconds",
+     "after": "10 seconds",
+     "before": "15 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Reduced Reticle Stickiness Time effect on targeted Survivor from 0.3 seconds to 0.18 seconds",
+     "after": "0.18 seconds",
+     "before": "0.3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Addon Blood stained Handkerchief: Reduced Kagune's reach from 2 meters to 1 meter",
+     "after": "1 meter",
+     "before": "2 meters",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Addon Taiyaki: Reduced the Enraged Mode countdown from 15 seconds to 5 seconds and changed rarity from Uncommon to Common",
+     "after": "5 seconds",
+     "before": "15 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Reduced Tentacle range from 16 meters to 14 meters",
+    "Reduced Enraged mode time from 45 seconds to 40 seconds",
+    "Reduced Enraged bonus time when performing a perfectly timed grab-attack from 15 seconds to 10 seconds",
+    "Reduced Reticle Stickiness Time effect on targeted Survivor from 0.3 seconds to 0.18 seconds",
+    "Reduced Reticle aiming on Survivor detection for grab-attack by 94%",
+    "Reduced Grab-attacks Damage minimum distance requirement to activate over obstacles by -30%",
+    "After breaking a pallet, if the Killer Power is not in cooldown, power goes into a forced cooldown equal to a single Leap usage",
+    "Addon Fresh Coffee: Changed rarity from Common to Very Rare",
+    "Addon Hinami's Umbrella: Reworked Effect - Performing a perfectly timed grab-attack award an extra +10.0 seconds of Enraged bonus time and changed rarity from Very Rare to Uncommon",
+    "Addon Blood stained Handkerchief: Reduced Kagune's reach from 2 meters to 1 meter",
+    "Addon Taiyaki: Reduced the Enraged Mode countdown from 15 seconds to 5 seconds and changed rarity from Uncommon to Common",
+    "Addon Yamori's Mask: Added the activation requirement of \"all Survivors further than 40m\""
+   ]
+  },
+  {
+   "entity": "NEW KILLER PERKS CHANGES None are Free",
+   "cat": "system",
+   "section": "Content",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When you hook a Survivor for the first time, gain 1 token, up to 4. When all generators are completed, for each token, all windows and upright pallets are blocked for 12/14/16 seconds. Removed the blocked \"for everyone\" clause",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When you hook a Survivor for the first time, gain 1 token, up to 4. When all generators are completed, for each token, all windows and upright pallets are blocked for 12/14/16 seconds. Removed the blocked \"for everyone\" clause"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Archives",
+   "items": [
+    "Fixed an issue where the \"Grenade Launcher\" Killer master challenge could not be completed.",
+    "Fixed an issue where the text reward appeared in Rift 1 instead of Tome 22 preview's page"
+   ]
+  },
+  {
+   "group": "Blood Moon",
+   "items": [
+    "The Blood Can no longer clips into the ground when crouching.",
+    "Bloodpoints given when filling a Jerry Can no longer exceed the cap.",
+    "The SFX of Filling a Blood Can interaction no longer lingers when grabbed by the Killer.",
+    "Fixed an issue where players were not receiving objective points when only interacting with Fuel Generators.",
+    "Fixed multiple map issues related to the fuel pump."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "The animation of Victor now plays correctly when opening a Locker with a Survivor in it.",
+    "The QTE prompt no longer stays indefinitely while spectating the Killer in Custom Games.",
+    "Spectators can now see the Fail or Success state of The Ghoul’s Grab attack.",
+    "The camera and Killer movement are no longer restricted after dropping a pallet on the Killer when they attempt to perform a grab-attack.",
+    "The Kagune Mark Reticle now appears consistently in the Survivor perspective when aiming across a Pallet or Window.",
+    "The Ghoul's tentacle leap animation now plays correctly after doing the second leap on a Survivor behind an obstacle.",
+    "The Ghoul can no longer basic attack a Survivor in quick succession during the third Kagune Leap cooldown."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in Forgotten Ruins where hooks were spawning close to each other in the Dungeons",
+    "Fixed an issue in Lery's Memorial Institute where the Punishment Of The Damned could not travel through walls"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where Balanced Landing's reduced stagger and grunt effects were still being applied after becoming Exhausted."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed a crash in the Tally Scoreboard when docking or undocking the Switch.",
+    "Fixed an issue where shows wrong killer name when switching character during queuing in a killer's lobby.",
+    "Fixed an issue where empty offering slots were shown as an hidden offering.",
+    "Fixed an issue where the wrong icon was displayed for Zarina's Murder Mill torso cosmetic."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue where Killer could load into a match with unowned cosmetics when viewing the mori preview with the selected cosmetic.",
+    "Fixed an issue where retired Offerings were not showing in player's inventory."
+   ]
+  }
+ ]
+}

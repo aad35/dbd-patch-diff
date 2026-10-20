@@ -1,0 +1,1201 @@
+{
+ "id": "8.6.0",
+ "version": "8.6.0",
+ "kind": "release",
+ "title": "8.6.0 | Tokyo Ghoul",
+ "date": "2025-04-02",
+ "url": "https://store.steampowered.com/news/app/381210/view/538849539213231971?l=english",
+ "changes": [
+  {
+   "entity": "Killer Power: ONE - EYED TERROR SPECIAL ABILITY",
+   "cat": "killer",
+   "section": "New Killer - The Ghoul",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Kagune Leap Use the Power button to charge and launch the Kagune, tentacles that attach to any vertical surface within range and quickly pull The Ghoul forward. After completing a leap, The Ghoul has a window to perform a second consecutive Kagune Leap or put Kagune Leap into cooldown by using the Active Ability button. Kagune Leap enters cooldown once The Ghoul has consumed their leaps, if they leap over a vault or downed pallet, or if the Kagune grabs and leaps at a Survivor. If The Ghoul's second consecutive leap targets a Survivor, they will perform a grab-attack. Grab-attacks damage Survivors if they are healthy; inflict Deep Wounds; and leave a Kagune Mark. Performing a grab-attack also triggers Enraged Mode. SPECIAL ABILITY: Enraged Mode While Enraged, The Ghoul can perform up to three consecutive Kagune Leaps and can leap over vaults more quickly if they launch their Kagune at a Survivor. Enraged Mode remains active while there are Survivors afflicted with Kagune Mark. Marked Survivors will lose their mark if they are fully mended, or if they are downed. The Ghoul cannot grab-attack marked Survivors. Once no marked Survivors remain, a Countdown begins. When the Countdown depletes, Enraged Mode ends. A perfectly timed grab-attack - tapping the attack button when the attack icon is displayed - will add extra time to the Countdown. The Countdown is paused while carrying Survivors. NEW KILLER PERKS Hex: Nothing But Misery: After you damage Survivors 8/8/8 times with basic attacks, a dull totem becomes a hex totem, cursing all Survivors. When you damage a Survivor with a basic attack, they gain 5/5/5% Hindered for 10/12.5/15 seconds. The effects last until the hex totem is cleansed. Forever Entwined: When a Survivor takes damage, gain 1 token, up to 6/7/8. For each token, you pick up, drop and hook Survivors 4% faster. None Are Free: When you hook a Survivor for the first time, gain 1 token, up to 4. When all generators are completed, for each token, all windows and upright pallets are blocked for everyone for 12/14/16 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Kagune Leap Use the Power button to charge and launch the Kagune, tentacles that attach to any vertical surface within range and quickly pull The Ghoul forward. After completing a leap, The Ghoul has a window to perform a second consecutive Kagune Leap or put Kagune Leap into cooldown by using the Active Ability button. Kagune Leap enters cooldown once The Ghoul has consumed their leaps, if they leap over a vault or downed pallet, or if the Kagune grabs and leaps at a Survivor. If The Ghoul's second consecutive leap targets a Survivor, they will perform a grab-attack. Grab-attacks damage Survivors if they are healthy; inflict Deep Wounds; and leave a Kagune Mark. Performing a grab-attack also triggers Enraged Mode. SPECIAL ABILITY: Enraged Mode While Enraged, The Ghoul can perform up to three consecutive Kagune Leaps and can leap over vaults more quickly if they launch their Kagune at a Survivor. Enraged Mode remains active while there are Survivors afflicted with Kagune Mark. Marked Survivors will lose their mark if they are fully mended, or if they are downed. The Ghoul cannot grab-attack marked Survivors. Once no marked Survivors remain, a Countdown begins. When the Countdown depletes, Enraged Mode ends. A perfectly timed grab-attack - tapping the attack button when the attack icon is displayed - will add extra time to the Countdown. The Countdown is paused while carrying Survivors. NEW KILLER PERKS Hex: Nothing But Misery: After you damage Survivors 8/8/8 times with basic attacks, a dull totem becomes a hex totem, cursing all Survivors. When you damage a Survivor with a basic attack, they gain 5/5/5% Hindered for 10/12.5/15 seconds. The effects last until the hex totem is cleansed. Forever Entwined: When a Survivor takes damage, gain 1 token, up to 6/7/8. For each token, you pick up, drop and hook Survivors 4% faster. None Are Free: When you hook a Survivor for the first time, gain 1 token, up to 4. When all generators are completed, for each token, all windows and upright pallets are blocked for everyone for 12/14/16 seconds"
+   ]
+  },
+  {
+   "entity": "Archives and Events",
+   "cat": "system",
+   "section": "Archives and Events",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Blood Moon event returns and begins April 7th at 11:00 AM Eastern",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "This event also includes an event tome that opens at the same time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Another Chaos Shuffle event begins April 29th at 1:00 PM Eastern",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Blood Moon event returns and begins April 7th at 11:00 AM Eastern",
+    "This event also includes an event tome that opens at the same time",
+    "Another Chaos Shuffle event begins April 29th at 1:00 PM Eastern"
+   ]
+  },
+  {
+   "entity": "Scratch Marks Improvements",
+   "cat": "system",
+   "section": "Scratch Marks Improvements",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Made improvements to the Scratch Marks spawn logic. They should spawn on the ground more consistently",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Made improvements to the Scratch Marks spawn logic. They should spawn on the ground more consistently"
+   ]
+  },
+  {
+   "entity": "Surrender Option",
+   "cat": "system",
+   "section": "Surrender Option",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Under specific scenarios, it will be possible to Surrender during a trial and retain some progress including:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Bloodpoints",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Match XP",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Challenge progress",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Emblem scores",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Surrendering in the following conditions does not incur a Disconnection Penalty, but will not count as a completed trial and still causes item/addon loss:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Under specific scenarios, it will be possible to Surrender during a trial and retain some progress including:",
+    "Bloodpoints",
+    "Match XP",
+    "Challenge progress",
+    "Emblem scores",
+    "Surrendering in the following conditions does not incur a Disconnection Penalty, but will not count as a completed trial and still causes item/addon loss:"
+   ]
+  },
+  {
+   "entity": "Killer",
+   "cat": "killer",
+   "section": "Killer",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When all remaining Survivors are bots",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When no generator has been completed within the last 10 minutes",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When all remaining Survivors are bots",
+    "When no generator has been completed within the last 10 minutes"
+   ]
+  },
+  {
+   "entity": "Survivor",
+   "cat": "survivor",
+   "section": "Survivor",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When all other remaining Survivors are bots",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "When all Survivors are in the Dying State",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When all other remaining Survivors are bots",
+    "When all Survivors are in the Dying State"
+   ]
+  },
+  {
+   "entity": "Survivor Bloodpoint Balancing",
+   "cat": "system",
+   "section": "Survivor Bloodpoint Balancing",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Safe Hook Rescue score event to 1250",
+     "after": null,
+     "before": "500",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Heal (no Med-Kit) score event to 750",
+     "after": null,
+     "before": "500",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Heal (Med-Kit) score event to 1000",
+     "after": null,
+     "before": "750",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Heal (self) score event to 750",
+     "after": null,
+     "before": "300",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Dull Totem Cleansing score event to 1500",
+     "after": null,
+     "before": "1000",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased chase escape score event to 750",
+     "after": null,
+     "before": "400",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Repairs score event to 2000",
+     "after": null,
+     "before": "1250",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Gate Open score event to 2000",
+     "after": null,
+     "before": "1250",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Chest Unlocked score event to 750",
+     "after": null,
+     "before": "250",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Killer Grasp Escape score event to 1250",
+     "after": null,
+     "before": "500",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Obsession Escape score event to 2000",
+     "after": null,
+     "before": "1500",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Chased score event to 50/s",
+     "after": null,
+     "before": "40/s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Good Wiggle Skill Check score event to 50 each",
+     "after": null,
+     "before": "25",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Great Wiggle Skill Check score event to 100 each",
+     "after": null,
+     "before": "50",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Dropping a pallet now awards Survival points",
+     "after": null,
+     "before": "Boldness",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Stunning the Killer now awards Boldness points",
+     "after": null,
+     "before": "Survival",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Cleansing a Dull Totem now awards Survival points",
+     "after": null,
+     "before": "Boldness",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Cleansing a Hex Totem now awards Survival points",
+     "after": null,
+     "before": "Boldness",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Increased Safe Hook Rescue score event to 1250 (was 500)",
+    "Increased Heal (no Med-Kit) score event to 750 (was 500)",
+    "Increased Heal (Med-Kit) score event to 1000 (was 750)",
+    "Increased Heal (self) score event to 750 (was 300)",
+    "Increased Dull Totem Cleansing score event to 1500 (was 1000)",
+    "Increased chase escape score event to 750 (was 400)",
+    "Increased Repairs score event to 2000 (was 1250)",
+    "Increased Gate Open score event to 2000 (was 1250)",
+    "Increased Chest Unlocked score event to 750 (was 250)",
+    "Increased Killer Grasp Escape score event to 1250 (was 500)",
+    "Increased Obsession Escape score event to 2000 (was 1500)",
+    "Increased Chased score event to 50/s (was 40/s)",
+    "Increased Good Wiggle Skill Check score event to 50 each (was 25)",
+    "Increased Great Wiggle Skill Check score event to 100 each (was 50)",
+    "The following score events have been moved to a different category:",
+    "Dropping a pallet now awards Survival points (was Boldness)",
+    "Stunning the Killer now awards Boldness points (was Survival)",
+    "Cleansing a Dull Totem now awards Survival points (was Boldness)",
+    "Cleansing a Hex Totem now awards Survival points (was Boldness)"
+   ]
+  },
+  {
+   "entity": "Loadouts",
+   "cat": "system",
+   "section": "Loadouts",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Equipped elements now show units left counter",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Search bar now accepts direct input, removing old pop up",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Equipped elements now show units left counter",
+    "Search bar now accepts direct input, removing old pop up"
+   ]
+  },
+  {
+   "entity": "Chat Widget",
+   "cat": "system",
+   "section": "Chat Widget",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Chat window updated. - Messages sent at the Tally screen can be read by people that arrive after - A line is added when people have left the tally, so players don't need to check others' pings to know if they are still at the tally - Improved UI to make the chat easier to understand and read",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Chat window updated. - Messages sent at the Tally screen can be read by people that arrive after - A line is added when people have left the tally, so players don't need to check others' pings to know if they are still at the tally - Improved UI to make the chat easier to understand and read"
+   ]
+  },
+  {
+   "entity": "The Legion",
+   "cat": "system",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased fatigue duration to 2.5 seconds",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased movement speed during fatigue to 2.3m/s",
+     "after": null,
+     "before": "2.07m/s",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increased duration of Feral Frenzy to 11 seconds",
+     "after": null,
+     "before": "10 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Feral Frenzy cooldown to 15 seconds",
+     "after": null,
+     "before": "20 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased bonus movement speed gained per hit during Feral Frenzy to 0.24m/s",
+     "after": null,
+     "before": "0.2m/s",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased fatigue duration to 2.5 seconds (was 3 seconds)",
+    "Increased movement speed during fatigue to 2.3m/s (was 2.07m/s)",
+    "Increased duration of Feral Frenzy to 11 seconds (was 10 seconds)",
+    "Decreased Feral Frenzy cooldown to 15 seconds (was 20 seconds)",
+    "Increased bonus movement speed gained per hit during Feral Frenzy to 0.24m/s (was 0.2m/s)"
+   ]
+  },
+  {
+   "entity": "The Legion Add-Ons",
+   "cat": "system",
+   "section": "Killer Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "The Mural Sketch add-on now grants an additional 0.08m/s movement speed per hit",
+     "after": null,
+     "before": "0.1m/s",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "The Mischief List add-on now increased Feral Frenzy duration by 1 second",
+     "after": null,
+     "before": "2 seconds",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "The Mural Sketch add-on now grants an additional 0.08m/s movement speed per hit (was 0.1m/s)",
+    "The Mischief List add-on now increased Feral Frenzy duration by 1 second (was 2 seconds)"
+   ]
+  },
+  {
+   "entity": "The Xenomorph",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased the Tail Attack charge time to 0.3 seconds",
+     "after": null,
+     "before": "0.2 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased the successful Tail Attack cooldown to 2.7 seconds",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the missed Tail Attack cooldown to 2.5 seconds",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Killer Instinct range when exiting a tunnel to 16 meters",
+     "after": null,
+     "before": "12 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased the amount of fire required to burn The Xenomorph out of Crawler Mode to 125",
+     "after": null,
+     "before": "100",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increased the Tail Attack charge time to 0.3 seconds (was 0.2 seconds)",
+    "Increased the Tail Attack charge volume for Survivors",
+    "Decreased the successful Tail Attack cooldown to 2.7 seconds (was 3 seconds)",
+    "Decreased the missed Tail Attack cooldown to 2.5 seconds (was 3 seconds)",
+    "Increased Killer Instinct range when exiting a tunnel to 16 meters (was 12 meters)",
+    "Increased the amount of fire required to burn The Xenomorph out of Crawler Mode to 125 (was 100)"
+   ],
+   "character": "The Xenomorph"
+  },
+  {
+   "entity": "The Xenomorph Add-Ons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Drinking Bird add-on now increases the duration of Killer Instinct after exiting a tunnel by 3 seconds",
+     "after": null,
+     "before": "2 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "The Ash's Innards add-on now increases the respawn time of Remote Flame Turrets by 15 seconds",
+     "after": null,
+     "before": "10 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "The Light Wand add-on now increases the downtime of Remote Flame Turrets after exiting a tunnel by 3 seconds",
+     "after": null,
+     "before": "1 second",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "The Molted Skin add-on now caused Survivors who deploy a Remote Flame Turret to become Exhausted for 30 seconds",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "The Harpoon Gun add-on now causes Survivors further than 16 meters",
+     "after": null,
+     "before": "24 meters",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "to be revealed when hitting a Survivor within 30 seconds",
+     "after": null,
+     "before": "10 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "The Emergency Helmet add-on now increases resistance to Remote Flame Turrets by 15%",
+     "after": null,
+     "before": "35%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "The Drinking Bird add-on now increases the duration of Killer Instinct after exiting a tunnel by 3 seconds (was 2 seconds)",
+    "The Ash's Innards add-on now increases the respawn time of Remote Flame Turrets by 15 seconds (was 10 seconds)",
+    "The Light Wand add-on now increases the downtime of Remote Flame Turrets after exiting a tunnel by 3 seconds (was 1 second)",
+    "The Molted Skin add-on now caused Survivors who deploy a Remote Flame Turret to become Exhausted for 30 seconds (was 3 seconds) and no longer inflicts Hindered",
+    "The Harpoon Gun add-on now causes Survivors further than 16 meters (was 24 meters) to be revealed when hitting a Survivor within 30 seconds (was 10 seconds) of exiting a tunnel",
+    "The Emergency Helmet add-on now increases resistance to Remote Flame Turrets by 15% (was 35%)"
+   ],
+   "character": "The Xenomorph"
+  },
+  {
+   "entity": "The Good Guy",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased Hidey-Ho cooldown to 12 seconds",
+     "after": null,
+     "before": "14",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased Hidey-Ho cooldown to 12 seconds (was 14)",
+    "Decreased the time it takes to reach max speed at the start of Slice and Dice and after Scampering a window or pallet"
+   ],
+   "character": "The Good Guy"
+  },
+  {
+   "entity": "The Oni",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased the Demon Strike Attack angle limit to 180 degrees",
+     "after": null,
+     "before": "90 degrees",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased the Demon Strike Attack angle limit to 180 degrees (was 90 degrees) Note: This applies to Keyboard & Mouse and Controllers"
+   ],
+   "character": "The Oni"
+  },
+  {
+   "entity": "Terror Radius",
+   "cat": "system",
+   "section": "Terror Radius",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased The Hillbilly and The Blight's Terror Radius to 40 meters",
+     "after": null,
+     "before": "32 meters",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased The Pig, The Ghost Face, and The Skull Merchant's Terror Radius to 24 meters",
+     "after": null,
+     "before": "32 meters",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Increased The Hillbilly and The Blight's Terror Radius to 40 meters (was 32 meters)",
+    "Decreased The Pig, The Ghost Face, and The Skull Merchant's Terror Radius to 24 meters (was 32 meters)"
+   ]
+  },
+  {
+   "entity": "Deep Wound",
+   "cat": "system",
+   "section": "Deep Wound",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased the time it takes to Mend your own Deep Wound to 10 seconds",
+     "after": null,
+     "before": "12 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased the time it takes to Mend another Survivors' Deep Wound to 6 seconds",
+     "after": null,
+     "before": "8 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased the time it takes to Mend your own Deep Wound to 10 seconds (was 12 seconds)",
+    "Decreased the time it takes to Mend another Survivors' Deep Wound to 6 seconds (was 8 seconds)"
+   ]
+  },
+  {
+   "entity": "Alien Instinct",
+   "cat": "system",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased aura reveal duration to 8 seconds",
+     "after": null,
+     "before": "5 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Oblivious duration to 40/50/60 seconds",
+     "after": null,
+     "before": "16/18/20 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased aura reveal duration to 8 seconds (was 5 seconds)",
+    "Increased Oblivious duration to 40/50/60 seconds (was 16/18/20 seconds)"
+   ]
+  },
+  {
+   "entity": "Deathbound",
+   "cat": "perk",
+   "section": "Killer Perks",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Decreased range to 12/8/4 meters",
+     "after": null,
+     "before": "16/12/8 meters",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Decreased range to 12/8/4 meters (was 16/12/8 meters)"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Hysteria",
+   "cat": "system",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased Oblivious duration to 30/35/40 seconds",
+     "after": null,
+     "before": "20/25/30 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased cooldown to 20 seconds",
+     "after": null,
+     "before": "30 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased Oblivious duration to 30/35/40 seconds (was 20/25/30 seconds)",
+    "Decreased cooldown to 20 seconds (was 30 seconds)"
+   ]
+  },
+  {
+   "entity": "Knock Out (Rework)",
+   "cat": "perk",
+   "section": "Killer Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "When a Survivor drops a pallet, if they move 6/6/6 meters away from it within 6/6/6 seconds, they gain 5/5/5% Hindered for 3/4/5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "When a Survivor drops a pallet, if they move 6/6/6 meters away from it within 6/6/6 seconds, they gain 5/5/5% Hindered for 3/4/5 seconds"
+   ],
+   "role": "killer"
+  },
+  {
+   "entity": "Nemesis",
+   "cat": "system",
+   "section": "Killer Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased aura reveal duration to 8 seconds",
+     "after": null,
+     "before": "4 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased aura reveal duration to 8 seconds (was 4 seconds)"
+   ]
+  },
+  {
+   "entity": "Quick and Quiet",
+   "cat": "system",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Decreased cooldown to 25/20/15 seconds",
+     "after": null,
+     "before": "30/25/20 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased cooldown to 25/20/15 seconds (was 30/25/20 seconds)"
+   ]
+  },
+  {
+   "entity": "Deception",
+   "cat": "system",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased hidden scratch mark duration to 5 seconds",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased cooldown to 25/20/15 seconds",
+     "after": null,
+     "before": "30/25/20 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased hidden scratch mark duration to 5 seconds (was 3 seconds)",
+    "Decreased cooldown to 25/20/15 seconds (was 30/25/20 seconds)"
+   ]
+  },
+  {
+   "entity": "Dance With Me",
+   "cat": "system",
+   "section": "Survivor Perks",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Increased hidden scratch mark duration to 5 seconds",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased cooldown to 25/20/15 seconds",
+     "after": null,
+     "before": "30/25/20 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Increased hidden scratch mark duration to 5 seconds (was 3 seconds)",
+    "Decreased cooldown to 25/20/15 seconds (was 30/25/20 seconds)"
+   ]
+  },
+  {
+   "entity": "Red Herring",
+   "cat": "system",
+   "section": "Survivor Perks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Decreased repair requirement to 1 second",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased cooldown to 25/20/15 seconds",
+     "after": null,
+     "before": "30/25/20 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Decreased repair requirement to 1 second (was 3 seconds)",
+    "Decreased cooldown to 25/20/15 seconds (was 30/25/20 seconds)"
+   ]
+  },
+  {
+   "entity": "Forsaken Boneyard",
+   "cat": "system",
+   "section": "Map",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Eyrie of Crows main building was modified; windows have changed position and drops from the exterior have been added to the balcony",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The content of the tiles has been revisited, to reduce the amount of small collisions that were reducing the quality of the navigations",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "New tiles have been created: double pallet tiles",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Eyrie of Crows main building was modified; windows have changed position and drops from the exterior have been added to the balcony",
+    "The content of the tiles has been revisited, to reduce the amount of small collisions that were reducing the quality of the navigations",
+    "New tiles have been created: double pallet tiles"
+   ]
+  },
+  {
+   "entity": "An extension of the theme has been added",
+   "cat": "system",
+   "section": "Map",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Dead Sands is a new map added to the roster under the Forsaken Boneyard theme, it expends the lore and at the same time nerfs the realm offering",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "The branches with large collisions that would appear between tiles have been removed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Dead Sands is a new map added to the roster under the Forsaken Boneyard theme, it expends the lore and at the same time nerfs the realm offering",
+    "The branches with large collisions that would appear between tiles have been removed"
+   ]
+  },
+  {
+   "entity": "Base Game",
+   "cat": "system",
+   "section": "Map",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Exit Gate notifications are visible for 12 seconds when they are powered",
+     "after": null,
+     "before": "7 seconds",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Exit Gate notifications are visible for 12 seconds when they are powered (was 7 seconds)"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Archives",
+   "items": [
+    "The Patch or Dispatch Challenge no longer gives progress to Survivors using the Plot Twist perk.",
+    "The Challenge tracker no longer appears completed when totems remain in the trial for the \"Thorough Cleansing\" challenge."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where the effect on the Unknown's Voice was missing in the lobby.",
+    "Fixed an issue where Leon Kennedy's DSO Agent outfit would used Carlos Oliveira's voice.",
+    "Fixed an issue where the ''Memory 1736'' entry from the ''Talbot Grimes'' journal was missing voice over.",
+    "Fixed an issue that caused a dropped Flashbang to have no audio cue.",
+    "Fixed an issue where the Frosty The Nightmare outfit for The Dredge would not have its unique audio.",
+    "Fixed an issue where the Grab cooldown SFX for The Ghoul would persists after performing a Pallet Vault with the killer power's.",
+    "Fixed an issue where Nemesis would fail to emit any SFX when falling from a great height.",
+    "Fixed an issue where the Skull Merchant's drone sound effects would remain in the match when it is recalled after a survivor has activated it.",
+    "Fixed an issue where the Houndmaster's chase music was incorrect comparing to it's release version.",
+    "Fixed an issue where certain VO lines from The Dark Lord would not match with subtitles when hooking Soma and Alucard."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Fixed an issue where preventing Disconnect bots from properly using their perks.",
+    "Fixed multiple navigation issues for all AI entities in Haddonfield."
+   ]
+  },
+  {
+   "group": "Character",
+   "items": [
+    "Fixed an issue that caused Survivors to clip into Killers during the pickup animation.",
+    "Fixed an issue that caused Survivors to momentarily freeze when they stopped inputting movement.",
+    "Fixed an issue that caused Survivor's camera to stutter and re-align when fast exiting a locker.",
+    "Fixed an issue that caused part of the Deathslinger's reload animation to be skipped.",
+    "Fixed an issue that caused the animation of missing a Basic Attack to fail to play properly during any trial as The Nemesis.",
+    "Fixed an issue that caused the body of a carried Survivor to clip inside The Nightmare's camera during basic attack cooldowns.",
+    "Fixed an issue which caused the Nightmare's Black Box Addon to block the exit area indefinitely.",
+    "Fixed an issue that allowed the Nightmare to pass through Survivors by holding the Dream Pallet ability.",
+    "Fixed an issue that caused Survivors to become injured by the Nightmare rupturing a Dream Pallet that was above/below the Survivor.",
+    "Fixed an issue that caused the Skull Merchant's drone not to rotate when deployed after recalling a disabled drone.",
+    "Fixed an issue that caused Survivors to be scanned by the Skull Merchant's Drones without having a scan line on them when the Drone is rotating in the South-West direction.",
+    "Fixed an issue that caused the Cenobite's aim indicator to flicker when aiming at large collision stacks.",
+    "Fixed an issue that prevented the Knight from drawing a patrol path under a hook.",
+    "Fixed an issue that caused Killers to play the wrong animation when hitting a Nemesis zombie.",
+    "Fixed an issue that can cause Nemesis' zombies to get stuck walking next to a hooked Survivor. Zombies will now take a wider route around the hook to avoid becoming stuck.",
+    "Fixed an issue that caused The Cannibal's Pretty Woman outfit played the wrong animation in online lobbies.",
+    "Fixed an issue that caused the Survivor's animation and interaction progress bar would persist after the interaction ended.",
+    "Fixed an issue that caused the handheld camera to be missing when The Ghost Face performed a mori in a trial.",
+    "Fixed an issue that caused The Lich would briefly jitter back and forth when picking up a Survivor hiding inside a Locker.",
+    "Fixed an issue where The Nurse's hair moved very slowly and floated uncontrollably when rotating quickly in the outfit preview.",
+    "Fixed an issue where The Nurse's fatigue animation duration was longer than intended.",
+    "The Houndmaster's laughter frequency has been adjusted when reaching Max Speed while following Snug's Search Path.",
+    "Camera and Killer movement are no longer restricted after failing to land a grab-attack due to a Flash Grenade while experiencing lag and packet loss.",
+    "The Nurse's position no longer changes upon ending a Blink near collisions.",
+    "Survivors now correctly play the screaming animation when triggered by any means.",
+    "The Nemesis add-on \"Depleted Ink Ribbon\" no longer makes Zombies reappear for a brief moment after being killed inside the Exit Gate.",
+    "Tier 2 is now consistently charged if the Tombstone Piece Mini-Mori is done while Tier 3 is ending for The Shape.",
+    "Survivors Unhooked by Bots no longer remain in a floating animation.",
+    "Xenomorph's Burn vignette now fades out when exiting Crawler mode by picking up a Survivor.",
+    "Survivor's animation and interaction progress bar no longer lingers after unlocking the Mastermind's and Nemesis' Crates.",
+    "Teleporting Survivors no longer causes their model to jitter and slide back to their original location when performing interactions.",
+    "The active Cruel Limits duration radial timer direction is now consistent and depletes in a clockwise direction.",
+    "The Killer Power of The Huntress and The Twins can no longer pass through Survivors on a Hook.",
+    "The Deathslinger can no longer perform other actions while reeling Survivors."
+   ]
+  },
+  {
+   "group": "The Ghoul",
+   "items": [
+    "The Ghoul's Kakugan Reticle no longer rotates when pointing at the ground while rotating the camera.",
+    "Survivors no longer become immobile after dropping a pallet on The Ghoul when the latter is attempting to perform a grab-attack.",
+    "The Ghoul is no longer able to Leap Grab a Survivor during the dying state animation, preventing the associated issues.",
+    "The Ghoul's power now reloads properly when used a second time.",
+    "The Ghoul's input prompt over the power icon now updates to the current prompt.",
+    "The Ghoul's score event Become Enraged is no longer earned when performing a direct grab in enraged mode.",
+    "The Kagune Swipe score event is now earned when The Ghoul does not reach the survivor on the first swing.",
+    "The prompt no longer remains on screen when a Survivor attempts to blind The Ghoul during a failed grab-attack QTE.",
+    "The grab Cooldown SFX no longer persists after performing a Pallet Vault with The Ghoul's power.",
+    "Damaging a survivor with a tentacle grab now removes Play with your food tokens for The Ghoul.",
+    "Damaging the obsession with a tentacle grab now removes Save the best for last tokens for The Ghoul.",
+    "The Ghoul's Tentacles now have aura when Tentacle swinging.",
+    "The Ghoul's Kagune Reticle is no longer momentarily visible when arriving at a window/pallet to Tentacle vault.",
+    "Enraged Mode Countdown UI now pauses while carrying Survivors for The Ghoul.",
+    "The Tentacle Impact Smoke VFX no longer appears offset with the Survivor model for The Ghoul.",
+    "The Ghoul is no longer pushed forward after tentacle vaulting a pallet on one side.",
+    "Survivors with Kagune Mark KE now receive damage when Direct Grab vaulting to Survivor close to a Window or Pallet for The Ghoul.",
+    "The Ghoul's Enraged mode withdrawal vignette VFX now pauses when carrying a Survivor.",
+    "The Ghoul can now perform Tentacle Swing vault over the Killer Shack.",
+    "The Ghoul's tentacle animation is now present when performing the second Kagune Leap charge at the end of the cooldown.",
+    "The Ghoul's camera is now centered on the survivor during a grab-attack.",
+    "After a grab-attack, the vault interaction is no longer available and usable to The Ghoul during the grab/bite animation.",
+    "The tentacle vault speed bonus no longer occurs when The Ghoul is not in enraged mode.",
+    "The killer effect now appears on the survivor HUD when The Ghoul enters withdrawal mode directly.",
+    "The Ghoul's Enraged Mode Vignette now resets when having Enraged Mode and getting Enraged Mode again without the QTE by Grab-Attack tentacle vaulting to a Survivor across from a Pallet or Window.",
+    "The Ghoul can no longer Kagune Leap twice on Survivors with an obstacle in the way",
+    "The Ghoul can no longer use a kagune leap briefly after cancelling the power.",
+    "The Ghoul no longer stutters after a Kagune Leap",
+    "A placeholder is no longer displayed in the prompt when vaulting a dropped pallet with The Ghoul's power.",
+    "The Ghoul's adjustment time end SFX no longer plays after the player cancels adjustment time early if cancelled after an invalid swing.",
+    "The Ghoul's Tentacle Vault no longer creates a visual glitch after vaulting.",
+    "The Ghoul is now able to perform Basic attacks after pressing the Killer Power input.",
+    "With lag, The Ghoul can no longer M1 directly after cancelling the power.",
+    "The Ghoul can no longer perform a Basic Attack after falling from a Leap while in Enraged mode.",
+    "The Ghoul's power no longer breaks if stunned during a kagune leap slide.",
+    "The Ghoul's Cancel Swing icon no longer always displayed when not relevant",
+    "The Ghoul's Kagune Mark no longer remains visible on the Survivor portrait after being removed"
+   ]
+  },
+  {
+   "group": "Environment",
+   "items": [
+    "Fixed an issue in the Raccoon City Police Station where the Dream Snares failed to pass through walls",
+    "Fixed an issue in Forsaken Boneyard where projectiles were blocked by a collision in the maze tiles",
+    "Fixed an issue in the Blood Lodge main building where the Dream Snares could not go through the closed doors where the basement could spawn",
+    "Fixed an issue in the Thompson House where the Dream Snares were blocked in the structure of the main building",
+    "Fixed an issue in Ormond Lake Mine where the Killers could use their power to land in an unintended area while lunging",
+    "Fixed an issue on Shelter Woods where Killers could land on top of lockers",
+    "Fixed an issue on Forsaken Boneyard where characters would jitter when walking against a collision",
+    "Fixed an issue on Forsaken Boneyard where the Trapper could hide traps inside of the ground",
+    "Fixed an issue on Forsaken Boneyard where items could disappear in the ground when placed/dropped",
+    "Fixed an issue on the Nostromo main building where the zombies got stuck at the top of a ramp",
+    "Fixed an issue on the Temple of Purgation Mausoleum structure where zombies would get stuck walking around the structure",
+    "On the map Disturbed Ward, fixed fences that would not allow the Nurse to blink through",
+    "Some walls that previously prevented the Nurse from blinking through are now fixed in the MacMillan Estate",
+    "Fixed an issue of items clipping in the ground failed to be picked back up around the Clock Tower in Midwich Elementary School",
+    "Fixed an issue where the fence wall fades out during the Mori animation in the vat room of Gideon Meat Plant",
+    "Fixed a collision issue on Grim Pantry where a Survivor can be stopped by a ground rock on the hill",
+    "Fixed an issue of the camera clipping into assets during the escape animation before reaching the Tally Screen on Dead Dawg Saloon",
+    "Fixed an issue on the Nurse that allowed her to blink in the small prison located behind the Exit Gates on Dead Dawg Saloon",
+    "Fixed various issues with level of detail of dirt on Ormond Lake Mine",
+    "Fixed an issue with flickering textures on the ground near the Escape in Ormond Lake Mine",
+    "Fixed an issue which made flickering textures visible on a crate on Ormond Lake Mine",
+    "Fixed an issue of various signs that were clipping through the fence on Ormond Lake Mine",
+    "Fixed an issue with the level of detail on every Cement Bag pile found throughout the Ormond Lake Mine map",
+    "Fixed an issue on a pile of snow that was clipping inside a conveyor belt inside the main building of Ormond Lake Mine map",
+    "Fixed an issue of Survivors and Killers that can clip through all the pipes around the Mine Building of Ormond Lake Mine map",
+    "Fixed an issue of a superfluous collision on a staircase preventing the Killer from moving freely on Ormond Lake Mine",
+    "Fixed an issue of a seam visible between two Escape tiles on Ormond Lake Mine",
+    "Fixed an issue of textures that were missing on Ormond Lake Mine",
+    "Fixed an issue of textures on a pool of blood that were missing on Ormond Lake Mine",
+    "Fixed an issue that caused The Nightmare's POV to go out of bounds on Ormond Lake Mine",
+    "Fixed an issue of having the Dark Lord's pillars of Hellfire spawning outside of the Exit Gates with the Add-on \"Alucard's Shield\" on Ormond Lake Mine",
+    "Fixed an issue of an invisible collision that hinders navigation for Survivors and Killers on the stairs of the Main Building in Toba Landing",
+    "Fixed an issue of a gap available at the outer edge of the Escape tile on Borgo map",
+    "Fixed an issue in Farm where The Dark Lord can stand on the doorframe of the Farmhouse when using his Bat Form",
+    "Fixed an issue where hooks failed to fade out during a Mori animation on Badham Preschool",
+    "Fixed an issue with the Nightmare's Dream Snares that fail to go through most the walls of the closed classrooms in the Main Building on Badham Preschool",
+    "Fixed an issue for the Shrine landmark ground that fades out during Mori animation on Yamaoka Estate.",
+    "Fixed an issue for the Nurse that allowed her to blink behind a wall on tile East Wing of Raccoon City Police Station.",
+    "Fixed an issue of collision that allowed players to walk onto a mop trolley on Raccoon City Police Station.",
+    "Fixed an issue for the Nurse that allowed her to blink through a wall of the Nostromo Wreckage and become stuck.",
+    "Fixed an issue on the basement floors and walls on Badham Preschool that was fading out during the Mori animation allowing to see out of the world.",
+    "Fixed an issue in which the walls and roof of the office of the Exit Gates have a one-sided texture on Ormond Lake Mine",
+    "Fixed an issue of collision that was allowed the player to walk on a sofa on Ormond",
+    "Fixed an issue of foliage that fails to fade out during Mori animation throughout the map of Dead Dawg Saloon",
+    "Fixed an issue where we could see out of world on the entrance to the Killer Shack during Mori animation on Midwich Elementary School",
+    "Fixed an issue with the level of detail visible on Stairs sign in West Wing of Raccoon City Police Station.",
+    "Fixed an issue of characters hovering above ground on the garden of Yamaoka Estate.",
+    "Fixed an issue of Killer projectiles that can pass through a Vault Location in the Main Building on Ormond Lake Mine",
+    "Fixed an issue for a basement rock wall that has a missing texture on Temple of Purgation",
+    "Fixed an issue of the level of detail that can be seen from a distance on 2 sets of stairs outside the Temple of Purgation.",
+    "Fixed an issue of the level of detail on the Cobwebs and the loculi on the Killer Shack's wall on Forsaken Boneyard",
+    "Fixed an issue of superfluous collision prevents smooth navigation along fence walls located on 6 Fence tile of the Forsaken Boneyard",
+    "Fixed an issue on Eyrie of Crows that had visible level of detail issues on the floor of the Killer Shack.",
+    "Fixed an issue with a sliced stone that was suspended in the air in front of the Clock Tower's main entrance on the Forsaken Boneyard",
+    "Fixed an issue of openings that were visible in some parts of the edge assets of multiple fence tiles on Garden of Joy",
+    "Fixed an issue of a seam that can be seen between the tiles of a fence on the Decimated Borgo",
+    "Fixed an issue with sand and roots' color that appears different around the shack of Forsaken Boneyard",
+    "Fixed an issue with multiple levels of detail on the broken brick walls on various tiles of Forsaken Boneyard",
+    "Fixed an issue on Forgotten Ruins, a seam could be seen between the two fence tiles.",
+    "Fixed an issue on Boneyard Shack where they had two occluded assets dissipated inside a coffin.",
+    "Fixed an issue on Eyrie of Crows, Survivors and killers could climb to the base of the mausoleum column.",
+    "Fixed an issue on Disturbed Ward, zombies could get stuck on the ramp leading inside the Asylum on the tile Asylum.",
+    "Fixed an issue on Ormond Lake Mine, Shadow appears as reflection on some of the snow patches.",
+    "Fixed an issue on Ormond Lake Mine, Shadow appears as reflection on some of the snow patches.",
+    "Fixed an issue in Pale Rose where a Totem was stuck in a tree"
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue that caused a Killer to be blinded while looking away from a Flashbang.",
+    "Fixed an issue that caused Survivors with Shoulder The Burden not to become infected when unhooking a fully infected Survivor.",
+    "Fixed an issue that caused the Struggle skill checks not to reset when a Survivor is unhooked by a Survivor with Shoulder The Burden.",
+    "Fixed an issue that caused Eyes of Belmont not to extend the aura reading of 2 seconds to other aura reading perks.",
+    "Fixed an issue that caused the aura of broken pallets to be displayed when equipped with Power Struggle.",
+    "Fixed an issue that caused Save The Best For Last tokens not to be removed when injuring the Obsession with a throw from Virulent Bound.",
+    "Fixed an issue that caused the tokens not to be consumed from several perks when injuring a Survivor with Flight of the Damned.",
+    "Fixed an issue that caused the tokens not to be consumed from several perks when injuring a Survivor with a Dream Pallet.",
+    "Fixed an issue that prevented the Nightmare from placing Dream Pallets in places where a pallet was destroyed by Spirit Fury",
+    "The Fire Up perk effect is no longer applied when The Ghoul's power is used to vault.",
+    "Loud noise bubbles now appear when Survivors scream from the \"Hex: Face the Darkness\" Perk.",
+    "In Spectator Mode, the Perk \"Hex: Nothing but Misery\" is no longer always shown in the active state.",
+    "The Eye of Belmont Perk now extends the aura reading of (2+) seconds duration to other perks.",
+    "The Perk \"Hex: Nothing But Misery\" is no longer lit at the beginning of the Trial.",
+    "The Hex: Nothing But Misery fails to transfer on the Hex: Undying Totem when cleansed by the Survivors.",
+    "Killers are now able to be blinded by the Blast Mine.",
+    "The Eye of Belmont's functionality is now consistent with Object of Obsession regarding if the Survivor is the Obsession or not.",
+    "Decisive Strike now activates against Fire Up and Forever Entwined.",
+    "Vigil now reduces the Oblivious Status from Hysteria."
+   ]
+  },
+  {
+   "group": "Platform",
+   "items": [
+    "Fixed an issue that showed an incorrect message when Steam is down.",
+    "Fixed an issue that caused a crash randomly because of RTM on PS."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where the epilepsy warning warps.",
+    "Fixed a potential crash issue in the lobby.",
+    "Fixed an issue where arrow buttons in the Tome collection was not working after zooming in on the illustration.",
+    "Fixed an issue where the Survivor's mending bar appears where it has previously been mended if gets deep wound status while sprinting.",
+    "Fixed to display trial character when the owned filter is applied.",
+    "Fixed an issue where the name of the killer fails to update while looking for a match.",
+    "Fixed an issue where the wrong perks' reveal animation appears while spectating the player in the custom game.",
+    "Fixed an issue where some killer powers were missing input prompts during cooldown."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue that caused Killer Perk \"Shattered Hope\" to not appear when searching for \"General\".",
+    "Fixed an issue that caused the \"Kill\" interaction from the Finisher Mori to be unlocalized in every language except English.",
+    "Fixed an issue that caused the Adept Knight achievement/trophy to unlock when the Killer disconnected after completing the unlock requirements.",
+    "Fixed an issue that caused the Death of Ignorance achievement/trophy not to progress when using the Artist's Silver Bell add-on.",
+    "Fixed an issue that caused a debug blue square to be visible when breaking a wall as a Killer.",
+    "The Achievement Unforgettable Getaway can now be obtained in Mount Ormond Resort 3."
+   ]
+  },
+  {
+   "group": "Bug Fixes",
+   "items": [
+    "Fixed an issue where male survivor failed to scream when interrupted by The Ghoul on dropped pallets or regular vaults.",
+    "Capped the \"pick-up\" speed buff at +42% for Killers. This was done to prevent breaking certain Killer/Survivor interactions.",
+    "Fixed an issue that caused player to be unable to gain bloodpoints/challenge progression/xp after a surrender."
+   ]
+  }
+ ]
+}

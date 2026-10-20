@@ -1,0 +1,171 @@
+{
+ "id": "7.0.2",
+ "version": "7.0.2",
+ "kind": "release",
+ "title": "7.0.2 | Bugfix Patch",
+ "date": "2023-06-28",
+ "url": "https://store.steampowered.com/news/app/381210/view/3646274937583044655?l=english",
+ "changes": [
+  {
+   "entity": "The Singularity",
+   "cat": "killer",
+   "section": "Killer Add-ons",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Kid's Ball Glove - Decreased Overclock duration time to 15%",
+     "after": null,
+     "before": "25%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Foreign Plant Fibres - changed Rarity rating to Very Rare",
+     "after": null,
+     "before": "Rare",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Cremated Remains - changed to \"Survivors afflicted with Temporal Slipstream suffer from Blindness.\"",
+     "after": null,
+     "before": "Killer Instinct before",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Nanomachine Gel - changed Rarity rating to Rare",
+     "after": null,
+     "before": "Very Rare",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "decreased Broken Status Effect to 30 seconds",
+     "after": null,
+     "before": "40 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Denied Requisition Form - changed Rarity rating to Ultra Rare",
+     "after": null,
+     "before": "Very Rare",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Soma Family Photo - changed Rarity rating to Very Rare",
+     "after": null,
+     "before": "Ultra Rare",
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "reduction effect of Overclock Mode is now -20%",
+     "after": null,
+     "before": "-50%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Iridescent Crystal Shard - changed to \"When a Biopod is created the auras of all Survivors within 6 meters of that Biopod are revealed to you for 6 seconds.\"",
+     "after": null,
+     "before": "applied when within the zone of a Biopod",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Kid's Ball Glove - Decreased Overclock duration time to 15% (was 25%)",
+    "Foreign Plant Fibres - changed Rarity rating to Very Rare (was Rare)",
+    "Cremated Remains - changed to \"Survivors afflicted with Temporal Slipstream suffer from Blindness.\" (was Killer Instinct before)",
+    "Nanomachine Gel - changed Rarity rating to Rare (was Very Rare), decreased Broken Status Effect to 30 seconds (was 40 seconds)",
+    "Denied Requisition Form - changed Rarity rating to Ultra Rare (was Very Rare)",
+    "Soma Family Photo - changed Rarity rating to Very Rare (was Ultra Rare), reduction effect of Overclock Mode is now -20% (was -50%)",
+    "Iridescent Crystal Shard - changed to \"When a Biopod is created the auras of all Survivors within 6 meters of that Biopod are revealed to you for 6 seconds.\" (was applied when within the zone of a Biopod)"
+   ],
+   "character": "The Singularity"
+  },
+  {
+   "entity": "The Nemesis",
+   "cat": "killer",
+   "section": "Killer Add-ons",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Damaged Syringe - increases time it takes Survivors to use a Vaccine by 5 seconds (used to be 2 seconds, and increased Killer Instinct by 1.5 seconds)",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Damaged Syringe - increases time it takes Survivors to use a Vaccine by 5 seconds (used to be 2 seconds, and increased Killer Instinct by 1.5 seconds)"
+   ],
+   "character": "The Nemesis"
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Bots",
+   "items": [
+    "Fixed additional rare issues with Survivor and Special Items.",
+    "Tentatively fixed an issue that bots are unable to use the Scavenger Perk correctly."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused Survivors who walk or crouch while standing in the Torment Trail to remain in the standing position animation during a trial against The Executioner.",
+    "The Nightmare is now able to correctly place Dream Pallets on a location previously holding a Fragile Pallet."
+   ]
+  },
+  {
+   "group": "Platforms",
+   "items": [
+    "Fixed a crash on PlayStation 5 when browsing the Store.",
+    "Fixed a crash on Steam when joining a party.",
+    "Fixed an error that would occur when loading into an Autohaven Wreckers map on the Epic Games Store version of the game."
+   ]
+  },
+  {
+   "group": "Twisted Masquerade",
+   "items": [
+    "When a Masquerade Pillar disappears after the Exit Gate or the Hatch opens, the proper disappearance VFX are now correctly played.",
+    "Masquerade Pillar is now despawned when the Hatch or an Exit Gate is opened.",
+    "When the Killer interacts with the Invitation Pillar, the regular interaction icon is now displayed.",
+    "As The Twins, the Masquerade Invitation charge UI now updates correctly when switching from Victor to Charlotte.",
+    "Survivors downed while interacting with the Pillar can now correctly be picked up by the Killer."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed the HUD invitation icon reward state opacity to be independent of the chase state when gaining the reward.",
+    "Fixed and issue that caused a SFX loop when using a controller in the Archive Tier purchase popup."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "The Adept Singularity achievement is now correctly unlocked when completing a trial inside a Biopod.",
+    "The Game Afoot Perk now correctly activates the Nemesis Perk.",
+    "The Survivor perk 'Made For This' endurance effect no longer triggers after using an Anti-Hemorrhagic Syringe on another Survivor."
+   ]
+  },
+  {
+   "group": "Level Design",
+   "items": [
+    "Fixed an issue where the Hook could be blocked by the Killer in Toba Landing",
+    "Fixed an issue where Wesker could slide on top of crates in Shelter Woods near The Skull Merchant base.",
+    "Fixed an issue where the stairs in the back of the main buildingin in Eirye of Crows didn't feel smooth.",
+    "Fixed an issue where The Nurse could get stuck in the west wing basement of the Raccoon City Police Station.",
+    "Pass on Toba Landing to Improve the navigation.",
+    "Added Lockers in Toba Landing.",
+    "Fixed an issue where the Killer could get stuck on the Temple of Purgation map."
+   ]
+  }
+ ]
+}

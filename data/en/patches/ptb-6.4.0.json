@@ -1,0 +1,233 @@
+{
+ "id": "ptb-6.4.0",
+ "version": "6.4.0",
+ "kind": "ptb",
+ "title": "6.4.0 | PTB",
+ "date": "2022-11-01",
+ "url": "https://store.steampowered.com/news/app/381210/view/3377163301212698477?l=english",
+ "changes": [
+  {
+   "entity": "New Perk - Nowhere to Hide",
+   "cat": "system",
+   "section": "New Killer - The Knight",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you damage a generator, reveal the aura of all survivors standing within 24 meters of your position for 3/4/5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you damage a generator, reveal the aura of all survivors standing within 24 meters of your position for 3/4/5 seconds"
+   ]
+  },
+  {
+   "entity": "New Perk - Hex: Face the Darkness",
+   "cat": "system",
+   "section": "New Killer - The Knight",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When this Hex is inactive and you injure a Survivor, a Dull Totem becomes lit and hexes that Survivor. When the Hex is active, all other Survivors outside of your Terror Radius will have a chance to scream intermittently, revealing their positions and auras for 2 seconds. Other Survivors also see the aura of the cursed Survivor for 12/10/8 seconds. When the cursed Survivor is downed or returned to full health, the Hex is lifted, and the Hex Totem becomes unlit. Cleansing the Hex totem deactivates Hex: Face the Darkness permanently",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When this Hex is inactive and you injure a Survivor, a Dull Totem becomes lit and hexes that Survivor. When the Hex is active, all other Survivors outside of your Terror Radius will have a chance to scream intermittently, revealing their positions and auras for 2 seconds. Other Survivors also see the aura of the cursed Survivor for 12/10/8 seconds. When the cursed Survivor is downed or returned to full health, the Hex is lifted, and the Hex Totem becomes unlit. Cleansing the Hex totem deactivates Hex: Face the Darkness permanently"
+   ]
+  },
+  {
+   "entity": "New Perk - Hubris",
+   "cat": "system",
+   "section": "New Killer - The Knight",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you are stunned by a Survivor, that Survivor suffers from the Exposed status effect for 10/15/20 seconds. Hubris has a cooldown of 20 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you are stunned by a Survivor, that Survivor suffers from the Exposed status effect for 10/15/20 seconds. Hubris has a cooldown of 20 seconds"
+   ]
+  },
+  {
+   "entity": "New Perk - Potential Energy",
+   "cat": "system",
+   "section": "New Survivor - Vittorio Toscano",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After working on a generator for 12/10/8 uninterrupted seconds, press the Active Ability Button 2 to activate this perk. When this perk is active, repairing the generator will charge this perk instead of making the generator progress. For each 1.5% of generator repair, the perk will gain one token, up to 20 tokens. While this perk has at least one token and you are working on a generator, you can press the Active Ability Button 2 to consume all the tokens and instantly make the generator progress by 1% for each token. This perk then deactivates. If you lose a health state while this perk has at least 1 tokens, the perk will lose all tokens and deactivate. Missing a skill check will also result in some charges lost",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After working on a generator for 12/10/8 uninterrupted seconds, press the Active Ability Button 2 to activate this perk. When this perk is active, repairing the generator will charge this perk instead of making the generator progress. For each 1.5% of generator repair, the perk will gain one token, up to 20 tokens. While this perk has at least one token and you are working on a generator, you can press the Active Ability Button 2 to consume all the tokens and instantly make the generator progress by 1% for each token. This perk then deactivates. If you lose a health state while this perk has at least 1 tokens, the perk will lose all tokens and deactivate. Missing a skill check will also result in some charges lost"
+   ]
+  },
+  {
+   "entity": "New Perk - Fogwise",
+   "cat": "system",
+   "section": "New Survivor - Vittorio Toscano",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Hitting a great Skill Check while repairing a generator reveals the aura of the Killer to you for 4/5/6 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Hitting a great Skill Check while repairing a generator reveals the aura of the Killer to you for 4/5/6 seconds"
+   ]
+  },
+  {
+   "entity": "New Perk - Quick Gambit",
+   "cat": "system",
+   "section": "New Survivor - Vittorio Toscano",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When you are chased within 24 meters of any generator, any other Survivor working on that generator receives a 6/7/8% speed boost to the repair action",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When you are chased within 24 meters of any generator, any other Survivor working on that generator receives a 6/7/8% speed boost to the repair action"
+   ]
+  },
+  {
+   "entity": "Flashlight update",
+   "cat": "system",
+   "section": "Flashlight update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Finishing a flashlight blind of a Killer who is picking up a Survivor will succeed in rescuing the Survivor if it completes during the last 0.25 seconds of the pickup animation",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killers are now immune to blindness while grabbing a Survivor out of a locker",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Finishing a flashlight blind of a Killer who is picking up a Survivor will succeed in rescuing the Survivor if it completes during the last 0.25 seconds of the pickup animation",
+    "Killers are now immune to blindness while grabbing a Survivor out of a locker"
+   ]
+  },
+  {
+   "entity": "Bots in Custom Matches",
+   "cat": "system",
+   "section": "Bots in Custom Matches",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The host of a Custom Match can add Survivor bots to the game",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The host of a Custom Match can add Survivor bots to the game"
+   ]
+  },
+  {
+   "entity": "Content",
+   "cat": "system",
+   "section": "Content",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "New map - The Shattered Square",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Updated Basement",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Wider stairs to address body-blocking issues",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Updated visuals for Pallets and Breakable doors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "New map - The Shattered Square",
+    "Updated Basement",
+    "Wider stairs to address body-blocking issues",
+    "Updated visuals for Pallets and Breakable doors"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Bug Fixes",
+   "items": [
+    "Fixed an issue that caused wrong prestige levels to be displayed in the end game tally screen",
+    "Tentatively fixed an issue that sometimes meant a Survivor in a dying state couldn't be healed whilst on stairs or slopes",
+    "Fixed an issue that caused letter casing in chat on WinGDK",
+    "Fixed an issue that caused female Survivors to not make any sounds while falling",
+    "Fixed an issue that allowed Killers to be able to body block the stairs to the basement in the Racoon City Police Station Map",
+    "Fixed an issue that caused Survivors Infected with the T-Virus to not play their opening Exit Gate animation",
+    "Fixed an issue that caused the Killer to not be stunned when the flashlight blind occurs at the end of the pickup animation",
+    "Fixed an issue that caused Survivor faces to be distorted when interacting or using emotes",
+    "Fixed an issue that caused The Cenobite's camera to appear lower than usual",
+    "Fixed an issue that caused the Survivors to not play the exit hatch animation from the Killer POV",
+    "Fixed a possible crash when clicking on the Current Tome button in the Archives",
+    "Fixed layout in the Settings menu where the match details tab could appear partially offscreen in a few languages",
+    "Fixed an issue that caused Pink Glyphs to fail to spawn in Trials when the Glyph Prowler challenge is selected",
+    "Fixed an issue that caused the timer of the perk \"Inner Healing\" to fail to update when grabbed by a Killer",
+    "Fixed an issue that caused Empathic Connection to remain active in the Trial after the Survivor with the perk has died",
+    "Fixed an issue that caused The Demogorgon's Brass Case Lighter add-on to have a different duration from the add-on description",
+    "Fixed an issue that caused Generators not to regress when being repaired by Survivors when the Eruption perk is triggered",
+    "Fixed an issue that caused the progression bar to not light up when achieving Bronze in Unbroken",
+    "Fixed an issue that caused the Lethal Pursuer perk's additional time not to apply to the Aura reveal at the beginning of a Trial",
+    "Fixed an issue that caused the Lethal Pursuer perk to fail to increase the aura duration of the \"Hex: Retribution\" and \"Object of Obsessions\" perks",
+    "Fixed an issue that caused The Twins to sometimes be unable to move after switching between Charlotte or Victor",
+    "Fixed an issue that caused the Spirit's add-on 'Mother-Daughter Ring' to modify movement speed by the wrong amount"
+   ]
+  }
+ ]
+}

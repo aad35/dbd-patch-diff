@@ -1,0 +1,324 @@
+{
+ "id": "6.4.0",
+ "version": "6.4.0",
+ "kind": "release",
+ "title": "6.4.0 | Forged in Fog",
+ "date": "2022-11-22",
+ "url": "https://store.steampowered.com/news/app/381210/view/3493133438788454970?l=english",
+ "changes": [
+  {
+   "entity": "New Perk - Nowhere to Hide",
+   "cat": "system",
+   "section": "New Killer - The Knight",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you damage a generator, reveal the aura of all Survivors standing within 24 meters of your position for 3/4/5 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you damage a generator, reveal the aura of all Survivors standing within 24 meters of your position for 3/4/5 seconds"
+   ]
+  },
+  {
+   "entity": "New Perk - Hex: Face the Darkness",
+   "cat": "system",
+   "section": "New Killer - The Knight",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Injuring a Survivor by any means lights a Dull Totem, activating the Hex. While the Hex is active, all other Survivors outside of your Terror Radius will scream every 35/30/25 seconds, revealing their positions and auras for 2 seconds. When the Survivor enters the dying state or becomes healthy, the Hex totem becomes dull again and this perk deactivates. If the Hex totem is cleansed, this perk is permanently disabled",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Injuring a Survivor by any means lights a Dull Totem, activating the Hex. While the Hex is active, all other Survivors outside of your Terror Radius will scream every 35/30/25 seconds, revealing their positions and auras for 2 seconds. When the Survivor enters the dying state or becomes healthy, the Hex totem becomes dull again and this perk deactivates. If the Hex totem is cleansed, this perk is permanently disabled"
+   ]
+  },
+  {
+   "entity": "New Perk - Hubris",
+   "cat": "system",
+   "section": "New Killer - The Knight",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you are stunned by a Survivor, that Survivor suffers from the Exposed status effect for 10/15/20 seconds. Hubris has a cooldown of 20 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you are stunned by a Survivor, that Survivor suffers from the Exposed status effect for 10/15/20 seconds. Hubris has a cooldown of 20 seconds"
+   ]
+  },
+  {
+   "entity": "New Perk - Potential Energy",
+   "cat": "system",
+   "section": "New Survivor - Vittorio Toscano",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After working on a generator for 12/10/8 uninterrupted seconds, press the Active Ability Button 2 to activate this perk. When this perk is active, repairing the generator will charge this perk instead of making the generator progress. For each 1.5% of generator repair, the perk will gain one token, up to 20 tokens. While this perk has at least one token and you are working on a generator, you can press the Active Ability Button 2 to consume all the tokens and instantly make the generator progress by 1% for each token. This perk then deactivates. If you lose a health state while this perk has at least 1 tokens, the perk will lose all tokens and deactivate. Missing a skill check will also result in some charges lost",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After working on a generator for 12/10/8 uninterrupted seconds, press the Active Ability Button 2 to activate this perk. When this perk is active, repairing the generator will charge this perk instead of making the generator progress. For each 1.5% of generator repair, the perk will gain one token, up to 20 tokens. While this perk has at least one token and you are working on a generator, you can press the Active Ability Button 2 to consume all the tokens and instantly make the generator progress by 1% for each token. This perk then deactivates. If you lose a health state while this perk has at least 1 tokens, the perk will lose all tokens and deactivate. Missing a skill check will also result in some charges lost"
+   ]
+  },
+  {
+   "entity": "New Perk - Fogwise",
+   "cat": "system",
+   "section": "New Survivor - Vittorio Toscano",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Hitting a great Skill Check while repairing a generator reveals the aura of the Killer to you for 4/5/6 seconds",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Hitting a great Skill Check while repairing a generator reveals the aura of the Killer to you for 4/5/6 seconds"
+   ]
+  },
+  {
+   "entity": "New Perk - Quick Gambit",
+   "cat": "system",
+   "section": "New Survivor - Vittorio Toscano",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When you are chased within 24 meters of any generator, any other Survivor working on that generator receives a 6/7/8% speed boost to the repair action",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When you are chased within 24 meters of any generator, any other Survivor working on that generator receives a 6/7/8% speed boost to the repair action"
+   ]
+  },
+  {
+   "entity": "Flashlight update",
+   "cat": "system",
+   "section": "Flashlight update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Flashlight blinds that occur within the last 0.4 seconds of the Survivor pickup animation will now stun the Killer once the animation has completed",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Killers are now immune to blindness while grabbing a Survivor out of a locker",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Flashlight blinds that occur within the last 0.4 seconds of the Survivor pickup animation will now stun the Killer once the animation has completed",
+    "Killers are now immune to blindness while grabbing a Survivor out of a locker"
+   ],
+   "devNote": "Dev note: We've increased the duration of the buffer from its PTB value of 0.25 to account for latency."
+  },
+  {
+   "entity": "Bots in Custom Matches",
+   "cat": "system",
+   "section": "Bots in Custom Matches",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The host of a Custom Match can add Survivor bots to the game",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "(PS5 Only!) Added Haptic Feedback & a pop-up informing players",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The host of a Custom Match can add Survivor bots to the game",
+    "(PS5 Only!) Added Haptic Feedback & a pop-up informing players"
+   ]
+  },
+  {
+   "entity": "Rancor Perk",
+   "cat": "system",
+   "section": "Rancor Perk",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Updated the conditions on which the obsession becomes exposed to include closing the hatch",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Updated the conditions on which the obsession becomes exposed to include closing the hatch"
+   ]
+  },
+  {
+   "entity": "Content",
+   "cat": "system",
+   "section": "Content",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "New map - The Shattered Square",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Updated Basement",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Wider stairs to address body-blocking issues",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Updated visuals for Pallets and Breakable doors",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "New map - The Shattered Square",
+    "Updated Basement",
+    "Wider stairs to address body-blocking issues",
+    "Updated visuals for Pallets and Breakable doors"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Bug Fixes",
+   "items": [
+    "Fixed an issue that caused error 109 after a trial",
+    "Fixed an issue that caused the wrong prestige level to be displayed on the tally screen",
+    "Fixed an issue that sometimes left survivors in the dying state, unable to be able to be healed whilst on a stairway or slope",
+    "Fixed an issue that caused letter casing in chat on WinGDK",
+    "Fixed an issue that allowed the Killer to bodyblock a hook on Racoon City Police Station map",
+    "Fixed an issue that enabled a Survivor to pass through a visible gap but not the Killer in Dead Dawg Saloon map",
+    "Fixed an issue that caused a placeholder in Pale Rose",
+    "Fixed an issue that caused the Survivor getting stuck between a hook and a rack in Racoon City Police Station map",
+    "Fixed an issue in the Archives where the progression was duplicated between some tomes",
+    "Fixed a possible crash when closing the Game",
+    "Fixed invitations not received when visiting the Archives or Onboarding menus",
+    "Fixed an issue that caused the Survivor to be stuck in the animation loop after failing a skill check",
+    "Fixed an issue that caused Jeff Johansen's face to be distorted when performing an action",
+    "Fixed an issue that caused The Knight snuffing animation to emits a metallic SFX",
+    "Fixed an issue that caused The Knight to play two kick sounds when breaking doors despite only kicking the door once",
+    "Fixed an issue on Switch that caused the Onryo project power's SFX to be corrupted",
+    "Fixed an issue that caused the Survivor's escape animation to be incorrect when escaping while using a flashlight",
+    "Fixed an issue with the Object of Obsession perk icon appears in red when the Survivor is not the obsession",
+    "Fixed an issue that caused Survivors to be able to avoid dying with a Reverse Beartrap by using a Flashlight at the Exit Gate",
+    "Fixed an issue that caused Survivors to be able to avoid getting caught in a Beartrap by using a flashlight",
+    "Fixed an issue that caused For The People to not trigger We're Gonna Live Forever when used too quickly",
+    "Fixed an issue that caused Killers to be able to bypass the Decisive Strike stun if the Survivor is dropped before the skill check",
+    "Fixed an issue that caused kills and sacrifices not being properly tracked in challenges and achievements"
+   ]
+  },
+  {
+   "group": "Bug Fixes From PTB",
+   "items": [
+    "Fixed an issue which caused flashlight blinds from any point of the Survivor pickup animation to blind the Killer once the animation was completed",
+    "Fixed some issues in the Lobby where the PlayerTag option menus could overlap with other PlayerTags",
+    "Fixed an issue where the character is unable to move after visiting the Compendium section in the Archives",
+    "Fixed an issue that caused the Blight's VFX to be missing during his Mori",
+    "Fixed an issue that caused the active flag VFX to be visible when a Survivor is hit by a Guard, before it get activated",
+    "Fixed an issue that caused the flags for The Knight to dissolve inconsistently when a Guard despawns",
+    "Fixed an issue that caused the loud noise notification to be misaligned with the Exit Gate Switch Panel",
+    "Fixed an issue that caused the VFX for the Potential Energy perk to be misaligned depending of the orientation of the survivor when triggered",
+    "Fixed an issue that caused the flag to remain for the hunted survivor even if the guard disappeared",
+    "Fixed an issue that caused some Tier 1 perks from The Knight and Vittorio Toscano to be brown instead of yellow",
+    "Fixed an issue that caused The Knight's Flint and Steel addon to not remove a token from the perk Distortion when triggered",
+    "Fixed an issue that caused The Knight's Knight Contract addon to affect a smaller than intended radius",
+    "Fixed an issue that caused The Knight's Chain Mail Fragment addon to not apply the Hemorrhage Status effect to survivors when hit by the guards",
+    "Fixed an issue that caused The Knight's Broken Hilt addon to not apply the Mangled Status effect to survivors when hit by the guards",
+    "Fixed an issue that caused The Knight's perk Nowhere To Hide to reveal the Aura of Survivors when cancelling the damage action on Generators",
+    "Fixed an issue that caused The Knight's Guards to place a flag in mid-air if the hunted survivor is detected while falling",
+    "Fixed an issue that caused survivors to be unable to pallet stun The Knight creating a Patrol Path",
+    "Fixed an issue that caused the Decimated Borgo map icon to appear in the wrong place in the Custom Games match management selection menu",
+    "Fixed an issue that caused The Knight's aura not to be visible to survivors when performing Guardia Compagnia",
+    "Fixed an issue that caused The Knight's power hud icon to incorrectly display a button prompt during the guard patrol",
+    "Fixed an issue that caused survivors in a locker hit by a Guard to keep the Blindness status effect indefinitely",
+    "Fixed an issue that caused The Knight's cohorts not to hunt Survivors who are downed, unhooked or get themselves up after a cohort is spawned",
+    "Fixed an issue that caused The Knight's guards to sometimes be unable to reach a survivor hiding in a locker during a hunt",
+    "Fixed an issue that caused The Knight's Guards to not grant Chaser Emblem points when damaging a survivor",
+    "Fixed an issue that caused The Knight's Guards to not detect survivors making loud noises within their hunt detection radius",
+    "Fixed an issue that caused The Knight's Healing Poultice Addon to reveal Survivors in a larger area than intended",
+    "Fixed an issue that caused The Knight's Guard order VFX to not be visible on breakable objects until The Knight uses his power once",
+    "Fixed an issue that caused Survivors hit by a Guard in a locker to play an extra reaction animation",
+    "Fixed an issue that caused the Killer Basement lighting to be used throughout the map after The Knight performs a Guardia Compagnia in the Killer Basement",
+    "Fixed an issue that caused players not to receive receive brutality score events for hitting Survivors or breaking objects with The Knight's Guards",
+    "Fixed an issue that caused Survivors to be able to blind The Knight's Path of Creation Wisp",
+    "Fixed an issue that caused The Knight's Guards to get stuck when making sharp turns around thin walls",
+    "Fixed an issue that caused the the VFX for Potential Energy and Refined Serum to be visible to The Knight while Path Creating Mode and and Spirit while Phase walking",
+    "Fixed an issue that caused the The Knight's Guardia Compagnia to be unable to Summon a guard to break certain pallets",
+    "Fixed an issue that caused a green line at the bottom of the screen during the Knight's Trailer on certain platforms",
+    "Fixed an issue that caused The Knight's Carnifex guard to be unable to move after hitting a hunted survivor in a locker",
+    "Fixed an issue that caused Survivors to become able to get stuck in or on top of a locker if The Knight hits the Survivor during the guard locker attack animation",
+    "Fixed an issue that caused The Knight's Guards to sometimes walk around vault locations or pallets instead of walking through them during a hunt",
+    "Fixed an issue that caused The Knight to be able to Order his Guards to kick Generator through walls",
+    "Fixed an issue that caused The Knight's Guard to incorrectly change elevation during a hunt",
+    "Fixed an issue that caused the Oni's model to be distorted during a Mori when in Blood Fury.",
+    "Fixed an issue that caused the wiggle UI to remain on screen after escaping the Killer's grasp.",
+    "Fixed an issue that caused the camera and animation to be incorrect when a survivor escapes through an exit gate",
+    "Fixed an issue that caused a repaired generator not to count towards the escape requirement when a perk causes an explosion/regression at the same time as the repair completion",
+    "Fixed an issue that allowed Flashbangs and Firecrackers to blind the killer at any point during the pick up animation",
+    "Fixed an issue that caused escaping by the Hatch to prevent progress through the Survivor Tutorial",
+    "Fixed an issue that caused the Survivor Tutorial objective \"Vault the Pallet\" to be impossible to complete, preventing players from progressing further in the tutorial",
+    "Fixed an issue that caused bots to be able to automatically wiggle out of a Virulent Bound grab",
+    "Fixed an issue that caused the Object of Obsession perk to remain active when the Survivor is in the dying state or being carried by the killer",
+    "Fixed an issue that caused Freddy's dream pallets to have incorrect textures in The Shattered Square map",
+    "Fixed an issue that caused bots to sometimes fail to escape the trial when passing through the Exit Gates at the same time",
+    "Fixed an issue that caused Killers to be able to vault on elevated vault locations",
+    "Fixed an issue that caused The Mastermind to not receive brutality Score Events for damaging Survivors with Virulent Bound",
+    "Fixed an issue that caused The Artist to not receive brutality score events for damaging Survivors with Crows",
+    "Fixed an issue that caused the survivors' animation transition from holding to solving the Lament Configuration to not be triggered",
+    "Fixed an issue that caused the Deep Wound status bar to remain visible on other players' HUDs after the Survivor had escaped the trial",
+    "Fixed an issue that caused survivors to get stuck inside a locker if The Dredge teleports away during the animation where the survivor gets pulled inside the locker",
+    "Fixed an issue that caused spamming any gesture while screaming to cause the screaming animation to repeat constantly"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "id": "8.2.2",
+ "version": "8.2.2",
+ "kind": "release",
+ "title": "8.2.2 | Bugfix Patch",
+ "date": "2024-09-11",
+ "url": "https://store.steampowered.com/news/app/381210/view/4581938347581189081?l=english",
+ "changes": [
+  {
+   "entity": "The Nemesis - Addons",
+   "cat": "killer",
+   "section": "Killer Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Licker Tongue Survivors are Hindered for an extra 1 second after being Contaminated",
+     "after": null,
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Bat Form movement speed changed to 6.5 m/s",
+     "after": null,
+     "before": "6.0 m/s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Teleport Speed changed to 12.0 m/s",
+     "after": null,
+     "before": "10.0 m/s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Shapeshift cooldown changed to 2.5 seconds",
+     "after": null,
+     "before": "5.0 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Addon Magical Ticket: Reduced to 10% to compensate for increased teleport speed",
+     "after": null,
+     "before": "25%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Licker Tongue Survivors are Hindered for an extra 1 second after being Contaminated. (was 3 seconds)",
+    "Bat Form movement speed changed to 6.5 m/s (was 6.0 m/s)",
+    "Teleport Speed changed to 12.0 m/s (was 10.0 m/s)",
+    "Shapeshift cooldown changed to 2.5 seconds (was 5.0 seconds)",
+    "Addon Magical Ticket: Reduced to 10% to compensate for increased teleport speed (was 25%)"
+   ],
+   "devNote": "Note: The Nemesis' Hindered effect was much lower than intended. This is fixed as of this update, prompting the Licker Tongue add-on to be balanced accordingly. The Dark Lord"
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed missing idle sounds on The Dredge.",
+    "Fixed missing Halloween theme on Michael Myers.",
+    "Fixed an issue that caused The Dark Lord's flame pillar charging sound not being heard from Survivor perspective."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue that caused the Trickster to lack some facial animations when in the lobby.",
+    "Fixed an issue that caused the Dark Lord's Traveler's Hat add-on not to function",
+    "Fixed an issue where The Dark Lord could attack while transforming.",
+    "Fixed a collision issue with The Dark Lord's Pounce attack.",
+    "Fixed an issue that caused the Nemesis' tentacle strike to apply the incorrect Hindered value to Survivors"
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in the Family Residence where the Dredge would get stuck in a locker",
+    "Fixed an issue in Eyrie of Crows where the killer can't grab from a side of a generator",
+    "Fixed an issue in Toba Landing where the Nurse could blink on top of a stone pillar",
+    "Fixed an issue in Raccoon City Police Station where a character could land on top of a light fixture when vaulting",
+    "Fixed an issue in Nostromo Wreckage that allowed The Nurse to blink underneath the Main Building through the floor of 2 ledges",
+    "Fixed an issue in Toba Landing where fog covered the ceiling and stairs in the basement, obstructing visibility",
+    "Continuing the global clean up of collisions for all maps",
+    "Fixed a window on the Decimated Borgo that could not properly be interacted with."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue that caused the Fire Up perk not to gain tokens when a bot completed a generator"
+   ]
+  }
+ ]
+}

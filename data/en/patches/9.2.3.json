@@ -1,0 +1,190 @@
+{
+ "id": "9.2.3",
+ "version": "9.2.3",
+ "kind": "release",
+ "title": "9.2.3 | Bugfix Patch",
+ "date": "2025-10-21",
+ "url": "https://store.steampowered.com/news/app/381210/view/556882414728644971?l=english",
+ "changes": [
+  {
+   "entity": "Content",
+   "cat": "system",
+   "section": "Content",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "The Twins and The Houndmaster have been re-enabled in the Haunted by Daylight event queue",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "The Twins and The Houndmaster have been re-enabled in the Haunted by Daylight event queue"
+   ]
+  },
+  {
+   "entity": "The Shape",
+   "cat": "killer",
+   "section": "The Shape",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increased the duration of Evil Incarnate Mode to 60 seconds",
+     "after": null,
+     "before": "40 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased movement speed while activating Evil Incarnate Mode to 4.6m/s",
+     "after": null,
+     "before": "3.45m/s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased Slaughtering Strike's movement speed to 7.5 m/s",
+     "after": null,
+     "before": "6.9 m/s",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Slaughtering Strike's cooldown to 4 seconds",
+     "after": null,
+     "before": "6 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increased score event for Slaughtering Strike hits to 800 Bloodpoints",
+     "after": null,
+     "before": "200",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreased Pursuer Mode's Terror Radius to 16m",
+     "after": null,
+     "before": "24m",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Decreased Evil Incarnate Mode's Terror Radius to 32m",
+     "after": null,
+     "before": "40m",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "Added a 20% bonus to stun recovery and breaking speed while in Evil Incarnate Mode",
+    "Increased the duration of Evil Incarnate Mode to 60 seconds (was 40 seconds)",
+    "Increased movement speed while activating Evil Incarnate Mode to 4.6m/s (was 3.45m/s)",
+    "Increased Slaughtering Strike's movement speed to 7.5 m/s (was 6.9 m/s)",
+    "Increased Slaughtering Strike's turning sensitivity",
+    "Removed the vertical camera restriction while performing a Slaughtering Strike",
+    "Decreased Slaughtering Strike's cooldown to 4 seconds (was 6 seconds)",
+    "Increased score event for Slaughtering Strike hits to 800 Bloodpoints (was 200)",
+    "Decreased Pursuer Mode's Terror Radius to 16m (was 24m)",
+    "Decreased Evil Incarnate Mode's Terror Radius to 32m (was 40m)"
+   ],
+   "devNote": "Dev note: This is the first of two steps we have planned to make Slaughtering Strike feel more responsive when you're mid-action. In the next PTB, we will be removing the sensitivity modifier from Slaughtering Strike, making it identical to normal camera sensitivity.",
+   "character": "The Shape"
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Haunted by Daylight",
+   "items": [
+    "Fixed an issue where players could become partially or fully invisible after interacting with a Void Portal. Becoming invisible from the spectator POV has been fixed as well.",
+    "Fixed an issue where Survivors' heads would show the effects of various Killers' Moris after interacting with a Void Portal.",
+    "Fixed an issue where The Knight could permanently see their Guards' auras at their last location after entering the Void Realm.",
+    "Fixed an issue where The Knight's view was unaffected by the Void Crystal's Smoke Bomb when using Guard Summon.",
+    "Fixed an issue where Killers were able to see through the Void Crystal's Smoke Bomb when standing at the sphere's edge.",
+    "Fixed an issue where The Mastermind and a Survivor could become invisible to one another and obstruct their view when the Void Portal interaction is interrupted.",
+    "Fixed an issue where Void Haunts would not hit the Survivor if they fell on top of them.",
+    "Fixed an issue where The Ghoul would face forward while destroying a pumpkin.",
+    "Fixed an issue in the Void Realm where The Nurse could Blink out of bounds.",
+    "Fixed an issue where The Twins' Victor could become invisible if Unbound while a Void Crystal's Smoke Bomb was active."
+   ]
+  },
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where the audio would be muffled when entering and exiting lockers.",
+    "Fixed an issue where The Dark Lord's cape SFX were too loud when spectating.",
+    "Fixed an issue where The Spirit's default SFX could be heard when finishing a Phase-Walk while equipped with the \"Tomie\" outfit.",
+    "Fixed an issue where The Executioner's Punishment of the Damned's SFX is missing when hitting a Survivor.",
+    "Fixed an issue where a loud noise notification would trigger when a Survivor was rescued from The Executioner's Cage of Atonement.",
+    "Fixed an issue where the audio for the Doomed Course trailer could be heard when tabbed out of the application.",
+    "Fixed an issue where chase music was not heard when spectating the Killer in Custom Game.",
+    "Fixed an issue where infected SFX continued to play after The Plague destroyed an infected pallet."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where The Krasue could cause pallets to repeatedly lift and drop when vaulting after switching to Head Mode.",
+    "Fixed an issue where The Krasue could occasionally cause a crash when vaulting during Headlong Flight while using mouse wheel keybindings.",
+    "Fixed an issue where the camera would zoom in on the sky at the end of The Krasue's Mori animation when viewed from the Survivor's POV.",
+    "Fixed an issue where the Hindered status effect from The Ghoul's Grab-Attack would last longer than normal on a vault grab.",
+    "Fixed an issue where The Shape's camera would reset after activating Evil Incarnate Mode.",
+    "Fixed an issue where The Shape's Slaughtering Strike turning was not smooth on controllers.",
+    "Fixed an issue where The Shape sometimes didn't receive a vault speed bonus in Pursuer or Evil Incarnate Mode.",
+    "Fixed an issue where The Shape incorrectly had Bloodlust during special attacks.",
+    "Fixed an issue where The Trapper would gain Haste stacks when installing or resetting multiple Bear Traps.",
+    "Fixed an issue where The Nightmare could get stuck when teleporting to certain generators.",
+    "Fixed an issue where the barbed wire from The Executioner's Trail of Torment wasn't visible on Tormented Survivors.",
+    "Fixed an issue where The Executioner's Cage of Atonement would flicker when relocating.",
+    "Fixed an issue where Survivors were unable to interact with lockers occupied by The Dredge.",
+    "Fixed an issue where Survivors could get stuck within each other after healing a downed Survivor close to a corner.",
+    "Fixed an issue where Killers clipped into the ground when closing the hatch.",
+    "Fixed an issue where some of The Dredge's weapons obstructed player view."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in the Autohaven Wreckers Realm where The Nightmare could get stuck while teleporting.",
+    "Fixed an issue in the Midwich Elementary School map where Survivors could land on top of a cage.",
+    "Fixed an issue on multiple maps where the camera would clip inside The Houndmaster's model at the beginning of a Trial.",
+    "Fixed an issue in the Treatment Theatre maps where the Killer could not grab a Survivor from a generator.",
+    "Fixed an issue on multiple maps where The Nurse could Blink out of bounds.",
+    "Fixed an issue in the Gas Heaven map where a Survivor exiting a locker would clip through its top.",
+    "Fixed an issue in the Disturbed Ward map where The Trapper could hide Bear Traps under rubble.",
+    "Fixed an issue in the Father Campbell's Chapel map where The Animatronic could not interrupt a Survivor interacting with a Security Door.",
+    "Fixed an issue in the Dead Dawg Saloon map where Survivors could not interact with a vault.",
+    "Fixed an issue in the Lampkin Lane map where players had difficulty navigating on the mud ramp next to the main building."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where Lucky Star would not suppress grunts of pain if the Survivor was in a locker when the perk cooldown finished.",
+    "Fixed an issue where Bardic Inspiration granted permanent Survivor aura reading.",
+    "Fixed an issue where Mindbreaker would not pause existing Exhaustion timers.",
+    "Fixed an issue where Sprint Burst triggered at the same time as completing a generator with a great skill check when using a controller."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed a crash that could occur when leaving the Store while navigating the Featured Content carousel.",
+    "Fixed an issue on Microsoft platforms where Quest progression could appear incorrect after switching accounts."
+   ]
+  },
+  {
+   "group": "Miscellaneous",
+   "items": [
+    "Fixed an issue which prevented switching characters while matchmaking as a Killer.",
+    "Fixed an issue where the taskbar icon would not flash when the application was unfocused and a Trial had started.",
+    "Fixed an issue where the Survivor tutorial was not able to be completed when the End Game Collapse ended after opening the exit gate.",
+    "Fixed an issue where the Killer's match result could appear on screen briefly before the match ended."
+   ]
+  }
+ ]
+}

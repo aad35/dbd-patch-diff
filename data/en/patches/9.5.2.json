@@ -1,0 +1,257 @@
+{
+ "id": "9.5.2",
+ "version": "9.5.2",
+ "kind": "release",
+ "title": "9.5.2 | Bugfix Patch",
+ "date": "2026-03-31",
+ "url": "https://store.steampowered.com/news/app/381210/view/498350300536504994?l=english",
+ "changes": [
+  {
+   "entity": "Killer Update - The Trickster",
+   "cat": "system",
+   "section": "Killer Update - The Trickster",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "Laceration Meter decay delay increased to 16s",
+     "after": "16s",
+     "before": "12",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Laceration Meter decay delay increased to 16s (was 12)"
+   ]
+  },
+  {
+   "entity": "The Trickster's Add-ons - Updates",
+   "cat": "system",
+   "section": "The Trickster's Add-ons - Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Increases maximum carried Blades by 8",
+     "after": "8",
+     "before": "4",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Start the Trial with 8 extra Blades",
+     "after": "8",
+     "before": "4",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases time before Style Ranks from D to A decay by 50%",
+     "after": "50%",
+     "before": "20%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Increases Throw Speed by 8% for 10 seconds after gaining a Style Rank",
+     "after": "8%",
+     "before": "15%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Increases Throw Speed by 5% for 5 seconds",
+     "after": "5% / 5 seconds",
+     "before": "8% for 8 seconds",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Gain 3% Haste for 6 seconds",
+     "after": "6 seconds",
+     "before": "3 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Decreases the speed at which Laceration decays by 75%",
+     "after": "75%",
+     "before": "25%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Survivors whose Laceration Meter fully decays are revealed for 10 seconds",
+     "after": "10 seconds.",
+     "before": "4 seconds",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "For each Style Rank, you basic-vault Windows, basic-break Pallets or Breakable Walls, and damage Generators 6% faster",
+     "after": "6%",
+     "before": "3%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Refills Blades by 75% of the maximum when Main Event ends",
+     "after": "75%",
+     "before": "50%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Common – Trick Pouch",
+    "Increases maximum carried Blades by 8. (was 4)",
+    "Start the Trial with 8 extra Blades. (was 4)",
+    "Common – Killing Part Chords",
+    "Increases time before Style Ranks from D to A decay by 50%. (was 20%)",
+    "Uncommon – Tequila Moonrock",
+    "Increases Throw Speed by 8% for 10 seconds after gaining a Style Rank. (was 15%)",
+    "Uncommon – Lucky Blade",
+    "On every eighth Blade Hit, an additional bonus is assigned at random:",
+    "Increases Throw Speed by 5% for 5 seconds. (was 8% for 8 seconds)",
+    "Gain 3% Haste for 6 seconds. (was 3 seconds)",
+    "Gain an additional Style Point",
+    "Uncommon – Bloody Boa",
+    "Decreases the speed at which Laceration decays by 75%. (was 25%)",
+    "Rare – Waiting For You Watch",
+    "Survivors whose Laceration Meter fully decays are revealed for 10 seconds. (was 4 seconds)",
+    "Rare – Ripper Brace",
+    "For each Style Rank, you basic-vault Windows, basic-break Pallets or Breakable Walls, and damage Generators 6% faster. (was 3%)",
+    "Visceral – Death Throes Compilation",
+    "Refills Blades by 75% of the maximum when Main Event ends. (was 50%)"
+   ]
+  },
+  {
+   "entity": "The Trickster's Add-ons - Reworks",
+   "cat": "system",
+   "section": "The Trickster's Add-ons - Reworks",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Common – Inferno Wires",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases the Style Rank timer of S-Rank by 20%",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Rare – Fizz-Spin Soda",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Decreases the number of Blade Throws required to increase Throw Speed by 2",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Rare – On Target Single",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Increases the duration of Main Event by 0.5 seconds for each Blade hit while in S-Rank, up to a maximum of 20 seconds",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Common – Inferno Wires",
+    "Increases the Style Rank timer of S-Rank by 20%",
+    "Rare – Fizz-Spin Soda",
+    "Decreases the number of Blade Throws required to increase Throw Speed by 2",
+    "Rare – On Target Single",
+    "Increases the duration of Main Event by 0.5 seconds for each Blade hit while in S-Rank, up to a maximum of 20 seconds"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where Globally, Survivors in a building can hear The Huntress' Lullaby from any distance.",
+    "Fixed an issue where The Unknown's Mask customization plays the male voice lines always.",
+    "Fixed an issue where Richter Belmont's is missing audio in the intro animation.",
+    "Fixed an issue where Static audio can be heard when Eleven is breathing in-game.",
+    "Fixed an issue where Multiple outfits don't have the Menu theme of their respective collection.",
+    "Fixed an issue where The Creeping Fog. 5. journal entry is missing audio.",
+    "Fixed an issue where 2 walls of the shop emit a metallic or a glass breaking sound when hit in Tricksters Delusion Map."
+   ]
+  },
+  {
+   "group": "Blood Moon",
+   "items": [
+    "Fixed an issue where the Stop Leak action could be performed while holding a Blood Can."
+   ]
+  },
+  {
+   "group": "Bot Improvements",
+   "items": [
+    "Fixed an issue causing Bots to be unable to complete multiple charged interactions."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where the crawling animation for female Survivors wasn’t playing properly.",
+    "Fixed an issue where The Clown outfit “Lethal Scarecrow” was missing the bottom part of the pants during kick animations.",
+    "Fixed an issue where repairing a generator as Lara Croft while equipping the Teal Throwback cosmetic caused dislocated arms.",
+    "Fixed an issue where The Mastermind was unable to interrupt vaulting Survivors during Virulent Bound cooldown animation.",
+    "Fixed an issue where The Mastermind was unable to move after Missing 1 Virulent Bound with 2 charges left.",
+    "Fixed an issue where it was possible to consume all of The Mastermind's Dash Tokens while holding the Dash Input.",
+    "Fixed an issue where The Mastermind's Virulent Bound Dash had a small delay between the first and second Dash."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue where the lighting in the basement was incorrect in Trickster's Delusion, Greenville Square, Freddy Fazbear's Pizza, Fallen Refuge, and Ormond Lake Mine.",
+    "Fixed an issue in Pale Rose where a trap was floating in a hole of the structure.",
+    "Fixed an issue in Treatment Theater where a hook was stuck in assets.",
+    "Fixed an issue in Ironworks of Misery where two totems would spawn close to each other.",
+    "Fixed an issue in Rancid Abattoir where a collision is placed above the visual asset.",
+    "Fixed an issue in Toba Landing where Snug could not vault off a ledge of the main building.",
+    "Fixed an issue in Treatment Theater where a Pool of Devotion could not be interacted with.",
+    "Fixed an issue in Pale Rose where it was impossible to place a trap in certain locations on the second floor of the Ferry Boat."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where the Perk Quick & Quiet could be used just before the cooldown ends, which made the Vault silent to the Survivor."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where a red glow was appearing behind Prestige levels outside of the Loadout menu.",
+    "Fixed an issue where some Store Bundle banners were shifted to the right.",
+    "Fixed an issue where Match Details would not be displayed in the Tally Screen."
+   ]
+  },
+  {
+   "group": "Animation",
+   "items": [
+    "Fixed an issue blocking rotation of Survivors and Killers in the Lobby."
+   ]
+  }
+ ]
+}
