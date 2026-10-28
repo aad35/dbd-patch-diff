@@ -1,6 +1,21 @@
 {
- "updatedAt": "2026-10-20T15:01:39.000Z",
+ "updatedAt": "2026-10-28T15:00:09.000Z",
  "patches": [
+  {
+   "id": "ptb-10.3.0",
+   "version": "10.3.0",
+   "kind": "ptb",
+   "title": "10.3.0 | Terrifier PTB Patch Notes",
+   "date": "2026-10-28",
+   "url": "https://store.steampowered.com/news/app/381210/view/711164227423837205?l=english",
+   "counts": {
+    "buff": 3,
+    "nerf": 1,
+    "change": 8,
+    "new": 7,
+    "fix": 18
+   }
+  },
   {
    "id": "10.2.2",
    "version": "10.2.2",

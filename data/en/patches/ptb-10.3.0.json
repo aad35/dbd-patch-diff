@@ -1,0 +1,695 @@
+{
+ "id": "ptb-10.3.0",
+ "version": "10.3.0",
+ "kind": "ptb",
+ "title": "10.3.0 | Terrifier PTB Patch Notes",
+ "date": "2026-10-28",
+ "url": "https://store.steampowered.com/news/app/381210/view/711164227423837205?l=english",
+ "changes": [
+  {
+   "entity": "New Killer: The Terrifier",
+   "cat": "killer",
+   "section": "New Killer: The Terrifier",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Power: Bag of Toys Hold the Ability button to open your Bag of Toys and select one of two random Toys. The Bag of Toys enters a cooldown state and cannot be opened again until it expires. Special Items: Toys Toys damage healthy Survivors and inflict injured Survivors with a Torture effect. Hold the Power button to ready a Toy and tap the Attack button to use it. Each Toy is single-use. Acid Bottle: Throw Acid Bottles at Survivors or create Acid Puddles. Causes the Torture effect. Flail: Perform a sweeping attack that can strike over certain obstacles. Causes the Torture effect. Handgun: Fire a bullet. Causes the Torture effect. Flamethrower: Shoot a stream of fire that can inflame Pallets, Windows, and Generators. Causes the Torture effect. Bike Horn: Reveal Survivors with Killer Instinct and apply Oblivious for X seconds. Reset the timer on any active Torture effects. Use a Toy to inflict a Torture effect on an injured Survivor. Then, use a different Toy on the Survivor to down them and inflict Terrified. Special Action: Taunt Press the Ability button to Taunt. Taunting a Terrified Survivor who is hooked or downed grants 1 point of Deadliness to all Toys. This removes the Survivor's Terrified status effect. Deadliness When a Toy applies the Torture status effect, it gains one point of Deadliness. Upon reaching maximum Deadliness, the Toy can down injured Survivors. When the Bike Horn reaches maximum Deadliness it will interrupt any Survivors repairing a Generator or healing, and instantly regress their progress",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Power: Bag of Toys Hold the Ability button to open your Bag of Toys and select one of two random Toys. The Bag of Toys enters a cooldown state and cannot be opened again until it expires. Special Items: Toys Toys damage healthy Survivors and inflict injured Survivors with a Torture effect. Hold the Power button to ready a Toy and tap the Attack button to use it. Each Toy is single-use. Acid Bottle: Throw Acid Bottles at Survivors or create Acid Puddles. Causes the Torture effect. Flail: Perform a sweeping attack that can strike over certain obstacles. Causes the Torture effect. Handgun: Fire a bullet. Causes the Torture effect. Flamethrower: Shoot a stream of fire that can inflame Pallets, Windows, and Generators. Causes the Torture effect. Bike Horn: Reveal Survivors with Killer Instinct and apply Oblivious for X seconds. Reset the timer on any active Torture effects. Use a Toy to inflict a Torture effect on an injured Survivor. Then, use a different Toy on the Survivor to down them and inflict Terrified. Special Action: Taunt Press the Ability button to Taunt. Taunting a Terrified Survivor who is hooked or downed grants 1 point of Deadliness to all Toys. This removes the Survivor's Terrified status effect. Deadliness When a Toy applies the Torture status effect, it gains one point of Deadliness. Upon reaching maximum Deadliness, the Toy can down injured Survivors. When the Bike Horn reaches maximum Deadliness it will interrupt any Survivors repairing a Generator or healing, and instantly regress their progress"
+   ]
+  },
+  {
+   "entity": "Laughingstock",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks:",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Survivors within 12m of a completed Generator:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Gain Exhausted",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Gain Oblivious",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When they leave this range, the effect lingers for 3/4/5s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You see the Auras of completed Generators",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Survivors within 12m of a completed Generator:",
+    "Gain Exhausted",
+    "Gain Oblivious",
+    "When they leave this range, the effect lingers for 3/4/5s",
+    "You see the Auras of completed Generators"
+   ]
+  },
+  {
+   "entity": "Kill Spree",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks:",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When all remaining Survivors have 2 Hook States and all Generators are completed, you can kill Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While killing a Survivor, both Exit Gate Switches are blocked. Whenever you finish killing a Survivor, this ends after 6/8/10s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When all remaining Survivors have 2 Hook States and all Generators are completed, you can kill Survivors",
+    "While killing a Survivor, both Exit Gate Switches are blocked. Whenever you finish killing a Survivor, this ends after 6/8/10s"
+   ]
+  },
+  {
+   "entity": "Funny Business",
+   "cat": "perk",
+   "role": "killer",
+   "section": "New Killer Perks:",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you damage a Generator, you gain 10% Haste for 10s and one of the following occurs at random:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You retain your 10% Haste for 5s longer",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You get stunned for 2s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The affected Generator is blocked for 30s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Confetti! But nothing happens",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Cooldown: 60/50/40s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The same effect cannot happen twice in a row",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you damage a Generator, you gain 10% Haste for 10s and one of the following occurs at random:",
+    "You retain your 10% Haste for 5s longer",
+    "You get stunned for 2s",
+    "The affected Generator is blocked for 30s",
+    "Confetti! But nothing happens",
+    "Cooldown: 60/50/40s",
+    "The same effect cannot happen twice in a row"
+   ]
+  },
+  {
+   "entity": "Valkyrie's Rage",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "New Survivor Perks:",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After being chased for 40/35/30s, the next time you pallet-stun the Killer, they are stunned for 75% longer",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Shared Trauma:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Whenever you take a protection hit, all Survivors within 12m recover from Exhausted while running for 30/35/40s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Within 32m, you see the Auras of Exhausted Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After being chased for 40/35/30s, the next time you pallet-stun the Killer, they are stunned for 75% longer",
+    "Shared Trauma:",
+    "Whenever you take a protection hit, all Survivors within 12m recover from Exhausted while running for 30/35/40s",
+    "Within 32m, you see the Auras of Exhausted Survivors"
+   ]
+  },
+  {
+   "entity": "Best Gift Ever",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "New Survivor Perks:",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "At the start of the trial, you earn 4/5/6 Tokens",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The first time you drop an Item of each type, spend 1 Token, then the dropped item is consumed (by the Entity). Then, based on the item type:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Flashlight - whenever you stun the Killer, they are also blinded for 2s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Fog Vial - whenever you fast-vault, for 5s, your scratch marks disappear 50% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Key - you gain +1 rummage on each chest",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Map - Auras you see for a duration last +1s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Medkit - while healing another Survivor, you also gain healing progress at 25% speed",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Toolbox - you see the Auras of the 3 Generators closest to each other",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "At the start of the trial, you earn 4/5/6 Tokens",
+    "The first time you drop an Item of each type, spend 1 Token, then the dropped item is consumed (by the Entity). Then, based on the item type:",
+    "Flashlight - whenever you stun the Killer, they are also blinded for 2s",
+    "Fog Vial - whenever you fast-vault, for 5s, your scratch marks disappear 50% faster",
+    "Key - you gain +1 rummage on each chest",
+    "Map - Auras you see for a duration last +1s",
+    "Medkit - while healing another Survivor, you also gain healing progress at 25% speed",
+    "Toolbox - you see the Auras of the 3 Generators closest to each other"
+   ]
+  },
+  {
+   "entity": "New Map: Hartshorne Mall",
+   "cat": "system",
+   "section": "New Map: Hartshorne Mall",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Introducing the The Subdivisions realm with the Hartshorne Mall, a new environment loaded with lore where players can experience a new environment in Dead by Daylight. \"Dwight was no older than five when he lost his parents in the Hartshorne Mall. A place that was once a magical escape twisted into something more horrifying. He ducked behind a door marked 'Employees Only', and found himself somewhere completely different: somewhere quiet, but no less disturbing. Something called out to him. He followed the call... and woke up at home, his parents pleading him to tell where he went. He did not answer. He could not remember.\"",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Introducing the The Subdivisions realm with the Hartshorne Mall, a new environment loaded with lore where players can experience a new environment in Dead by Daylight. \"Dwight was no older than five when he lost his parents in the Hartshorne Mall. A place that was once a magical escape twisted into something more horrifying. He ducked behind a door marked 'Employees Only', and found himself somewhere completely different: somewhere quiet, but no less disturbing. Something called out to him. He followed the call... and woke up at home, his parents pleading him to tell where he went. He did not answer. He could not remember.\""
+   ]
+  },
+  {
+   "entity": "Gore Customization",
+   "cat": "system",
+   "section": "Gore Customization",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "You can now customize the gore settings under the Gameplay tab in the Settings menu",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Death Sequences can be toggled to reduce their goriness",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Natural Blood Color can be toggled to a neutral green tone",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Regional Streamer Mode, in addition to toggling the above, will anonymize all player information",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "You can now customize the gore settings under the Gameplay tab in the Settings menu",
+    "Death Sequences can be toggled to reduce their goriness",
+    "Natural Blood Color can be toggled to a neutral green tone",
+    "Regional Streamer Mode, in addition to toggling the above, will anonymize all player information"
+   ]
+  },
+  {
+   "entity": "Mori System Update",
+   "cat": "system",
+   "section": "Mori System Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "We have defined three distinct Mori categories to provide better activation constraints and also allow more flexibility in their artistic direction. These categories are:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Finisher mori",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Power mori",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Memento Mori offering and Perk mori",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Starting with The Terrifier, all upcoming Killers will adhere to this Mori system update",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "We have defined three distinct Mori categories to provide better activation constraints and also allow more flexibility in their artistic direction. These categories are:",
+    "Finisher mori",
+    "Power mori",
+    "Memento Mori offering and Perk mori",
+    "Starting with The Terrifier, all upcoming Killers will adhere to this Mori system update"
+   ]
+  },
+  {
+   "entity": "NOTE",
+   "cat": "system",
+   "section": "Mori System Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Not all Killers have or will have a Power mori, but rather that any Moris they do have will fall into these categories",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Each mori type is superseded by the one above it, as long as the trigger conditions are all met, meaning only a single \"Kill\" interaction prompt is available at one time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Activating all moris will use a standardized keybinding of the Killer's Attack input",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "This system update will roll out to previously released Killers over time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Not all Killers have or will have a Power mori, but rather that any Moris they do have will fall into these categories",
+    "Each mori type is superseded by the one above it, as long as the trigger conditions are all met, meaning only a single \"Kill\" interaction prompt is available at one time",
+    "Activating all moris will use a standardized keybinding of the Killer's Attack input",
+    "This system update will roll out to previously released Killers over time"
+   ]
+  },
+  {
+   "entity": "Redeem code popup",
+   "cat": "system",
+   "section": "Redeem code popup",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Prevent players from spamming the redeem button for a promo code that might already be expired",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Prevent players from spamming the redeem button for a promo code that might already be expired"
+   ]
+  },
+  {
+   "entity": "Tally Screen:",
+   "cat": "system",
+   "section": "Tally Screen:",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Improvements to the widgets in the player list",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Improvements to the widgets in the player list"
+   ]
+  },
+  {
+   "entity": "Content Updates",
+   "cat": "system",
+   "section": "Content Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "With the 10.2.0 patch, we released a lot of perk updates. We're doing a few improvements to some of them. Additionally, we were conservative with some of the numbers and after reviewing, we felt they could be buffed further",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "With the 10.2.0 patch, we released a lot of perk updates. We're doing a few improvements to some of them. Additionally, we were conservative with some of the numbers and after reviewing, we felt they could be buffed further"
+   ]
+  },
+  {
+   "entity": "Dark Sense",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When the trial starts, and after a Generator is completed, you earn 1 Token, up to 5",
+     "after": "1 / 5",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When the trial starts, and after a Generator is completed, you earn 1 Token, up to 5. (NEW)",
+    "When the Killer gets within 20m of you, spend 1 Token. Then, for the next 13/14/15s:",
+    "You see the Aura of Pallets and Windows within 32m",
+    "You see the Auras of other Survivors",
+    "You see the Killer's Aura"
+   ],
+   "devNote": "Dev note: Dark Sense was updated as a generic alternative to reveal pallets and windows within a radius. In 10.2.0, it activated upon generator completion, meaning if it didn't get a chance to trigger, players would lose value. With this PTB, we are adding a token system to allow players to have more chances to activate the perk."
+  },
+  {
+   "entity": "Calm Spirit",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You bless and cleanse Totems, and unlock Chests silently, and 23/24/25% faster",
+     "after": "23/24/25%",
+     "before": "8/9/10%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "You do not scare Crows or scream",
+    "You bless and cleanse Totems, and unlock Chests silently, and 23/24/25% faster. (was 8/9/10%)"
+   ]
+  },
+  {
+   "entity": "Slippery Meat",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Other Survivors unhook you 65/70/75% faster",
+     "after": "65/70/75%",
+     "before": "90/95/100%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Whenever you are unhooked, you gain 7% more Haste",
+     "after": "7%",
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Other Survivors unhook you 65/70/75% faster. (was 90/95/100%)",
+    "Whenever you are unhooked, you gain 7% more Haste. (was 5%)"
+   ],
+   "devNote": "Dev note: Slippery Meat had the possibility to eliminate risk for the Survivor unhooking you. With this PTB, we are shifting some of its strength from the Unhook Speed to the Haste bonus after being Unhooked."
+  },
+  {
+   "entity": "Dark Arrogance",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "You basic-vault Windows 15% faster",
+     "after": "15%",
+     "before": "25%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Your successful basic-attack cooldown is 13/14/15% shorter",
+     "after": "13/14/15%",
+     "before": "all forms of basic-attack recovery and 10%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Whenever you are blinded, Pallet-stunned, or miss a basic-attack the duration is 15% longer",
+     "after": "15%",
+     "before": "only blind/stun and 25%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "You basic-vault Windows 15% faster. (was 25%)",
+    "Your successful basic-attack cooldown is 13/14/15% shorter. (was all forms of basic-attack recovery and 10%)",
+    "Whenever you are blinded, Pallet-stunned, or miss a basic-attack the duration is 15% longer. (was only blind/stun and 25%)"
+   ],
+   "devNote": "Dev note: Dark Arrogance regained its successful basic-attack cooldown in 10.2.2, but we felt it could be buffed a little further. To offset this, we're reducing the vault speed bonus while also decreasing the penalty to blinds, pallet stuns, and we're adding missed attack cooldowns to the penalties."
+  },
+  {
+   "entity": "Ravenous",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Gain Exposed for 60/65/70s",
+     "after": "60/65/70s",
+     "before": "80/85/90s",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "The first time you hook each Survivor, you earn 1 Token. For each token:",
+    "Gain 4% Haste while carrying Survivors",
+    "Hook Survivors 4% faster",
+    "When you have 4 Tokens, all Survivors:",
+    "Scream",
+    "Gain Exposed for 60/65/70s. (was 80/85/90s)"
+   ],
+   "devNote": "Dev note: Once upon a time, Vigil drastically decreased a lot of Status Effects, including Exposed. In a post-Vigil world, we felt the Exposed duration was a little too long."
+  },
+  {
+   "entity": "Whispers",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "While outside of 28/26/24m of a Survivor, you gain 7% Haste",
+     "after": "7%",
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While within 28/26/24m of a Survivor, you randomly hear whispers",
+    "While outside of 28/26/24m of a Survivor, you gain 7% Haste. (was 5%)"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Bot Improvements",
+   "items": [
+    "Fixed an issue with Survivor Bots trying to cleanse totems when a Player is already interacting with it.",
+    "Tentative fix for Survivor Bots not unhooking while walking into the hooked Survivor."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where the aura of completed generators became visible after controlling Victor (The Twins) during the End Game Collapse.",
+    "Fixed an issue where The Judgment was able to block a Survivor from escaping past the 32m range.",
+    "Fixed an issue where the camera was too far away from The Good Guy.",
+    "Fixed an issue where injured Survivors hit by The Slasher's spike would not always get correctly pinned to nearby surfaces."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in Raccoon City Police Station where a Killer can block a hook and prevent a Survivor from unhooking.",
+    "Fixed an issue in Pale Rose where a Survivor could not interact with one side of a generator in the corner of the map.",
+    "Fixed an issue in Grim Pantry where collisions were missing under the stairs of the small structure.",
+    "Fixed an issue in Temple of Purgation where the Nurse could not blink through some walls in the underground section.",
+    "Fixed an issue in Disturbed Ward where Survivors are clipping through the doors of lockers."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where the Perk Lay Waste had the Generator regression speed increase applied before other Generator regression Perks were triggered.",
+    "Fixed an issue where the Perk Merciless Storm caused a Skill Check to automatically fail after the second Skill Check when playing against The Doctor.",
+    "Fixed an issue where there was an inconsistency in the activation of Hex: The Third Seal.",
+    "Fixed an issue where the perk Chemical Trap was unable to explode when placed on a pallet at the same time it was being broken by certain Killer Powers."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed an issue where the Wiggle Skill Check Bar was starting at an incorrect position.",
+    "Fixed an issue where The Onryo Condemned HUD indicator remained dim after a TV teleportation near a Survivor with active stacks.",
+    "Fixed an issue where a Bloodweb Error would frequently occur when selecting the Loadout Tab while the Bloodweb was progressing."
+   ]
+  }
+ ]
+}
