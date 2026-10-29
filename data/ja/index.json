@@ -1,6 +1,21 @@
 {
- "updatedAt": "2026-10-28T15:00:09.000Z",
+ "updatedAt": "2026-10-29T15:06:00.000Z",
  "patches": [
+  {
+   "id": "10.2.2a",
+   "version": "10.2.2a",
+   "kind": "release",
+   "title": "10.2.2a | パッチノート",
+   "date": "2026-10-29",
+   "url": "https://store.steampowered.com/news/app/381210/view/692024563197805374",
+   "counts": {
+    "buff": 1,
+    "nerf": 0,
+    "change": 1,
+    "new": 0,
+    "fix": 0
+   }
+  },
   {
    "id": "ptb-10.3.0",
    "version": "10.3.0",

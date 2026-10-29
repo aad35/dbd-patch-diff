@@ -1,4 +1,388 @@
 {
+ "エクセキューショナー": {
+  "cat": "killer",
+  "alt": "The Executioner",
+  "history": [
+   {
+    "id": "10.2.2a",
+    "version": "10.2.2a",
+    "date": "2026-10-29",
+    "type": "change",
+    "diffs": [
+     {
+      "text": "裁きの儀式を発動するのにかかる時間を0.8秒に短縮させました",
+      "after": null,
+      "before": "1秒",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "裁きの儀式をキャンセルするのにかかる時間を1.2秒に増加させました",
+      "after": null,
+      "before": "1秒",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "裁きの儀式の最大チャージ数を8に減少させました",
+      "after": null,
+      "before": "10",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "裁きの儀式のチャージ回復速度を0.5チャージ/秒に増加させました",
+      "after": null,
+      "before": "0.25チャージ/秒",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "地獄の罰が発生するディレイを0.25秒に短縮させました",
+      "after": null,
+      "before": "0.267秒",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "地獄の罰の各段階の間のディレイを0.001秒に短縮させました",
+      "after": null,
+      "before": "0.033秒",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "地獄の罰の各段階の持続時間を0.3秒に増加させました",
+      "after": null,
+      "before": "0.18秒",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "地獄の罰の最大射程距離を16メートルに増加させました",
+      "after": null,
+      "before": "10メートル",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   },
+   {
+    "id": "10.1.2",
+    "version": "10.1.2",
+    "date": "2026-09-08",
+    "type": "change",
+    "diffs": [
+     {
+      "text": "地獄の罰の幅が2メートル増加するように変更しました",
+      "after": "2メートル",
+      "before": "増加なし",
+      "isNew": false,
+      "type": "change"
+     }
+    ]
+   },
+   {
+    "id": "9.1.0",
+    "version": "9.1.0",
+    "date": "2025-07-29",
+    "type": "change",
+    "diffs": [
+     {
+      "text": "地獄の罰の射程距離を10メートルに増加させました",
+      "after": null,
+      "before": "8",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "裁きの儀式の最大持続時間を10秒に増加させました",
+      "after": null,
+      "before": "5",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "裁きの儀式のトレイルの寿命を90秒に増加させました",
+      "after": null,
+      "before": "75",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "裁きの儀式の移動時間を4.2メートル/秒に減少させました",
+      "after": null,
+      "before": "4.4",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "生存者を檻から救助したときのブラッドポイントスコアを2000に増加させました",
+      "after": null,
+      "before": "550",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   },
+   {
+    "id": "9.1.0",
+    "version": "9.1.0",
+    "date": "2025-07-29",
+    "type": "change",
+    "part": "エクセキューショナーのアドオン",
+    "diffs": [
+     {
+      "text": "銅の指輪：裁きの儀式の最大持続時間を5秒に増加させました",
+      "after": null,
+      "before": "1秒",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "ろう人形：地獄の罰の射程を5%増加させる",
+      "after": null,
+      "before": "12.5%",
+      "isNew": false,
+      "type": "nerf"
+     }
+    ]
+   },
+   {
+    "id": "6.7.0",
+    "version": "6.7.0",
+    "date": "2023-04-18",
+    "type": "buff",
+    "diffs": [
+     {
+      "text": "アドオン“緋色の卵”: 殺人鬼の本能の持続時間を1.5秒→3秒に変更しました",
+      "after": "3秒",
+      "before": "1.5秒",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   }
+  ],
+  "current": [
+   "裁きの儀式を発動するのにかかる時間を0.8秒に短縮させました",
+   "裁きの儀式をキャンセルするのにかかる時間を1.2秒に増加させました",
+   "裁きの儀式の最大チャージ数を8に減少させました",
+   "裁きの儀式のチャージ回復速度を0.5チャージ/秒に増加させました",
+   "地獄の罰が発生するディレイを0.25秒に短縮させました",
+   "地獄の罰の各段階の間のディレイを0.001秒に短縮させました",
+   "地獄の罰の各段階の持続時間を0.3秒に増加させました",
+   "地獄の罰の最大射程距離を16メートルに増加させました"
+  ]
+ },
+ "グッドガイ": {
+  "cat": "killer",
+  "alt": "The Good Guy",
+  "history": [
+   {
+    "id": "10.2.2a",
+    "version": "10.2.2a",
+    "date": "2026-10-29",
+    "type": "buff",
+    "diffs": [
+     {
+      "text": "ハイディホーモードのクールダウンを10秒に減少させました",
+      "after": null,
+      "before": "12秒",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "斬り付け中の乗り越えにかかる時間を0.8秒に減少させました",
+      "after": null,
+      "before": "1秒",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "斬り付けの最大持続時間を2秒に増加させました",
+      "after": null,
+      "before": "1.8秒",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   },
+   {
+    "id": "8.6.0",
+    "version": "8.6.0",
+    "date": "2025-04-02",
+    "type": "nerf",
+    "diffs": [
+     {
+      "text": "ハイディホーモードのクールダウンが12秒に短縮",
+      "after": null,
+      "before": "14",
+      "isNew": false,
+      "type": "nerf"
+     }
+    ]
+   },
+   {
+    "id": "8.4.1",
+    "version": "8.4.1",
+    "date": "2024-12-09",
+    "type": "change",
+    "part": "グッドガイ - ベースキット",
+    "diffs": [
+     {
+      "text": "ハイディホーモードのクールダウンを14秒に増加しました",
+      "after": null,
+      "before": "12秒",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "斬り付けの時間を1.8秒に増加しました",
+      "after": null,
+      "before": "1.2秒",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "斬り付けの移動速度を8メートル/秒に減少しました",
+      "after": null,
+      "before": "10メートル/秒",
+      "isNew": false,
+      "type": "nerf"
+     }
+    ]
+   },
+   {
+    "id": "8.4.0",
+    "version": "8.4.0",
+    "date": "2024-11-28",
+    "type": "change",
+    "part": "グッドガイ – ベースキット",
+    "diffs": [
+     {
+      "text": "駆け抜けにかかる時間を1秒に減少",
+      "after": null,
+      "before": "1.3秒",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "ハイディホーモードのクールダウンを12秒に増加",
+      "after": null,
+      "before": "10秒",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   },
+   {
+    "id": "8.4.0",
+    "version": "8.4.0",
+    "date": "2024-11-28",
+    "type": "nerf",
+    "part": "グッドガイ – アドオン",
+    "diffs": [
+     {
+      "text": "アドオン「ネズミ駆除剤」の効果範囲を6メートルに縮小し",
+      "after": null,
+      "before": "12",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "効果の持続時間を2.5秒に短縮",
+      "after": null,
+      "before": "5秒",
+      "isNew": false,
+      "type": "nerf"
+     }
+    ]
+   },
+   {
+    "id": "8.1.0",
+    "version": "8.1.0",
+    "date": "2024-07-16",
+    "type": "buff",
+    "diffs": [
+     {
+      "text": "ハイディホーモードのクールダウンを10秒に短縮しました",
+      "after": null,
+      "before": "12秒",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   },
+   {
+    "id": "8.0.1",
+    "version": "8.0.1",
+    "date": "2024-06-13",
+    "type": "nerf",
+    "part": "グッドガイ - アドオン",
+    "diffs": [
+     {
+      "text": "パワードリル: 斬り付けが生存者に命中したあとのハイディホーモードのクールダウンが10%短縮する",
+      "after": null,
+      "before": "15%",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "自動スクリュードライバー: 斬り付けが命中しなかった際のハイディホーモードのクールダウンが8%短縮する",
+      "after": null,
+      "before": "10%",
+      "isNew": false,
+      "type": "nerf"
+     }
+    ]
+   },
+   {
+    "id": "8.0.0",
+    "version": "8.0.0",
+    "date": "2024-06-03",
+    "type": "change",
+    "part": "グッドガイ - 基本能力",
+    "diffs": [
+     {
+      "text": "ハイディホーモードのクールダウンを12秒に減少しました",
+      "after": null,
+      "before": "18秒",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "駆け抜けの時間を1.3秒に減少しました",
+      "after": null,
+      "before": "1.4秒",
+      "isNew": false,
+      "type": "nerf"
+     }
+    ]
+   },
+   {
+    "id": "8.0.0",
+    "version": "8.0.0",
+    "date": "2024-06-03",
+    "type": "buff",
+    "part": "グッドガイ - アドオン ストロボスコープ",
+    "diffs": [
+     {
+      "text": "ハイディホーモードがクールダウン中脅威範囲を8m減少する",
+      "after": null,
+      "before": "4m",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   }
+  ],
+  "current": [
+   "ハイディホーモードのクールダウンを10秒に減少させました",
+   "斬り付け中の乗り越えにかかる時間を0.8秒に減少させました",
+   "斬り付けの最大持続時間を2秒に増加させました"
+  ]
+ },
  "闇の慢心": {
   "cat": "perk",
   "role": "killer",
@@ -2316,111 +2700,6 @@
   "current": [
    "闇の包容のチャージ速度上昇率を20%に増加させました",
    "つけ回しのチャージ速度上昇率を15%に増加させました"
-  ]
- },
- "エクセキューショナー": {
-  "cat": "killer",
-  "alt": "The Executioner",
-  "history": [
-   {
-    "id": "10.1.2",
-    "version": "10.1.2",
-    "date": "2026-09-08",
-    "type": "change",
-    "diffs": [
-     {
-      "text": "地獄の罰の幅が2メートル増加するように変更しました",
-      "after": "2メートル",
-      "before": "増加なし",
-      "isNew": false,
-      "type": "change"
-     }
-    ]
-   },
-   {
-    "id": "9.1.0",
-    "version": "9.1.0",
-    "date": "2025-07-29",
-    "type": "change",
-    "diffs": [
-     {
-      "text": "地獄の罰の射程距離を10メートルに増加させました",
-      "after": null,
-      "before": "8",
-      "isNew": false,
-      "type": "buff"
-     },
-     {
-      "text": "裁きの儀式の最大持続時間を10秒に増加させました",
-      "after": null,
-      "before": "5",
-      "isNew": false,
-      "type": "buff"
-     },
-     {
-      "text": "裁きの儀式のトレイルの寿命を90秒に増加させました",
-      "after": null,
-      "before": "75",
-      "isNew": false,
-      "type": "buff"
-     },
-     {
-      "text": "裁きの儀式の移動時間を4.2メートル/秒に減少させました",
-      "after": null,
-      "before": "4.4",
-      "isNew": false,
-      "type": "nerf"
-     },
-     {
-      "text": "生存者を檻から救助したときのブラッドポイントスコアを2000に増加させました",
-      "after": null,
-      "before": "550",
-      "isNew": false,
-      "type": "buff"
-     }
-    ]
-   },
-   {
-    "id": "9.1.0",
-    "version": "9.1.0",
-    "date": "2025-07-29",
-    "type": "change",
-    "part": "エクセキューショナーのアドオン",
-    "diffs": [
-     {
-      "text": "銅の指輪：裁きの儀式の最大持続時間を5秒に増加させました",
-      "after": null,
-      "before": "1秒",
-      "isNew": false,
-      "type": "buff"
-     },
-     {
-      "text": "ろう人形：地獄の罰の射程を5%増加させる",
-      "after": null,
-      "before": "12.5%",
-      "isNew": false,
-      "type": "nerf"
-     }
-    ]
-   },
-   {
-    "id": "6.7.0",
-    "version": "6.7.0",
-    "date": "2023-04-18",
-    "type": "buff",
-    "diffs": [
-     {
-      "text": "アドオン“緋色の卵”: 殺人鬼の本能の持続時間を1.5秒→3秒に変更しました",
-      "after": "3秒",
-      "before": "1.5秒",
-      "isNew": false,
-      "type": "buff"
-     }
-    ]
-   }
-  ],
-  "current": [
-   "地獄の罰の幅が2メートル増加するように変更しました"
   ]
  },
  "ナイト": {
@@ -9437,184 +9716,6 @@
    "攻撃を外したときのクールダウン時間が2.5秒に短縮",
    "トンネルを出たときの「殺人鬼の本能」の範囲が16メートルに増加",
    "ゼノモーフのクローラーモードを止めるのに必要な炎の量が125に増加"
-  ]
- },
- "グッドガイ": {
-  "cat": "killer",
-  "alt": "The Good Guy",
-  "history": [
-   {
-    "id": "8.6.0",
-    "version": "8.6.0",
-    "date": "2025-04-02",
-    "type": "nerf",
-    "diffs": [
-     {
-      "text": "ハイディホーモードのクールダウンが12秒に短縮",
-      "after": null,
-      "before": "14",
-      "isNew": false,
-      "type": "nerf"
-     }
-    ]
-   },
-   {
-    "id": "8.4.1",
-    "version": "8.4.1",
-    "date": "2024-12-09",
-    "type": "change",
-    "part": "グッドガイ - ベースキット",
-    "diffs": [
-     {
-      "text": "ハイディホーモードのクールダウンを14秒に増加しました",
-      "after": null,
-      "before": "12秒",
-      "isNew": false,
-      "type": "nerf"
-     },
-     {
-      "text": "斬り付けの時間を1.8秒に増加しました",
-      "after": null,
-      "before": "1.2秒",
-      "isNew": false,
-      "type": "buff"
-     },
-     {
-      "text": "斬り付けの移動速度を8メートル/秒に減少しました",
-      "after": null,
-      "before": "10メートル/秒",
-      "isNew": false,
-      "type": "nerf"
-     }
-    ]
-   },
-   {
-    "id": "8.4.0",
-    "version": "8.4.0",
-    "date": "2024-11-28",
-    "type": "change",
-    "part": "グッドガイ – ベースキット",
-    "diffs": [
-     {
-      "text": "駆け抜けにかかる時間を1秒に減少",
-      "after": null,
-      "before": "1.3秒",
-      "isNew": false,
-      "type": "nerf"
-     },
-     {
-      "text": "ハイディホーモードのクールダウンを12秒に増加",
-      "after": null,
-      "before": "10秒",
-      "isNew": false,
-      "type": "buff"
-     }
-    ]
-   },
-   {
-    "id": "8.4.0",
-    "version": "8.4.0",
-    "date": "2024-11-28",
-    "type": "nerf",
-    "part": "グッドガイ – アドオン",
-    "diffs": [
-     {
-      "text": "アドオン「ネズミ駆除剤」の効果範囲を6メートルに縮小し",
-      "after": null,
-      "before": "12",
-      "isNew": false,
-      "type": "nerf"
-     },
-     {
-      "text": "効果の持続時間を2.5秒に短縮",
-      "after": null,
-      "before": "5秒",
-      "isNew": false,
-      "type": "nerf"
-     }
-    ]
-   },
-   {
-    "id": "8.1.0",
-    "version": "8.1.0",
-    "date": "2024-07-16",
-    "type": "buff",
-    "diffs": [
-     {
-      "text": "ハイディホーモードのクールダウンを10秒に短縮しました",
-      "after": null,
-      "before": "12秒",
-      "isNew": false,
-      "type": "buff"
-     }
-    ]
-   },
-   {
-    "id": "8.0.1",
-    "version": "8.0.1",
-    "date": "2024-06-13",
-    "type": "nerf",
-    "part": "グッドガイ - アドオン",
-    "diffs": [
-     {
-      "text": "パワードリル: 斬り付けが生存者に命中したあとのハイディホーモードのクールダウンが10%短縮する",
-      "after": null,
-      "before": "15%",
-      "isNew": false,
-      "type": "nerf"
-     },
-     {
-      "text": "自動スクリュードライバー: 斬り付けが命中しなかった際のハイディホーモードのクールダウンが8%短縮する",
-      "after": null,
-      "before": "10%",
-      "isNew": false,
-      "type": "nerf"
-     }
-    ]
-   },
-   {
-    "id": "8.0.0",
-    "version": "8.0.0",
-    "date": "2024-06-03",
-    "type": "change",
-    "part": "グッドガイ - 基本能力",
-    "diffs": [
-     {
-      "text": "ハイディホーモードのクールダウンを12秒に減少しました",
-      "after": null,
-      "before": "18秒",
-      "isNew": false,
-      "type": "buff"
-     },
-     {
-      "text": "駆け抜けの時間を1.3秒に減少しました",
-      "after": null,
-      "before": "1.4秒",
-      "isNew": false,
-      "type": "nerf"
-     }
-    ]
-   },
-   {
-    "id": "8.0.0",
-    "version": "8.0.0",
-    "date": "2024-06-03",
-    "type": "buff",
-    "part": "グッドガイ - アドオン ストロボスコープ",
-    "diffs": [
-     {
-      "text": "ハイディホーモードがクールダウン中脅威範囲を8m減少する",
-      "after": null,
-      "before": "4m",
-      "isNew": false,
-      "type": "buff"
-     }
-    ]
-   }
-  ],
-  "current": [
-   "ハイディホーモードのクールダウンが12秒に短縮",
-   "駆け抜けのあと最高速度に達するまでの時間を短縮"
   ]
  },
  "エイリアンの本能": {
