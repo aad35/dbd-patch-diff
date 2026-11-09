@@ -1,6 +1,21 @@
 {
- "updatedAt": "2026-10-29T15:06:00.000Z",
+ "updatedAt": "2026-11-09T19:08:56.000Z",
  "patches": [
+  {
+   "id": "10.2.2b",
+   "version": "10.2.2b",
+   "kind": "release",
+   "title": "10.2.2b | パッチノート",
+   "date": "2026-11-09",
+   "url": "https://store.steampowered.com/news/app/381210/view/692025469726360068",
+   "counts": {
+    "buff": 2,
+    "nerf": 0,
+    "change": 0,
+    "new": 0,
+    "fix": 0
+   }
+  },
   {
    "id": "10.2.2a",
    "version": "10.2.2a",
