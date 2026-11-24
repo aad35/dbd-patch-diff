@@ -1,0 +1,1003 @@
+{
+ "id": "10.3.0",
+ "version": "10.3.0",
+ "kind": "release",
+ "title": "10.3.0 | Terrifier Patch Notes",
+ "date": "2026-11-24",
+ "url": "https://store.steampowered.com/news/app/381210/view/692027037309730972?l=english",
+ "changes": [
+  {
+   "entity": "New Killer: The Terrifier",
+   "cat": "killer",
+   "section": "New Killer: The Terrifier",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "POWER: BAG OF TOYS Hold the Ability Button to open the Bag of Toys and choose from 2 Toys. New Toys are randomly available each time the bag is opened. Closing the bag triggers a 10s cooldown",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "SPECIAL ITEMS: TOYS Each Toy is single-use. Acid Bottle Hold Power Button to aim, then press Attack Button to throw an Acid Bottle which breaks on impact, creating an Acid Puddle that lasts for 1.5s. Inflicts Torture on injured Survivors. If a wall is hit with an Acid Bottle, a puddle will form at its base, so long as the impact point is below 8m",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Flamethrower Hold Power Button to ready, then press Attack Button to unleash a stream of Flames. Inflicts Torture on injured Survivors. Burning Flames ignite the environment for up to 6s, as well as Generators, Windows, and Downed Pallets for 6s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Handgun Hold Power Button to aim, then press Attack Button to fire a single round. Inflicts Torture on injured Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Flail Hold Power Button to wield the Flail, then press Attack Button to strike. Inflicts Torture on injured Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "5m range",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Strikes over Window vaults, Pallets, and short objects",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Bike Horn Hold Power Button to ready, then press Attack Button to squeeze the Bike Horn, detecting Survivors within a 6m radius and an unlimited forward range. A detected Survivor is revealed by a loud noise notification. If multiple Survivors are detected, they are afflicted with Oblivious and Killer Instinct reveals their locations. When a Tortured Survivor is detected, the duration of their affliction is reset. Unlike other Toys, the Bike Horn's Deadliness increases when it detects multiple Survivors. At maximum Deadliness, detected Survivors who are repairing or healing have their interactions interrupted with an instant 5% regression to repair progress and 5% regression to healing progress",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Toys damage healthy Survivors and inflict injured Survivors with Torture. Hit a Tortured Survivor with a different Toy to down them. Inflicting Torture increases a Toy's Deadliness by 1 point. At maximum Deadliness, a Toy both injures and inflicts Torture on a healthy Survivor and downs injured Survivors. However, the amount of points for all other Toys to reach maximum Deadliness increases by 1",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The Torture affliction lasts for 40s, or until the Survivor returns to a healthy state or is downed",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The duration of Torture is reset when hit by the same Toy. SPECIAL ACTION: TAUNT When a different Toy hits a Tortured Survivor, they are downed and afflicted with Terrified. Tap Ability Button within 6m of a Terrified Survivor in the dying state to Taunt them, increasing the Deadliness of all Toys by 1 point. This removes the Survivor’s Terrified state. Hooked Survivors will be automatically Taunted",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "POWER: BAG OF TOYS Hold the Ability Button to open the Bag of Toys and choose from 2 Toys. New Toys are randomly available each time the bag is opened. Closing the bag triggers a 10s cooldown",
+    "SPECIAL ITEMS: TOYS Each Toy is single-use. Acid Bottle Hold Power Button to aim, then press Attack Button to throw an Acid Bottle which breaks on impact, creating an Acid Puddle that lasts for 1.5s. Inflicts Torture on injured Survivors. If a wall is hit with an Acid Bottle, a puddle will form at its base, so long as the impact point is below 8m",
+    "Flamethrower Hold Power Button to ready, then press Attack Button to unleash a stream of Flames. Inflicts Torture on injured Survivors. Burning Flames ignite the environment for up to 6s, as well as Generators, Windows, and Downed Pallets for 6s",
+    "Handgun Hold Power Button to aim, then press Attack Button to fire a single round. Inflicts Torture on injured Survivors",
+    "Flail Hold Power Button to wield the Flail, then press Attack Button to strike. Inflicts Torture on injured Survivors",
+    "5m range",
+    "Strikes over Window vaults, Pallets, and short objects",
+    "Bike Horn Hold Power Button to ready, then press Attack Button to squeeze the Bike Horn, detecting Survivors within a 6m radius and an unlimited forward range. A detected Survivor is revealed by a loud noise notification. If multiple Survivors are detected, they are afflicted with Oblivious and Killer Instinct reveals their locations. When a Tortured Survivor is detected, the duration of their affliction is reset. Unlike other Toys, the Bike Horn's Deadliness increases when it detects multiple Survivors. At maximum Deadliness, detected Survivors who are repairing or healing have their interactions interrupted with an instant 5% regression to repair progress and 5% regression to healing progress",
+    "Toys damage healthy Survivors and inflict injured Survivors with Torture. Hit a Tortured Survivor with a different Toy to down them. Inflicting Torture increases a Toy's Deadliness by 1 point. At maximum Deadliness, a Toy both injures and inflicts Torture on a healthy Survivor and downs injured Survivors. However, the amount of points for all other Toys to reach maximum Deadliness increases by 1",
+    "The Torture affliction lasts for 40s, or until the Survivor returns to a healthy state or is downed",
+    "The duration of Torture is reset when hit by the same Toy. SPECIAL ACTION: TAUNT When a different Toy hits a Tortured Survivor, they are downed and afflicted with Terrified. Tap Ability Button within 6m of a Terrified Survivor in the dying state to Taunt them, increasing the Deadliness of all Toys by 1 point. This removes the Survivor’s Terrified state. Hooked Survivors will be automatically Taunted"
+   ]
+  },
+  {
+   "entity": "Laughingstock",
+   "cat": "killer",
+   "section": "New Killer: The Terrifier",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Survivors within 12m of a completed Generator:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Gain Exhausted",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Gain Oblivious",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "When they leave this range, the effect lingers for 3/4/5s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You see the Auras of completed Generators",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Survivors within 12m of a completed Generator:",
+    "Gain Exhausted",
+    "Gain Oblivious",
+    "When they leave this range, the effect lingers for 3/4/5s",
+    "You see the Auras of completed Generators"
+   ]
+  },
+  {
+   "entity": "Kill Spree",
+   "cat": "killer",
+   "section": "New Killer: The Terrifier",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "When all remaining Survivors have 2 Hook States and all Generators are completed, you can kill Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "While killing a Survivor, both Exit Gate Switches are blocked. Whenever you finish killing a Survivor, this ends after 12/16/20s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "When all remaining Survivors have 2 Hook States and all Generators are completed, you can kill Survivors",
+    "While killing a Survivor, both Exit Gate Switches are blocked. Whenever you finish killing a Survivor, this ends after 12/16/20s"
+   ]
+  },
+  {
+   "entity": "Funny Business",
+   "cat": "killer",
+   "section": "New Killer: The Terrifier",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you damage a Generator, you gain 10% Haste for 10s and one of the following occurs at random:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You retain your 10% Haste for 5s longer",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "You get stunned for 2s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The affected Generator is blocked for 30s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Confetti! But nothing happens",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Cooldown: 60/50/40s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The same effect cannot happen twice in a row",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you damage a Generator, you gain 10% Haste for 10s and one of the following occurs at random:",
+    "You retain your 10% Haste for 5s longer",
+    "You get stunned for 2s",
+    "The affected Generator is blocked for 30s",
+    "Confetti! But nothing happens",
+    "Cooldown: 60/50/40s",
+    "The same effect cannot happen twice in a row"
+   ]
+  },
+  {
+   "entity": "Valkyrie's Rage",
+   "cat": "survivor",
+   "section": "New Survivor: Sienna Shaw",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "After being chased for 40/35/30s, the next time you pallet-stun the Killer, they are stunned for 75% longer",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "After being chased for 40/35/30s, the next time you pallet-stun the Killer, they are stunned for 75% longer"
+   ]
+  },
+  {
+   "entity": "Shared Trauma",
+   "cat": "survivor",
+   "section": "New Survivor: Sienna Shaw",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Whenever you take a protection hit, all Survivors within 12m recover from Exhausted while running for 30/35/40s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Within 32m, you see the Auras of Exhausted Survivors",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Whenever you take a protection hit, all Survivors within 12m recover from Exhausted while running for 30/35/40s",
+    "Within 32m, you see the Auras of Exhausted Survivors"
+   ]
+  },
+  {
+   "entity": "Best Gift Ever",
+   "cat": "survivor",
+   "section": "New Survivor: Sienna Shaw",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "At the start of the trial, you earn 4/5/6 Tokens",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "The first time you drop an Item of each type, spend 1 Token, then the dropped item is consumed (by the Entity). Then, based on the item type:",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Flashlight - Whenever you stun the Killer, they are also blinded for 2s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Fog Vial - Whenever you fast-vault, for 5s, your scratch marks disappear 50% faster",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Key - You gain +1 rummage on each chest",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Map - Auras you see for a duration last +1s",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Medkit - While healing another Survivor, you also gain healing progress at 25% speed",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    },
+    {
+     "text": "Toolbox - You see the Auras of the 3 Generators closest to each other",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "At the start of the trial, you earn 4/5/6 Tokens",
+    "The first time you drop an Item of each type, spend 1 Token, then the dropped item is consumed (by the Entity). Then, based on the item type:",
+    "Flashlight - Whenever you stun the Killer, they are also blinded for 2s",
+    "Fog Vial - Whenever you fast-vault, for 5s, your scratch marks disappear 50% faster",
+    "Key - You gain +1 rummage on each chest",
+    "Map - Auras you see for a duration last +1s",
+    "Medkit - While healing another Survivor, you also gain healing progress at 25% speed",
+    "Toolbox - You see the Auras of the 3 Generators closest to each other"
+   ]
+  },
+  {
+   "entity": "New Map: Hartshorne Mall",
+   "cat": "system",
+   "section": "New Map: Hartshorne Mall",
+   "type": "new",
+   "diffs": [
+    {
+     "text": "Introducing The Subdivisions realm with the Hartshorne Mall, a new environment loaded with lore where players can experience a new environment in Dead by Daylight. \"Dwight was no older than five when he lost his parents in the Hartshorne Mall. A place that was once a magical escape twisted into something more horrifying. He ducked behind a door marked 'Employees Only', and found himself somewhere completely different: somewhere quiet, but no less disturbing. Something called out to him. He followed the call... and woke up at home, his parents pleading him to tell where he went. He did not answer. He could not remember.\"",
+     "after": null,
+     "before": null,
+     "isNew": true,
+     "type": "new"
+    }
+   ],
+   "lines": [
+    "Introducing The Subdivisions realm with the Hartshorne Mall, a new environment loaded with lore where players can experience a new environment in Dead by Daylight. \"Dwight was no older than five when he lost his parents in the Hartshorne Mall. A place that was once a magical escape twisted into something more horrifying. He ducked behind a door marked 'Employees Only', and found himself somewhere completely different: somewhere quiet, but no less disturbing. Something called out to him. He followed the call... and woke up at home, his parents pleading him to tell where he went. He did not answer. He could not remember.\""
+   ]
+  },
+  {
+   "entity": "Dark Sense",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "When the trial starts, and after a Generator is completed, you earn 1 Token, up to 5",
+     "after": "1 Token / 5",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When the trial starts, and after a Generator is completed, you earn 1 Token, up to 5. (NEW)",
+    "When the Killer gets within 20m of you, spend 1 Token. Then, for the next 13/14/15s:",
+    "You see the Aura of Pallets and Windows within 32m",
+    "You see the Auras of other Survivors",
+    "You see the Killer's Aura"
+   ],
+   "devNote": "Dev note: Dark Sense was updated as a generic alternative to reveal pallets and windows within a radius. In 10.2.0, it activated upon generator completion, meaning if it didn't get a chance to trigger, players would lose value. With this PTB, we are adding a token system to allow players to have more chances to activate the perk."
+  },
+  {
+   "entity": "Calm Spirit",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "You bless and cleanse Totems, and unlock Chests silently, and 23/24/25% faster",
+     "after": "23/24/25%",
+     "before": "8/9/10%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "You do not scare Crows or scream",
+    "You bless and cleanse Totems, and unlock Chests silently, and 23/24/25% faster. (was 8/9/10%)"
+   ]
+  },
+  {
+   "entity": "Slippery Meat",
+   "cat": "perk",
+   "role": "survivor",
+   "section": "Survivor Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Other Survivors unhook you 65/70/75% faster",
+     "after": "65/70/75%",
+     "before": "90/95/100%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Whenever you are unhooked, you gain 7% more Haste",
+     "after": "7% / Haste",
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "Other Survivors unhook you 65/70/75% faster. (was 90/95/100%)",
+    "Whenever you are unhooked, you gain 7% more Haste. (was 5%)"
+   ],
+   "devNote": "Dev note: Slippery Meat had the possibility to eliminate risk for the Survivor unhooking you. With this PTB, we are shifting some of its strength from the Unhook Speed to the Haste bonus after being Unhooked."
+  },
+  {
+   "entity": "Dark Arrogance",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "You basic-vault Windows 15% faster",
+     "after": "15%",
+     "before": "15/20/25%",
+     "isNew": false,
+     "type": "nerf"
+    },
+    {
+     "text": "Your successful basic-attack cooldown is 13/14/15% shorter",
+     "after": "13/14/15%",
+     "before": "all forms of basic-attack recovery and 10%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "Whenever you are blinded or Pallet-stunned the duration is 15% longer",
+     "after": "15%",
+     "before": "25%",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "You basic-vault Windows 15% faster. (was 15/20/25%)",
+    "Your successful basic-attack cooldown is 13/14/15% shorter. (was all forms of basic-attack recovery and 10%)",
+    "Whenever you are blinded or Pallet-stunned the duration is 15% longer. (was 25%)"
+   ],
+   "devNote": "Dev note: Dark Arrogance regained its successful basic-attack cooldown in 10.2.2, but we felt it could be buffed a little further. To offset this, we're reducing the vault speed bonus while also decreasing the penalty to blinds and pallet stuns."
+  },
+  {
+   "entity": "Scourge Hook: Monstrous Shrine",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "While you are at least 24m away from a Survivor on a Scourge Hook, Generators not being repaired regress at 200% speed",
+     "after": "24m / 200%",
+     "before": "150/175/200%",
+     "isNew": false,
+     "type": "buff"
+    },
+    {
+     "text": "When the Survivor is no longer hooked this effect ends in 20/25/30s",
+     "after": "20/25/30s",
+     "before": null,
+     "isNew": true,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "When the trial starts:",
+    "4 random hooks become Scourge Hooks",
+    "The Basement Hooks become Scourge Hooks",
+    "While you are at least 24m away from a Survivor on a Scourge Hook, Generators not being repaired regress at 200% speed. (was 150/175/200%)",
+    "When the Survivor is no longer hooked this effect ends in 20/25/30s. (NEW)"
+   ]
+  },
+  {
+   "entity": "Ravenous",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "nerf",
+   "diffs": [
+    {
+     "text": "Gain Exposed for 60/65/70s",
+     "after": "60/65/70s",
+     "before": "80/85/90s",
+     "isNew": false,
+     "type": "nerf"
+    }
+   ],
+   "lines": [
+    "The first time you hook each Survivor, you earn 1 Token. For each token:",
+    "Gain 4% Haste while carrying Survivors",
+    "Hook Survivors 4% faster",
+    "When you have 4 Tokens, all Survivors:",
+    "Scream",
+    "Gain Exposed for 60/65/70s. (was 80/85/90s)"
+   ],
+   "devNote": "Dev note: Once upon a time, Vigil drastically decreased a lot of status effects, including Exposed. In a post-Vigil world, we felt the Exposed duration was a little too long."
+  },
+  {
+   "entity": "Whispers",
+   "cat": "perk",
+   "role": "killer",
+   "section": "Killer Perk Updates",
+   "type": "buff",
+   "diffs": [
+    {
+     "text": "While outside of 28/26/24m of a Survivor, you gain 7% Haste",
+     "after": "28/26/24m / 7% Haste",
+     "before": "5%",
+     "isNew": false,
+     "type": "buff"
+    }
+   ],
+   "lines": [
+    "While within 28/26/24m of a Survivor, you randomly hear whispers",
+    "While outside of 28/26/24m of a Survivor, you gain 7% Haste. (was 5%)"
+   ]
+  },
+  {
+   "entity": "Gore Customization",
+   "cat": "system",
+   "section": "Gore Customization",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "You can now customize the gore settings under the Gameplay tab in the Settings menu",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Death Sequences can be toggled to reduce their goriness",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Natural Blood Color can be toggled to a neutral green tone",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Regional Streamer Mode, in addition to toggling the above, will anonymize all player information",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "You can now customize the gore settings under the Gameplay tab in the Settings menu",
+    "Death Sequences can be toggled to reduce their goriness",
+    "Natural Blood Color can be toggled to a neutral green tone",
+    "Regional Streamer Mode, in addition to toggling the above, will anonymize all player information"
+   ]
+  },
+  {
+   "entity": "Mori System Update",
+   "cat": "system",
+   "section": "Mori System Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "We have defined three distinct Mori categories to provide better activation constraints and also allow more flexibility in their artistic direction. These categories are:",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Finisher Mori",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Power Mori",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Memento Mori offering and Perk Mori",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Starting with The Terrifier, all upcoming Killers will adhere to this Mori system update",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "We have defined three distinct Mori categories to provide better activation constraints and also allow more flexibility in their artistic direction. These categories are:",
+    "Finisher Mori",
+    "Power Mori",
+    "Memento Mori offering and Perk Mori",
+    "Starting with The Terrifier, all upcoming Killers will adhere to this Mori system update"
+   ]
+  },
+  {
+   "entity": "NOTE",
+   "cat": "system",
+   "section": "Mori System Update",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Not all Killers have or will have a Power Mori, but rather that any Moris they do have will fall into these categories",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Each Mori type is superseded by the one above it, as long as the trigger conditions are all met, meaning only a single \"Kill\" interaction prompt is available at one time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Activating all Moris will use a standardized keybinding of the Killer's Attack input",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "This system update will roll out to previously released Killers over time",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Not all Killers have or will have a Power Mori, but rather that any Moris they do have will fall into these categories",
+    "Each Mori type is superseded by the one above it, as long as the trigger conditions are all met, meaning only a single \"Kill\" interaction prompt is available at one time",
+    "Activating all Moris will use a standardized keybinding of the Killer's Attack input",
+    "This system update will roll out to previously released Killers over time"
+   ]
+  },
+  {
+   "entity": "Rummage",
+   "cat": "system",
+   "section": "Rummage",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Removed the Rummage limit applied to each Chest",
+     "after": null,
+     "before": "\"could only Rummage each chest a maximum of 1 time\"",
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "With the introduction of several effects that allow Survivors to rummage chests, we wanted to make a slight improvement to the way these effects interacted together",
+    "Removed the Rummage limit applied to each Chest. (was \"could only Rummage each chest a maximum of 1 time\")"
+   ]
+  },
+  {
+   "entity": "Systems",
+   "cat": "system",
+   "section": "Systems",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Implemented unified friends list",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Implemented Discord Account Integration",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Implemented Gore adjustment settings",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Implemented unified friends list",
+    "Implemented Discord Account Integration",
+    "Implemented Gore adjustment settings"
+   ]
+  },
+  {
+   "entity": "UI",
+   "cat": "system",
+   "section": "UI",
+   "type": "change",
+   "diffs": [
+    {
+     "text": "Integration polish on the Friends List",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Polish on Terrifier's Tool Widget",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Made some improvements to the Blood Web",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    },
+    {
+     "text": "Visual improvements to the Tally screen",
+     "after": null,
+     "before": null,
+     "isNew": false,
+     "type": "change"
+    }
+   ],
+   "lines": [
+    "Integration polish on the Friends List",
+    "Polish on Terrifier's Tool Widget",
+    "Made some improvements to the Blood Web",
+    "Visual improvements to the Tally screen"
+   ]
+  }
+ ],
+ "fixes": [
+  {
+   "group": "Audio",
+   "items": [
+    "Fixed an issue where Sienna Shaw's Survivor-only lobby dialogue could be heard by Killers, with its subtitles displayed.",
+    "Fixed an issue where Sienna Shaw's voice line when opening an Exit Gate was missing, with only the subtitles appearing.",
+    "Fixed an issue where several impact sound effects were missing when a Killer downed a Survivor during a chase with The Judgement.",
+    "Fixed an issue where Sienna Shaw could not scream when infected by The Plague, as the infection sounds overrode her screams.",
+    "Fixed an issue where Sienna Shaw's hook screams were cut off abruptly.",
+    "Fixed an issue where some of Sienna Shaw's 2D scream sounds did not play, including those for scares, hits, and being hooked.",
+    "Fixed an issue where Aurora Stardotter's thinking grunts were too quiet to be heard in the lobby menu.",
+    "Fixed an issue where Sienna Shaw's pain grunt when failing a healing Skill Check was too quiet to be heard.",
+    "Fixed an issue where Sienna Shaw's grunts of pain while injured or downed were too quiet compared to her breathing.",
+    "Fixed an issue where audio for censored Mori animations continued playing after the animation ended when Kill Sequences was turned off.",
+    "Fixed an issue where The Terrifier's footstep sounds played too frequently and were out of sync with his walking speed while charging his Toys.",
+    "Fixed an issue where the successful Skill Check sound played on every Skill Check after the first while performing One-Two-Three-Four.",
+    "Fixed an issue where some bedroom surfaces on the Hartshorne Mall map played incorrect hit impact sounds when hit by a Killer attack.",
+    "Fixed an issue where the blind sound effect played twice when a Killer was stunned with Head On or Power Struggle after a Survivor used Best Gift Ever's Flashlight effect.",
+    "Fixed an issue where some Music Store surfaces on the Hartshorne Mall map played incorrect hit impact sounds when hit by a Killer attack.",
+    "Fixed an issue where some Shack surfaces on the Hartshorne Mall map played incorrect hit impact sounds when hit by a Killer attack.",
+    "Fixed an issue where some Kidz Store surfaces on the Hartshorne Mall map played incorrect hit impact sounds when hit by a Killer attack.",
+    "Fixed an issue where a metal ducting ambience sound in the Big Store on the Hartshorne Mall map had clicks and pops at the start and end.",
+    "Fixed an issue where sound effects were missing during The Terrifier's Finisher Mori on female Survivors.",
+    "Fixed an issue where the televisions in a small building along a Hartshorne Mall hallway had no ambience sound.",
+    "Fixed an issue where sound effects were missing during The Terrifier's Short Mori.",
+    "Fixed an issue where a work light buzzing sound in the Under Renovation Store on the Hartshorne Mall map was coming from the wrong position.",
+    "Fixed an issue where The Nurse's Mephisto outfit voice lines were missing in-game and in the menus.",
+    "Fixed an issue where Sable Ward's grunts and voice lines were silent during Trials and in the lobby.",
+    "Fixed an issue where five of Sienna Shaw's dialogue lines for healing other Survivors could not be triggered.",
+    "Fixed an issue where sound effects were missing during all five of The Terrifier's Mini-Mori animations.",
+    "Fixed an issue where the weapon impact sound effect was missing when The Nurse grabbed a Survivor from a locker while wearing the Mephisto outfit.",
+    "Fixed an issue where one green carpet in a Hartshorne Mall hallway did not play the correct surfaces sound.",
+    "Fixed an issue where Yui Kimura's footsteps used standard sounds instead of heel sounds while wearing a specific outfit.",
+    "Fixed an issue where Survivors kept playing pain grunts after being Mini-Mori'd by The Terrifier.",
+    "Fixed an issue where a metallic sound played when The Terrifier's basic attacks hit certain obstacles.",
+    "Fixed an issue where a jumpscare sound could be heard across the entire Hartshorne Mall map.",
+    "Fixed an issue where a specific hooked scream from Sienna Shaw was sometimes cut off.",
+    "Fixed an issue where voice lines for The Dark Lord, The Ghoul, and The Trickster had an unintended reverb effect in the main menu."
+   ]
+  },
+  {
+   "group": "Bots",
+   "items": [
+    "Fixed an issue with Survivor Bots being unable to resume Snap Out of It after failing a Skill Check.",
+    "Fixed an issue with Survivor Bots still trying to unhook a Survivor that is being sacrificed.",
+    "Fixed an issue with Survivor Bots trying to cleanse totems when a player is already interacting with it.",
+    "Tentative fix for Survivor Bots not unhooking while walking into the hooked Survivor.",
+    "Tentative fix for Survivor Bots taking unnecessary detours when headed for an unhook."
+   ]
+  },
+  {
+   "group": "Characters",
+   "items": [
+    "Fixed an issue where The Animatronic stretches on the Yellow Rabbit outfit when using Killer power.",
+    "Fixed an issue where The Oni's camera appears lower than intended after a successful Demon Strike on a Pallet, Breakable Wall or Survivor.",
+    "Fixed an issue where 2B's skirt is lifting too high when being hooked.",
+    "Fixed an issue where The Cenobite stays static during the lobby animation of The Chatterer legendary outfit.",
+    "Fixed an issue where The Executioner could Cage a Survivor who was escaping through the Exit Gate, which could count the Survivor as Sacrificed.",
+    "Fixed an issue where The Doctor's Gameplay Showcase showed the wrong delay value for Shock Therapy.",
+    "Fixed an issue where The Onryo's Condemned HUD indicator stayed dim after a TV teleport near a Survivor with active stacks.",
+    "Fixed an issue where the achievement Sacrosanct remained locked if a Survivor taunted The Judgment and then got hit by the Killer Power before being sent to Exile.",
+    "Fixed an issue where the camera remained stuck next to a Survivor when using the Searcher's Pendant in Exile with a Flashlight equipped.",
+    "Fixed an issue where \"Protection\" Score Events could be triggered by The Deathslinger by simply shooting a Survivor.",
+    "Fixed an issue where the Hemorrhage and Mangled status effects were missing when The Artist was injuring a Survivor with a Dire Crow and the Thorny Nest Add-on equipped.",
+    "Fixed an issue where The Krasue played The Trapper's grab animation when interrupting a Survivor in Head mode.",
+    "Fixed an issue where Survivors slid forward at the beginning of The Trapper's Mori animation.",
+    "Fixed an issue where The Slasher's husk was missing a walking animation when activating Omnipresent Evil.",
+    "Fixed an issue where The Xenomorph's Killer Instinct would sometimes fail to trigger for certain Survivors.",
+    "Fixed an issue where The Animatronic's aura reveal challenges progressed when Survivors looked through a Security Door when the Killer was nearby.",
+    "Fixed an issue where smoke VFX and Entity Claws were missing when performing the Mori in Wolf Form as The Dark Lord with the Visible Kills option turned off.",
+    "Fixed an issue where the tentacle from The Nemesis' Finisher Mori remained visible with Visible Kills turned off.",
+    "Fixed an issue where Survivors could be sent into Exile without interacting with The Judgment.",
+    "Fixed an issue where The Twins' Finisher Mori animation played when performing a Mori with the Gore Customization: Visible Kills setting turned off.",
+    "Fixed an issue where the camera was too far away from The Good Guy.",
+    "Fixed an issue where The Cenobite's Lament Configuration briefly moved to a Survivor's hand after completing the interaction.",
+    "Fixed an issue where a Survivor's movement and facing rotation stayed locked in one direction after being pinned against another Survivor by The Slasher."
+   ]
+  },
+  {
+   "group": "Environment/Maps",
+   "items": [
+    "Fixed an issue in Crotus Prenn Asylum where the Survivor clips through the doors of lockers.",
+    "Fixed an issue in Hartshorne Mall where players could walk on lamps in the construction area.",
+    "Fixed an issue in Hartshorne Mall where players could not use a vault in the atrium area.",
+    "Fixed an issue in Hartshorne Mall where dark mist was missing in sections of the map.",
+    "Fixed an issue in Hartshorne Mall where The Slasher using jump scare could not use a vault in the atrium area.",
+    "Fixed an issue in Hartshorne Mall where The Nurse is able to blink out of the map.",
+    "Fixed an issue in Dead Dawg Salooon where a luggage clips inside a wagon.",
+    "Fixed an issue in The Game where the players could dash off a hatch door and land on shelves.",
+    "Fixed an issue in Torment Creek where projectiles can be blocked by hay bales.",
+    "Fixed an issue in Trickster's Delusion where three generators spawn close to each other.",
+    "Fixed an issue in the Survivor tutorial where two collisions were preventing the navigation of the player.",
+    "Fixed an issue in Yamaoka Estate where lockers were clipping into the ground.",
+    "Fixed an issue in Hartshorne Mall where the device from the perk Bada Bada Boom was misaligned with the window.",
+    "Fixed an issue in Hartshorne Mall where Victor could jump behind the counter of the pizza parlour where he would fall through the ground.",
+    "Fixed an issue in Shattered Square where players would get blocked by a cluster of assets.",
+    "Fixed an issue in Dead Dawg Saloon where The Houndmaster's hound wouldl get stuck on a luggage.",
+    "Fixed an issue in Pale Rose where the survivors would clip through the doors of the lockers.",
+    "Fixed an issue in Hartshorne Mall where the Nurse could blink in the pile of chairs in the food court.",
+    "Fixed an issue in Hartshorne Mall the Houndmaster's Dog was not able to navigate properly in the Big Store.",
+    "Fixed an issue in Trickster's Delusion where a locker was left behind walls of the map area.",
+    "Fixed an issue in Gas Heaven involving two posters' textures.",
+    "Fixed an issue in The Game where a staircase features railings with invisible collision zones that block projectiles.",
+    "Fixed an issue where The Cenobite's Lament Configuration could appear misaligned on the floor throughout Hartshorne Mall."
+   ]
+  },
+  {
+   "group": "Gameplay",
+   "items": [
+    "Fixed an issue where Survivors sometimes could not start an unhook interaction."
+   ]
+  },
+  {
+   "group": "Perks",
+   "items": [
+    "Fixed an issue where Appraisal let the same Chest be rummaged up to 4 times.",
+    "Fixed an issue where using a Map while Dark Sense was active stacked the aura reading range bonuses.",
+    "Fixed an issue where Huntress Lullaby at 5 Tokens could rarely show a Skill Check that disappeared right away and still counted as failed.",
+    "Fixed an issue where Merciless Storm caused a Skill Check to fail automatically after the second Skill Check against The Doctor.",
+    "Fixed an issue where Mettle of Man did not activate when its 3rd protection hit was taken while the Survivor had Endurance.",
+    "Fixed an issue where Stake Out spent a Token when a Token was gained during a basic Skill Check.",
+    "Fixed an issue where Solidarity gave 50/60/70% healing progress instead of 65/70/75%.",
+    "Fixed an issue where Will to Live failed to trigger when Killers were in the falling state.",
+    "Fixed an issue where Chemical Trap was unable to explode when placed on a allet at the same time it was being broken by certain Killer Powers.",
+    "Fixed an issue where Down to the Last prevented the hatch from being opened when reaching a 3rd token as the last Survivor."
+   ]
+  },
+  {
+   "group": "Systems",
+   "items": [
+    "Fixed various issues with friends removal on PS5.",
+    "Fixed an issue where a Survivor could appear in the Killer's position in the offline lobby after canceling 'Play While You Wait'."
+   ]
+  },
+  {
+   "group": "UI",
+   "items": [
+    "Fixed various text string issues.",
+    "Fixed an issue when spectating a Killer in Custom Match, some generic perks displayed with character specific tooltip text.",
+    "Fixed an issue where sometimes, The Terrifier's Toys were shown in the incorrect order on the widget.",
+    "Fixed issues related to the Prestige level up animation when using the \"Hold\" accessibility input method to purchase nodes.",
+    "Fixed and issue where previously unlocked cosmetics appeared in the Reward Alerts after completing a Quest.",
+    "Fixed an issue where The Legion's badge was not granted when reaching lvl 100 Prestige Rewards.",
+    "Fixed and issue, where while in the Store, the \"Play Mori\" button effect represented the equipped set instead of the selected set in the Bio section.",
+    "Fixed misleading mouse prompts that were shown in the HUD while spectating a Trial with a controller.",
+    "Fixed an issue where the Tally screen would show invalid profile icons and names.",
+    "Fixed an issue where sometimes the disconnect icon in the Tally screen would not appear when a human player would disconnect.",
+    "Fixed an issue where the Wiggle Skill Check bar started at the wrong position.",
+    "Fixed an issue where secondary interactions caused the HUD prompt to remain displayed after it should have disappeared."
+   ]
+  },
+  {
+   "group": "Misc",
+   "items": [
+    "Fixed an issue where Survivors received the \"Killer Blind\" Score Event when another Survivor blinded the Killer after having at least blinded the Killer once.",
+    "Fixed an issue where the fog overlay VFX remained displayed after a Mori was performed on another Survivor while Visible Kills was set to off.",
+    "Fixed an issue where the Spear and Slash score event did not trigger when meeting the conditions.",
+    "Fixed an issue where the Natural Blood color setting was always deactivated during tutorials.",
+    "Fixed an issue where the score events Sadistic Overload and Pain & Suffering could be earned when not damaging a Survivor.",
+    "Fixed an issue where Bright Blood Pools appeared red with the Natural Blood setting turned off.",
+    "Fixed an issue where a spectator switching to a Killer during a censored Mori caused the camera to break."
+   ]
+  },
+  {
+   "group": "Characters - The Terrifier",
+   "items": [
+    "Fixed an issue where The Terrifier and a Survivor would slide when The Terrifier was grabbing a Survivor about to recover from Deep Wound near an interactable.",
+    "Fixed an issue where, as The Terrifier, entity blocking spikes disappeared briefly when a Survivor was Mori'd.",
+    "Fixed an issue where taunting a downed Terrified Survivor with 2 hook states made The Terrifier unable to Mori that Survivor.",
+    "Fixed an issue where the perk See How They Run was unable to lose a Token when The Terrifier was using any Toys.",
+    "Fixed an issue where the perk Keep Them Waiting kept its Token when the Obsession took damage from The Terrifier's Toys.",
+    "Fixed an issue where The Singularity was missing the ability to be Hindered after being stunned by The Terrifier's Funny Business perk during Overclocked.",
+    "Fixed an issue where Survivors did not disappear at the end of The Terrifier's Mori.",
+    "Fixed an issue where The Terrifier's Terrified Survivor aura remained visible after picking up the downed Survivor and letting them wiggle out.",
+    "Fixed an issue where The Terrifier's Handgun projectile hit an invisible collision when fired through the interaction zone of certain interactable assets.",
+    "Fixed an issue where The Terrifier's maxed Terrified status VFX was missing from the Spectator point of view when downing a Terrified Survivor.",
+    "Fixed an issue where a shimmer VFX on The Terrifier's left hand remained visible when there were multiple Terrified Survivors.",
+    "Fixed an issue where The Terrifier's Handgun projectile hit an invisible collision when fired above a dying Survivor.",
+    "Fixed an issue where The Terrifier's Combo Score Events \"Swift Sequence\", \"Pain & Suffering\" and \"Sadistic Overload\" were sometimes missing.",
+    "Fixed an issue where 6 Score Events triggered when The Terrifier was using 3 specific Toys on a hooked Survivor.",
+    "Fixed an issue where The Terrifier's \"Whip It Good\" Score Event was missing when downing a Survivor with the Flail.",
+    "Fixed an issue where The Terrifier's \"The Goggles Do Nothing!\" Score Event was missing when downing a Survivor with an Acid Bottle.",
+    "Fixed an issue where The Terrifier's \"Fwoooosh\" Score Event was missing when downing a Survivor with the Flamethrower.",
+    "Fixed an issue where The Terrifier's \"The Goggles Do Nothing!\" Score Event awarded 300 BP instead of 500.",
+    "Fixed an issue where The Terrifier's Flamethrower's flames dissipated as soon as the action was completed when used on an occupied Locker.",
+    "Fixed an issue where the perk Kill Spree's external perk icon was missing when a Mori was performed after Survivors used the perk Shoulder the Burden.",
+    "Fixed an issue where The Terrifier using the Flamethrower on downed Survivors incorrectly awarded the \"Playing With Fire\" Score Event.",
+    "Fixed an issue where The Terrifier's Thornton Salt add-on Hemorrhage effect regressed progress faster than normal.",
+    "Fixed an issue where The Terrifier afflicted Survivors protected by Endurance with Terrified when they were hit by a combo consuming the Endurance status.",
+    "Fixed an issue where Survivors did not see The Terrifier's Handgun muzzle flash and bullet trail when The Terrifier did not hit a Survivor with the attack."
+   ]
+  },
+  {
+   "group": "Characters - Sienna Shaw",
+   "items": [
+    "Adjustments made to Sienna Shaw's piercing, makeup, eyebrows, and sweater. The sweater is now more flared.",
+    "Fixed an issue where held items counted as consumed when picking up any special item while Sienna Shaw's Best Gift Ever perk was equipped.",
+    "Fixed an issue where a Map's beam of light stayed permanently active when the Map was consumed by Sienna Shaw's Best Gift Ever perk.",
+    "Fixed an issue where Survivors failed to get an item after rummaging a Chest that had been previously opened with a Key by a Survivor with Sienna Shaw's Best Gift Ever perk equipped.",
+    "Fixed an issue where Sienna Shaw's Shared Trauma perk's cooldown was active when another Survivor with the same perk took the protection hit.",
+    "Fixed an issue where getting downed by a protection hit activated Sienna Shaw's Shared Trauma perk without triggering its effect.",
+    "Fixed an issue where Sienna Shaw's Best Gift Ever perk activated when using the Exultation perk."
+   ]
+  }
+ ]
+}

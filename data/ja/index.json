@@ -1,6 +1,21 @@
 {
- "updatedAt": "2026-11-09T19:08:56.000Z",
+ "updatedAt": "2026-11-24T17:01:39.000Z",
  "patches": [
+  {
+   "id": "10.3.0",
+   "version": "10.3.0",
+   "kind": "release",
+   "title": "10.3.0 | 『Terrifier』パッチノート",
+   "date": "2026-11-24",
+   "url": "https://store.steampowered.com/news/app/381210/view/692027037309730972",
+   "counts": {
+    "buff": 4,
+    "nerf": 1,
+    "change": 19,
+    "new": 7,
+    "fix": 148
+   }
+  },
   {
    "id": "10.2.2b",
    "version": "10.2.2b",

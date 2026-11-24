@@ -1,9 +1,167 @@
 {
+ "Dark Sense": {
+  "cat": "perk",
+  "role": "survivor",
+  "history": [
+   {
+    "id": "10.3.0",
+    "version": "10.3.0",
+    "date": "2026-11-24",
+    "type": "buff",
+    "diffs": [
+     {
+      "text": "When the trial starts, and after a Generator is completed, you earn 1 Token, up to 5",
+      "after": "1 Token / 5",
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     }
+    ]
+   },
+   {
+    "id": "10.2.0",
+    "version": "10.2.0",
+    "date": "2026-10-06",
+    "type": "buff",
+    "diffs": [
+     {
+      "text": "Whenever a Generator is completed, when the Killer gets within 20m of you, for 13/14/15s:",
+      "after": "20m / 13/14 / 15s",
+      "before": "24m and 5/7/10s",
+      "isNew": false,
+      "type": "change"
+     },
+     {
+      "text": "You see the Aura of Pallets and Windows within 32m",
+      "after": "32m",
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     },
+     {
+      "text": "You see the Auras of other Survivors",
+      "after": null,
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     }
+    ]
+   }
+  ],
+  "current": [
+   "When the trial starts, and after a Generator is completed, you earn 1 Token, up to 5.",
+   "When the Killer gets within 20m of you, spend 1 Token. Then, for the next 13/14/15s:",
+   "You see the Aura of Pallets and Windows within 32m",
+   "You see the Auras of other Survivors",
+   "You see the Killer's Aura"
+  ]
+ },
+ "Calm Spirit": {
+  "cat": "perk",
+  "role": "survivor",
+  "history": [
+   {
+    "id": "10.3.0",
+    "version": "10.3.0",
+    "date": "2026-11-24",
+    "type": "buff",
+    "diffs": [
+     {
+      "text": "You bless and cleanse Totems, and unlock Chests silently, and 23/24/25% faster",
+      "after": "23/24/25%",
+      "before": "8/9/10%",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   },
+   {
+    "id": "10.2.0",
+    "version": "10.2.0",
+    "date": "2026-10-06",
+    "type": "nerf",
+    "diffs": [
+     {
+      "text": "You bless and cleanse Totems, and unlock Chests silently and 8/9/10% faster",
+      "after": "8/9/10%",
+      "before": "40/35/30% slower",
+      "isNew": false,
+      "type": "nerf"
+     }
+    ]
+   }
+  ],
+  "current": [
+   "You do not scare Crows or scream",
+   "You bless and cleanse Totems, and unlock Chests silently, and 23/24/25% faster."
+  ]
+ },
+ "Slippery Meat": {
+  "cat": "perk",
+  "role": "survivor",
+  "history": [
+   {
+    "id": "10.3.0",
+    "version": "10.3.0",
+    "date": "2026-11-24",
+    "type": "change",
+    "diffs": [
+     {
+      "text": "Other Survivors unhook you 65/70/75% faster",
+      "after": "65/70/75%",
+      "before": "90/95/100%",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "Whenever you are unhooked, you gain 7% more Haste",
+      "after": "7% / Haste",
+      "before": "5%",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   }
+  ],
+  "current": [
+   "Other Survivors unhook you 65/70/75% faster.",
+   "Whenever you are unhooked, you gain 7% more Haste."
+  ]
+ },
  "Dark Arrogance": {
   "cat": "perk",
   "role": "killer",
   "alt": "闇の慢心",
   "history": [
+   {
+    "id": "10.3.0",
+    "version": "10.3.0",
+    "date": "2026-11-24",
+    "type": "change",
+    "diffs": [
+     {
+      "text": "You basic-vault Windows 15% faster",
+      "after": "15%",
+      "before": "15/20/25%",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "Your successful basic-attack cooldown is 13/14/15% shorter",
+      "after": "13/14/15%",
+      "before": "all forms of basic-attack recovery and 10%",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "Whenever you are blinded or Pallet-stunned the duration is 15% longer",
+      "after": "15%",
+      "before": "25%",
+      "isNew": false,
+      "type": "nerf"
+     }
+    ]
+   },
    {
     "id": "10.2.2",
     "version": "10.2.2",
@@ -58,9 +216,195 @@
    }
   ],
   "current": [
-   "You basic-vault Windows 15/20/25% faster",
-   "Your basic-attack cooldown is 10% shorter.",
-   "Whenever you are blinded or Pallet-stunned, the duration is 25% longer"
+   "You basic-vault Windows 15% faster.",
+   "Your successful basic-attack cooldown is 13/14/15% shorter.",
+   "Whenever you are blinded or Pallet-stunned the duration is 15% longer."
+  ]
+ },
+ "Scourge Hook: Monstrous Shrine": {
+  "cat": "perk",
+  "role": "killer",
+  "alt": "悶絶のフック：異形の祭壇",
+  "history": [
+   {
+    "id": "10.3.0",
+    "version": "10.3.0",
+    "date": "2026-11-24",
+    "type": "buff",
+    "diffs": [
+     {
+      "text": "While you are at least 24m away from a Survivor on a Scourge Hook, Generators not being repaired regress at 200% speed",
+      "after": "24m / 200%",
+      "before": "150/175/200%",
+      "isNew": false,
+      "type": "buff"
+     },
+     {
+      "text": "When the Survivor is no longer hooked this effect ends in 20/25/30s",
+      "after": "20/25/30s",
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     }
+    ]
+   },
+   {
+    "id": "10.2.0",
+    "version": "10.2.0",
+    "date": "2026-10-06",
+    "type": "buff",
+    "diffs": [
+     {
+      "text": "While you are at least 24m away from a Survivor on a Scourge Hook, Generators not being repaired regress at 150/175/200% speed",
+      "after": "150/175/200%",
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     },
+     {
+      "text": "Whenever a Totem is blessed, cleansed or destroyed:",
+      "after": null,
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     },
+     {
+      "text": "Dull Totems are blocked for 16/18/20s",
+      "after": "16/18/20s",
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     },
+     {
+      "text": "Hex Totems are blocked for 16/18/20s",
+      "after": "16/18/20s",
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     },
+     {
+      "text": "You see the Auras of Boon Totems for 16/18/20s",
+      "after": "16/18/20s",
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     }
+    ]
+   }
+  ],
+  "current": [
+   "When the trial starts:",
+   "4 random hooks become Scourge Hooks",
+   "The Basement Hooks become Scourge Hooks",
+   "While you are at least 24m away from a Survivor on a Scourge Hook, Generators not being repaired regress at 200% speed.",
+   "When the Survivor is no longer hooked this effect ends in 20/25/30s."
+  ]
+ },
+ "Ravenous": {
+  "cat": "perk",
+  "role": "killer",
+  "alt": "貪欲",
+  "history": [
+   {
+    "id": "10.3.0",
+    "version": "10.3.0",
+    "date": "2026-11-24",
+    "type": "nerf",
+    "diffs": [
+     {
+      "text": "Gain Exposed for 60/65/70s",
+      "after": "60/65/70s",
+      "before": "80/85/90s",
+      "isNew": false,
+      "type": "nerf"
+     }
+    ]
+   },
+   {
+    "id": "10.2.0",
+    "version": "10.2.0",
+    "date": "2026-10-06",
+    "type": "buff",
+    "diffs": [
+     {
+      "text": "Gain 4% Haste while carrying Survivors",
+      "after": "4%",
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     },
+     {
+      "text": "Hook Survivors 4% faster",
+      "after": "4%",
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     },
+     {
+      "text": "Gain Exposed for 80/85/90s",
+      "after": "80/85/90s",
+      "before": "40/50/60s",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   }
+  ],
+  "current": [
+   "The first time you hook each Survivor, you earn 1 Token. For each token:",
+   "Gain 4% Haste while carrying Survivors",
+   "Hook Survivors 4% faster",
+   "When you have 4 Tokens, all Survivors:",
+   "Scream",
+   "Gain Exposed for 60/65/70s."
+  ]
+ },
+ "Whispers": {
+  "cat": "perk",
+  "role": "killer",
+  "alt": "囁き",
+  "history": [
+   {
+    "id": "10.3.0",
+    "version": "10.3.0",
+    "date": "2026-11-24",
+    "type": "buff",
+    "diffs": [
+     {
+      "text": "While outside of 28/26/24m of a Survivor, you gain 7% Haste",
+      "after": "28/26/24m / 7% Haste",
+      "before": "5%",
+      "isNew": false,
+      "type": "buff"
+     }
+    ]
+   },
+   {
+    "id": "10.2.0",
+    "version": "10.2.0",
+    "date": "2026-10-06",
+    "type": "change",
+    "diffs": [
+     {
+      "text": "While within 28/26/24m of a Survivor, you randomly hear whispers",
+      "after": "28/26/24m",
+      "before": "48/40/32m",
+      "isNew": false,
+      "type": "nerf"
+     },
+     {
+      "text": "While outside of 28/26/24m of a Survivor, you gain 5% Haste",
+      "after": "28/26/24m / 5%",
+      "before": null,
+      "isNew": true,
+      "type": "buff"
+     }
+    ]
+   }
+  ],
+  "current": [
+   "While within 28/26/24m of a Survivor, you randomly hear whispers",
+   "While outside of 28/26/24m of a Survivor, you gain 7% Haste."
   ]
  },
  "Agitation": {
@@ -812,112 +1156,6 @@
    "Up to 3 Generators can be compromised at a time."
   ]
  },
- "Ravenous": {
-  "cat": "perk",
-  "role": "killer",
-  "alt": "貪欲",
-  "history": [
-   {
-    "id": "10.2.0",
-    "version": "10.2.0",
-    "date": "2026-10-06",
-    "type": "buff",
-    "diffs": [
-     {
-      "text": "Gain 4% Haste while carrying Survivors",
-      "after": "4%",
-      "before": null,
-      "isNew": true,
-      "type": "buff"
-     },
-     {
-      "text": "Hook Survivors 4% faster",
-      "after": "4%",
-      "before": null,
-      "isNew": true,
-      "type": "buff"
-     },
-     {
-      "text": "Gain Exposed for 80/85/90s",
-      "after": "80/85/90s",
-      "before": "40/50/60s",
-      "isNew": false,
-      "type": "buff"
-     }
-    ]
-   }
-  ],
-  "current": [
-   "The first time you hook each Survivor, you earn 1 Token. For each token:",
-   "Gain 4% Haste while carrying Survivors.",
-   "Hook Survivors 4% faster.",
-   "When you have 4 Tokens, all Survivors:",
-   "Scream",
-   "Gain Exposed for 80/85/90s."
-  ]
- },
- "Scourge Hook: Monstrous Shrine": {
-  "cat": "perk",
-  "role": "killer",
-  "alt": "悶絶のフック：異形の祭壇",
-  "history": [
-   {
-    "id": "10.2.0",
-    "version": "10.2.0",
-    "date": "2026-10-06",
-    "type": "buff",
-    "diffs": [
-     {
-      "text": "While you are at least 24m away from a Survivor on a Scourge Hook, Generators not being repaired regress at 150/175/200% speed",
-      "after": "150/175/200%",
-      "before": null,
-      "isNew": true,
-      "type": "buff"
-     },
-     {
-      "text": "Whenever a Totem is blessed, cleansed or destroyed:",
-      "after": null,
-      "before": null,
-      "isNew": true,
-      "type": "buff"
-     },
-     {
-      "text": "Dull Totems are blocked for 16/18/20s",
-      "after": "16/18/20s",
-      "before": null,
-      "isNew": true,
-      "type": "buff"
-     },
-     {
-      "text": "Hex Totems are blocked for 16/18/20s",
-      "after": "16/18/20s",
-      "before": null,
-      "isNew": true,
-      "type": "buff"
-     },
-     {
-      "text": "You see the Auras of Boon Totems for 16/18/20s",
-      "after": "16/18/20s",
-      "before": null,
-      "isNew": true,
-      "type": "buff"
-     }
-    ]
-   }
-  ],
-  "current": [
-   "When the trial starts:",
-   "4 random hooks become Scourge Hooks",
-   "The Basement Hooks become Scourge Hooks",
-   "While you are at least 24m away from a Survivor on a Scourge Hook, Generators not being repaired regress at 150/175/200% speed.",
-   "Shattered Hope (Rework)",
-   "Whenever you snuff a Boon Totem, it is destroyed",
-   "Whenever a Totem is blessed, cleansed or destroyed:",
-   "Dull Totems are blocked for 16/18/20s.",
-   "Hex Totems are blocked for 16/18/20s.",
-   "You see the Auras of Boon Totems for 16/18/20s."
-  ]
- },
  "Spies from the Shadows": {
   "cat": "perk",
   "role": "killer",
@@ -1083,39 +1321,6 @@
    "Your successful basic-attack cooldown is 10% shorter."
   ]
  },
- "Whispers": {
-  "cat": "perk",
-  "role": "killer",
-  "alt": "囁き",
-  "history": [
-   {
-    "id": "10.2.0",
-    "version": "10.2.0",
-    "date": "2026-10-06",
-    "type": "change",
-    "diffs": [
-     {
-      "text": "While within 28/26/24m of a Survivor, you randomly hear whispers",
-      "after": "28/26/24m",
-      "before": "48/40/32m",
-      "isNew": false,
-      "type": "nerf"
-     },
-     {
-      "text": "While outside of 28/26/24m of a Survivor, you gain 5% Haste",
-      "after": "28/26/24m / 5%",
-      "before": null,
-      "isNew": true,
-      "type": "buff"
-     }
-    ]
-   }
-  ],
-  "current": [
-   "While within 28/26/24m of a Survivor, you randomly hear whispers.",
-   "While outside of 28/26/24m of a Survivor, you gain 5% Haste."
-  ]
- },
  "Better Than New": {
   "cat": "perk",
   "role": "survivor",
@@ -1262,72 +1467,6 @@
    "You heal 8/9/10% faster.",
    "You repair 8/9/10% faster.",
    "When the trial starts, you are more likely to be the Obsession"
-  ]
- },
- "Calm Spirit": {
-  "cat": "perk",
-  "role": "survivor",
-  "history": [
-   {
-    "id": "10.2.0",
-    "version": "10.2.0",
-    "date": "2026-10-06",
-    "type": "nerf",
-    "diffs": [
-     {
-      "text": "You bless and cleanse Totems, and unlock Chests silently and 8/9/10% faster",
-      "after": "8/9/10%",
-      "before": "40/35/30% slower",
-      "isNew": false,
-      "type": "nerf"
-     }
-    ]
-   }
-  ],
-  "current": [
-   "You do not scare Crows or scream",
-   "You bless and cleanse Totems, and unlock Chests silently and 8/9/10% faster."
-  ]
- },
- "Dark Sense": {
-  "cat": "perk",
-  "role": "survivor",
-  "history": [
-   {
-    "id": "10.2.0",
-    "version": "10.2.0",
-    "date": "2026-10-06",
-    "type": "buff",
-    "diffs": [
-     {
-      "text": "Whenever a Generator is completed, when the Killer gets within 20m of you, for 13/14/15s:",
-      "after": "20m / 13/14 / 15s",
-      "before": "24m and 5/7/10s",
-      "isNew": false,
-      "type": "change"
-     },
-     {
-      "text": "You see the Aura of Pallets and Windows within 32m",
-      "after": "32m",
-      "before": null,
-      "isNew": true,
-      "type": "buff"
-     },
-     {
-      "text": "You see the Auras of other Survivors",
-      "after": null,
-      "before": null,
-      "isNew": true,
-      "type": "buff"
-     }
-    ]
-   }
-  ],
-  "current": [
-   "Whenever a Generator is completed, when the Killer gets within 20m of you, for 13/14/15s:",
-   "You see the Aura of Pallets and Windows within 32m",
-   "You see the Auras of other Survivors.",
-   "You see the Killer's Aura"
   ]
  },
  "Do No Harm": {
